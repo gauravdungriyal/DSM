@@ -1,0 +1,39 @@
+G47.37 Central sleep apnea comorbid with opioid use: The pathogenesis of
+this subtype is attributed to the effects of opioids on the respiratory rhythm
+generators in the medulla as well as the differential effects on hypoxic versus
+hypercapnic respiratory drive.
+Coding note (for G47.37 code only): When an opioid use disorder is present, first
+code the opioid use disorder: F11.10 mild opioid use disorder or F11.20 moderate
+or severe opioid use disorder; then code G47.37 central sleep apnea comorbid with
+opioid use. When an opioid use disorder is not present (e.g., after a one-time heavy
+use of the substance), code only G47.37 central sleep apnea comorbid with opioid
+use.
+436
+Specify current severity:
+Severity of central sleep apnea is graded according to the frequency of the
+breathing disturbances as well as the extent of associated oxygen desaturation
+and sleep fragmentation that occur as a consequence of repetitive respiratory
+disturbances.
+Subtypes
+There are several subtypes of central sleep apnea. Idiopathic central sleep apnea (alternatively
+termed primary central sleep apnea) and central sleep apnea with Cheyne-Stokes breathing are
+characterized by increased gain of the ventilatory control system, also referred to as high loop
+gain, which leads to instability in ventilation and PaCO2 levels. This instability is termed
+periodic breathing and can be recognized by hyperventilation alternating with hypoventilation.
+Individuals with these disorders typically have pCO2 levels while awake that are slightly
+hypocapnic or normocapnic. Central sleep apnea may also manifest during initiation of treatment
+of obstructive sleep apnea hypopnea (termed treatment-emergent central sleep apnea) or may
+occur in association with obstructive sleep apnea hypopnea syndrome. The occurrence of central
+sleep apnea in association with obstructive sleep apnea is also considered to be due to high loop
+gain. In contrast, the pathogenesis of central sleep apnea comorbid with opioid use has been
+attributed to the effects of opioids on the respiratory rhythm generators in the medulla as well as
+to its differential effects on hypoxic versus hypercapnic respiratory drive. These individuals may
+have elevated pCO2 levels while awake. Individuals receiving chronic methadone maintenance
+therapy have been noted to have increased somnolence and depression, although the role of
+opioid-induced breathing disorders in causing these problems has not been studied. Similarly,
+central apnea due to a medical disorder without Cheyne-Stokes breathing is a result of a
+pathological process that affects brain-stem ventilatory control centers.
+Specifiers
+An increase in the central apnea index (i.e., number of central apneas per hour of sleep) reflects
+an increase in severity of central sleep apnea. Sleep continuity and quality may be markedly
+impaired with reductions in restorative stages of non–rapid eye movement (NREM) sleep (i.e.,

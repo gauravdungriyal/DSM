@@ -1,0 +1,57 @@
+F11.980
+Without use disorder
+___.__
+Opioid-Induced Sleep Disordera (468)
+Specify whether Insomnia type, Daytime sleepiness type, Mixed type
+F11.182
+With mild use disorder
+F11.282
+With moderate or severe use disorder
+F11.982
+Without use disorder
+___.__
+Opioid-Induced Sexual Dysfunctiona (504)
+Specify if: Mild, Moderate, Severe
+F11.181
+With mild use disorder
+F11.281
+With moderate or severe use disorder
+F11.981
+Without use disorder
+___.__
+Opioid Intoxication Deliriumb,c (672)
+F11.121
+With mild use disorder
+F11.221
+With moderate or severe use disorder
+F11.921
+Without use disorder
+___.__
+Opioid Withdrawal Deliriumb,c (673)
+F11.188
+With mild use disorder
+F11.288
+With moderate or severe use disorder
+F11.988
+Without use disorder
+___.__
+Opioid-Induced Deliriumb,c (674)
+Note: The designation “taken as prescribed” is used to differentiate
+medication-induced delirium from substance intoxication delirium and
+substance withdrawal delirium.
+F11.921
+When opioid medication taken as prescribed (674)
+F11.988
+During withdrawal from opioid medication taken as prescribed (674)
+F11.99
+Unspecified Opioid-Related Disorder (619)
+xlviii
+Sedative-, Hypnotic-, or Anxiolytic-Related Disorders (620)
+___.__
+Sedative, Hypnotic, or Anxiolytic Use Disorder (620)
+Specify if: In a controlled environment
+Specify current severity/remission:
+F13.10
+Mild
+F13.11
+In early remission

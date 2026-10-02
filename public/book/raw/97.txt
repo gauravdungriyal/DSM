@@ -1,0 +1,41 @@
+mental disorder; and a consideration of cross-cutting issues relevant to all disorders. Inclusion of
+a proposal for revision in Section II was informed by consideration of its advantages and
+disadvantages for public health and clinical utility, the strength of the evidence, and the
+magnitude of the change. New diagnoses and disorder subtypes and specifiers were subject to
+additional stipulations, such as demonstration of reliability (i.e., the degree to which two
+clinicians could independently arrive at the same diagnosis for a given patient). Disorders with
+low clinical utility and weak validity were considered for deletion. Placement of proposed
+conditions in “Conditions for Further Study” in Section III was contingent on the amount of
+empirical evidence generated on the proposed diagnosis, diagnostic reliability or validity,
+presence of clear clinical need, and potential benefit in advancing research.
+DSM-5 Field Trials
+The use of field trials to empirically demonstrate reliability was a noteworthy improvement
+introduced in DSM-III. The design and implementation strategy of the DSM-5 Field Trials
+represented several changes from approaches used for DSM-III and DSM-IV, particularly in
+obtaining data on the precision of kappa reliability estimates (a statistical measure that assesses
+level of agreement between raters that corrects for chance agreement due to prevalence rates) in
+the context of real-world clinical settings with high levels of diagnostic comorbidity. For DSM-
+5, field trials were extended by using two distinctive designs: one in large, diverse medical-
+academic settings and the other in routine clinical practices. The former capitalized on the need
+for large sample sizes to test hypotheses on
+8
+reliability and clinical utility of a range of diagnoses in a variety of patient populations; the latter
+supplied valuable information about how proposed revisions performed in everyday clinical
+settings among a diverse sample of DSM users. It is anticipated that future clinical and basic
+research studies will focus on the validity of the revised categorical diagnostic criteria and the
+underlying dimensional features of these disorders (including those now being explored by the
+NIMH Research Domain Criteria initiative).
+The medical-academic field trials were conducted at 11 North American medical-academic
+sites from December 2010 to October 2011 and assessed the reliability, feasibility, and clinical
+utility of select revisions, with priority given to those that represented the greatest degree of
+change from DSM-IV or those potentially having the greatest public health impact. The full
+clinical patient populations coming to each site were screened for DSM-IV diagnoses or
+qualifying symptoms likely to predict several specific DSM-5 disorders of interest. Stratified
+samples of four to seven specific disorders, plus a stratum containing a representative sample of
+all other diagnoses, were identified for each site. Patients consented to the study and were
+randomly assigned for a clinical interview by a clinician blind to the clinical diagnosis, followed
+by a second interview that occurred within 2 weeks with a clinician blind to the diagnoses made
+by the first interviewer. Patients first filled out a computer-assisted inventory of cross-cutting
+symptoms in more than a dozen psychological domains. These inventories were scored by a
+computer, and results were provided to clinicians before they conducted a typical clinical
+interview (with no structured protocol). Clinicians were required to score the presence of

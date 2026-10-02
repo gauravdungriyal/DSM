@@ -1,0 +1,37 @@
+4th character of the inhalant-induced disorder code (see the coding note for inhalant
+intoxication or a specific inhalant-induced mental disorder). For example, if there is
+comorbid inhalant-induced depressive disorder and inhalant use disorder, only the
+inhalant-induced depressive disorder code is given, with the 4th character indicating
+whether the comorbid inhalant use disorder is mild, moderate, or severe: F18.14 for
+mild inhalant use disorder with inhalant-induced depressive disorder or F18.24 for a
+moderate or severe inhalant use disorder with inhalant-induced depressive disorder.
+Specify current severity/remission:
+F18.10 Mild: Presence of 2–3 symptoms.
+F18.11 Mild, In early remission
+F18.11 Mild, In sustained remission
+F18.20 Moderate: Presence of 4–5 symptoms.
+F18.21 Moderate, In early remission
+F18.21 Moderate, In sustained remission
+F18.20 Severe: Presence of 6 or more symptoms.
+F18.21 Severe, In early remission
+F18.21 Severe, In sustained remission
+Specifiers
+“In a controlled environment” applies as a further specifier of remission if the individual is both
+in remission and in a controlled environment (i.e., in early remission in a controlled environment
+or in sustained remission in a controlled environment). Examples of these environments are
+closely supervised and substance-free jails, therapeutic communities, and locked hospital units.
+The severity of individuals’ inhalant use disorder is assessed by the number of diagnostic
+criteria endorsed. Changing severity of individuals’ inhalant use disorder across time is reflected
+by reductions in the frequency (e.g., days used per month) and/or dose (e.g., tubes of glue per
+day) used, as assessed by the individual’s self-report, report of others, clinician’s observations,
+and biological testing (when practical).
+Diagnostic Features
+Examples of inhalant substances include volatile hydrocarbons, which comprise toxic gases from
+glues, fuels, paints, and other volatile compounds. When possible, the
+603
+particular substance involved should be named (e.g., “toluene use disorder”). However, most
+compounds that are inhaled are a mixture of several substances that can produce psychoactive
+effects, and it is often difficult to ascertain the exact substance responsible for the disorder.
+Unless there is clear evidence that a single, unmixed substance has been used, the general term
+inhalant should be used in recording the diagnosis. Disorders arising from inhalation of nitrous
+oxide or of amyl-, butyl-, or isobutylnitrite are considered as other (or unknown) substance use

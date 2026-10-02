@@ -1,0 +1,38 @@
+approaches in coming years.
+Combining Developmental and Life Span Considerations
+To improve clinical utility, DSM-5 is organized along developmental and life span trajectories. It
+begins with diagnoses thought to reflect developmental processes that manifest early in life (e.g.,
+neurodevelopmental disorders and schizophrenia spectrum and other psychotic disorders),
+followed by diagnoses that more commonly manifest in adolescence and young adulthood (e.g.,
+bipolar and related disorders, depressive disorders, and anxiety disorders), and ends with
+diagnoses relevant to adulthood and later life (e.g., neurocognitive disorders). A similar approach
+has been taken, where possible, within each chapter. This organizational structure facilitates the
+comprehensive use of life span information as a way to assist in diagnostic decision-making.
+13
+Harmonization With ICD-11
+The groups tasked with revising the DSM and ICD systems shared the overarching goal of
+harmonizing the two classifications as much as possible, for the following reasons:
+The existence of two major classifications of mental disorders hinders the collection and use of national health statistics, the
+design of clinical trials aimed at developing new treatments, and the consideration of global applicability of the results by
+international regulatory agencies.
+More broadly, the existence of two classifications complicates attempts to replicate scientific results across national
+boundaries.
+Even when the intention was to identify identical patient populations, DSM-IV and ICD-10 diagnoses did not always agree.
+As discussed earlier in this introduction, the effort to harmonize with ICD-11 was confined to
+the largely successful harmonization of the organizational structure. Because of differences in
+timing, complete harmonization of the DSM-5 diagnostic criteria with the ICD-11 disorder
+definitions was not possible because the DSM-5 developmental effort was several years ahead of
+the ICD-11 revision process. Consequently, the DSM-5 diagnostic criteria were finalized just as
+the ICD-11 working groups were beginning to develop the ICD-11 clinical descriptions and
+diagnostic guidelines. Some improvement in harmonization at the disorder level was still
+achieved; many ICD-11 working group members had participated in the development of the
+DSM-5 diagnostic criteria, and the ICD-11 working groups were instructed to review the DSM-5
+criteria sets and to strive to make ICD-11 diagnostic guidelines as similar to DSM-5 as possible
+unless there was a considered reason for them to differ. A review comparing DSM-5/ICD-11
+differences with DSM-IV/ICD-10 differences found that ICD and DSM are now closer than at
+any time since DSM-II and ICD-8 and that current differences are based largely on differing
+priorities and uses of the two diagnostic systems and on differing interpretations of the evidence.
+Although ICD-11 was officially endorsed for use by WHO member nations during the 72nd
+World Health Assembly in May 2019 and officially came into effect on January 1, 2022, each
+country chooses when to adopt ICD-11. There is currently no proposed timeline for
+implementation of ICD-11 in the United States. Consequently, for the foreseeable future the

@@ -1,0 +1,60 @@
+F19.130
+With mild use disorder
+F19.230
+With moderate or severe use disorder
+F19.930
+Without use disorder
+lv
+With perceptual disturbances
+F19.132
+With mild use disorder
+F19.232
+With moderate or severe use disorder
+F19.932
+Without use disorder
+___.__
+Other (or Unknown) Substance–Induced Mental Disorders (660)
+Note: Disorders are listed in their order of appearance in the manual.
+aSpecify With onset during intoxication, With onset during withdrawal, With onset after medication
+use. Note: When prescribed as medication or taken over the counter, substances in this class can
+also induce the relevant substance-induced mental disorder.
+bSpecify if: Acute, Persistent
+cSpecify if: Hyperactive, Hypoactive, Mixed level of activity
+___.__
+Other (or Unknown) Substance–Induced Psychotic Disordera (126)
+F19.159
+With mild use disorder
+F19.259
+With moderate or severe use disorder
+F19.959
+Without use disorder
+___.__
+Other (or Unknown) Substance–Induced Bipolar and Related Disordera
+(162)
+F19.14
+With mild use disorder
+F19.24
+With moderate or severe use disorder
+F19.94
+Without use disorder
+___.__
+Other (or Unknown) Substance–Induced Depressive Disordera (201)
+F19.14
+With mild use disorder
+F19.24
+With moderate or severe use disorder
+F19.94
+Without use disorder
+___.__
+Other (or Unknown) Substance–Induced Anxiety Disordera (255)
+F19.180
+With mild use disorder
+F19.280
+With moderate or severe use disorder
+F19.980
+Without use disorder
+___.__
+Other (or Unknown) Substance–Induced Obsessive-Compulsive and
+Related Disordera (287)
+F19.188
+With mild use disorder

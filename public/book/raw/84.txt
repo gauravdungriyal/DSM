@@ -1,0 +1,59 @@
+T74.12XA
+Initial encounter
+T74.12XD
+Subsequent encounter
+___.__
+Child Physical Abuse, Suspected (823)
+T76.12XA
+Initial encounter
+T76.12XD
+Subsequent encounter
+___.__
+Other Circumstances Related to Child Physical Abuse (823)
+Z69.010
+Encounter for mental health services for victim of child physical abuse by
+parent
+Z69.020
+Encounter for mental health services for victim of nonparental child
+physical abuse
+Z62.810
+Personal history (past history) of physical abuse in childhood
+Z69.011
+Encounter for mental health services for perpetrator of parental child
+physical abuse
+Z69.021
+Encounter for mental health services for perpetrator of nonparental child
+physical abuse
+Child Sexual Abuse (823)
+___.__
+Child Sexual Abuse, Confirmed (824)
+T74.22XA
+Initial encounter
+T74.22XD
+Subsequent encounter
+___.__
+Child Sexual Abuse, Suspected (824)
+T76.22XA
+Initial encounter
+T76.22XD
+Subsequent encounter
+___.__
+Other Circumstances Related to Child Sexual Abuse (824)
+Z69.010
+Encounter for mental health services for victim of child sexual abuse by
+parent
+Z69.020
+Encounter for mental health services for victim of nonparental child
+sexual abuse
+Z62.810
+Personal history (past history) of sexual abuse in childhood
+Z69.011
+Encounter for mental health services for perpetrator of parental child
+sexual abuse
+Z69.021
+Encounter for mental health services for perpetrator of nonparental child
+sexual abuse
+lxiv
+Child Neglect (824)
+___.__
+Child Neglect, Confirmed (824)

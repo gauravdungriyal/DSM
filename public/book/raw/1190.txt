@@ -1,0 +1,43 @@
+Diagnostic Features
+The essential manifestation of suicidal behavior disorder is a suicide attempt. A suicide attempt
+is a behavior that the individual has undertaken with at least some intent to die. The behavior
+might or might not lead to injury or serious medical consequences. Several factors can influence
+the medical consequences of the suicide attempt, including poor planning, lack of knowledge
+about the lethality of the method chosen, low intentionality or ambivalence, or chance
+intervention by others after the behavior has been initiated. These should not be considered in
+assigning the diagnosis.
+Determining the degree of intent can be challenging. Individuals might not acknowledge
+intent, especially in situations where doing so could result in hospitalization or cause distress to
+loved ones. Markers of risk include degree of planning, including selection of a time and place to
+minimize rescue or interruption; the individual’s mental state at the time of the behavior, with
+acute agitation being especially concerning; recent discharge from inpatient care; or recent
+discontinuation of a mood stabilizer such as lithium or an antipsychotic such as clozapine in the
+case of schizophrenia. Examples of environmental “triggers” include recently learning of a
+potentially fatal medical diagnosis such as cancer, experiencing the sudden and unexpected loss
+of a close relative or partner, loss of employment, or displacement from housing. Conversely,
+features such as talking to others about future events or preparedness to sign a contract for safety
+are less reliable indicators.
+In order for the criteria to be met, the individual must have made at least one suicide attempt.
+Suicide attempts can include behaviors in which, after initiating the suicide attempt, the
+individual changed his or her mind or someone intervened. For example, an individual might
+intend to ingest a given amount of medication or poison, but either stop or be stopped by another
+before ingesting the full amount. If the individual is dissuaded by another or changes his or her
+mind before initiating the behavior, the diagnosis should not be made. The acts qualifying for a
+diagnosis of suicidal behavior disorder should not have been initiated exclusively during a state
+of delirium or confusion. If the individual deliberately became intoxicated before initiating the
+suicidal behavior in order to reduce anticipatory anxiety and to minimize interference with the
+intended behavior, the diagnosis can still be made.
+Currently there are no clinical instruments that yield positive predictive values sufficient to
+make them useful tools for predicting suicidal behavior at the patient level. It is not surprising
+that single clinical or biological factors are poor indicators of suicide risk, because suicidal
+behavior emerges from a convergence of multiple risk factors. Moreover, given the clinical
+heterogeneity of suicidal behavior, it is likely that there are multiple pathways to suicidal
+behavior that can only be captured if this heterogeneity is considered. Similarly, numerous
+biomarkers have been studied, but no robust predictor has emerged.
+Development and Course
+Suicidal behavior disorder can occur at any time in the life span but is rarely seen in children
+under the age of 5. Approximately 25%–30% of persons who attempt suicide will go on to make
+more attempts. There is significant variability in terms of frequency, method, and lethality of
+attempts. However, this is not different from what is observed in other illnesses, such as major
+depressive disorder, in which frequency of episode, subtype of episode, and impairment for a
+given episode can vary significantly.

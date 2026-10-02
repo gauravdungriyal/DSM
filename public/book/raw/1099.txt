@@ -1,0 +1,45 @@
+Z60.5
+Target of (Perceived) Adverse Discrimination or Persecution
+This category may be used when there is perceived or experienced discrimination against or
+persecution of the individual based on his or her membership (or perceived membership) in a
+specific category. Typically, such categories include gender or gender identity, race, ethnicity,
+religion, sexual orientation, country of origin, political beliefs, disability status, caste, social
+status, weight, and physical appearance.
+Z60.9
+Other Problem Related to Social Environment
+This category may be used when there is a problem related to the individual’s social environment
+other than as specified above.
+Problems Related to Interaction With the Legal System
+These categories may be used when a problem related to interaction with the legal system is the
+focus of clinical attention or has an impact on the individual’s treatment or prognosis. Areas to
+be considered include conviction in criminal proceedings, imprisonment or other incarceration,
+problems related to release from prison, and problems related to other legal circumstances (e.g.,
+civil litigation, child custody or support proceedings).
+833
+Z65.0
+Conviction in Criminal Proceedings Without Imprisonment
+Z65.1
+Imprisonment or Other Incarceration
+Z65.2
+Problems Related to Release From Prison
+Z65.3
+Problems Related to Other Legal Circumstances (e.g., civil litigation, child
+custody or support proceedings)
+Problems Related to Other Psychosocial, Personal, and
+Environmental Circumstances
+Z72.9
+Problem Related to Lifestyle
+This category may be used when a lifestyle problem is a specific focus of treatment or directly
+affects the course, prognosis, or treatment of a mental disorder or other medical condition.
+Examples of lifestyle problems include lack of physical exercise, inappropriate diet, high-risk
+sexual behavior, and poor sleep hygiene. A problem that is attributable to a symptom of a mental
+disorder should not be coded unless that problem is a specific focus of treatment or directly
+affects the course, prognosis, or treatment of the individual. In such cases, both the mental
+disorder and the lifestyle problem should be coded.
+Z64.0
+Problems Related to Unwanted Pregnancy
+Z64.1
+Problems Related to Multiparity
+Z64.4
+Discord With Social Service Provider, Including Probation Officer, Case
+Manager, or Social Services Worker

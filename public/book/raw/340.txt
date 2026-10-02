@@ -1,0 +1,40 @@
+Demoralization.
+status examination. The differential diagnosis of the associated medical conditions is relevant but
+largely beyond the scope of the present manual.
+Demoralization is a common reaction to chronic medical illness. It is marked by
+a sense of subjective incompetence, helplessness, and hopelessness, and a desire to give up. It is
+often accompanied by depressive symptoms such as low mood and fatigue. Demoralization
+typically lacks the anhedonia associated with depressive disorder due to another medical
+condition, and individuals will generally find pleasure in previously meaningful activities and be
+able to experience moments of happiness.
+Comorbidity
+Conditions comorbid with depressive disorder due to another medical condition are those
+associated with the medical conditions of etiological relevance. It has been noted that delirium
+can occur before or along with depressive symptoms in individuals with a variety of medical
+conditions, such as Cushing’s disease. The association of anxiety symptoms, usually generalized
+symptoms, is common in depressive disorders, regardless of cause.
+Other Specified Depressive Disorder
+F32.89
+This category applies to presentations in which symptoms characteristic of a
+depressive disorder that cause clinically significant distress or impairment in social,
+occupational, or other important areas of functioning predominate but do not meet
+the full criteria for any of the disorders in the depressive disorders diagnostic class
+and do not meet criteria for adjustment disorder with depressed mood or adjustment
+disorder with mixed anxiety and depressed mood. The other specified depressive
+disorder category is used in situations in which the clinician chooses to communicate
+the specific reason that the presentation does not meet the criteria for any specific
+depressive disorder. This is done by recording “other specified depressive disorder”
+followed by the specific reason (e.g., “short-duration depressive episode”).
+Examples of presentations that can be specified using the “other specified”
+designation include the following:
+1. Recurrent brief depression: Concurrent presence of depressed mood and at
+least four other symptoms of depression for 2–13 days at least once per month
+(not associated with the menstrual cycle) for at least 12 consecutive months in
+an individual whose presentation has never met criteria for any other depressive
+or bipolar disorder and does not currently meet active or residual criteria for any
+psychotic disorder.
+2. Short-duration depressive episode (4–13 days): Depressed affect and at least
+four of the other eight symptoms of a major depressive episode associated with
+clinically significant distress or impairment that persists for more than 4 days, but
+less than 14 days, in an individual whose presentation has never met criteria for
+any other depressive or bipolar disorder, does not currently meet active or

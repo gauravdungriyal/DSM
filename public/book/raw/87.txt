@@ -1,0 +1,60 @@
+Z91.412
+Personal history (past history) of spouse or partner neglect
+Z69.12
+Encounter for mental health services for perpetrator of spouse or partner
+neglect
+Spouse or Partner Abuse, Psychological (827)
+___.__
+Spouse or Partner Abuse, Psychological, Confirmed (827)
+T74.31XA
+Initial encounter
+T74.31XD
+Subsequent encounter
+lxvi
+___.__
+Spouse or Partner Abuse, Psychological, Suspected (827)
+T76.31XA
+Initial encounter
+T76.31XD
+Subsequent encounter
+___.__
+Other Circumstances Related to Spouse or Partner Abuse, Psychological (827)
+Z69.11
+Encounter for mental health services for victim of spouse or partner
+psychological abuse
+Z91.411
+Personal history (past history) of spouse or partner psychological abuse
+Z69.12
+Encounter for mental health services for perpetrator of spouse or partner
+psychological abuse
+Adult Abuse by Nonspouse or Nonpartner (827)
+___.__
+Adult Physical Abuse by Nonspouse or Nonpartner, Confirmed (828)
+T74.11XA
+Initial encounter
+T74.11XD
+Subsequent encounter
+___.__
+Adult Physical Abuse by Nonspouse or Nonpartner, Suspected (828)
+T76.11XA
+Initial encounter
+T76.11XD
+Subsequent encounter
+___.__
+Adult Sexual Abuse by Nonspouse or Nonpartner, Confirmed (828)
+T74.21XA
+Initial encounter
+T74.21XD
+Subsequent encounter
+___.__
+Adult Sexual Abuse by Nonspouse or Nonpartner, Suspected (828)
+T76.21XA
+Initial encounter
+T76.21XD
+Subsequent encounter
+___.__
+Adult Psychological Abuse by Nonspouse or Nonpartner, Confirmed (828)
+T74.31XA
+Initial encounter
+T74.31XD
+Subsequent encounter

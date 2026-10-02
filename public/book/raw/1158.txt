@@ -1,0 +1,40 @@
+Subtypes.
+Specifiers.
+concomitant expectation of special treatment, as well as a callous antipathy
+toward others, encompassing both unawareness of others’ needs and
+feelings and a readiness to use others in the service of self-enhancement.
+4. Disinhibition (vs. Conscientiousness): Orientation toward immediate
+gratification, leading to impulsive behavior driven by current thoughts,
+feelings, and external stimuli, without regard for past learning or consideration
+of future consequences.
+5. Psychoticism (vs. Lucidity): Exhibiting a wide range of culturally incongruent
+odd, eccentric, or unusual behaviors and cognitions, including both process
+(e.g., perception, dissociation) and content (e.g., beliefs).
+Because personality features vary continuously along multiple trait dimensions, a
+comprehensive set of potential expressions of PD-TS can be represented by DSM-5’s
+dimensional model of maladaptive personality trait variants (see Table 3, pp. 899–901). Thus,
+subtypes are unnecessary for PD-TS, and instead, the descriptive elements that constitute
+personality are provided, arranged in an empirically based model. This arrangement allows
+clinicians to tailor the description of each individual’s personality disorder profile, considering
+all five broad domains of personality trait variation and drawing on the descriptive features of
+these domains as needed to characterize the individual.
+The specific personality features of individuals are always recorded in evaluating
+Criterion B, so the combination of personality features characterizing an individual directly
+constitutes the specifiers in each case. For example, two individuals who are both characterized
+by emotional lability, hostility, and depressivity may differ such that the first individual is
+characterized additionally by callousness, whereas the second is not.
+891
+Personality Disorder Scoring Algorithms
+The requirement for any two of the four A criteria for each of the six personality disorders was
+based on maximizing the relationship of these criteria to their corresponding personality
+disorder. Diagnostic thresholds for the B criteria were also set empirically to minimize change in
+prevalence of the disorders from DSM-IV and overlap with other personality disorders, and to
+maximize relationships with functional impairment. The resulting diagnostic criteria sets
+represent clinically useful personality disorders with high fidelity, in terms of core impairments
+in personality functioning of varying degrees of severity and constellations of pathological
+personality traits.
+Personality Disorder Diagnosis
+Individuals who have a pattern of impairment in personality functioning and maladaptive traits
+that matches one of the six defined personality disorders should be diagnosed with that
+personality disorder. If an individual also has one or even several prominent traits that may have
+clinical relevance in addition to those required for the diagnosis (e.g., see narcissistic personality

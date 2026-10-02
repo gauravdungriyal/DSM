@@ -1,0 +1,86 @@
+F18.20
+Inhalant use disorder, Moderate
+F18.20
+Inhalant use disorder, Severe
+F18.21
+Inhalant use disorder, Moderate, In early remission
+F18.21
+Inhalant use disorder, Moderate, In sustained remission
+F18.21
+Inhalant use disorder, Severe, In early remission
+F18.21
+Inhalant use disorder, Severe, In sustained remission
+F18.220
+Inhalant intoxication, With moderate or severe use disorder
+F18.221
+Inhalant intoxication delirium, With moderate or severe use disorder
+F18.24
+Inhalant-induced depressive disorder, With moderate or severe use disorder
+F18.259
+Inhalant-induced psychotic disorder, With moderate or severe use disorder
+F18.27
+Inhalant-induced major neurocognitive disorder, With moderate or severe use disorder
+F18.280
+Inhalant-induced anxiety disorder, With moderate or severe use disorder
+F18.288
+Inhalant-induced mild neurocognitive disorder, With moderate or severe use disorder
+F18.920
+Inhalant intoxication, Without use disorder
+970
+F18.921
+Inhalant intoxication delirium, Without use disorder
+F18.94
+Inhalant-induced depressive disorder, Without use disorder
+F18.959
+Inhalant-induced psychotic disorder, Without use disorder
+F18.97
+Inhalant-induced major neurocognitive disorder, Without use disorder
+F18.980
+Inhalant-induced anxiety disorder, Without use disorder
+F18.988
+Inhalant-induced mild neurocognitive disorder, Without use disorder
+F18.99
+Unspecified inhalant-related disorder
+F19.10
+Other (or unknown) substance use disorder, Mild
+F19.11
+Other (or unknown) substance use disorder, Mild, In early remission
+F19.11
+Other (or unknown) substance use disorder, Mild, In sustained remission
+F19.120
+Other (or unknown) substance intoxication, Without perceptual disturbances, With mild use disorder
+F19.121
+Other (or unknown) substance intoxication delirium, With mild use disorder
+F19.122
+Other (or unknown) substance intoxication, With perceptual disturbances, With mild use disorder
+F19.130
+Other (or unknown) substance withdrawal, Without perceptual disturbances, With mild use disorder
+F19.131
+Other (or unknown) substance withdrawal delirium, With mild use disorder
+F19.132
+Other (or unknown) substance withdrawal, With perceptual disturbances, With mild use disorder
+F19.14
+Other (or unknown) substance–induced bipolar and related disorder, With mild use disorder
+F19.14
+Other (or unknown) substance–induced depressive disorder, With mild use disorder
+F19.159
+Other (or unknown) substance–induced psychotic disorder, With mild use disorder
+F19.17
+Other (or unknown) substance–induced major neurocognitive disorder, With mild use disorder
+F19.180
+Other (or unknown) substance–induced anxiety disorder, With mild use disorder
+F19.181
+Other (or unknown) substance–induced sexual dysfunction, With mild use disorder
+F19.182
+Other (or unknown) substance–induced sleep disorder, With mild use disorder
+F19.188
+Other (or unknown) substance–induced mild neurocognitive disorder, With mild use disorder
+F19.188
+Other (or unknown) substance–induced obsessive-compulsive and related disorder, With mild use
+disorder
+F19.20
+Other (or unknown) substance use disorder, Moderate
+F19.20
+Other (or unknown) substance use disorder, Severe
+F19.21
+Other (or unknown) substance use disorder, Moderate, In early remission

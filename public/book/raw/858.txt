@@ -1,0 +1,39 @@
+disturbances: If a mild sedative, hypnotic, or anxiolytic use disorder is
+comorbid, the ICD-10-CM code is F13.130, and if a moderate or severe
+sedative, hypnotic, or anxiolytic use disorder is comorbid, the ICD-10-CM code is
+F13.230. If there is no comorbid sedative, hypnotic, or anxiolytic use disorder
+(e.g., in a patient taking sedatives, hypnotics, or anxiolytics solely under
+appropriate medical supervision), then the ICD-10-CM code is F13.930.
+For sedative, hypnotic, or anxiolytic withdrawal, with perceptual
+disturbances: If a mild sedative, hypnotic, or anxiolytic use disorder is
+comorbid, the ICD-10-CM code is F13.132, and if a moderate or severe
+sedative, hypnotic, or anxiolytic use disorder is comorbid, the ICD-10-CM code is
+F13.232. If there is no comorbid sedative, hypnotic, or anxiolytic use disorder
+(e.g., in a patient taking sedatives, hypnotics, or anxiolytics solely under
+appropriate medical supervision), then the ICD-10-CM code is F13.932.
+Note: For information on Development and Course; Risk and Prognostic Factors;
+Culture-Related Diagnostic Issues; Functional Consequences of Sedative, Hypnotic, or
+Anxiolytic Withdrawal; and Comorbidity, see the corresponding sections in Sedative,
+Hypnotic, or Anxiolytic Use Disorder.
+Diagnostic Features
+The essential feature of sedative, hypnotic, or anxiolytic withdrawal is the presence of a
+characteristic syndrome that develops after a marked decrease in or cessation of intake after
+several weeks or more of regular use (Criteria A and B). This withdrawal syndrome is
+characterized by two or more symptoms (similar to alcohol withdrawal) that include autonomic
+hyperactivity (e.g., increases in heart rate, respiratory rate, blood pressure, or body temperature,
+along with sweating); a tremor of the hands; insomnia; nausea, sometimes accompanied by
+vomiting; anxiety; and psychomotor agitation. A grand mal seizure may occur in perhaps as
+many as 20%–30% of individuals undergoing untreated withdrawal from these substances. In
+severe withdrawal, visual, tactile, or auditory hallucinations or illusions can occur but are usually
+in the context of a withdrawal delirium. If the individual’s reality testing is intact (i.e., knows the
+substance is causing the hallucinations) and the illusions occur in a clear sensorium, the specifier
+“with perceptual disturbances”
+630
+can be noted. When hallucinations occur in the absence of intact reality testing, a diagnosis of
+substance/medication-induced psychotic disorder should be considered. The symptoms cause
+clinically significant distress or impairment in social, occupational, or other important areas of
+functioning (Criterion C). The symptoms must not be attributable to another medical condition
+and are not better explained by another mental disorder (e.g., alcohol withdrawal, generalized
+anxiety disorder) (Criterion D). Relief of withdrawal symptoms with administration of any
+sedative-hypnotic agent would support a diagnosis of sedative, hypnotic, or anxiolytic
+withdrawal.

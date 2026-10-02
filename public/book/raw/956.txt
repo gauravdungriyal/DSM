@@ -1,0 +1,79 @@
+cocaine use disorder with cocaine-induced mild neurocognitive disorder”). If a
+moderate or severe substance use disorder is comorbid with the substance-induced
+mild neurocognitive disorder, the 4th position character is “2,” and the clinician
+should record “moderate [substance] use disorder” or “severe [substance] use
+disorder,” depending on the severity of the comorbid substance use disorder. If there
+is no comorbid substance use disorder, then the 4th position character is “9,” and the
+clinician should record only the substance-induced mild neurocognitive disorder.
+The severity specifiers “mild,” “moderate,” and “severe” (for major neurocognitive
+disorder) and the accompanying symptom specifiers “with behavioral disturbance”
+and “without behavioral disturbance” (for major or mild neurocognitive disorder)
+cannot be coded but should still be recorded.
+ICD-10-CM
+With mild use
+disorder
+With moderate or
+severe use disorder
+Without use
+disorder
+Substance-induced major neurocognitive disorder (NCD)
+Alcohol (major NCD), nonamnestic-
+confabulatory type
+NA
+F10.27
+F10.97
+Alcohol (major NCD), amnestic-
+confabulatory type
+NA
+F10.26
+F10.96
+Inhalant (major NCD)
+F18.17
+F18.27
+F18.97
+Sedative, hypnotic, or anxiolytic (major
+NCD)
+NA
+F13.27
+F13.97
+Other (or unknown) substance (major NCD)
+F19.17
+F19.27
+F19.97
+Substance-induced mild neurocognitive disorder (NCD)
+Alcohol (mild NCD)
+F10.188
+F10.288
+F10.988
+Inhalant (mild NCD)
+F18.188
+F18.288
+F18.988
+Sedative, hypnotic, or anxiolytic (mild NCD)
+F13.188
+F13.288
+F13.988
+Amphetamine-type substance (or other
+stimulant) (mild NCD)
+F15.188
+F15.288
+F15.988
+Cocaine (mild NCD)
+F14.188
+F14.288
+F14.988
+Other (or unknown) substance (mild NCD)
+F19.188
+F19.288
+F19.988
+Specify if:
+Persistent: Neurocognitive impairment continues to be significant after an
+extended period of abstinence.
+714
+Recording Procedures
+The name of the substance/medication-induced neurocognitive disorder (NCD) begins with the
+specific substance (e.g., alcohol) that is presumed to be causing the neurocognitive symptoms.
+The ICD-10-CM code that corresponds to the applicable drug class is selected from the table
+included in the criteria set. For substances that do not fit into any of the classes (e.g., intrathecal
+methotrexate), the ICD-10-CM code for the other (or unknown) substance class should be used
+and the name of the specific substance recorded (e.g., F19.988 intrathecal methotrexate-induced

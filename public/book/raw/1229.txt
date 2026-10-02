@@ -1,0 +1,80 @@
+infection)
+F02.81
+Major neurocognitive disorder due to Huntington’s disease, With behavioral disturbance (code first
+G10 Huntington’s disease)
+F02.81
+Major neurocognitive disorder due to multiple etiologies, With behavioral disturbance
+F02.81
+Major neurocognitive disorder due to possible Alzheimer’s disease, With behavioral disturbance (code
+first G30.9 Alzheimer’s disease)
+F02.81
+Major neurocognitive disorder due to possible frontotemporal degeneration, With behavioral
+disturbance (code first G31.09 frontotemporal degeneration)
+F02.81
+Major neurocognitive disorder with possible Lewy bodies, With behavioral disturbance (code first
+G31.83 Lewy body disease)
+F02.81
+Major neurocognitive disorder possibly due to Parkinson’s disease, With behavioral disturbance (code
+first G20 Parkinson’s disease)
+F02.81
+Major neurocognitive disorder due to prion disease, With behavioral disturbance (code first A81.9
+prion disease)
+F02.81
+Major neurocognitive disorder due to probable Alzheimer’s disease, With behavioral disturbance (code
+first G30.9 Alzheimer’s disease)
+F02.81
+Major neurocognitive disorder due to probable frontotemporal degeneration, With behavioral
+disturbance (code first G31.09 frontotemporal degeneration)
+F02.81
+Major neurocognitive disorder with probable Lewy bodies, With behavioral disturbance (code first
+G31.83 Lewy body disease)
+F02.81
+Major neurocognitive disorder probably due to Parkinson’s disease, With behavioral disturbance (code
+first G20 Parkinson’s disease)
+F02.81
+Major neurocognitive disorder due to traumatic brain injury, With behavioral disturbance (code first
+S06.2X9S diffuse traumatic brain injury with loss of consciousness of unspecified duration, sequela)
+F05
+Delirium due to another medical condition
+F05
+Delirium due to multiple etiologies
+F06.0
+Psychotic disorder due to another medical condition, With hallucinations
+F06.1
+Catatonia associated with another mental disorder (catatonia specifier)
+F06.1
+Catatonic disorder due to another medical condition
+F06.1
+Unspecified catatonia (code first R29.818 other symptoms involving nervous and musculoskeletal
+systems)
+F06.2
+Psychotic disorder due to another medical condition, With delusions
+F06.31
+Depressive disorder due to another medical condition, With depressive features
+F06.32
+Depressive disorder due to another medical condition, With major depressive–like episode
+959
+F06.33
+Bipolar and related disorder due to another medical condition, With manic features
+F06.33
+Bipolar and related disorder due to another medical condition, With manic- or hypomanic-like episode
+F06.34
+Bipolar and related disorder due to another medical condition, With mixed features
+F06.34
+Depressive disorder due to another medical condition, With mixed features
+F06.4
+Anxiety disorder due to another medical condition
+F06.8
+Obsessive-compulsive and related disorder due to another medical condition
+F06.8
+Other specified mental disorder due to another medical condition
+F07.0
+Personality change due to another medical condition
+F09
+Unspecified mental disorder due to another medical condition
+F10.10
+Alcohol use disorder, Mild
+F10.11
+Alcohol use disorder, Mild, In early remission
+F10.11
+Alcohol use disorder, Mild, In sustained remission

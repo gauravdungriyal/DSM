@@ -1,0 +1,72 @@
+clinical attention.
+Coding note: The ICD-10-CM codes for the [specific substance/medication]-induced
+depressive disorders are indicated in the table below. Note that the ICD-10-CM code
+depends on whether or not there is a comorbid substance use disorder present for
+the same class of substance. In any case, an additional separate diagnosis of a
+substance use disorder is not given. If a mild substance use disorder is comorbid
+with the substance-induced depressive disorder, the 4th position character is “1,”
+and the clinician should record “mild [substance] use disorder” before the substance-
+induced depressive disorder (e.g., “mild cocaine use disorder with cocaine-induced
+depressive disorder”). If a moderate or severe substance use disorder is comorbid
+with the substance-induced depressive disorder, the 4th position character is “2,”
+and the clinician should record “moderate [substance] use disorder” or “severe
+[substance] use disorder,” depending on the severity of the comorbid substance use
+disorder. If there is no comorbid substance use disorder (e.g., after a one-time heavy
+use of the substance), then the 4th position character is “9,” and the clinician should
+record only the substance-induced depressive disorder.
+202
+ICD-10-CM
+With mild use
+disorder
+With moderate or
+severe use
+disorder
+Without use
+disorder
+Alcohol
+F10.14
+F10.24
+F10.94
+Phencyclidine
+F16.14
+F16.24
+F16.94
+Other hallucinogen
+F16.14
+F16.24
+F16.94
+Inhalant
+F18.14
+F18.24
+F18.94
+Opioid
+F11.14
+F11.24
+F11.94
+Sedative, hypnotic, or anxiolytic
+F13.14
+F13.24
+F13.94
+Amphetamine-type substance (or other
+stimulant)
+F15.14
+F15.24
+F15.94
+Cocaine
+F14.14
+F14.24
+F14.94
+Other (or unknown) substance
+F19.14
+F19.24
+F19.94
+Specify (see Table 1 in the chapter “Substance-Related and Addictive Disorders,”
+which indicates whether “with onset during intoxication” and/or “with onset during
+withdrawal” applies to a given substance class; or specify “with onset after
+medication use”):
+With onset during intoxication: If criteria are met for intoxication with the
+substance and the symptoms develop during intoxication.
+With onset during withdrawal: If criteria are met for withdrawal from the
+substance and the symptoms develop during, or shortly after, withdrawal.
+With onset after medication use: If symptoms developed at initiation of
+medication, with a change in use of medication, or during withdrawal of

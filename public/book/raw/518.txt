@@ -1,0 +1,37 @@
+F45.1
+Illness anxiety disorder can be considered either a somatic symptom and related disorder or an
+anxiety disorder. Because of the strong focus on somatic concerns, and because illness anxiety
+disorder is most often encountered in medical settings, for utility it is listed with the somatic
+symptom and related disorders. In functional neurological symptom disorder, the key to
+diagnosis is neurological symptoms that can be demonstrated, on the basis of positive clinical
+examination features, to be incompatible with recognized pathophysiology. This is now a “rule-
+in” diagnosis, and not a diagnosis of exclusion, and can be made in the presence of a recognized
+neurological disorder. It no longer requires the presence of a recent psychological stressor,
+because such stressors are not always present. Psychological factors affecting other medical
+conditions is also included in this chapter. Its essential feature is the presence of one or more
+clinically significant psychological or behavioral factors that adversely affect a medical condition
+by increasing the risk for suffering, death, or disability. Like the other somatic symptom and
+related disorders, factitious disorder embodies persistent problems related to illness perception
+and identity. In the great majority of reported cases of factitious disorder, both
+351
+imposed on self and imposed on another, individuals present with somatic symptoms and
+expressed medical disease conviction. Consequently, DSM-5 factitious disorder is included
+among the somatic symptom and related disorders. Other specified somatic symptom and related
+disorder and unspecified somatic symptom and related disorder include conditions for which
+some, but not all, of the criteria for somatic symptom disorder or illness anxiety disorder are met,
+as well as pseudocyesis.
+Somatic Symptom Disorder
+Diagnostic Criteria
+A. One or more somatic symptoms that are distressing or result in significant
+disruption of daily life.
+B. Excessive thoughts, feelings, or behaviors related to the somatic symptoms or
+associated health concerns as manifested by at least one of the following:
+1. Disproportionate and persistent thoughts about the seriousness of one’s
+symptoms.
+2. Persistently high level of anxiety about health or symptoms.
+3. Excessive time and energy devoted to these symptoms or health concerns.
+C. Although any one somatic symptom may not be continuously present, the state
+of being symptomatic is persistent (typically more than 6 months).
+Specify if:
+With predominant pain (previously pain disorder): This specifier is for
+individuals whose somatic symptoms predominantly involve pain.

@@ -1,0 +1,79 @@
+Z91.51
+History of suicidal behavior
+F60.4
+Histrionic personality disorder
+939
+F42.3
+Hoarding disorder
+Z59.01
+Homelessness, sheltered
+Z59.02
+Homelessness, unsheltered
+F51.11
+Hypersomnolence disorder
+Z55.0
+Illiteracy and low-level literacy
+F45.21
+Illness anxiety disorder
+Z65.1
+Imprisonment or other incarceration
+Z59.1
+Inadequate housing
+Inhalant-induced anxiety disorder
+F18.180
+With mild use disorder
+F18.280
+With moderate or severe use disorder
+F18.980
+Without use disorder
+Inhalant-induced depressive disorder
+F18.14
+With mild use disorder
+F18.24
+With moderate or severe use disorder
+F18.94
+Without use disorder
+Inhalant-induced major neurocognitive disorder
+F18.17
+With mild use disorder
+F18.27
+With moderate or severe use disorder
+F18.97
+Without use disorder
+Inhalant-induced mild neurocognitive disorder
+F18.188
+With mild use disorder
+F18.288
+With moderate or severe use disorder
+F18.988
+Without use disorder
+Inhalant-induced psychotic disorder
+F18.159
+With mild use disorder
+F18.259
+With moderate or severe use disorder
+F18.959
+Without use disorder
+Inhalant intoxication
+F18.120
+With mild use disorder
+F18.220
+With moderate or severe use disorder
+F18.920
+Without use disorder
+Inhalant intoxication delirium
+F18.121
+With mild use disorder
+F18.221
+With moderate or severe use disorder
+F18.921
+Without use disorder
+Inhalant use disorder
+F18.10
+Mild
+F18.11
+In early remission
+F18.11
+In sustained remission
+F18.20
+Moderate

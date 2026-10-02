@@ -1,0 +1,36 @@
+needs or produce significant impairment in functioning (Criterion A).
+381
+Comorbidity
+The most commonly observed disorders comorbid with avoidant/restrictive food intake disorder
+are anxiety disorders, obsessive-compulsive disorder, and neurodevelopmental disorders
+(specifically autism spectrum disorder, attention-deficit/hyperactivity disorder, and intellectual
+developmental disorder [intellectual disability]).
+Anorexia Nervosa
+Diagnostic Criteria
+A. Restriction of energy intake relative to requirements, leading to a significantly low
+body weight in the context of age, sex, developmental trajectory, and physical
+health. Significantly low weight is defined as a weight that is less than minimally
+normal or, for children and adolescents, less than that minimally expected.
+B. Intense fear of gaining weight or of becoming fat, or persistent behavior that
+interferes with weight gain, even though at a significantly low weight.
+C. Disturbance in the way in which one’s body weight or shape is experienced,
+undue influence of body weight or shape on self-evaluation, or persistent lack of
+recognition of the seriousness of the current low body weight.
+Coding note: The ICD-10-CM code depends on the subtype (see below).
+Specify whether:
+F50.01 Restricting type: During the last 3 months, the individual has not
+engaged in recurrent episodes of binge-eating or purging behavior (i.e., self-
+induced vomiting or the misuse of laxatives, diuretics, or enemas). This subtype
+describes presentations in which weight loss is accomplished primarily through
+dieting, fasting, and/or excessive exercise.
+F50.02 Binge-eating/purging type: During the last 3 months, the individual has
+engaged in recurrent episodes of binge-eating or purging behavior (i.e., self-
+induced vomiting or the misuse of laxatives, diuretics, or enemas).
+Specify if:
+In partial remission: After full criteria for anorexia nervosa were previously met,
+Criterion A (low body weight) has not been met for a sustained period, but either
+Criterion B (intense fear of gaining weight or becoming fat or behavior that
+interferes with weight gain) or Criterion C (disturbances in self-perception of
+weight and shape) is still met.
+In full remission: After full criteria for anorexia nervosa were previously met,
+none of the criteria have been met for a sustained period of time.

@@ -1,0 +1,41 @@
+related to differential exposure to social determinants of health, including food insecurity, food
+deserts, and limited access to safe and affordable places for physical activity. Individuals with
+narcolepsy often experience sleep paralysis, which may be attributed to supernatural forces (e.g.,
+frightening spirit is sitting on the sleeper’s chest) in some cultural contexts, contributing to the
+perceived dangerousness of the condition and to help-seeking decisions.
+Diagnostic Markers
+Nocturnal polysomnography followed by an MSLT is used to confirm the diagnosis of
+narcolepsy, especially when the disorder is first being diagnosed and before treatment has begun.
+In the presence of clear-cut cataplexy, the polysomnography and MSLT are confirmatory for
+NT1. In the absence of cataplexy and hypocretin deficiency (if measured), the MSLT is
+diagnostic of NT2. Drug or medication effects (e.g., REM-inhibiting antidepressants or sedating
+medications), stimulant withdrawal, prior sleep deprivation, shift work, or severe depression may
+result in an inaccurate MSLT result and must be ruled out prior to performance of the MSLT. In
+particular, chronically insufficient sleep is common and must be considered.
+An nSOREMP is highly specific (approximately 1% positive in control subjects) but
+moderately sensitive (approximately 50%) for NT1. In contrast, an nSOREMP was only found in
+10%–23% of NT2 persons with normal hypocretin levels, suggesting even lower sensitivity in
+this subtype. The MSLT result is considered positive for narcolepsy if it displays an average
+sleep latency of ≤ 8 minutes and SOREMPs in two or more naps on a four- or five-nap test. The
+MSLT result is positive in 90%–95% of individuals with NT1 versus 2%–4% of control subjects
+or individuals with other sleep disorders. As noted, poor test-retest reliability for NT2 precludes
+determination of comparable data for NT2. Additional polysomnographic findings among
+individuals with narcolepsy often include frequent arousals, decreased sleep efficiency, and
+increased stage 1 sleep. Periodic limb movements (found in about 40% of individuals with NT1)
+and sleep apnea are often noted.
+Hypocretin deficiency is demonstrated by measuring CSF hypocretin-1 levels. The test is
+particularly useful in individuals with suspected pseudocataplexy and those without typical
+cataplexy, or in treatment-refractory cases. The diagnostic value of the test is not affected by
+medications, sleep deprivation, or the time of day or night when it is collected, but the findings
+are uninterpretable when the individual is severely ill with a concurrent
+427
+infection or head trauma or is comatose. CSF cytology, protein, and glucose are within
+normal range even when sampled within weeks of rapid onset of the disorder. When measured in
+individuals with typical cataplexy symptoms, CSF hypocretin-1 is often already very diminished
+or undetectable.
+About 85%–95% of individuals with NT1 are positive for the HLA DQB1*06:02 haplotype.
+This gene influences immune system antigen presentation, supporting an underlying autoimmune
+pathophysiology of NT1. Outbreaks of NT1 after specific vaccinations and infections further
+support an autoimmune etiology. In contrast to NT1, there are no biomarkers of NT2. Only about
+40%–50% of individuals with NT2 are positive for DQB1*06:02. As 12%–38% of the general
+population is DQB1*06:02 positive, testing for this allele is not very helpful for diagnosing NT2

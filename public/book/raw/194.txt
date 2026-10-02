@@ -1,0 +1,45 @@
+Specify if:
+With self-injurious behavior (or behavior that would result in an injury if
+preventive measures were not used)
+Without self-injurious behavior
+Specify if:
+Associated 
+with 
+a 
+known 
+genetic 
+or 
+other 
+medical 
+condition,
+neurodevelopmental disorder, or environmental factor (e.g., Lesch-Nyhan
+syndrome, intellectual developmental disorder [intellectual disability], intrauterine
+alcohol exposure)
+Coding note: Use additional code to identify the associated genetic or other
+medical condition, neurodevelopmental disorder, or environmental factor.
+Specify current severity:
+Mild: Symptoms are easily suppressed by sensory stimulus or distraction.
+Moderate: Symptoms require explicit protective measures and behavioral
+modification.
+Severe: Continuous monitoring and protective measures are required to prevent
+serious injury.
+Recording Procedures
+For stereotypic movement disorder that is associated with a known genetic or other medical
+condition, neurodevelopmental disorder, or environmental factor, record stereotypic movement
+disorder associated with (name of condition, disorder, or factor) (e.g., stereotypic movement
+disorder associated with Lesch-Nyhan syndrome).
+Specifiers
+The severity of non-self-injurious stereotypic movements ranges from mild presentations that are
+easily suppressed by a sensory stimulus or distraction to continuous movements that markedly
+interfere with all activities of daily living. Self-injurious behaviors range in severity along
+various dimensions, including the frequency, impact on adaptive functioning, and severity of
+bodily injury (from mild bruising or erythema from hitting hand against body, to lacerations or
+amputation of digits, to retinal detachment from head banging).
+Diagnostic Features
+The essential feature of stereotypic movement disorder is repetitive, seemingly driven, and
+apparently purposeless motor behavior (Criterion A). These behaviors are often rhythmical
+movements of the head, hands, or body without obvious adaptive function. The movements may
+or may not respond to efforts to stop them. Among typically developing children, the repetitive
+movements can usually be stopped when attention is directed to them
+90
+or when the child is distracted from performing them. Among children with neurodevelopmental

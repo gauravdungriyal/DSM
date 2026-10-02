@@ -1,0 +1,51 @@
+Note: For applicable ICD-10-CM codes, refer to the substance classes under Substance-Related and
+Addictive Disorders for the specific substance/medication-induced sexual dysfunction. See also the
+criteria set and corresponding recording procedures in the manual for more information.
+Coding note: The ICD-10-CM code depends on whether or not there is a comorbid substance use
+disorder present for the same class of substance. In any case, an additional separate diagnosis of a
+substance use disorder is not given.
+Specify if: With onset during intoxication, With onset during withdrawal, With onset after medication
+use
+F52.8
+Other Specified Sexual Dysfunction (509)
+F52.9
+Unspecified Sexual Dysfunction (509)
+xxxix
+Gender Dysphoria (511)
+The following specifier and note apply to Gender Dysphoria where indicated:
+aSpecify if: With a disorder/difference of sex development
+bNote: Code the disorder/difference of sex development if present, in addition to gender dysphoria.
+__.__
+Gender Dysphoria (512)
+F64.2
+Gender Dysphoria in Childrena,b
+F64.0
+Gender Dysphoria in Adolescents and Adultsa,b
+Specify if: Posttransition
+F64.8
+Other Specified Gender Dysphoria (520)
+F64.9
+Unspecified Gender Dysphoria (520)
+Disruptive, Impulse-Control, and Conduct Disorders (521)
+F91.3
+Oppositional Defiant Disorder (522)
+Specify current severity: Mild, Moderate, Severe
+F63.81
+Intermittent Explosive Disorder (527)
+__.__
+Conduct Disorder (530)
+Specify if: With limited prosocial emotions
+Specify current severity: Mild, Moderate, Severe
+Specify whether:
+F91.1
+Childhood-onset type
+F91.2
+Adolescent-onset type
+F91.9
+Unspecified onset
+F60.2
+Antisocial Personality Disorder (537)
+F63.1
+Pyromania (537)
+F63.2
+Kleptomania (539)

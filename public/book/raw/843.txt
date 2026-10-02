@@ -1,0 +1,36 @@
+Opioid-induced mental disorders.
+naloxone can support the diagnosis of opioid intoxication, nonresponse may be due to the co-
+ingestion of an opioid with another drug (e.g., a benzodiazepine, alcohol) or to ingestion of a
+higher dose of and/or higher-potency opioid (e.g., fentanyl).
+Opioid intoxication is distinguished from opioid-induced mental
+disorders (e.g., opioid-induced depressive disorder, with onset during intoxication) because the
+symptoms (e.g., depressed mood) in the latter disorders are in excess of those usually associated
+with opioid intoxication, predominate in the clinical presentation, and are severe enough to
+warrant clinical attention.
+Comorbidity
+Given the typical overlap of opioid intoxication with opioid use disorder, see “Comorbidity”
+under Opioid Use Disorder for more details about co-occurring conditions that are likely to be
+encountered.
+Opioid Withdrawal
+Diagnostic Criteria
+A. Presence of either of the following:
+1. Cessation of (or reduction in) opioid use that has been heavy and prolonged
+(i.e., several weeks or longer).
+2. Administration of an opioid antagonist after a period of opioid use.
+B. Three (or more) of the following developing within minutes to several days after
+Criterion A:
+1. Dysphoric mood.
+2. Nausea or vomiting.
+3. Muscle aches.
+4. Lacrimation or rhinorrhea.
+5. Pupillary dilation, piloerection, or sweating.
+6. Diarrhea.
+7. Yawning.
+8. Fever.
+9. Insomnia.
+C. The signs or symptoms in Criterion B cause clinically significant distress or
+impairment in social, occupational, or other important areas of functioning.
+D. The signs or symptoms are not attributable to another medical condition and are
+not better explained by another mental disorder, including intoxication or
+withdrawal from another substance.
+Coding note: The ICD-10-CM code depends on whether or not there is a comorbid

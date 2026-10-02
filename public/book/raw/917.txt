@@ -1,0 +1,37 @@
+Specify (see coding table for details):
+Without behavioral disturbance: If the cognitive disturbance is not
+accompanied by any clinically significant behavioral disturbance.
+With behavioral disturbance (specify disturbance): If the cognitive disturbance
+is accompanied by a clinically significant behavioral disturbance (e.g., psychotic
+symptoms, mood disturbance, agitation, apathy, or other behavioral symptoms).
+680
+Coding note: Use additional code(s) to indicate clinically significant psychiatric
+symptoms due to the same medical condition causing the major neurocognitive
+disorder (e.g., F06.2 psychotic disorder due to Alzheimer’s disease, with
+delusions; F06.32 depressive disorder due to Parkinson’s disease, with major
+depressive–like episode). Note: Mental disorders due to another medical
+condition are included with disorders with which they share phenomenology
+(e.g., for depressive disorders due to another medical condition, see the chapter
+“Depressive Disorders”).
+Specify current severity:
+Mild: Difficulties with instrumental activities of daily living (e.g., housework,
+managing money).
+Moderate: Difficulties with basic activities of daily living (e.g., feeding, dressing).
+Severe: Fully dependent.
+Coding and Recording Procedures
+The following are examples of coding and recording major neurocognitive disorders
+due to an etiological subtype (for more information, see coding table on pp. 682–683
+and coding notes in the specific diagnostic criteria for each major and mild
+neurocognitive disorder subtype):
+Major neurocognitive disorder due to probable Alzheimer’s disease,
+without behavioral disturbance, mild: G30.9 Alzheimer’s disease, F02.80
+major neurocognitive disorder due to probable Alzheimer’s disease, without
+behavioral disturbance, mild.
+Major neurocognitive disorder due to traumatic brain injury, with
+behavioral disturbance, moderate: S06.2X9S diffuse traumatic brain injury
+with loss of consciousness of unspecified duration, sequela; F02.81 major
+neurocognitive disorder due to traumatic brain injury, with behavioral
+disturbance, moderate; F06.34 bipolar and related disorder due to traumatic
+brain injury, with mixed features.
+Mild Neurocognitive Disorder
+Diagnostic Criteria

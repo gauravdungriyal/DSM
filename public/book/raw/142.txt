@@ -1,0 +1,34 @@
+46
+Individuals with intellectual developmental disorder disproportionately have more health
+problems, including obesity, than the general population. Frequently they cannot verbalize
+physical symptoms they are experiencing. This may lead to health problems being undiagnosed
+and untreated.
+Relationship to Other Classifications
+ICD-11 uses the term disorders of intellectual development to indicate that these are disorders
+that involve impaired brain functioning early in life. These disorders are described in ICD-11 as
+a metasyndrome occurring in the developmental period analogous to dementia or major
+neurocognitive disorder in later life. There are four subtypes of disorders of intellectual
+development in ICD-11: mild, moderate, severe, and profound.
+The American Association on Intellectual and Developmental Disabilities (AAIDD) uses the
+term intellectual disability. The AAIDD’s classification is multidimensional rather than
+categorical and is based on the disability construct. Rather than listing severity specifiers as is
+done in DSM-5, the AAIDD emphasizes a profile of supports based on severity.
+Global Developmental Delay
+F88
+This diagnosis is reserved for individuals under the age of 5 years when the clinical
+severity level cannot be reliably assessed during early childhood. This category is
+diagnosed when an individual fails to meet expected developmental milestones in
+several areas of intellectual functioning, and applies to individuals who are unable to
+undergo systematic assessments of intellectual functioning, including children who
+are too young to participate in standardized testing. This category requires
+reassessment after a period of time.
+Unspecified Intellectual Developmental Disorder
+(Intellectual Disability)
+F79
+This category is reserved for individuals over the age of 5 years when assessment of
+the degree of intellectual developmental disorder (intellectual disability) by means of
+locally available procedures is rendered difficult or impossible because of associated
+sensory or physical impairments, as in blindness or prelingual deafness; locomotor
+disability; or presence of severe problem behaviors or co-occurring mental disorder.
+This category should only be used in exceptional circumstances and requires
+reassessment after a period of time.

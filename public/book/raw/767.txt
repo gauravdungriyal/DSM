@@ -1,0 +1,38 @@
+Specify if:
+In a controlled environment: This additional specifier is used if the individual is
+in an environment where access to alcohol is restricted.
+Code based on current severity/remission: If an alcohol intoxication, alcohol
+withdrawal, or another alcohol-induced mental disorder is also present, do not use
+the codes below for alcohol use disorder. Instead, the comorbid alcohol use disorder
+is indicated in the 4th character of the alcohol-induced disorder code (see the coding
+note for alcohol intoxication, alcohol withdrawal, or a specific alcohol-induced mental
+disorder). For example, if there is comorbid alcohol intoxication and alcohol use
+disorder, only the alcohol intoxication code is given, with the 4th character indicating
+whether the comorbid alcohol use disorder is mild, moderate, or severe: F10.129 for
+mild alcohol use disorder with alcohol intoxication or F10.229 for a moderate or
+severe alcohol use disorder with alcohol intoxication.
+Specify current severity/remission:
+F10.10 Mild: Presence of 2–3 symptoms.
+F10.11 Mild, In early remission
+F10.11 Mild, In sustained remission
+F10.20 Moderate: Presence of 4–5 symptoms.
+F10.21 Moderate, In early remission
+F10.21 Moderate, In sustained remission
+F10.20 Severe: Presence of 6 or more symptoms.
+F10.21 Severe, In early remission
+F10.21 Severe, In sustained remission
+555
+Specifiers
+“In a controlled environment” applies as a further specifier of remission if the individual is both
+in remission and in a controlled environment (i.e., in early remission in a controlled environment
+or in sustained remission in a controlled environment). Examples of these environments are
+closely supervised and substance-free jails, therapeutic communities, and locked hospital units.
+Severity of the disorder is based on the number of diagnostic criteria endorsed. For a given
+individual, changes in severity of alcohol use disorder across time are also reflected by
+reductions in the frequency (e.g., days of use per month) or dose (e.g., number of standard drinks
+consumed per day) of alcohol used, as assessed by the individual’s self-report, report of
+knowledgeable others, clinician observations, and, when practical, biological testing (e.g.,
+elevations in blood tests as described in the section “Diagnostic Markers” for this disorder).
+Diagnostic Features
+Alcohol use disorder is defined by a cluster of behavioral and physical symptoms, such as
+withdrawal, tolerance, and craving. Alcohol withdrawal is characterized by withdrawal

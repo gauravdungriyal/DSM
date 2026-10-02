@@ -1,0 +1,37 @@
+after the initiation of a particular substance/medication suggest a substance/medication-induced
+sleep disorder. If the sleep disturbance is comorbid with another medical condition and is also
+exacerbated by substance use, both diagnoses are given (i.e., insomnia disorder,
+hypersomnolence disorder, or nightmare disorder, “with [specific medical condition]”
+respectively; and [specific substance/medication]-induced sleep disorder). When there is
+insufficient evidence to determine whether the sleep disturbance is attributable to a
+substance/medication or a medical condition, or independent (i.e., not attributable to either a
+substance/medication or a medical condition), a diagnosis of unspecified sleep-wake disorder is
+indicated.
+Comorbidity
+See the “Comorbidity” sections for other sleep disorders in this chapter, including insomnia
+disorder, hypersomnolence disorder, central sleep apnea, sleep-related hypoventilation, and
+circadian rhythm sleep-wake disorders, shift work type.
+Relationship to International Classification of Sleep Disorders
+The International Classification of Sleep Disorders, 3rd Edition (ICSD-3), lists sleep disorders
+“due to a medication or substance” under their respective phenotypes (e.g., hypersomnia,
+movement disorder, parasomnia). ICSD-3 does not identify a separate diagnosis for “insomnia
+due to a medication or substance” based on evidence that the reliability of distinguishing
+specific, single etiological factors for chronic insomnia is poor.
+475
+Other Specified Insomnia Disorder
+G47.09
+This category applies to presentations in which symptoms characteristic of insomnia
+disorder that cause clinically significant distress or impairment in social,
+occupational, or other important areas of functioning predominate but do not meet
+the full criteria for insomnia disorder or any of the disorders in the sleep-wake
+disorders diagnostic class. The other specified insomnia disorder category is used in
+situations in which the clinician chooses to communicate the specific reason that the
+presentation does not meet the criteria for insomnia disorder or any specific sleep-
+wake disorder. This is done by recording “other specified insomnia disorder” followed
+by the specific reason (e.g., “short-term insomnia disorder”).
+Examples of presentations that can be specified using the “other specified”
+designation include the following:
+1. Short-term insomnia disorder: Duration is less than 3 months.
+2. Restricted to nonrestorative sleep: Predominant complaint is nonrestorative
+sleep unaccompanied by other sleep symptoms such as difficulty falling asleep
+or remaining asleep.

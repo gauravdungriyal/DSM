@@ -1,0 +1,35 @@
+use disorder, and most anxiety and depressive disorders are associated with alcohol use disorder
+as well. At least a part of the reported association between depression and moderate to severe
+alcohol use disorder may be attributable to temporary, alcohol-induced comorbid depressive
+symptoms resulting from the acute effects of intoxication or withdrawal, although this point has
+long been debated. Severe, repeated alcohol intoxication may also suppress immune mechanisms
+and predispose individuals to infections and increase the risk for cancers.
+Alcohol Intoxication
+Diagnostic Criteria
+A. Recent ingestion of alcohol.
+B. Clinically significant problematic behavioral or psychological changes (e.g.,
+inappropriate sexual or aggressive behavior, mood lability, impaired judgment)
+that developed during, or shortly after, alcohol ingestion.
+C. One (or more) of the following signs or symptoms developing during, or shortly
+after, alcohol use:
+1. Slurred speech.
+2. Incoordination.
+3. Unsteady gait.
+4. Nystagmus.
+5. Impairment in attention or memory.
+6. Stupor or coma.
+D. The signs or symptoms are not attributable to another medical condition and are
+not better explained by another mental disorder, including intoxication with
+another substance.
+Coding note: The ICD-10-CM code depends on whether there is a comorbid alcohol
+use disorder. If a mild alcohol use disorder is comorbid, the ICD-10-CM code is
+F10.120, and if a moderate or severe alcohol use disorder is comorbid, the ICD-10-
+CM code is F10.220. If there is no comorbid alcohol use disorder, then the ICD-10-
+CM code is F10.920.
+562
+Diagnostic Features
+The essential feature of alcohol intoxication is the presence of clinically significant and
+sometimes life-threatening problematic behavioral or psychological changes (e.g., inappropriate
+sexual or aggressive behavior, mood lability, impaired judgment and decision-making,
+difficulties with complex tasks such as driving, and impaired social or occupational functioning)
+that develop during, or shortly after, alcohol ingestion (Criterion B). These changes are

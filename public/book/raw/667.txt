@@ -1,0 +1,44 @@
+Substance intoxication and substance withdrawal.
+Delirium.
+Other sleep disorders.
+Sleep disorder associated with medical condition.
+Functional Consequences of Substance/Medication-Induced Sleep
+Disorder
+While there are many functional consequences associated with sleep disorders, the only unique
+consequence for substance/medication-induced sleep disorder is increased risk for relapse. For
+example, the degree of sleep disturbance during alcohol withdrawal (e.g., REM sleep rebound)
+predicts risk of relapse of drinking. Monitoring of sleep quality and daytime sleepiness during
+and after withdrawal may provide clinically meaningful information on whether an individual is
+at increased risk for relapse.
+Differential Diagnosis
+Sleep disturbances are commonly encountered in
+the context of substance intoxication and substance withdrawal. A diagnosis of
+substance/medication-induced sleep disorder should be made instead of a
+474
+diagnosis of substance intoxication or substance withdrawal only when the sleep disturbance is
+predominant in the clinical picture and is sufficiently severe to warrant independent clinical
+attention.
+If the substance/medication-induced sleep disturbance occurs exclusively during the
+course of a delirium, it is not diagnosed separately.
+A substance/medication-induced sleep disorder is distinguished from
+another sleep disorder if a substance/medication is judged to be etiologically related to the
+symptoms. A substance/medication-induced sleep disorder attributed to a prescribed medication
+for a mental disorder or medical condition must have its onset while the individual is receiving
+the medication or during discontinuation, if there is a discontinuation/withdrawal syndrome
+associated with the medication. Once treatment is discontinued, the sleep disturbance will
+usually remit within days to several weeks. If symptoms persist beyond 4 weeks, other causes for
+the sleep disturbance–related symptoms should be considered. Not infrequently, individuals with
+another sleep disorder use medications or drugs of abuse to self-medicate their symptoms (e.g.,
+alcohol for management of insomnia). If the substance/medication is judged to play a significant
+role in the exacerbation of the sleep disturbance, an additional diagnosis of a
+substance/medication-induced sleep disorder may be warranted.
+Substance/medication-induced sleep disorder and
+sleep disorders with a medical condition (i.e., insomnia disorder, hypersomnolence disorder, and
+nightmare disorder) may produce similar symptoms of insomnia, daytime sleepiness, or
+nightmares, respectively. Many medical conditions that cause sleep disturbance are treated with
+medications that may also cause sleep disturbances. The chronology of symptoms is the most
+important factor in distinguishing between these two sources of sleep symptoms. Difficulties
+with sleep in an individual with a comorbid medical condition that clearly preceded the use of
+any medication for treatment of that medical condition would suggest a diagnosis of insomnia
+disorder, hypersomnolence disorder, or nightmare disorder with the specifier “with [specific
+medical condition]” applicable to the diagnosis. Conversely, sleep symptoms that appear only

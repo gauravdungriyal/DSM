@@ -1,0 +1,54 @@
+G21.0
+Neuroleptic Malignant Syndrome (810)
+G24.02
+Medication-Induced Acute Dystonia (812)
+G25.71
+Medication-Induced Acute Akathisia (813)
+G24.01
+Tardive Dyskinesia (814)
+G24.09
+Tardive Dystonia (816)
+G25.71
+Tardive Akathisia (816)
+G25.1
+Medication-Induced Postural Tremor (817)
+G25.79
+Other Medication-Induced Movement Disorder (818)
+___.__
+Antidepressant Discontinuation Syndrome (818)
+T43.205A
+Initial encounter
+T43.205D
+Subsequent encounter
+T43.205S
+Sequelae
+___.__
+Other Adverse Effect of Medication (819)
+T50.905A
+Initial encounter
+T50.905D
+Subsequent encounter
+T50.905S
+Sequelae
+Other Conditions That May Be a Focus of Clinical Attention (821)
+Suicidal Behavior and Nonsuicidal Self-Injury (822)
+Suicidal Behavior (822)
+___.__
+Current Suicidal Behavior (822)
+T14.91A
+Initial encounter
+T14.91D
+Subsequent encounter
+Z91.51
+History of Suicidal Behavior (822)
+Nonsuicidal Self-Injury (822)
+R45.88
+Current Nonsuicidal Self-Injury (822)
+Z91.52
+History of Nonsuicidal Self-Injury (822)
+lxiii
+Abuse and Neglect (822)
+Child Maltreatment and Neglect Problems (823)
+Child Physical Abuse (823)
+___.__
+Child Physical Abuse, Confirmed (823)

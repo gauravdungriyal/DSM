@@ -1,0 +1,59 @@
+F02.81
+With behavioral disturbance
+F02.80
+Without behavioral disturbance
+G31.84
+Mild Neurocognitive Disorder Due to HIV Infectionb
+Major or Mild Neurocognitive Disorder Due to Prion Disease (721)
+___.__
+Major Neurocognitive Disorder Due to Prion Diseasea
+Note: Code first A81.9 prion disease.
+F02.81
+With behavioral disturbance
+F02.80
+Without behavioral disturbance
+G31.84
+Mild Neurocognitive Disorder Due to Prion Diseaseb
+Major or Mild Neurocognitive Disorder Due to Parkinson’s Disease (723)
+___.__
+Major Neurocognitive Disorder Probably Due to Parkinson’s Diseasea
+Note: Code first G20 Parkinson’s disease.
+F02.81
+With behavioral disturbance
+F02.80
+Without behavioral disturbance
+___.__
+Major Neurocognitive Disorder Possibly Due to Parkinson’s Diseasea
+Note: Code first G20 Parkinson’s disease.
+F02.81
+With behavioral disturbance
+F02.80
+Without behavioral disturbance
+G31.84
+Mild Neurocognitive Disorder Due to Parkinson’s Diseaseb
+Major or Mild Neurocognitive Disorder Due to Huntington’s Disease (726)
+___.__
+Major Neurocognitive Disorder Due to Huntington’s Diseasea
+Note: Code first G10 Huntington’s disease.
+F02.81
+With behavioral disturbance
+F02.80
+Without behavioral disturbance
+G31.84
+Mild Neurocognitive Disorder Due to Huntington’s Diseaseb
+lx
+Major or Mild Neurocognitive Disorder Due to Another Medical Condition (729)
+___.__
+Major Neurocognitive Disorder Due to Another Medical Conditiona
+Note: Code first the other medical condition.
+F02.81
+With behavioral disturbance
+F02.80
+Without behavioral disturbance
+G31.84
+Mild Neurocognitive Disorder Due to Another Medical Conditionb
+Major or Mild Neurocognitive Disorder Due to Multiple Etiologies (731)
+___.__
+Major Neurocognitive Disorder Due to Multiple Etiologiesa
+Note: Code first all the etiological medical conditions (with the exception of vascular disease, which is
+not coded).

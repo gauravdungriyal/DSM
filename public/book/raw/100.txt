@@ -1,0 +1,41 @@
+advisors who contributed to this process are listed in the Appendix.
+Revisions to DSM-5
+DSM-5 Iterative Revision Process
+Advances in digital publishing that allow timely dissemination of changes have paved the way
+for the American Psychiatric Association to adopt an iterative improvement model for DSM, in
+which revisions are pegged to specific scientific advances. The DSM Steering Committee
+(analogous to the DSM-5 Task Force) was appointed in Spring 2014, with Paul S. Appelbaum,
+M.D., as Chair and Ellen Leibenluft, M.D., and Kenneth Kendler, M.D., as Vice Chairs, to
+oversee the iterative revision process, along with the establishment of a web portal
+(www.dsm5.org) to field proposals on a continuous basis. Proposed changes can include the
+addition of new disorders and deletion or modification of diagnostic criteria sets in Sections II
+and III of DSM-5, as well as changes to the text. Submissions must be accompanied by
+supportive information in a structured format, including the reasons for the change, the
+magnitude of change, data documenting improvements in validity across a range of validators,
+evidence of reliability and clinical utility, and consideration of current or potential deleterious
+consequences associated with the proposed change.
+Approaches to validating diagnostic criteria for categorical mental disorders have included
+the following types of evidence: antecedent validators (similar genetic markers, family traits,
+temperament, and environmental exposure), concurrent validators (similar neural substrates,
+biomarkers, emotional and cognitive processing, and symptom similarity), and predictive
+validators (similar clinical course and treatment response). New criteria for current disorders are
+adopted if they produce improvement in some of these classes of validators. Furthermore, new
+disorders are added to DSM if they are shown to be valid by a substantial subset of these
+validators as well as meet the criteria for a mental disorder and demonstrate clinical utility.
+Proposals submitted to the DSM web portal undergo an initial review by the Steering
+Committee to determine whether the evidence for the proposal, on its face, appears substantially
+likely to meet the criteria for approval. If so, the proposal is referred to one of the five standing
+Review Committees (functionally analogous to the DSM Work Groups), which cover broad
+domains of psychiatric diagnosis. On receipt of a proposal from the Steering Committee, the
+assigned Review Committee considers the evidence in support of the proposed change, requests
+additional information if necessary, and returns the proposal to the Steering Committee with
+recommendations for disposition and, in some cases, suggested modifications. If the Steering
+Committee concurs that sufficient evidence appears to exist in support of the proposal, the
+proposed revision is posted on the DSM-5 website for public comment. The final stage involves
+making necessary adjustments based on the comments and then forwarding the final version to
+the APA Assembly and Board of Trustees for their approval. Once approved, the online version
+of the manual (see https://psychiatryonline.org) is updated to reflect the changes. All changes
+that have been approved since the publication of DSM-5 in 2013 are included in DSM-5-TR.
+DSM-5 Text Revision Process
+In Spring 2019, APA started work on DSM-5-TR, with Michael B. First, M.D., and Philip Wang,
+M.D., Dr.P.H., as Revision Subcommittee Co-Chairs and Wilson M. Compton, M.D., and Daniel

@@ -1,0 +1,79 @@
+E. The disturbance causes clinically significant distress or impairment in social,
+occupational, or other important areas of functioning.
+Note: This diagnosis should be made instead of a diagnosis of substance
+intoxication or substance withdrawal only when the symptoms in Criterion A
+predominate in the clinical picture and they are sufficiently severe to warrant clinical
+attention.
+Coding note: The ICD-10-CM codes for the [specific substance/medication]-induced
+anxiety disorders are indicated in the table below. Note that the ICD-10-CM code
+depends on whether or not there is a comorbid substance use disorder present for
+the same class of substance. In any case, an additional separate diagnosis of a
+substance use disorder is not given. If a mild substance use disorder is comorbid
+with the substance-induced anxiety disorder, the 4th position character is “1,” and
+the clinician should record “mild [substance] use disorder” before the substance-
+induced anxiety disorder (e.g., “mild cocaine use disorder with cocaine-induced
+anxiety disorder”). If a moderate or severe substance use disorder is comorbid with
+the substance-induced anxiety disorder, the 4th position character is “2,” and the
+clinician should record “moderate [substance] use disorder” or “severe [substance]
+use disorder,” depending on the severity of the comorbid substance use disorder. If
+there is no comorbid substance use disorder (e.g., after a one-time heavy use of the
+substance), then the 4th position character is “9,” and the clinician should record
+only the substance-induced anxiety disorder.
+256
+ICD-10-CM
+With mild use
+disorder
+With moderate or
+severe use disorder
+Without use
+disorder
+Alcohol
+F10.180
+F10.280
+F10.980
+Caffeine
+NA
+NA
+F15.980
+Cannabis
+F12.180
+F12.280
+F12.980
+Phencyclidine
+F16.180
+F16.280
+F16.980
+Other hallucinogen
+F16.180
+F16.280
+F16.980
+Inhalant
+F18.180
+F18.280
+F18.980
+Opioid
+F11.188
+F11.288
+F11.988
+Sedative, hypnotic, or anxiolytic
+F13.180
+F13.280
+F13.980
+Amphetamine-type substance (or other
+stimulant)
+F15.180
+F15.280
+F15.980
+Cocaine
+F14.180
+F14.280
+F14.980
+Other (or unknown) substance
+F19.180
+F19.280
+F19.980
+Specify (see Table 1 in the chapter “Substance-Related and Addictive Disorders,”
+which indicates whether “with onset during intoxication” and/or “with onset during
+withdrawal” applies to a given substance class; or specify “with onset after
+medication use”):
+With onset during intoxication: If criteria are met for intoxication with the

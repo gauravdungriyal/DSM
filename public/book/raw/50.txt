@@ -1,0 +1,56 @@
+___.__
+Functional Neurological Symptom Disorder (Conversion Disorder) (360)
+Specify if: Acute episode, Persistent
+Specify if: With psychological stressor (specify stressor), Without psychological stressor
+Specify symptom type:
+F44.4
+With weakness or paralysis
+F44.4
+With abnormal movement
+F44.4
+With swallowing symptoms
+F44.4
+With speech symptom
+F44.5
+With attacks or seizures
+F44.6
+With anesthesia or sensory loss
+F44.6
+With special sensory symptom
+F44.7
+With mixed symptoms
+F54
+Psychological Factors Affecting Other Medical Conditions (364)
+Specify current severity: Mild, Moderate, Severe, Extreme
+___.__
+Factitious Disorder (367)
+Specify: Single episode, Recurrent episodes
+F68.10
+Factitious Disorder Imposed on Self
+F68.A
+Factitious Disorder Imposed on Another
+F45.8
+Other Specified Somatic Symptom and Related Disorder (370)
+F45.9
+Unspecified Somatic Symptom and Related Disorder (370)
+Feeding and Eating Disorders (371)
+The following specifiers apply to Feeding and Eating Disorders where indicated:
+aSpecify if: In remission
+bSpecify if: In partial remission, In full remission
+cSpecify current severity: Mild, Moderate, Severe, Extreme
+___.__
+Picaa (371)
+F98.3
+In children
+F50.89
+In adults
+xxxvi
+F98.21
+Rumination Disordera (374)
+F50.82
+Avoidant/Restrictive Food Intake Disordera (376)
+___.__
+Anorexia Nervosab,c (381)
+Specify whether:
+F50.01
+Restricting type

@@ -1,0 +1,42 @@
+pattern of onset and remission of episodes must have occurred during at
+least a 2-year period, without any nonseasonal episodes occurring during
+this period. In addition, the seasonal depressive, manic, or hypomanic
+episodes must substantially outnumber any nonseasonal depressive, manic,
+or hypomanic episodes over the individual’s lifetime.
+ This specifier does not apply to those situations in which the pattern is
+better explained by seasonally linked psychosocial stressors (e.g., seasonal
+unemployment or school schedule). It is unclear whether a seasonal pattern
+of major depressive episodes is more likely in recurrent major depressive
+disorder or in bipolar disorders. However, within the bipolar disorders group,
+a seasonal pattern of major depressive episodes appears to be more likely
+in bipolar II disorder than in bipolar I disorder. In some individuals, the onset
+of manic or hypomanic episodes may also be linked to a particular season,
+with peak seasonality of mania or hypomania from spring through summer.
+ The prevalence of winter-type seasonal pattern appears to vary with
+latitude, age, and sex. Prevalence increases with higher latitudes. Age is
+also a strong predictor of seasonality, with younger persons at higher risk for
+winter depressive episodes.
+Specify if:
+In partial remission: Symptoms of the immediately previous manic, hypomanic,
+or major depressive episode are present but full criteria are not met, or there is a
+period lasting less than 2 months without any significant symptoms of a manic,
+hypomanic, or major depressive episode following the end of such an episode.
+In full remission: During the past 2 months, no significant signs or symptoms of
+the disturbance were present.
+Specify current severity of manic episode:
+Severity is based on the number of criterion symptoms, the severity of those
+symptoms, and the degree of functional disability.
+Mild: Minimum symptom criteria are met for a manic episode.
+Moderate: Very significant increase in activity or impairment in judgment.
+Severe: Almost continual supervision is required in order to prevent physical
+harm to self or others.
+Specify current severity of major depressive episode:
+Severity is based on the number of criterion symptoms, the severity of those
+symptoms, and the degree of functional disability.
+Mild: Few, if any, symptoms in excess of those required to make the diagnosis
+are present, the intensity of the symptoms is distressing but manageable, and
+the symptoms result in minor impairment in social or occupational functioning.
+Moderate: The number of symptoms, intensity of symptoms, and/or functional
+impairment are between those specified for “mild” and “severe.”
+Severe: The number of symptoms is substantially in excess of that required to
+make the diagnosis, the intensity of the symptoms is seriously distressing and

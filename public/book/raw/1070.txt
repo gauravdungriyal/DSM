@@ -1,0 +1,43 @@
+to antipsychotic medications that block dopamine D2 receptors. MIP occurs at higher rates with
+antipsychotics that have higher potency for the dopamine D2 receptor, such as haloperidol,
+fluphenazine, and risperidone, but there are no
+808
+differences in the clinical features of parkinsonism between first- and second-generation
+antipsychotics.
+Other medications that can cause MIP include calcium channel antagonists (e.g., flunarizine,
+cinnarizine), dopamine depleters (e.g., reserpine, tetrabenazine), antiepileptics (e.g., phenytoin,
+valproate, levetiracetam), antidepressants (e.g., selective serotonin reuptake inhibitors,
+monoamine oxidase inhibitors), lithium, chemotherapeutic drugs (e.g., cystosine arabinoside,
+cyclophosphamide, vincristine, doxorubicin, paclitaxel, etoposide), and immunosuppressants
+(e.g., cyclosporine, tacrolimus). Toxins (e.g., 1-methyl-4-phenyl-1,2,3,6-tetrahydropyridine
+[MPTP], organophosphate pesticides, manganese, methanol, cyanide, carbon monoxide, and
+carbon disulfide) may also cause MIP.
+The time course for development of MIP varies. Usually, MIP develops a few weeks after
+starting or raising the dose of a medication known to cause parkinsonism or after reducing an
+antiparkinsonian medication (e.g., an anticholinergic agent) that is being used to treat or prevent
+medication-induced dystonia or parkinsonian symptoms. However, MIP may also develop
+rapidly after starting or raising the dose of a medication or have an insidious onset after many
+months of exposure. With antipsychotic medications or other dopamine receptor blocking agents,
+MIP typically develops 2–4 weeks after starting the medication and usually by 3 months. Mainly
+with calcium channel blockers, a second peak of symptom onset is reported after about 1 year.
+Reported rates of MIP are affected by absence of standard diagnostic criteria, incorrect
+diagnosis or misattribution of MIP signs to Lewy body disease (e.g., Parkinson’s disease), or a
+psychiatric condition, and overall lack of recognition, especially in milder cases. It is estimated
+that at least 50% of outpatients receiving long-term antipsychotic treatment with typical agents
+develop parkinsonian signs or symptoms at some point in their course of treatment.
+There are no clinical characteristics that distinguish MIP reliably from Parkinson’s disease.
+Because motor signs and symptoms in Parkinson’s disease begin unilaterally and progress
+asymmetrically, the subacute onset of bilateral parkinsonism within weeks of starting an
+antipsychotic or other MIP-causing agent is highly suggestive for MIP. Parkinsonian signs are
+often symmetric in MIP, but asymmetric patterns are not uncommon and should not exclude a
+diagnosis of MIP. In addition, the course and presentation of parkinsonism should not be better
+accounted for by psychiatric phenomena, such as catatonia, negative symptoms of schizophrenia,
+or psychomotor retardation in a major depressive episode; other nonparkinsonian medication-
+induced movement disorders; another neurological or medical condition (e.g., Parkinson’s
+disease, Wilson’s disease); or antipsychotic-exacerbated Parkinson’s disease.
+In MIP, rigidity and bradykinesia are more often present, whereas tremor is somewhat less
+common and may be absent. Parkinsonian tremor, also referred to as a “pill-rolling tremor,” is a
+steady, rhythmic oscillatory movement (3–6 cycles per second) that is apparent at rest and is
+typically slower than other tremors. It may be intermittent, unilateral or bilateral, or dependent on
+limb position (i.e., positional tremor). The tremor may involve the limbs, head, jaw, mouth, lip
+(“rabbit syndrome”), or tongue. As it is present at rest, the tremor can be suppressed, especially

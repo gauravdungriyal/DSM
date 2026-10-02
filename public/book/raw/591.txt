@@ -1,0 +1,39 @@
+Persistent: Symptoms last 3 months or longer.
+Recurrent: Two (or more) episodes within the space of 1 year.
+Note: Acute and short-term insomnia (i.e., symptoms lasting less than 3 months but
+otherwise meeting all criteria with regard to frequency, intensity, distress, and/or
+impairment) should be coded as an other specified insomnia disorder.
+Note: The diagnosis of insomnia disorder is given whether it occurs as an independent
+condition or is comorbid with another mental disorder (e.g., major depressive disorder),
+medical condition (e.g., pain), or another sleep disorder (e.g., a breathing-related sleep
+disorder). For instance, insomnia may develop its own course with some anxiety and
+depressive features without those features meeting criteria for any one mental disorder.
+Insomnia may also manifest as a clinical feature of a more predominant mental disorder.
+Persistent insomnia is a risk factor for depression, anxiety disorders, and alcohol use
+disorder and is a common residual symptom after treatment for these conditions. When
+insomnia is comorbid with a mental disorder, treatment may need to target both
+conditions. Given these different courses, it is often impossible to establish the precise
+nature of the relationship between these clinical entities, and this relationship may
+change over time. Therefore, in the presence of insomnia and a comorbid disorder, it is
+not necessary to make a causal attribution between the two conditions. Rather, the
+diagnosis of insomnia disorder is made with concurrent specification of the comorbid
+conditions. A concurrent insomnia diagnosis should only be considered when the
+insomnia is sufficiently severe to warrant independent clinical attention; otherwise, no
+separate diagnosis is necessary.
+Recording Procedures
+The specifiers “with mental disorder, including substance use disorders”; “with medical
+condition”; and “with another sleep disorder” are available to allow the clinician to note
+clinically relevant comorbidities. In such cases, record F51.01 insomnia disorder, with [name of
+comorbid condition(s) or disorder(s)] followed by the diagnostic code(s) for the comorbid
+conditions or disorders (e.g., F51.01 insomnia disorder, with moderate cocaine use disorder and
+trigeminal neuralagia; F14.20 moderate cocaine use disorder; G50.0 trigeminal neuralgia).
+411
+Diagnostic Features
+The essential feature of insomnia disorder is dissatisfaction with sleep quantity or quality with
+complaints of difficulty initiating or maintaining sleep. The sleep complaints are accompanied by
+clinically significant distress or impairment in social, occupational, or other important areas of
+functioning. The sleep disturbance may occur during the course of another mental disorder or
+medical condition, or it may occur independently.
+Different manifestations of insomnia can occur at different times of the sleep period. Sleep-
+onset insomnia (or initial insomnia) involves difficulty initiating sleep at bedtime. Sleep
+maintenance insomnia (or middle insomnia) involves frequent or prolonged awakenings

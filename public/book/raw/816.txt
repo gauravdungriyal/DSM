@@ -1,0 +1,37 @@
+assaultiveness, impulsiveness, unpredictability, psychomotor agitation, impaired
+judgment) that developed during, or shortly after, phencyclidine use.
+595
+C. Within 1 hour, two (or more) of the following signs or symptoms:
+Note: When the drug is smoked, “snorted,” or used intravenously, the onset may
+be particularly rapid.
+1. Vertical or horizontal nystagmus.
+2. Hypertension or tachycardia.
+3. Numbness or diminished responsiveness to pain.
+4. Ataxia.
+5. Dysarthria.
+6. Muscle rigidity.
+7. Seizures or coma.
+8. Hyperacusis.
+D. The signs or symptoms are not attributable to another medical condition and are
+not better explained by another mental disorder, including intoxication with
+another substance.
+Coding note: The ICD-10-CM code depends on whether there is a comorbid
+phencyclidine use disorder. If a mild phencyclidine use disorder is comorbid, the
+ICD-10-CM code is F16.120, and if a moderate or severe phencyclidine use disorder
+is comorbid, the ICD-10-CM code is F16.220. If there is no comorbid phencyclidine
+use disorder, then the ICD-10-CM code is F16.920.
+Note: In addition to the section “Functional Consequences of Phencyclidine
+Intoxication,” see the corresponding section in Phencyclidine Use Disorder.
+Diagnostic Features
+Phencyclidine intoxication reflects the clinically significant behavioral changes that occur shortly
+after ingestion of this substance (or a pharmacologically similar substance). The most common
+clinical presentations of phencyclidine intoxication include disorientation; confusion without
+hallucinations; nystagmus; numbness or diminished responsiveness to pain; ataxia; dysarthria;
+muscle rigidity; hyperacusis; and coma of varying severity. Other clinically significant
+behavioral changes associated with phencyclidine intoxication include violent behavior, extreme
+agitation, persecutory delusions, euphoria, retrograde amnesia, and hypertension.
+Prevalence
+Use of phencyclidine or related substances (e.g., ketamine) may be taken as an estimate of the
+prevalence of intoxication. Phencyclidine use is rare, with < 0.1% of the U.S. population age 12
+and older reporting past 12-month use in 2018. In surveys of U.S. students and young adults
+followed up from high school, past 12-month prevalence of ketamine use, which is assessed

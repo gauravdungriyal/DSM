@@ -1,0 +1,46 @@
+Economic Problems
+These categories may be used when an economic problem is the focus of clinical attention or has
+an impact on the individual’s treatment or prognosis. Areas to be considered include lack of
+adequate food (food insecurity) or safe drinking water, extreme poverty, low income, insufficient
+social or health insurance or welfare support, or any other economic problems.
+832
+Z59.41
+Food Insecurity
+Z58.6
+Lack of Safe Drinking Water
+Z59.5
+Extreme Poverty
+Z59.6
+Low Income
+Z59.7
+Insufficient Social or Health Insurance or Welfare Support
+This category may be used for individuals who meet eligibility criteria for social or welfare
+support but are not receiving such support, who receive support that is insufficient to address
+their needs, or who otherwise lack access to needed insurance or support programs. Examples
+include inability to qualify for welfare support because of lack of proper documentation or
+evidence of address, inability to obtain adequate health insurance because of age or a preexisting
+condition, and denial of support owing to excessively stringent income or other requirements.
+Z59.9
+Other Economic Problem
+This category may be used when there is a problem related to economic circumstances other than
+as specified above.
+Problems Related to the Social Environment
+Z60.2
+Problem Related to Living Alone
+This category may be used when a problem associated with living alone is the focus of clinical
+attention or has an impact on the individual’s treatment or prognosis. Examples of such problems
+include chronic feelings of loneliness, isolation, and lack of structure in carrying out activities of
+daily living (e.g., irregular meal and sleep schedules, inconsistent performance of home
+maintenance chores).
+Z60.3
+Acculturation Difficulty
+This category may be used when difficulty in adjusting to a new culture (e.g., following
+migration) is the focus of clinical attention or has an impact on the individual’s treatment or
+prognosis.
+Z60.4
+Social Exclusion or Rejection
+This category may be used when there is an imbalance of social power such that there is
+recurrent social exclusion or rejection by others. Examples of social rejection include bullying,
+teasing, and intimidation by others; being targeted by others for verbal abuse and humiliation;
+and being purposefully excluded from the activities of peers, workmates, or others in one’s social
+environment.

@@ -1,0 +1,54 @@
+F51.5
+Nightmare Disorderb,c (457)
+Specify if: During sleep onset
+Specify if: With mental disorder, With medical condition, With another sleep disorder
+G47.52
+Rapid Eye Movement Sleep Behavior Disorder (461)
+G25.81
+Restless Legs Syndrome (464)
+xxxviii
+___.__
+Substance/Medication-Induced Sleep Disorder (468)
+Note: For applicable ICD-10-CM codes, refer to the substance classes under Substance-Related and
+Addictive Disorders for the specific substance/medication-induced sleep disorder. See also the
+criteria set and corresponding recording procedures in the manual for more information.
+Coding note: The ICD-10-CM code depends on whether or not there is a comorbid substance use
+disorder present for the same class of substance. In any case, an additional separate diagnosis of a
+substance use disorder is not given.
+Specify whether: Insomnia type, Daytime sleepiness type, Parasomnia type, Mixed type
+Specify if: With onset during intoxication, With onset during withdrawal, With onset after medication
+use
+G47.09
+Other Specified Insomnia Disorder (475)
+G47.00
+Unspecified Insomnia Disorder (475)
+G47.19
+Other Specified Hypersomnolence Disorder (475)
+G47.10
+Unspecified Hypersomnolence Disorder (476)
+G47.8
+Other Specified Sleep-Wake Disorder (476)
+G47.9
+Unspecified Sleep-Wake Disorder (476)
+Sexual Dysfunctions (477)
+The following specifiers apply to Sexual Dysfunctions where indicated:
+aSpecify whether: Lifelong, Acquired
+bSpecify whether: Generalized, Situational
+cSpecify current severity: Mild, Moderate, Severe
+F52.32
+Delayed Ejaculationa,b,c (478)
+F52.21
+Erectile Disordera,b,c (481)
+F52.31
+Female Orgasmic Disordera,b,c (485)
+Specify if: Never experienced an orgasm under any situation
+F52.22
+Female Sexual Interest/Arousal Disordera,b,c (489)
+F52.6
+Genito-Pelvic Pain/Penetration Disordera,c (493)
+F52.0
+Male Hypoactive Sexual Desire Disordera,b,c (498)
+F52.4
+Premature (Early) Ejaculationa,b,c (501)
+___.__
+Substance/Medication-Induced Sexual Dysfunctionc (504)

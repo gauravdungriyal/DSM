@@ -1,0 +1,41 @@
+Severe: Nearly constant sleepiness and, often, highly disturbed nocturnal sleep
+(which may include excessive body movement and vivid dreams). Cataplexy,
+when present, is drug-resistant, with multiple attacks daily.
+Subtypes
+A diagnosis of narcolepsy, type 1 (NT1; i.e., with cataplexy or hypocretin deficiency) is most
+often based on the presence of recurrent sleepiness and cataplexy (given the limited use of
+cerebrospinal fluid [CSF] hypocretin determinations). However, cataplexy can emerge years
+following onset of sleepiness. Therefore, some individuals may be initially assigned a diagnosis
+of narcolepsy, type 2 (NT2; i.e., without cataplexy and either without hypocretin deficiency or
+with hypocretin unmeasured), based on sleepiness and positive multiple sleep latency test
+(MSLT) findings, only to be reassigned to a diagnosis of NT1 following emergence of cataplexy.
+NT1 established by demonstration of low CSF hypocretin levels may manifest without evidence
+of clear cataplexy. Other explanations for excessive daytime sleepiness (e.g., sleep deprivation,
+shift work, other sleep disorders) and episodes of sudden loss of muscle tone (e.g., seizures, falls
+of other origin, functional neurological symptom disorder [conversion disorder]) should be ruled
+out. NT2 is established on the basis of chronic sleepiness and characteristic nocturnal sleep
+polysomnography findings (e.g., short REM sleep latency) or MSLT findings showing short
+mean sleep latency and two or more sleep-onset REM periods (SOREMPs).
+NT1 and NT2 can result from other neurological, infectious, metabolic, and genetic
+conditions. Inherited disorders, tumors, and head trauma are the most common causes of
+secondary narcolepsy. In other cases, the destruction of hypocretin neurons may be secondary to
+trauma or hypothalamic surgery. Head trauma or infections of the central nervous system can,
+however, produce transitory decreases in CSF hypocretin-1 levels without hypocretin cell loss,
+complicating the diagnosis.
+Other etiologies include inflammatory lesions due to multiple sclerosis and acute
+disseminated encephalomyelitis, vascular disorders such as stroke, and encephalitis. Autosomal
+dominant cerebellar ataxia, deafness, and narcolepsy, or ADCA DN, is a familial degenerative
+disorder due to missense mutations of the DNA methyltransferase (DNMT1) gene. Cataplexy
+with some degree of sleepiness can be caused by other neurological conditions, including Prader-
+Willi syndrome, Niemann-Pick disease type C, Möbius syndrome, and Norrie disease.
+Hypocretin deficiency has been reported in Parkinson’s disease as well. NT2-like physiology has
+been reported in myotonic dystrophy and Prader-Willi syndrome.
+Diagnostic Features
+The essential features of narcolepsy are recurrent daytime naps or lapses into sleep that occur
+typically daily but that must occur at a minimum of three times a week for at least 3 months
+(Criterion A), and are accompanied by one or more of the following: cataplexy (Criterion B1),
+hypocretin deficiency (Criterion B2), or characteristic abnormalities on a nocturnal
+polysomnogram or on the MSLT (Criterion B3). In most individuals with NT1, the first
+symptom to manifest is sleepiness or increased sleep need, followed by cataplexy. Sleepiness is
+worse in sedentary circumstances and typically is relieved by brief (10–20 minutes) naps.
+NT1 generally manifests with cataplexy, typically brief episodes (seconds up to 2 minutes) of

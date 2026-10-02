@@ -1,0 +1,48 @@
+prescribed), no accompanying substance use disorder is noted (e.g., F19.982 bupropion-induced
+sleep disorder, with onset during medication use, insomnia type). When more than one substance
+is judged to play a significant role in the development of the sleep disturbance, each should be
+listed separately (e.g., F10.282 severe alcohol use disorder with alcohol-induced sleep disorder,
+with onset during intoxication, insomnia type; F14.282 severe cocaine use disorder with cocaine-
+induced sleep disorder, with onset during intoxication, insomnia type).
+Specifiers
+Depending on the substance involved, one of four types of sleep disturbances is indicated.
+Insomnia type and daytime sleepiness type are most common, whereas parasomnia type is seen
+less often. The mixed type is noted when more than one type of sleep disturbance–related
+symptom is present and none predominates.
+Diagnostic Features
+The essential feature of substance/medication-induced sleep disorder is a prominent sleep
+disturbance that is sufficiently severe to warrant independent clinical attention (Criterion A). The
+sleep disturbance may be characterized by insomnia, daytime sleepiness, a parasomnia, or some
+combination of these. The sleep disturbance is judged to be primarily associated with the
+pharmacological effects of a substance (i.e., a drug of abuse, a medication, toxin exposure)
+(Criterion B). The disturbance must not be better explained by another sleep disorder that is not
+substance/medication-induced (Criterion C). A substance/medication-induced sleep disorder is
+distinguished from insomnia disorder or a disorder associated with excessive daytime sleepiness
+by considering onset and course. For drugs of abuse, there must be evidence of intoxication or
+withdrawal 
+from 
+the 
+history, 
+physical 
+examination, 
+or 
+laboratory 
+findings.
+Substance/medication-induced sleep disorder arises only in association with intoxication or
+discontinuation/withdrawal states, whereas other sleep disorders may precede the onset of
+substance use or occur during times of sustained abstinence. As discontinuation/withdrawal
+states for some substances can be protracted, onset of the sleep disturbance can occur 4 weeks
+after cessation of substance use, and the disturbance may have features atypical of other sleep
+disorders (e.g., atypical age at onset or course). The diagnosis is not made if the sleep
+disturbance occurs only during a delirium (Criterion D). The symptoms must cause clinically
+significant distress or impairment in social, occupational, or other important areas of functioning
+(Criterion E). This diagnosis should be made instead of a diagnosis of substance intoxication or
+substance withdrawal only when the symptoms in Criterion A predominate in the clinical picture
+and when the symptoms warrant independent clinical attention.
+471
+Associated Features
+During periods of substance/medication use, intoxication, or withdrawal, individuals frequently
+complain of dysphoric mood, including depression and anxiety, irritability, cognitive
+impairment, inability to concentrate, and fatigue.
+Prominent and severe sleep disturbances can occur in association with intoxication with the
+following classes of substances: alcohol; caffeine; cannabis; opioids; sedatives, hypnotics, or

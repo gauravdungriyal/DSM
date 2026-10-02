@@ -1,0 +1,40 @@
+should be considered “principal” for an individual hospitalized with both schizophrenia and
+alcohol use disorder, because each condition may have contributed equally to the need for
+admission and treatment. The principal diagnosis is indicated by listing it first, and the remaining
+disorders are listed in order of focus of attention and treatment. When the principal diagnosis or
+reason for visit is a mental disorder due to another medical condition (e.g., major neurocognitive
+disorder due to Alzheimer’s disease, psychotic disorder due to malignant lung neoplasm), ICD
+coding rules require that the etiological medical condition be listed first. In that case, the
+principal diagnosis or reason for visit would be the mental disorder due to the medical condition,
+the second listed diagnosis. For maximum clarity, the disorder listed as the principal diagnosis or
+the reason for visit can be followed by the qualifying phrase “(principal diagnosis)” or “(reason
+for visit).”
+Provisional Diagnosis
+The modifier “provisional” can be used when there is currently insufficient information to
+indicate that the diagnostic criteria are met, but there is a strong presumption that the information
+will become available to allow that determination. The clinician can indicate the diagnostic
+uncertainty by recording “(provisional)” following the diagnosis. For example, this modifier
+might be used when an individual who appears to have a presentation consistent with a diagnosis
+of current major depressive disorder is unable to give an adequate history, but it is expected that
+such information will become available after interviewing an informant or reviewing medical
+records. Once that information becomes available and confirms that the diagnostic criteria were
+met, the modifier “(provisional)” would be removed. Another use of “provisional” is for those
+situations in which differential diagnosis depends exclusively on whether the duration of illness
+does not exceed an upper limit as required by the diagnostic criteria. For example, a diagnosis of
+schizophreniform disorder requires a duration of at least 1 month but less than 6 months. If an
+individual currently has symptoms consistent with a diagnosis of schizophreniform disorder
+except that the ultimate duration is unknown because the symptoms are still ongoing, the
+modifier “(provisional)” would be applied and then removed if the symptoms remit within a
+period of 6 months. If they do not remit, the diagnosis would be changed to schizophrenia.
+25
+Notes About Terminology
+Substance/Medication-Induced Mental Disorder
+The term “substance/medication-induced mental disorder” refers to symptomatic presentations
+that are due to the physiological effects of an exogenous substance on the central nervous
+system, including symptoms that develop during withdrawal from an exogenous substance that is
+capable of causing physiological dependence. Such exogenous substances include typical
+intoxicants (e.g., alcohol, inhalants, hallucinogens, cocaine), psychotropic medications (e.g.,
+stimulants; sedatives, hypnotics, anxiolytics), other medications (e.g., steroids), and
+environmental toxins (e.g., organophosphate insecticides). Editions of DSM from DSM-III to
+DSM-IV referred to these as “substance-induced mental disorders.” To emphasize that
+medications and not just substances of abuse can cause psychiatric symptoms, the term was

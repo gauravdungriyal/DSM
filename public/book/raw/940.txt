@@ -1,0 +1,40 @@
+b. Severe neuroleptic sensitivity.
+D. The disturbance is not better explained by cerebrovascular disease, another
+neurodegenerative disease, the effects of a substance, or another mental,
+neurological, or systemic disorder.
+Coding note (see coding table on pp. 682–683):
+For major neurocognitive disorder with probable or possible Lewy bodies, with
+behavioral disturbance, code first G31.83 Lewy body disease, followed by F02.81.
+700
+For major neurocognitive disorder with probable or possible Lewy bodies, without
+behavioral disturbance, code first G31.83 Lewy body disease, followed by F02.80.
+Note: The severity specifiers “mild,” “moderate,” and “severe” cannot be coded for
+major neurocognitive disorder but should still be recorded.
+For mild neurocognitive disorder with Lewy bodies, code G31.84. (Note: Do not use
+the additional code for Lewy body disease. “With behavioral disturbance” and
+“without behavioral disturbance” cannot be coded but should still be recorded.)
+For major or mild neurocognitive disorder with Lewy bodies: Use additional code(s)
+to indicate clinically significant psychiatric symptoms due to Lewy body disease (e.g.,
+F06.0 psychotic disorder due to Lewy body disease, with hallucinations; F06.31
+depressive disorder due to Lewy body disease, with depressive features).
+Diagnostic Features
+Major neurocognitive disorder with Lewy bodies corresponds to the condition known as
+dementia with Lewy bodies (DLB). The overall major or mild neurocognitive disorder with
+Lewy bodies (NCDLB) category includes not only progressive cognitive impairment (with early
+changes in attention, executive function, and visuoperceptual ability, rather than learning and
+memory) but also recurrent, complex, visual hallucinations; and concurrent symptoms of rapid
+eye movement (REM) sleep behavior disorder (which can be a very early manifestation); as well
+as hallucinations in other sensory modalities, apathy, anxiety, depression, and delusions. The
+cognitive symptoms may fluctuate in a pattern that can resemble a delirium, for which an
+adequate precipitating factor may or may not be found. The variable presentation of NCDLB
+symptoms reduces the likelihood of all symptoms being observed in a brief clinic visit and
+necessitates a thorough assessment, including caregiver observations. The use of assessment
+scales specifically designed to assess fluctuation may aid in diagnosis. Another core feature is
+spontaneous parkinsonism; this can often be relatively mild, and the degree of response to
+levodopa therapy is variable. Up to 25% of individuals with probable NCDLB may never
+develop extrapyramidal signs, and they are not essential for diagnosis. The parkinsonism must be
+distinguished from neuroleptic-induced extrapyramidal signs. Accurate diagnosis is essential to
+safe treatment planning, as up to 50% of individuals with NCDLB have severe sensitivity to
+neuroleptic drugs, and these medications should be used with extreme caution in individuals
+suspected of having an NCDLB diagnosis.
+The diagnosis of mild NCDLB is appropriate for individuals who present with the core

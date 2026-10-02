@@ -1,0 +1,39 @@
+disturbance, code first A81.9 prion disease, followed by F02.80 major neurocognitive
+disorder due to prion disease, without behavioral disturbance.
+Note: The severity specifiers “mild,” “moderate,” and “severe” cannot be coded for
+major neurocognitive disorder but should still be recorded.
+For mild neurocognitive disorder due to prion disease, code G31.84. (Note: Do not
+use the additional code for prion disease. “With behavioral disturbance” and “without
+behavioral disturbance” cannot be coded but should still be recorded.)
+For major or mild neurocognitive disorder due to prion disease: Use additional
+code(s) to indicate clinically significant psychiatric symptoms due to prion disease
+(e.g., F06.2 psychotic disorder due to prion disease, with delusions; F06.32
+depressive disorder due to prion disease with major depressive–like episode).
+Diagnostic Features
+The classification of major or mild neurocognitive disorder (NCD) due to prion disease includes
+NCDs due to a group of subacute spongiform encephalopathies (including sporadic Creutzfeldt-
+Jakob disease, genetic Creutzfeldt-Jakob disease, iatrogenic Creutzfeldt-Jakob disease, variant
+Creutzfeldt-Jakob disease, variably protease-sensitive prionopathy,
+722
+kuru [found among the Fore people in Papua New Guinea], Gerstmann-Sträussler-Scheinker
+syndrome, and fatal insomnia) caused by transmissible agents known as prions. Given that the
+most common type is sporadic Creutzfeldt-Jakob disease, it is typically referred to as simply
+Creutzfeldt-Jakob disease (CJD). Variant CJD is much rarer and is associated with transmission
+of bovine spongiform encephalopathy, also called “mad cow disease.” Typically, individuals
+with CJD present with neurocognitive deficits, ataxia, and abnormal movements such as
+myoclonus, chorea, or dystonia; a startle reflex is also common. The history often reveals rapid
+progression to major NCD over as little as 6 months, and thus the disorder is typically seen only
+at the major level. However, many individuals with the disorder may have atypical presentations,
+and the disease can be confirmed only by biopsy or at autopsy. For example, individuals with
+variant CJD may present with a greater preponderance of psychiatric symptoms than do
+individuals with other types of prion disease, characterized by low mood, withdrawal, and
+anxiety. Although biomarker evidence is not necessarily required for the diagnosis if the motor
+features of prion disease (e.g., myoclonus, ataxia) are present, confidence that the NCD is due to
+prion disease is greatly increased if characteristic biomarkers are present.
+Prevalence
+Prevalence is unknown but very low given the short survival. Based on data from nine high-
+income countries, the annual incidence of sporadic CJD is approximately one or two cases per
+million people. Incidence varies by age and is highest in those age 65 years or older
+(4.8/1,000,000 individuals) and is higher in Whites compared with Blacks. Incidence among
+ethnic Chinese in Taiwan is lower than general population rates in the United States and other
+reporting countries.

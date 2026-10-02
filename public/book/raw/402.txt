@@ -1,0 +1,61 @@
+Independent anxiety disorder (i.e., not induced by a substance/medication).
+Delirium.
+Anxiety disorder due to another medical condition.
+F06.4
+or with onset during withdrawal should be made instead of a diagnosis of substance intoxication
+or substance withdrawal when the panic or anxiety symptoms are predominant in the clinical
+picture and are sufficiently severe to warrant clinical attention. For example, panic or anxiety
+symptoms are characteristic of alcohol withdrawal.
+An 
+independent 
+anxiety
+disorder 
+co-occurring 
+with 
+substance/medication 
+use 
+is 
+distinguished 
+from 
+a
+substance/medication-induced 
+anxiety 
+disorder 
+by 
+the 
+fact 
+that 
+even 
+though 
+a
+substance/medication may be taken in high enough amounts to be possibly etiologically related
+to the anxiety symptoms, the anxiety symptoms are observed at times other than during
+substance/medication use (i.e., preceding the onset of substance/medication use or persisting for
+a substantial period of time after substance intoxication, substance withdrawal, or medication
+use) and would warrant the diagnosis of an independent anxiety disorder.
+If panic or anxiety symptoms occur exclusively during the course of delirium, they are
+considered to be an associated feature of the delirium and are not diagnosed separately.
+If the panic or anxiety symptoms are attributed to
+the physiological consequences of another medical condition (i.e., rather than to the medication
+taken for the medical condition), anxiety disorder due to another medical condition should be
+diagnosed. The history often provides the basis for such a judgment. At times, a change in the
+treatment for the other medical condition (e.g., medication substitution or discontinuation) may
+be needed to determine whether the medication is the causative agent (in which case the
+symptoms may be better explained by substance/medication-induced anxiety disorder). If the
+disturbance is attributable to both another medical condition and substance use, both diagnoses
+(i.e., anxiety disorder due to another medical condition and substance/medication-induced
+anxiety disorder) may be given. When there is insufficient evidence to determine whether the
+panic or anxiety symptoms are attributable to a substance/medication or to another medical
+condition or are primary (i.e., not attributable to either a substance or another medical condition),
+a diagnosis of other specified or unspecified anxiety disorder would be indicated.
+Anxiety Disorder Due to Another Medical Condition
+Diagnostic Criteria
+A. Panic attacks or anxiety is predominant in the clinical picture.
+B. There is evidence from the history, physical examination, or laboratory findings
+that the disturbance is the direct pathophysiological consequence of another
+medical condition.
+C. The disturbance is not better explained by another mental disorder.
+D. The disturbance does not occur exclusively during the course of a delirium.
+E. The disturbance causes clinically significant distress or impairment in social,
+occupational, or other important areas of functioning.
+Coding note: Include the name of the other medical condition within the name of the

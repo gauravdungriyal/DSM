@@ -1,0 +1,39 @@
+6. Difficulties with mathematical reasoning (e.g., has severe difficulty applying
+mathematical concepts, facts, or procedures to solve quantitative problems).
+B. The affected academic skills are substantially and quantifiably below those
+expected for the individual’s chronological age, and cause significant
+interference with academic or occupational performance, or with activities of
+daily living, as confirmed by individually administered standardized achievement
+measures and comprehensive clinical assessment. For individuals age 17 years
+and older, a documented history of impairing learning difficulties may be
+substituted for the standardized assessment.
+C. The learning difficulties begin during school-age years but may not become fully
+manifest until the demands for those affected academic skills exceed the
+individual’s limited capacities (e.g., as in timed tests, reading or writing lengthy
+complex reports for a tight deadline, excessively heavy academic loads).
+D. The learning difficulties are not better accounted for by intellectual disabilities,
+uncorrected visual or auditory acuity, other mental or neurological disorders,
+psychosocial adversity, lack of proficiency in the language of academic
+instruction, or inadequate educational instruction.
+Note: The four diagnostic criteria are to be met based on a clinical synthesis of the
+individual’s history (developmental, medical, family, educational), school reports, and
+psychoeducational assessment.
+Coding note: Specify all academic domains and subskills that are impaired. When
+more than one domain is impaired, each one should be coded individually according
+to the following specifiers.
+Specify if:
+F81.0 With impairment in reading:
+Word reading accuracy
+Reading rate or fluency
+Reading comprehension
+78
+Note: Dyslexia is an alternative term used to refer to a pattern of learning
+difficulties characterized by problems with accurate or fluent word recognition,
+poor decoding, and poor spelling abilities. If dyslexia is used to specify this
+particular pattern of difficulties, it is important also to specify any additional
+difficulties that are present, such as difficulties with reading comprehension or
+math reasoning.
+F81.81 With impairment in written expression:
+Spelling accuracy
+Grammar and punctuation accuracy
+Clarity or organization of written expression

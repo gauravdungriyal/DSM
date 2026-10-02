@@ -1,0 +1,38 @@
+F95.0
+C. Onset is before age 18 years.
+D. The disturbance is not attributable to the physiological effects of a substance
+(e.g., cocaine) or another medical condition (e.g., Huntington’s disease, postviral
+encephalitis).
+E. Criteria have never been met for Tourette’s disorder.
+Specify if:
+With motor tics only
+With vocal tics only
+Provisional Tic Disorder
+A. Single or multiple motor and/or vocal tics.
+B. The tics have been present for less than 1 year since first tic onset.
+C. Onset is before age 18 years.
+D. The disturbance is not attributable to the physiological effects of a substance
+(e.g., cocaine) or another medical condition (e.g., Huntington’s disease, postviral
+encephalitis).
+E. Criteria have never been met for Tourette’s disorder or persistent (chronic) motor
+or vocal tic disorder.
+Specifiers
+The “motor tics only” or “vocal tics only” specifier is only required for persistent (chronic)
+motor or vocal tic disorder.
+Diagnostic Features
+Tic disorders comprise five diagnostic categories: Tourette’s disorder, persistent (chronic) motor
+or vocal tic disorder, provisional tic disorder, and the other specified and unspecified tic
+disorders. Diagnosis for any of the specific tic disorders is based on the presence of motor and/or
+vocal tics (Criterion A), duration of tics (Criterion B), age at onset (Criterion C), and absence of
+any known cause such as another medical condition or substance use (Criterion D). The tic
+disorder diagnoses are hierarchical in order (i.e., Tourette’s disorder, followed by persistent
+[chronic] motor or vocal tic disorder, followed by provisional tic
+94
+disorder, followed by the other specified and unspecified tic disorders). Once a tic disorder at
+one level of the hierarchy is diagnosed, a lower hierarchy diagnosis cannot be made (Criterion
+E).
+Tics are typically sudden, rapid, recurrent, nonrhythmic motor movements or vocalizations.
+Some motor tics can be slower twisting or tightening movements that occur over varying lengths
+of time. An individual may exhibit various tics over time, but, at any point in time, the tic
+repertoire may recur in a characteristic fashion. Although tics can include almost any muscle
+group or vocalization, certain tics, such as eye blinking or throat clearing, are common across

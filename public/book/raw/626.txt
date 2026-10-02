@@ -1,0 +1,36 @@
+benzodiazepines, opiates). It also occurs with obesity (obesity hypoventilation
+disorder), where it reflects a combination of increased work of breathing due to
+reduced chest wall compliance and ventilation-perfusion mismatch and variably
+reduced ventilatory drive. Such individuals usually are characterized by body
+mass index of greater than 30 and hypercapnia during wakefulness (with a pCO2
+of greater than 45), without other evidence of hypoventilation.
+440
+Specify current severity:
+Severity is graded according to the degree of hypoxemia and hypercarbia
+present during sleep and evidence of end organ impairment due to these
+abnormalities (e.g., right-sided heart failure). The presence of blood gas
+abnormalities during wakefulness is an indicator of greater severity.
+Subtypes
+Subtypes of sleep-related hypoventilation include the following:
+Idiopathic hypoventilation, also referred to as idiopathic central alveolar hypoventilation, is characterized by reduction of
+tidal volume and elevated CO2 during sleep, in the absence of any identifiable comorbidity that would account for the
+hypoventilation.
+Congenital central alveolar hypoventilation is a rare disorder associated with mutation of the gene PHOX2B. It typically
+manifests at birth.
+Comorbid sleep-related hypoventilation is due to one of numerous potential comorbidities, including pulmonary disease
+(e.g., chronic obstructive pulmonary disease [COPD]), chest wall abnormalities (e.g., kyphoscoliosis), neuromuscular
+disease (e.g., amyotrophic lateral sclerosis), and obesity (referred to as obesity hypoventilation), as well as use of
+medications or substances, especially opioids.
+Diagnostic Features
+Sleep-related hypoventilation can occur independently or, more frequently, comorbid with
+medical or neurological disorders, medication use, or substance use disorder. Although
+symptoms are not mandatory to make this diagnosis, individuals often report excessive daytime
+sleepiness, frequent arousals and awakenings during sleep, morning headaches, and insomnia
+complaints.
+Associated Features
+Individuals with sleep-related hypoventilation can present with sleep-related complaints of
+insomnia or sleepiness. Episodes of orthopnea can occur in individuals with diaphragm
+weakness. Headaches upon awakening may be present. During sleep, episodes of shallow
+breathing may be observed, and obstructive sleep apnea hypopnea or central sleep apnea may
+coexist. Consequences of ventilatory insufficiency, including pulmonary hypertension, cor
+pulmonale (right heart failure), polycythemia, and neurocognitive dysfunction, can be present.

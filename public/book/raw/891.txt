@@ -1,0 +1,46 @@
+For other (or unknown) substance intoxication, without perceptual
+disturbances: If a mild other (or unknown) substance use disorder is comorbid,
+the ICD-10-CM code is F19.120, and if a moderate or severe other (or unknown)
+substance use disorder is comorbid, the ICD-10-CM code is F19.220. If there is
+no comorbid other (or unknown) substance use disorder, then the ICD-10-CM
+code is F19.920.
+For 
+other 
+(or 
+unknown) 
+substance 
+intoxication, 
+with 
+perceptual
+disturbances: If a mild other (or unknown) substance use disorder is comorbid,
+the ICD-10-CM code is F19.122, and if a moderate or severe other (or unknown)
+substance use disorder is comorbid, the ICD-10-CM code is F19.222. If there is
+no comorbid other (or unknown) substance use disorder, then the ICD-10-CM
+code is F19.922.
+Note: For information on Risk and Prognostic Factors, Culture-Related Diagnostic
+Issues, and Diagnostic Markers, see the corresponding sections in Other (or Unknown)
+Substance Use Disorder.
+657
+Diagnostic Features
+The essential feature of other (or unknown) substance intoxication is the presence of clinically
+significant behavioral or psychological changes that develop during, or immediately after, use of
+either a) a substance not included within one of the nine substance classes presented in this
+chapter (i.e., alcohol; caffeine; cannabis; phencyclidine and other hallucinogens; inhalants;
+opioids; sedatives, hypnotics, or anxiolytics; stimulants; or tobacco) or b) an unknown substance.
+If the substance is known, it should be reflected in the name of the disorder upon coding (e.g.,
+“kava intoxication”).
+Application of the diagnostic criteria for other (or unknown) substance intoxication is very
+challenging. Criterion A requires development of a reversible “substance-specific syndrome,”
+but if the substance is unknown, that syndrome usually will be unknown. To resolve this conflict,
+clinicians may ask the individual or obtain collateral history as to whether the individual has
+experienced a similar episode after using substances with the same “street” name or from the
+same source. Similarly, hospital emergency departments sometimes recognize over a few days
+numerous presentations of a severe, unfamiliar intoxication syndrome from a newly available,
+previously unknown substance. Because of the great variety of intoxicating substances, Criterion
+B can provide only broad examples of signs and symptoms from some intoxications, with no
+threshold for the number of symptoms required for a diagnosis; clinical judgment guides those
+decisions. Criterion C requires ruling out other medical conditions, mental disorders, or
+intoxications.
+Prevalence
+The prevalence of other (or unknown) substance intoxication is unknown.
+Development and Course

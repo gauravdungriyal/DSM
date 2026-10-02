@@ -1,0 +1,45 @@
+condition and substance/medication-induced depressive disorder) may be given. When there is
+insufficient evidence to determine whether the depressive symptoms are associated with
+substance (including a medication) ingestion or withdrawal or with another medical condition or
+are independent (i.e., not a function of either a substance or another medical condition), a
+diagnosis of other specified depressive disorder or unspecified depressive disorder is indicated.
+206
+Comorbidity
+In one study using DSM-IV, comparing individuals with independent major depressive disorder
+and no comorbid substance use disorder and individuals with substance/medication-induced
+depressive disorder, those with substance/medication-induced depressive disorder had higher
+rates of comorbidity with any DSM-IV mental disorder; were more likely to have specific
+disorders of tobacco use disorder, gambling disorder, and antisocial personality disorder; and
+were less likely to have persistent depressive disorder. Compared with individuals with major
+depressive 
+disorder 
+and 
+a 
+comorbid 
+substance 
+use 
+disorder, 
+individuals 
+with
+substance/medication-induced depressive disorder are more likely to have alcohol or other
+substance use disorder; however, they are less likely to have persistent depressive disorder.
+Depressive Disorder Due to Another Medical Condition
+Diagnostic Criteria
+A. A prominent and persistent disturbance in mood that predominates in the clinical
+picture and is characterized by depressed mood or markedly diminished interest
+or pleasure in all, or almost all, activities.
+B. There is evidence from the history, physical examination, or laboratory findings
+that the disturbance is the direct pathophysiological consequence of another
+medical condition.
+C. The disturbance is not better explained by another mental disorder (e.g.,
+adjustment disorder, with depressed mood, in which the stressor is a serious
+medical condition).
+D. The disturbance does not occur exclusively during the course of a delirium.
+E. The disturbance causes clinically significant distress or impairment in social,
+occupational, or other important areas of functioning.
+Coding note: The ICD-10-CM code depends on the specifier (see below).
+Specify if:
+F06.31 With depressive features: Full criteria are not met for a major
+depressive episode.
+F06.32 With major depressive–like episode: Full criteria are met (except
+Criterion C) for a major depressive episode.

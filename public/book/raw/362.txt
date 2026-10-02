@@ -1,0 +1,41 @@
+medical care; or F40.233 fear of injury.
+F40.248 Situational (e.g., airplanes, elevators, enclosed places).
+F40.298 Other (e.g., situations that may lead to choking or vomiting; in children,
+e.g., loud sounds or costumed characters).
+Coding note: When more than one phobic stimulus is present, code all ICD-10-CM
+codes that apply (e.g., for fear of snakes and flying, F40.218 specific phobia, animal,
+and F40.248 specific phobia, situational).
+Specifiers
+It is common for individuals to have multiple specific phobias. The average individual with
+specific phobia fears three objects or situations, and approximately 75% of individuals with
+specific phobia fear more than one situation or object. In such cases, multiple specific phobia
+diagnoses, each with its own diagnostic code reflecting the phobic stimulus, would need to be
+given. For example, if an individual fears thunderstorms and flying, then two diagnoses would be
+given: specific phobia, natural environment, and specific phobia, situational.
+Diagnostic Features
+A key feature of this disorder is that the fear or anxiety is circumscribed to the presence of a
+particular situation or object (Criterion A), which may be termed the phobic stimulus. The
+categories of feared situations or objects are provided as specifiers. Many individuals fear objects
+or situations from more than one category, or phobic stimulus. For the diagnosis of specific
+phobia, the response must differ from normal, transient fears that commonly occur in the
+population. To meet the criteria for a diagnosis, the fear or anxiety must be intense or severe (i.e.,
+“marked”) (Criterion A). The amount of fear experienced may vary with proximity to the feared
+object or situation and may occur in anticipation of or in the actual presence of the object or
+situation. Also, the fear or anxiety may take the form of a full or limited symptom panic attack
+(i.e., expected panic attack). Another characteristic of specific phobias is that fear or anxiety is
+evoked nearly every time the individual comes into contact with the phobic stimulus (Criterion
+B). Thus, an individual who becomes anxious only occasionally upon being confronted with the
+situation or object (e.g., becomes anxious when flying only on one out of every five airplane
+flights) would not be diagnosed with specific phobia. However, the degree of fear or anxiety
+expressed may vary (from anticipatory anxiety to a full panic attack) across different occasions
+of encountering the phobic object or situation because of various contextual factors such as the
+presence of others, duration of exposure, and other threatening elements such as turbulence on a
+flight for individuals who fear flying. Fear and anxiety are often expressed differently between
+children and adults. Also, the fear or anxiety occurs as soon as the phobic object or situation is
+encountered (i.e., immediately rather than being delayed).
+The individual actively avoids the situation, or if he or she either is unable or decides not to
+avoid it, the situation or object evokes intense fear or anxiety (Criterion C). Active avoidance
+means the individual intentionally behaves in ways that are designed to prevent or minimize
+contact with phobic objects or situations (e.g., takes tunnels instead of bridges on daily commute
+to work for fear of heights; avoids entering a dark room for fear of spiders; avoids accepting a
+job in a locale where a phobic stimulus is more common). Avoidance behaviors are often

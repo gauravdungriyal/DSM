@@ -1,0 +1,84 @@
+R41.83
+Borderline intellectual functioning
+R41.9
+Unspecified neurocognitive disorder
+R45.88
+Current nonsuicidal self-injury
+Current suicidal behavior
+T14.91A
+Initial encounter
+T14.91D
+Subsequent encounter
+T43.205A
+Antidepressant discontinuation syndrome, Initial encounter
+T43.205D
+Antidepressant discontinuation syndrome, Subsequent encounter
+T43.205S
+Antidepressant discontinuation syndrome, Sequelae
+T50.905A
+Other adverse effect of medication, Initial encounter
+T50.905D
+Other adverse effect of medication, Subsequent encounter
+T50.905S
+Other adverse effect of medication, Sequelae
+T74.01XA
+Spouse or partner neglect, Confirmed, Initial encounter
+T74.01XD
+Spouse or partner neglect, Confirmed, Subsequent encounter
+T74.02XA
+Child neglect, Confirmed, Initial encounter
+T74.02XD
+Child neglect, Confirmed, Subsequent encounter
+T74.11XA
+Adult physical abuse by nonspouse or nonpartner, Confirmed, Initial encounter
+T74.11XA
+Spouse or partner violence, Physical, Confirmed, Initial encounter
+T74.11XD
+Adult physical abuse by nonspouse or nonpartner, Confirmed, Subsequent encounter
+T74.11XD
+Spouse or partner violence, Physical, Confirmed, Subsequent encounter
+T74.12XA
+Child physical abuse, Confirmed, Initial encounter
+T74.12XD
+Child physical abuse, Confirmed, Subsequent encounter
+T74.21XA
+Adult sexual abuse by nonspouse or nonpartner, Confirmed, Initial encounter
+T74.21XA
+Spouse or partner violence, Sexual, Confirmed, Initial encounter
+T74.21XD
+Adult sexual abuse by nonspouse or nonpartner, Confirmed, Subsequent encounter
+979
+T74.21XD
+Spouse or partner violence, Sexual, Confirmed, Subsequent encounter
+T74.22XA
+Child sexual abuse, Confirmed, Initial encounter
+T74.22XD
+Child sexual abuse, Confirmed, Subsequent encounter
+T74.31XA
+Adult psychological abuse by nonspouse or nonpartner, Confirmed, Initial encounter
+T74.31XA
+Spouse or partner abuse, Psychological, Confirmed, Initial encounter
+T74.31XD
+Adult psychological abuse by nonspouse or nonpartner, Confirmed, Subsequent encounter
+T74.31XD
+Spouse or partner abuse, Psychological, Confirmed, Subsequent encounter
+T74.32XA
+Child psychological abuse, Confirmed, Initial encounter
+T74.32XD
+Child psychological abuse, Confirmed, Subsequent encounter
+T76.01XA
+Spouse or partner neglect, Suspected, Initial encounter
+T76.01XD
+Spouse or partner neglect, Suspected, Subsequent encounter
+T76.02XA
+Child neglect, Suspected, Initial encounter
+T76.02XD
+Child neglect, Suspected, Subsequent encounter
+T76.11XA
+Adult physical abuse by nonspouse or nonpartner, Suspected, Initial encounter
+T76.11XA
+Spouse or partner violence, Physical, Suspected, Initial encounter
+T76.11XD
+Adult physical abuse by nonspouse or nonpartner, Suspected, Subsequent encounter
+T76.11XD
+Spouse or partner violence, Physical, Suspected, Subsequent encounter

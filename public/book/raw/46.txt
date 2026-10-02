@@ -1,0 +1,62 @@
+F32.0
+Mild
+F32.1
+Moderate
+F32.2
+Severe
+F32.3
+With psychotic features
+F32.4
+In partial remission
+F32.5
+In full remission
+F32.9
+Unspecified
+xxxii
+___.__
+Recurrent episode
+F33.0
+Mild
+F33.1
+Moderate
+F33.2
+Severe
+F33.3
+With psychotic features
+F33.41
+In partial remission
+F33.42
+In full remission
+F33.9
+Unspecified
+F34.1
+Persistent Depressive Disorder (193)
+Specify: With anxious distress (specify current severity: mild, moderate, moderate-severe, severe);
+With atypical features
+Specify if: In partial remission, In full remission
+Specify if: Early onset, Late onset
+Specify if: With pure dysthymic syndrome; With persistent major depressive episode; With intermittent
+major depressive episodes, with current episode; With intermittent major depressive episodes,
+without current episode
+Specify current severity: Mild, Moderate, Severe
+F32.81
+Premenstrual Dysphoric Disorder (197)
+___.__
+Substance/Medication-Induced Depressive Disorder (201)
+Note: For applicable ICD-10-CM codes, refer to the substance classes under Substance-Related and
+Addictive Disorders for the specific substance/medication-induced depressive disorder. See also the
+criteria set and corresponding recording procedures in the manual for more information.
+Coding note: The ICD-10-CM code depends on whether or not there is a comorbid substance use
+disorder present for the same class of substance. In any case, an additional separate diagnosis of a
+substance use disorder is not given.
+Specify if: With onset during intoxication, With onset during withdrawal, With onset after medication
+use
+___.__
+Depressive Disorder Due to Another Medical Condition (206)
+Specify if:
+F06.31
+With depressive features
+F06.32
+With major depressive–like episode
+F06.34
+With mixed features

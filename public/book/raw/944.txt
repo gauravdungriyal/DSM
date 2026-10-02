@@ -1,0 +1,41 @@
+1. Clinical criteria are supported by neuroimaging evidence of significant
+parenchymal injury attributed to cerebrovascular disease (neuroimaging-
+supported).
+2. The neurocognitive syndrome is temporally related to one or more documented
+cerebrovascular events.
+3. Both clinical and genetic (e.g., cerebral autosomal dominant arteriopathy with
+subcortical infarcts and leukoencephalopathy) evidence of cerebrovascular
+disease is present.
+Possible vascular neurocognitive disorder is diagnosed if the clinical criteria are
+met but neuroimaging is not available and the temporal relationship of the
+neurocognitive syndrome with one or more cerebrovascular events is not
+established.
+Coding note (see coding table on pp. 682–683):
+For major neurocognitive disorder probably or possibly due to vascular disease, with
+behavioral disturbance, code F01.51.
+For major neurocognitive disorder probably or possibly due to vascular disease,
+without behavioral disturbance, code F01.50.
+An additional medical code for the vascular disease is not used.
+Note: The severity specifiers “mild,” “moderate,” and “severe” cannot be coded for
+major neurocognitive disorder but should still be recorded.
+For mild vascular neurocognitive disorder, code G31.84. (Note: Do not use an
+additional code for the vascular disease. “With behavioral disturbance” and “without
+behavioral disturbance” cannot be coded but should still be recorded.)
+For major or mild vascular neurocognitive disorder: Use additional code(s) to
+indicate clinically significant psychiatric symptoms due to the cerebrovascular
+disease (e.g., F06.31 depressive disorder due to cerebrovascular disease, with
+depressive features).
+Diagnostic Features
+The diagnosis of major or mild vascular neurocognitive disorder (NCD) requires the
+establishment of an NCD (Criterion A) and the determination that cerebrovascular disease is the
+dominant if not exclusive pathology that accounts for the cognitive deficits (Criteria B and C).
+Vascular etiology may range from large vessel stroke to microvascular disease; the presentation
+is therefore very heterogeneous, stemming from the types of vascular lesions and their extent and
+location. The lesions may be focal, multifocal, or diffuse and occur in various combinations.
+Pathogenic mechanisms responsible for brain parenchymal injury include hypoperfusion and
+hypoxia, oxidative stress and inflammation leading to endothelial dysfunction, impairment of
+autoregulation, and disruption of neurovascular coupling.
+Many individuals with major or mild vascular NCD present with multiple infarctions, with an
+acute stepwise or fluctuating decline in cognition, and intervening periods of stability and even
+some improvement. Others may have gradual onset with slow progression, a rapid development
+of deficits followed by relative stability, or another complex presentation. Major or mild vascular

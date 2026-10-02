@@ -1,0 +1,48 @@
+Hearing or other sensory impairment.
+Intellectual developmental disorder (intellectual disability).
+Autism spectrum disorder.
+Neurological disorders.
+Language regression.
+F80.0
+when an individual is being assessed for language impairment.
+Hearing impairment needs to be excluded as the primary
+cause of language difficulties. Language deficits may be associated with a hearing impairment,
+other sensory deficit, or a speech-motor deficit. When language deficits are in excess of those
+usually associated with these problems, a diagnosis of language disorder may be made.
+Language 
+impairment 
+is 
+often 
+the
+presenting feature of intellectual developmental disorder. However, the definitive diagnosis of
+intellectual developmental disorder may not be made until the child is able to complete
+standardized assessments. Language disorder can occur with varying degrees of intellectual
+ability, and a discrepancy between verbal and nonverbal ability is not necessary for a diagnosis
+of language disorder.
+Autism spectrum disorder frequently manifests with delayed language
+development. However, autism spectrum disorder is often accompanied by behaviors not present
+in language disorder, such as lack of social interest or unusual social interactions (e.g., pulling
+individuals by the hand without any attempt to look at them), odd play patterns (e.g., carrying
+toys around but never playing with them), unusual communication patterns (e.g., knowing the
+alphabet but not responding to own name), and rigid adherence to routines and repetitive
+behaviors (e.g., flapping, spinning, echolalia).
+Language disorder can be acquired in association with neurological
+disorders, including epilepsy (e.g., acquired aphasia or Landau-Kleffner syndrome).
+Loss of speech and language in a child at any age warrants thorough
+assessment to determine if there is a specific neurological condition, such as Landau-Kleffner
+syndrome. Language loss may be a symptom of seizures, and a diagnostic assessment is
+necessary to exclude the presence of epilepsy (e.g., routine and sleep electroencephalogram).
+Declines in critical social and communication behaviors during the first 2 years of life are
+evident in most children presenting with autism spectrum disorder and should signal the need for
+autism spectrum disorder assessment.
+Comorbidity
+Language disorder may be associated with other neurodevelopmental disorders in terms of
+specific learning disorder (literacy and numeracy), intellectual developmental disorder, attention-
+deficit/hyperactivity disorder, autism spectrum disorder, and developmental coordination
+disorder. It is also associated with social (pragmatic) communication disorder. In clinical
+samples, language disorder may co-occur with speech sound disorder, although data from a large
+population-based sample of 6-year-old children in the United States suggest comorbidity might
+be rare (1.3%). A positive family history of speech or language disorders is often present.
+50
+Speech Sound Disorder
+Diagnostic Criteria

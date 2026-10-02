@@ -1,0 +1,41 @@
+changed to “substance/medication-induced” in DSM-5.
+Independent Mental Disorders
+Historically, mental disorders were divided into those that were termed “organic” (caused by
+physical factors) versus those that were “nonorganic” (purely of the mind; also referred to as
+“functional” or “psychogenic”), terms that were included in DSM up through DSM-III-R.
+Because these dichotomies misleadingly implied that the nonorganic disorders have no
+biological basis and that mental disorders have no physical basis, DSM-IV updated this
+terminology as follows: 1) the terms “organic” and “nonorganic” were eliminated from DSM-IV;
+2) the disorders formerly called “organic” were divided into those due to the direct physiological
+effects of a substance (substance-induced) and those due to the direct physiological effects of a
+medical condition on the central nervous system; and 3) the term “nonorganic mental disorders”
+(i.e., those disorders not due to either substances or medical conditions) was replaced by
+“primary mental disorder.” In DSM-5, this terminology was further refined, replacing “primary”
+with “independent” (e.g., Criterion C in substance/medication-induced anxiety disorder starts
+with “the disturbance is not better accounted for by an anxiety disorder that is not substance-
+induced. Evidence of an independent anxiety disorder could include . . .” [italics added for
+reference]). This was done to reduce the potential for confusion given that the term “primary”
+has historically had other meanings (e.g., it is sometimes used to indicate which disorder among
+several comorbid disorders was the first to occur). The use of “independent mental disorder”
+should not be construed to mean that the disorder is independent of other potential causal factors
+such as psychosocial or other environmental stressors.
+Other Medical Conditions
+Another dichotomy adopted by prior editions of DSM that reflected mind-body dualism was the
+division of disorders into “mental disorders” and “physical disorders.” In conjunction with the
+elimination of organic/nonorganic terminology, DSM-IV replaced the “mental disorder” versus
+“physical disorder” dichotomy with a “mental disorder” vs. “general medical condition”
+dichotomy, based on chapter location within the International Classification of Diseases (ICD).
+Medical conditions in ICD have been divided into 17 chapters based on a variety of factors,
+which include etiology (e.g., Neoplasms [Chapter 2]), anatomical location (e.g., Diseases of the
+ear and mastoid process [Chapter 8]), body system (e.g., Diseases of the circulatory system
+[Chapter 9]), and context (e.g., Pregnancy, childbirth and the puerperium [Chapter 15]). In the
+ICD framework, mental disorders are those located in Chapter 5, and general medical conditions
+are those located within the other 16 chapters. Because of concerns that the term “general
+medical condition” could be conflated with general practice, DSM-5 uses the term “another
+medical condition” to emphasize the fact that mental disorders are medical conditions and that
+mental disorders can be precipitated by other medical conditions. It is important to recognize that
+“mental
+26
+disorder” and “another medical condition” are merely terms of convenience and should not be
+taken to imply that there is any fundamental distinction between mental disorders and other
+medical conditions, that mental disorders are unrelated to physical or biological factors or

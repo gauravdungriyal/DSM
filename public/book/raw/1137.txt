@@ -1,0 +1,39 @@
+specified diagnosis. Once the disorder is diagnosed, the cultural terms and explanations should
+be included in case formulations; they may help clarify symptoms and etiological attributions
+that could otherwise be confusing. Individuals whose symptoms do not meet DSM criteria for a
+specific mental disorder may still expect and require treatment; this should be assessed on a case-
+by-case basis. In addition to the CFI and its informant and supplementary modules, DSM-5-TR
+contains the following information and tools that may be useful when integrating cultural
+information in clinical practice:
+Data in updated DSM-5-TR text for specific disorders: The text includes information on cultural variations in symptom
+expression; attributions for disorder causes or precipitants; factors associated with differential prevalence across
+demographic groups; cultural norms that may affect the threshold for pathology and the perceived severity of the condition;
+risk for misdiagnosis when evaluating individuals from socially oppressed ethnoracial or marginalized groups; associated
+cultural concepts of distress; and other material relevant to culturally informed diagnosis. It is important to emphasize that
+there is no one-to-one correspondence at the categorical level between DSM disorders and cultural concepts of distress.
+Differential diagnosis for individuals must therefore incorporate information on cultural variation with information elicited
+by the CFI.
+Other Conditions That May Be a Focus of Clinical Attention: Some of the clinical concerns identified by the CFI may
+correspond to one of the conditions or problems listed in the Section II chapter “Other Conditions That May Be a Focus of
+Clinical Attention” (e.g., acculturation problems, parent-child relational problems, religious or spiritual problems), along
+with the associated ICD-10-CM code.
+Examples of Cultural Concepts of Distress
+Clinicians need to familiarize themselves with individuals’ cultural concepts of distress to
+understand individuals’ concerns and facilitate accurate diagnostic assessment; use of the
+Cultural Formulation Interview may help in this regard. The following ten examples were
+selected to illustrate some of the ways in which cultural concepts of distress may affect the
+process of diagnosis. The principles illustrated with these examples can be applied to the myriad
+other cultural concepts of distress found in specific cultural contexts.
+The same term may be used for multiple types of cultural concepts of distress and clinical
+presentations, depending on context. Potentially, cultural concepts of distress can occur on their
+own or coexist with any psychiatric disorder and influence clinical presentation, course, and
+outcome. For example, in U.S. Latinx communities, ataque de nervios can be comorbid with
+nearly all psychiatric disorders.
+Each of the following examples of cultural concepts of distress includes a description of
+“Related conditions in DSM-5-TR” to highlight 1) the DSM-5 disorders that overlap
+874
+phenomenologically with the cultural concept of distress (e.g., panic disorder and ataque de
+nervios, due to their paroxysmic nature and symptom similarity) and 2) the DSM-5 disorders that
+are frequently attributed to the causal explanation or idiom (e.g., PTSD and kufungisisa).
+Ataque de nervios
+Ataque de nervios (“attack of nerves”) is a syndrome found in Latinx cultural contexts,

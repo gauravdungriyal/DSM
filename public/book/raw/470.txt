@@ -1,0 +1,42 @@
+Functional neurological symptom disorder (conversion disorder).
+Psychotic disorders.
+Traumatic brain injury.
+F43.0
+New onset of somatic symptoms
+within the context of posttraumatic distress might be an indication of PTSD rather than
+functional neurological symptom disorder.
+Flashbacks in PTSD must be distinguished from illusions, hallucinations,
+and other perceptual disturbances that may occur in schizophrenia, brief psychotic disorder, and
+other psychotic disorders; depressive and bipolar disorders with psychotic features; delirium;
+substance/medication-induced disorders; and psychotic disorders due to another medical
+condition. PTSD flashbacks are distinguished from these other perceptual disturbances by being
+directly related to the traumatic experience and by occurring in the absence of other psychotic or
+substance-induced features.
+Some types of traumatic events increase risk of both PTSD and traumatic
+brain injury (TBI) because they can produce head injuries (e.g., military combat, bomb blasts,
+child physical abuse, intimate partner violence, violent crime, motor vehicle or other accidents).
+In such cases, individuals presenting with PTSD may also have TBI, and those presenting with
+TBI may also have PTSD. Individuals with PTSD who also have TBI may have persistent
+postconcussive symptoms (e.g., headaches, dizziness, sensitivity to light or sound, irritability,
+concentration deficits). However, such symptoms may also occur in non-brain-injured
+populations, including individuals with PTSD. Because symptoms of PTSD and TBI-related
+neurocognitive symptoms can overlap, a differential diagnosis between PTSD and
+neurocognitive disorder symptoms attributable to TBI may be possible based on the presence of
+symptoms that are distinctive to each presentation. Whereas reexperiencing and avoidance are
+characteristic of PTSD and not the effects of TBI, persistent disorientation and confusion are
+more specific to TBI (neurocognitive effects) than to PTSD. TBI-related memory problems
+concerning the traumatic event are typically attributable to injury-related inability to encode the
+information, whereas PTSD-related memory problems typically reflect dissociative amnesia.
+Sleep difficulties are common to both disorders.
+Comorbidity
+Individuals with PTSD are more likely than those without PTSD to have symptoms that meet
+diagnostic criteria for at least one other mental disorder, such as depressive, bipolar, anxiety, or
+substance use disorders. PTSD is also associated with increased risk of major neurocognitive
+disorder. In a U.S.-based study, women were more likely to develop PTSD following a mild TBI.
+Although most young children with PTSD also have at least one other diagnosis, the patterns of
+comorbidity are different than in adults, with oppositional defiant disorder and separation anxiety
+disorder predominating.
+Acute Stress Disorder
+Diagnostic Criteria
+A. Exposure to actual or threatened death, serious injury, or sexual violence in one
+(or more) of the following ways:

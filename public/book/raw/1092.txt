@@ -1,0 +1,35 @@
+Spouse or Partner Neglect, Confirmed
+T74.01XA Initial encounter
+T74.01XD Subsequent encounter
+827
+Spouse or Partner Neglect, Suspected
+T76.01XA Initial encounter
+T76.01XD Subsequent encounter
+Other Circumstances Related to Spouse or Partner Neglect
+Z69.11
+Encounter for mental health services for victim of spouse or partner neglect
+Z91.412 Personal history (past history) of spouse or partner neglect
+Z69.12
+Encounter for mental health services for perpetrator of spouse or partner neglect
+Spouse or Partner Abuse, Psychological
+This category may be used when spouse or partner psychological abuse is a focus of clinical
+attention. Spouse or partner psychological abuse encompasses nonaccidental verbal or symbolic
+acts by one partner that result, or have reasonable potential to result, in significant harm to the
+other partner. Acts of psychological abuse include berating or humiliating the victim;
+interrogating the victim; restricting the victim’s ability to come and go freely; obstructing the
+victim’s access to assistance (e.g., law enforcement; legal, protective, or medical resources);
+threatening the victim with physical harm or sexual assault; harming, or threatening to harm,
+people or things that the victim cares about; unwarranted restriction of the victim’s access to or
+use of economic resources; isolating the victim from family, friends, or social support resources;
+stalking the victim; and trying to make the victim question his or her sanity (“gaslighting”).
+Spouse or Partner Abuse, Psychological, Confirmed
+T74.31XA Initial encounter
+T74.31XD Subsequent encounter
+Spouse or Partner Abuse, Psychological, Suspected
+T76.31XA Initial encounter
+T76.31XD Subsequent encounter
+Other Circumstances Related to Spouse or Partner Abuse, Psychological
+Z69.11
+Encounter for mental health services for victim of spouse or partner psychological
+abuse
+Z91.411 Personal history (past history) of spouse or partner psychological abuse

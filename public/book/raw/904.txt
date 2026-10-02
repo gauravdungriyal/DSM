@@ -1,0 +1,38 @@
+Neurocognitive Disorders
+The neurocognitive disorders (NCDs) begin with delirium, followed by the
+syndromes of major NCD, mild NCD, and their etiological subtypes. The major or mild NCD
+subtypes are NCD due to Alzheimer’s disease; vascular NCD; NCD with Lewy bodies; NCD due
+to Parkinson’s disease; frontotemporal NCD; NCD due to traumatic brain injury; NCD due to
+HIV infection; substance/medication-induced NCD; NCD due to Huntington’s disease; NCD due
+to prion disease; NCD due to another medical condition; NCD due to multiple etiologies; and
+unspecified NCD. The NCD category encompasses the group of disorders in which the primary
+clinical deficit is in cognitive function, and that are acquired rather than developmental.
+Although cognitive deficits are present in many if not all mental disorders (e.g., schizophrenia,
+bipolar disorders), only disorders whose core features are cognitive are included in the NCD
+category. The NCDs are those in which impaired cognition has not been present since birth or
+very early life, and thus represents a decline from a previously attained level of functioning.
+The NCDs are unique among DSM-5 categories in that these are syndromes for which the
+underlying pathology, and frequently the etiology as well, can potentially be determined. The
+various underlying disease entities have all been the subject of extensive research, clinical
+experience, and expert consensus on diagnostic criteria. The DSM-5 criteria for these disorders
+have been developed in close consultation with the expert groups for each of the disease entities
+and align as closely as possible with the current consensus criteria for each of them. The
+potential utility of biomarkers is also discussed in relation to diagnosis. Dementia is subsumed
+under the newly named entity major neurocognitive disorder, although the term dementia is not
+precluded from use in the etiological subtypes in which that term is standard. Furthermore,
+DSM-5 recognizes a less severe level of cognitive impairment, mild neurocognitive disorder,
+which can also be a focus of care. Diagnostic criteria are provided for both these syndromic
+entities, followed by diagnostic criteria for the different etiological subtypes. Several of the
+NCDs frequently coexist with one another, and their relationships may be multiply characterized
+under different chapter subheadings, including “Differential Diagnosis” (e.g., NCD due to
+Alzheimer’s disease vs. vascular NCD), “Risk and Prognostic Factors” (e.g., vascular pathology
+increasing the clinical expression of Alzheimer’s disease), or “Comorbidity” (e.g., mixed
+Alzheimer’s disease–vascular pathology).
+The term dementia is retained in DSM-5 for continuity and may be used in settings where
+physicians and patients are accustomed to this term. Although dementia is the customary term
+for disorders like the degenerative dementias that usually affect older adults, the term
+neurocognitive disorder is widely used and often preferred for conditions affecting younger
+individuals, such as impairment secondary to traumatic brain injury or HIV infection.
+Furthermore, the major NCD definition is somewhat broader than the term dementia, in that a
+diagnosis of major NCD can be made if there is a significant cognitive decline in only one
+cognitive domain, whereas a diagnosis of dementia in ICD-10 and ICD-11 (and formerly in

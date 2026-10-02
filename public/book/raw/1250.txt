@@ -1,0 +1,75 @@
+Z69.020
+Encounter for mental health services for victim of nonparental child physical abuse
+Z69.020
+Encounter for mental health services for victim of nonparental child psychological abuse
+Z69.020
+Encounter for mental health services for victim of nonparental child sexual abuse
+Z69.021
+Encounter for mental health services for perpetrator of nonparental child neglect
+Z69.021
+Encounter for mental health services for perpetrator of nonparental child physical abuse
+Z69.021
+Encounter for mental health services for perpetrator of nonparental child psychological abuse
+Z69.021
+Encounter for mental health services for perpetrator of nonparental child sexual abuse
+Z69.11
+Encounter for mental health services for victim of spouse or partner neglect
+Z69.11
+Encounter for mental health services for victim of spouse or partner psychological abuse
+Z69.11
+Encounter for mental health services for victim of spouse or partner violence, Physical
+982
+Z69.12
+Encounter for mental health services for perpetrator of spouse or partner neglect
+Z69.12
+Encounter for mental health services for perpetrator of spouse or partner psychological abuse
+Z69.12
+Encounter for mental health services for perpetrator of spouse or partner violence, Physical
+Z69.12
+Encounter for mental health services for perpetrator of spouse or partner violence, Sexual
+Z69.81
+Encounter for mental health services for victim of nonspousal or nonpartner adult abuse
+Z69.81
+Encounter for mental health services for victim of spouse or partner violence, Sexual
+Z69.82
+Encounter for mental health services for perpetrator of nonspousal or nonpartner adult abuse
+Z70.9
+Sex counseling
+Z71.3
+Dietary counseling
+Z71.9
+Other counseling or consultation
+Z72.0
+Tobacco use disorder, mild
+Z72.810
+Child or adolescent antisocial behavior
+Z72.811
+Adult antisocial behavior
+Z72.9
+Problem related to lifestyle
+Z75.3
+Unavailability or inaccessibility of health care facilities
+Z75.4
+Unavailability or inaccessibility of other helping agencies
+Z76.5
+Malingering
+Z91.19
+Nonadherence to medical treatment
+Z91.410
+Personal history (past history) of spouse or partner violence, Physical
+Z91.410
+Personal history (past history) of spouse or partner violence, Sexual
+Z91.411
+Personal history (past history) of spouse or partner psychological abuse
+Z91.412
+Personal history (past history) of spouse or partner neglect
+Z91.49
+Personal history of psychological trauma
+Z91.51
+History of suicidal behavior
+Z91.52
+History of nonsuicidal self-injury
+Z91.82
+Personal history of military deployment
+Z91.83
+Wandering associated with a mental disorder

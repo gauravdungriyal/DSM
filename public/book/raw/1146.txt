@@ -1,0 +1,32 @@
+Alternative DSM-5 Model for Personality
+Disorders
+Provided as an alternative to the extant personality disorders classification in
+Section II, this hybrid dimensional-categorical model in Section III defines personality disorder
+in terms of impairments in personality functioning and pathological personality traits. The
+inclusion of both models of personality disorder diagnosis in DSM-5 reflects the decision of the
+APA Board of Trustees to preserve continuity with current clinical practice, while also
+introducing an alternative approach that aims to address numerous shortcomings of the approach
+in Section II to personality disorders. For example, in the approach in Section II, symptoms
+meeting criteria for a specific personality disorder frequently also meet criteria for other
+personality disorders, and other specified or unspecified personality disorder is often the correct
+(but mostly uninformative) diagnosis, in the sense that individuals do not tend to present with
+patterns of symptoms that correspond with one and only one personality disorder.
+In the following alternative DSM-5 model, personality disorders are characterized by
+impairments in personality functioning and pathological personality traits. The specific
+personality disorder diagnoses that may be derived from this model include antisocial, avoidant,
+borderline, narcissistic, obsessive-compulsive, and schizotypal personality disorders. This
+approach also includes a diagnosis of personality disorder—trait specified (PD-TS) that can be
+made when a personality disorder is considered present but the criteria for a specific disorder are
+not met.
+General Criteria for Personality Disorder
+General Criteria for Personality Disorder
+The essential features of a personality disorder are
+A. Moderate or greater impairment in personality (self/interpersonal) functioning.
+B. One or more pathological personality traits.
+C. The impairments in personality functioning and the individual’s personality trait
+expression are relatively inflexible and pervasive across a broad range of
+personal and social situations.
+D. The impairments in personality functioning and the individual’s personality trait
+expression are relatively stable across time, with onsets that can be traced back
+to at least adolescence or early adulthood.
+E. The impairments in personality functioning and the individual’s personality trait

@@ -1,0 +1,34 @@
+temporally related to the likely onset of the depression, major or mild vascular NCD should not
+be diagnosed. However, if the NCD preceded the development of the depression, or the severity
+of the cognitive impairment is out of proportion to the severity of the depression, depressive
+disorder due to cerebrovascular disease should be diagnosed instead of major depressive
+disorder.
+Comorbidity
+Major or mild NCD due to Alzheimer’s disease commonly co-occurs with major or mild
+vascular NCD, in which case both diagnoses should be made. Major or mild vascular NCD and
+depression frequently co-occur.
+Major or Mild Neurocognitive Disorder Due to Traumatic
+Brain Injury
+Diagnostic Criteria
+A. The criteria are met for major or mild neurocognitive disorder.
+B. There is evidence of a traumatic brain injury—that is, an impact to the head or
+other mechanisms of rapid movement or displacement of the brain within the
+skull, with one or more of the following:
+1. Loss of consciousness.
+2. Posttraumatic amnesia.
+3. Disorientation and confusion.
+4. Neurological signs (e.g., neuroimaging demonstrating injury; visual field cuts;
+anosmia; hemiparesis; hemisensory loss; cortical blindness; aphasia; apraxia;
+weakness;
+707
+loss of balance; other sensory loss that cannot be accounted for by peripheral
+or other causes).
+C. The neurocognitive disorder presents immediately after the occurrence of the
+traumatic brain injury or immediately after recovery of consciousness and
+persists past the acute post-injury period.
+Coding note (see coding table on pp. 682–683):
+For major neurocognitive disorder due to traumatic brain injury, with behavioral
+disturbance: code first S06.2X9S diffuse traumatic brain injury with loss of
+consciousness of unspecified duration, sequela; followed by F02.81 major
+neurocognitive disorder due to traumatic brain injury, with behavioral disturbance.
+For major neurocognitive disorder due to traumatic brain injury, without behavioral

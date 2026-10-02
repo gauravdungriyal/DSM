@@ -1,0 +1,36 @@
+Specify current severity/remission:
+F16.10 Mild: Presence of 2–3 symptoms.
+F16.11 Mild, In early remission
+F16.11 Mild, In sustained remission
+F16.20 Moderate: Presence of 4–5 symptoms.
+F16.21 Moderate, In early remission
+F16.21 Moderate, In sustained remission
+F16.20 Severe: Presence of 6 or more symptoms.
+F16.21 Severe, In early remission
+F16.21 Severe, In sustained remission
+Specifiers
+“In a controlled environment” applies as a further specifier of remission if the individual is both
+in remission and in a controlled environment (i.e., in early remission in a controlled environment
+or in sustained remission in a controlled environment). Examples of these environments are
+closely supervised and substance-free jails, therapeutic communities, and locked hospital units.
+Diagnostic Features
+The phencyclidines (or phencyclidine-like substances) include phencyclidine (e.g., PCP, “angel
+dust”) and less potent but similarly acting compounds such as ketamine,
+589
+cyclohexamine, and dizocilpine. These substances were first developed as dissociative
+anesthetics in the 1950s and became street drugs in the 1960s. They produce feelings of
+separation from mind and body (hence “dissociative”) in low doses, and at high doses, stupor
+and coma can result. These substances are most commonly smoked or taken orally, but they may
+also be snorted or injected. Although the primary psychoactive effects of phencyclidine last for a
+few hours, the total elimination rate of this drug from the body typically extends 8 days or
+longer. The hallucinogenic effects in vulnerable individuals may last for weeks and may
+precipitate a persistent psychotic episode resembling schizophrenia. Ketamine has been observed
+to have utility in the treatment of major depressive disorder. Withdrawal symptoms have not
+been clearly established in humans, and therefore the withdrawal criterion is not included in the
+diagnosis of phencyclidine use disorder.
+Associated Features
+Phencyclidine may be detected in urine for up to 8 days or even longer at very high doses. In
+addition to laboratory tests to detect its presence, characteristic symptoms resulting from
+intoxication with phencyclidine or related substances may aid in its diagnosis. Phencyclidine is
+likely to produce dissociative symptoms, analgesia, nystagmus, risk of hypertension/hypotension
+and shock, euphoria, visual/auditory hallucinations, derealization, and unusual thought content.

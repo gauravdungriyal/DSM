@@ -1,0 +1,57 @@
+F91.8
+Other Specified Disruptive, Impulse-Control, and Conduct Disorder (541)
+F91.9
+Unspecified Disruptive, Impulse-Control, and Conduct Disorder (541)
+Substance-Related and Addictive Disorders (543)
+Substance-Related Disorders (544)
+Alcohol-Related Disorders (553)
+___.__
+Alcohol Use Disorder (553)
+Specify if: In a controlled environment
+Specify current severity/remission:
+F10.10
+Mild
+F10.11
+In early remission
+F10.11
+In sustained remission
+xl
+F10.20
+Moderate
+F10.21
+In early remission
+F10.21
+In sustained remission
+F10.20
+Severe
+F10.21
+In early remission
+F10.21
+In sustained remission
+___.__
+Alcohol Intoxication (561)
+F10.120
+With mild use disorder
+F10.220
+With moderate or severe use disorder
+F10.920
+Without use disorder
+___.__
+Alcohol Withdrawal (564)
+Without perceptual disturbances
+F10.130
+With mild use disorder
+F10.230
+With moderate or severe use disorder
+F10.930
+Without use disorder
+With perceptual disturbances
+F10.132
+With mild use disorder
+F10.232
+With moderate or severe use disorder
+F10.932
+Without use disorder
+___.__
+Alcohol-Induced Mental Disorders (567)
+Note: Disorders are listed in their order of appearance in the manual.

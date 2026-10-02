@@ -1,0 +1,58 @@
+F17.201
+F17.201
+In sustained remission
+F17.203
+Tobacco Withdrawal (649)
+Note: The ICD-10-CM code indicates the comorbid presence of a moderate or severe tobacco use
+disorder, which must be present in order to apply the code for tobacco withdrawal.
+___.__
+Tobacco-Induced Mental Disorders (651)
+F17.208
+Tobacco-Induced Sleep Disorder, With moderate or severe use disorder
+(468)
+Specify whether Insomnia type, Daytime sleepiness type, Mixed type
+Specify With onset during withdrawal, With onset after medication use
+F17.209
+Unspecified Tobacco-Related Disorder (651)
+Other (or Unknown) Substance–Related Disorders (652)
+___.__
+Other (or Unknown) Substance Use Disorder (652)
+Specify if: In a controlled environment
+Specify current severity/remission:
+F19.10
+Mild
+F19.11
+In early remission
+F19.11
+In sustained remission
+F19.20
+Moderate
+F19.21
+In early remission
+F19.21
+In sustained remission
+F19.20
+Severe
+F19.21
+In early remission
+F19.21
+In sustained remission
+___.__
+Other (or Unknown) Substance Intoxication (656)
+Without perceptual disturbances
+F19.120
+With mild use disorder
+F19.220
+With moderate or severe use disorder
+F19.920
+Without use disorder
+With perceptual disturbances
+F19.122
+With mild use disorder
+F19.222
+With moderate or severe use disorder
+F19.922
+Without use disorder
+___.__
+Other (or Unknown) Substance Withdrawal (658)
+Without perceptual disturbances

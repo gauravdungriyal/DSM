@@ -1,0 +1,87 @@
+T76.12XA
+Child physical abuse, Suspected, Initial encounter
+T76.12XD
+Child physical abuse, Suspected, Subsequent encounter
+T76.21XA
+Adult sexual abuse by nonspouse or nonpartner, Suspected, Initial encounter
+T76.21XA
+Spouse or partner violence, Sexual, Suspected, Initial encounter
+T76.21XD
+Adult sexual abuse by nonspouse or nonpartner, Suspected, Subsequent encounter
+T76.21XD
+Spouse or partner violence, Sexual, Suspected, Subsequent encounter
+T76.22XA
+Child sexual abuse, Suspected, Initial encounter
+T76.22XD
+Child sexual abuse, Suspected, Subsequent encounter
+T76.31XA
+Adult psychological abuse by nonspouse or nonpartner, Suspected, Initial encounter
+T76.31XA
+Spouse or partner abuse, Psychological, Suspected, Initial encounter
+T76.31XD
+Adult psychological abuse by nonspouse or nonpartner, Suspected, Subsequent encounter
+T76.31XD
+Spouse or partner abuse, Psychological, Suspected, Subsequent encounter
+T76.32XA
+Child psychological abuse, Suspected, Initial encounter
+T76.32XD
+Child psychological abuse, Suspected, Subsequent encounter
+Z03.89
+No diagnosis or condition
+Z31.5
+Genetic counseling
+Z55.0
+Illiteracy and low-level literacy
+Z55.1
+Schooling unavailable and unattainable
+Z55.2
+Failed school examinations
+Z55.3
+Underachievement in school
+Z55.4
+Educational maladjustment and discord with teachers and classmates
+Z55.8
+Problems related to inadequate teaching
+980
+Z55.9
+Other problems related to education and literacy
+Z56.0
+Unemployment
+Z56.1
+Change of job
+Z56.2
+Threat of job loss
+Z56.3
+Stressful work schedule
+Z56.4
+Discord with boss and workmates
+Z56.5
+Uncongenial work environment
+Z56.6
+Other physical and mental strain related to work
+Z56.81
+Sexual harassment on the job
+Z56.82
+Problem related to current military deployment status
+Z56.9
+Other problem related to employment
+Z58.6
+Lack of safe drinking water
+Z59.01
+Sheltered homelessness
+Z59.02
+Unsheltered homelessness
+Z59.1
+Inadequate housing
+Z59.2
+Discord with neighbor, lodger, or landlord
+Z59.3
+Problem related to living in a residential institution
+Z59.41
+Food insecurity
+Z59.5
+Extreme poverty
+Z59.6
+Low income
+Z59.7
+Insufficient social or health insurance or welfare support

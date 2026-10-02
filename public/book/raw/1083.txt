@@ -1,0 +1,24 @@
+Because longitudinal studies are lacking, little is known about the clinical course of
+antidepressant discontinuation syndrome. Symptoms appear to abate over time with very gradual
+dosage reductions. Symptoms are usually short-lived, lasting no more than 2 weeks, and are
+seldom present more than 3 weeks after discontinuation.
+Differential Diagnosis
+The differential diagnosis of antidepressant discontinuation syndrome includes a relapse of the
+disorder for which the medication was prescribed (e.g., depression or panic disorder), somatic
+symptom disorder, bipolar I or bipolar II disorder with mixed features, substance use disorders,
+migraine, or cerebrovascular accident. Discontinuation symptoms often resemble symptoms of a
+persistent anxiety disorder or a return of somatic symptoms of depression for which the
+medication was initially given. It is important not to confuse discontinuation syndrome with a
+relapse of the original depressive or anxiety disorder for which the medication was being
+prescribed. Antidepressant discontinuation syndrome differs from substance withdrawal in that
+antidepressants themselves have no reinforcing or euphoric effects. Individuals typically do not
+escalate the dose of medications on their own, and they generally do not engage in drug-seeking
+behavior to obtain additional medication. Criteria for a substance use disorder are not met.
+Other Adverse Effect of Medication
+T50.905A Initial encounter
+T50.905D Subsequent encounter
+T50.905S Sequelae
+This category is available for optional use by clinicians to code side effects of medication (other
+than movement symptoms) when these adverse effects become a main focus of clinical attention.
+Examples include severe hypotension, cardiac arrhythmias, and priapism.
+820

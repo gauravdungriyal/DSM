@@ -1,0 +1,39 @@
+720
+Risk and Prognostic Factors
+Paradoxically, NCD due to HIV infection has not declined significantly with the advent of
+effective antiretroviral therapy, although the most severe presentations (consistent with the
+diagnosis of major NCD) have decreased sharply. Contributory factors may include inadequate
+control of HIV in the central nervous system (CNS), the evolution of antiretroviral drug-resistant
+viral strains, the effects of chronic long-term systemic and brain inflammation, and the effects of
+comorbid factors such as aging, substance use disorder, hypertension, diabetes, past history of
+CNS trauma, and co-infections, such as with the hepatitis C virus. Chronic exposure to
+antiretroviral drugs has also been associated with neurotoxicity in its own right.
+Diagnostic Markers
+An HIV diagnosis may be made from a test conducted on the blood, oral fluids, or urine. In
+addition, HIV characterization of the cerebrospinal fluid may be helpful if it reveals a
+disproportionately high viral load in the cerebrospinal fluid versus in the plasma or if there are
+indicators of a high level of neuroinflammation. Neuroimaging (e.g., magnetic resonance
+imaging [MRI]) may reveal reduction in total brain volume, cortical thinning, reduction in white
+matter volume, and patchy areas of abnormal white matter (hyperintensities). MRI of the brain or
+lumbar puncture may be helpful to exclude a specific medical condition (e.g., cryptococcal
+meningitis, meningoencephalitis, herpes simplex virus type 1 or type 2 encephalitis, progressive
+multifocal leukoencephalopathy) that might contribute to CNS changes in the context of AIDS.
+Specialized techniques such as diffusion tensor imaging may reveal damage to specific white
+matter tracts. Arterial spin-labeling (ASL) developed as a new type of MRI (ASL-MRI) may
+reveal regional changes in brain perfusion in 3–5 minutes without infusion of extrinsic tracers,
+and translocator protein 18-kDa (TSPO) positron emission tomography scanning may reveal
+neuroinflammation.
+Functional Consequences of Major or Mild Neurocognitive Disorder
+Due to HIV Infection
+Functional consequences of major or mild NCD due to HIV infection are variable across
+individuals. Thus, impaired executive functions and slowed information processing may
+substantially interfere with adherence to the effective antiretroviral therapy regimens, although
+these regimens have been greatly simplified since their inception. Thus, functional status must be
+assessed and mapped directly to neurocognitive impairment in order to determine the severity of
+the NCD. Functional status related to neurocognitive impairment due to HIV should be separated
+from dysfunction attributable to other concomitant disorders that can affect neurocognitive
+function.
+Differential Diagnosis
+In the presence of comorbidities, such as other infections (e.g., hepatitis C virus, syphilis),
+substance use disorder (e.g., methamphetamine use disorder), prior traumatic brain injury, or
+neurodevelopmental conditions, major or mild NCD due to HIV infection can be diagnosed

@@ -1,0 +1,41 @@
+894
+not form part of the trait definition. Importantly, however, symptoms and traits are both
+amenable to intervention, and many interventions targeted at symptoms can affect the longer
+term patterns of personality functioning that are captured by personality traits.
+Assessment of the DSM-5 Section III Personality Trait Model
+The clinical utility of the Section III multidimensional personality trait model lies in its ability to
+focus attention on multiple relevant areas of personality variation in each individual patient.
+Rather than focusing attention on the identification of one and only one optimal diagnostic label,
+clinical application of the Section III personality trait model involves reviewing all five broad
+personality domains portrayed in Table 3. The clinical approach to personality is similar to the
+well-known review of systems in clinical medicine. For example, an individual’s presenting
+complaint may focus on a specific neurological symptom, yet during an initial evaluation
+clinicians still systematically review functioning in all relevant systems (e.g., cardiovascular,
+respiratory, gastrointestinal), lest an important area of diminished functioning and corresponding
+opportunity for effective intervention be missed.
+Clinical use of the Section III personality trait model proceeds similarly. An initial inquiry
+reviews all five broad domains of personality. This systematic review is facilitated by the use of
+formal psychometric instruments designed to measure specific facets and domains of personality.
+For example, the personality trait model is operationalized in the Personality Inventory for DSM-
+5 (PID-5), which can be completed in its self-report form by patients and in its informant-report
+form by those who know the patient well (e.g., a spouse). A detailed clinical assessment would
+involve collection of both patient- and informant-report data on all 25 facets of the personality
+trait model. However, if this is not possible, due to time or other constraints, assessment focused
+at the five-domain level is an acceptable clinical option when only a general (vs. detailed)
+portrait of a patient’s personality is needed (see Criterion B of PD-TS). However, if personality-
+based problems are the focus of treatment, then it will be important to assess individuals’ trait
+facets as well as domains.
+Because personality traits are continuously distributed in the population, an approach to
+making the judgment that a specific trait is elevated (and therefore is present for diagnostic
+purposes) could involve comparing individuals’ personality trait levels with population norms
+and/or clinical judgment. If a trait is elevated—that is, formal psychometric testing and/or
+interview data support the clinical judgment of elevation—then it is considered as contributing to
+meeting Criterion B of Section III personality disorders.
+Clinical Utility of the Multidimensional Personality Functioning and
+Trait Model
+Disorder and trait constructs each add value to the other in predicting important antecedent (e.g.,
+family history, history of child abuse), concurrent (e.g., functional impairment, medication use),
+and predictive (e.g., hospitalization, suicide attempts) variables. DSM-5 impairments in
+personality functioning and pathological personality traits each contribute independently to
+clinical decisions about degree of disability; risks for self-harm, violence, and criminality;
+recommended treatment type and intensity; and prognosis—all important aspects of the utility of

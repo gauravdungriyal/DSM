@@ -1,0 +1,35 @@
+provided there is evidence that infection with HIV has worsened any NCDs because of such
+preexisting or comorbid conditions. Among older adults, onset of neurocognitive decline related
+to cerebrovascular disease or primary neurodegeneration (e.g., major or mild NCD due to
+Alzheimer’s disease) may need to be differentiated; these conditions may be suggested by a
+relatively more progressive course of decline than is seen in NCD due to HIV. HIV infection
+itself has been shown to increase the risk of cerebrovascular disease. Because more severe
+immunodeficiency can result in opportunistic infections of the brain (e.g., toxoplasmosis;
+cryptococcosis) and neoplasia (e.g., CNS lymphoma), sudden
+721
+onset of an NCD or sudden worsening of an NCD demands active investigation of non-HIV
+etiologies. Delirium is important to consider because it occurs frequently over the disease course
+of individuals with HIV and may be due to multiple etiologies (including SARS-CoV-2 co-
+infection).
+Comorbidity
+HIV disease is accompanied by chronic systemic and CNS inflammation and diseases that can be
+associated with an NCD. These complications can be part of the pathogenesis of major or mild
+NCD as well as ANI due to HIV infection. HIV frequently co-occurs with conditions such as
+substance use disorders and other sexually transmitted infections. Both medical and psychiatric
+comorbidities have been identified that increase the likelihood of a diagnosis of NCD due to HIV
+infection. Women and members of underserved ethnic and racialized groups may show variation
+in the rates of the comorbidities associated with NCD due to HIV infection.
+Major or Mild Neurocognitive Disorder Due to Prion
+Disease
+Diagnostic Criteria
+A. The criteria are met for major or mild neurocognitive disorder.
+B. There is insidious onset, and rapid progression of impairment is common.
+C. There are motor features of prion disease, such as myoclonus or ataxia, or
+biomarker evidence.
+D. The neurocognitive disorder is not attributable to another medical condition and
+is not better explained by another mental disorder.
+Coding note (see coding table on pp. 682–683):
+For major neurocognitive disorder due to prion disease, with behavioral disturbance,
+code first A81.9 prion disease, followed by F02.81 major neurocognitive disorder
+due to prion disease, with behavioral disturbance.
+For major neurocognitive disorder due to prion disease, without behavioral

@@ -1,0 +1,33 @@
+5
+Introduction
+The creation of the fifth edition of Diagnostic and Statistical Manual of Mental Disorders
+(DSM-5) was a massive undertaking that involved hundreds of people working toward a
+common goal over a 12-year period. Much thought and deliberation were involved in evaluating
+the diagnostic criteria, considering the organization of every aspect of the manual, and creating
+new features believed to be most useful to clinicians, such as dimensional measures that can help
+to identify emerging symptoms or determine and monitor changes in severity. All of these efforts
+have been directed toward the goal of enhancing the usefulness of DSM-5 as a clinical guide in
+the diagnosis of mental disorders, as well as its value for research.
+DSM-5 strives to fulfill the need of clinicians, patients, families, and researchers for a clear
+and concise description of each mental disorder, which has been operationalized using diagnostic
+criteria that are supplemented by dimensional measures of severity and is accompanied by a
+digest of information about the diagnosis, including risk factors and culture- and sex- and
+gender-related issues.
+Clinical training and experience are needed to use DSM for determining a clinical diagnosis.
+The diagnostic criteria identify symptoms and signs comprising affects, behaviors, cognitive
+functions, and personality traits along with physical signs, symptom combinations (syndromes),
+and durations that require clinical expertise to differentiate from normal variation and transient
+responses to stress. The diagnostic process can be facilitated by a thorough examination of the
+range of symptoms that might be present, such as by conducting a review of mental systems
+using the DSM-5 Level 1 Cross-Cutting Symptom Measure as recommended by The American
+Psychiatric Association (APA) Practice Guidelines for the Psychiatric Evaluation of Adults (see
+“Cross-Cutting Symptom Measures”).
+The use of DSM criteria has the clear virtue of creating a common language for
+communication between clinicians about the diagnosis of disorders. Officially recognized
+disorders are located in Section II of the manual. However, it should be noted that these
+diagnostic criteria and their placement within the classification are based on current research and
+may need to be modified as research advances.
+Development of DSM-5-TR
+Brief History of Prior DSM Editions
+The first edition of the American Psychiatric Association’s Diagnostic and Statistical Manual of
+Mental Disorders appeared in 1952. This was the first official manual of mental disorders to

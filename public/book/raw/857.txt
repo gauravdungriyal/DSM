@@ -1,0 +1,34 @@
+(or similar) co-occurring conditions.
+Comorbidity
+Given the typical overlap of sedative, hypnotic, or anxiolytic intoxication with sedative,
+hypnotic, or anxiolytic use disorder, see “Comorbidity” under Sedative, Hypnotic, or Anxiolytic
+Use Disorder for more details about co-occurring conditions that are likely to be encountered.
+Sedative, Hypnotic, or Anxiolytic Withdrawal
+Diagnostic Criteria
+A. Cessation of (or reduction in) sedative, hypnotic, or anxiolytic use that has been
+prolonged.
+B. Two (or more) of the following, developing within several hours to a few days
+after the cessation of (or reduction in) sedative, hypnotic, or anxiolytic use
+described in Criterion A:
+1. Autonomic hyperactivity (e.g., sweating or pulse rate greater than 100 bpm).
+2. Hand tremor.
+629
+3. Insomnia.
+4. Nausea or vomiting.
+5. Transient visual, tactile, or auditory hallucinations or illusions.
+6. Psychomotor agitation.
+7. Anxiety.
+8. Grand mal seizures.
+C. The signs or symptoms in Criterion B cause clinically significant distress or
+impairment in social, occupational, or other important areas of functioning.
+D. The signs or symptoms are not attributable to another medical condition and are
+not better explained by another mental disorder, including intoxication or
+withdrawal from another substance.
+Specify if:
+With perceptual disturbances: This specifier may be noted when
+hallucinations with intact reality testing or auditory, visual, or tactile illusions
+occur in the absence of a delirium.
+Coding note: The ICD-10-CM code depends on whether or not there is a comorbid
+sedative, hypnotic, or anxiolytic use disorder and whether or not there are perceptual
+disturbances.
+For sedative, hypnotic, or anxiolytic withdrawal, without perceptual

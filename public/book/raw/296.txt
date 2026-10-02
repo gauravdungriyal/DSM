@@ -1,0 +1,41 @@
+173
+hours at a time. Unlike the other atypical features, pathological sensitivity to
+perceived interpersonal rejection is a trait that has an early onset and persists
+throughout most of adult life. Rejection sensitivity occurs both when the person
+is and is not depressed, though it may be exacerbated during depressive
+periods.
+With psychotic features: Delusions or hallucinations are present at any time in
+the current manic or major depressive episode in bipolar I disorder (or the most
+recent manic or major depressive episode if bipolar I disorder is currently in
+partial or full remission) or in the current major depressive episode in bipolar II
+disorder (or the most recent major depressive episode if bipolar II disorder is
+currently in partial or full remission). If psychotic features are present, specify if
+mood-congruent or mood-incongruent:
+When applied to current or most recent manic episode (in bipolar I disorder):
+With mood-congruent psychotic features: The content of all delusions
+and hallucinations is consistent with the typical manic themes of grandiosity,
+invulnerability, etc., but may also include themes of suspiciousness or
+paranoia, especially with respect to others’ doubts about the individual’s
+capacities, accomplishments, and so forth.
+With mood-incongruent psychotic features: The content of the delusions
+and hallucinations does not involve typical manic themes as described
+above, or the content is a mixture of mood-incongruent and mood-congruent
+themes.
+When applied to current or most recent major depressive episode (in bipolar I
+disorder or bipolar II disorder):
+With mood-congruent psychotic features: The content of all delusions
+and hallucinations is consistent with the typical depressive themes of
+personal inadequacy, guilt, disease, death, nihilism, or deserved
+punishment.
+With mood-incongruent psychotic features: The content of the delusions
+and hallucinations does not involve typical depressive themes of personal
+inadequacy, guilt, disease, death, nihilism, or deserved punishment, or the
+content is a mixture of mood-incongruent and mood-congruent themes.
+With catatonia: This specifier is applied to the current manic or major
+depressive episode in bipolar I disorder (or the most recent manic or major
+depressive episode if bipolar I disorder is currently in partial or full remission)
+or to the current major depressive episode in bipolar II disorder (or the most
+recent major depressive episode if bipolar II disorder is currently in partial or
+full remission) if catatonic features are present during most of the episode.
+See criteria for catatonia associated with a mental disorder in the chapter
+“Schizophrenia Spectrum and Other Psychotic Disorders.”

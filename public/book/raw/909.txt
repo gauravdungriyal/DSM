@@ -1,0 +1,75 @@
+Inhalant
+F18.121
+F18.221
+F18.921
+Opioid
+F11.121
+F11.221
+F11.921
+Sedative, hypnotic, or anxiolytic
+F13.121
+F13.221
+F13.921
+Amphetamine-type substance (or other
+stimulant)
+F15.121
+F15.221
+F15.921
+Cocaine
+F14.121
+F14.221
+F14.921
+Other (or unknown) substance
+F19.121
+F19.221
+F19.921
+Substance withdrawal delirium: This diagnosis should be made instead of
+substance withdrawal when the symptoms in Criteria A and C predominate in the
+clinical picture and when they are sufficiently severe to warrant clinical attention.
+Coding note: The ICD-10-CM codes for the [specific substance] withdrawal
+delirium are indicated in the table below. Note that the ICD-10-CM code
+depends on whether or not there is a comorbid substance use disorder
+present for the same class of substance. If a mild substance use disorder is
+comorbid with the substance withdrawal delirium, the 4th position character is
+“1,” and the clinician should record “mild [substance] use disorder” before the
+substance withdrawal delirium (e.g., “mild alcohol use disorder with alcohol
+withdrawal delirium”). If a moderate or severe substance use disorder is
+comorbid with the substance withdrawal delirium, the 4th position character is
+“2,” and the clinician should record “moderate [substance] use disorder” or
+“severe [substance] use disorder,” depending on the severity of the comorbid
+substance use disorder. If there is no comorbid substance use disorder (e.g.,
+after regular use of an anxiolytic substance taken as prescribed), then the 4th
+position character is “9,” and the clinician should record only the substance
+withdrawal delirium.
+ICD-10-CM
+Substance withdrawal delirium
+With mild use
+disorder
+With moderate or
+severe use
+disorder
+Without use
+disorder
+Alcohol
+F10.131
+F10.231
+F10.931
+Opioid
+F11.188
+F11.288
+F11.988
+Sedative, hypnotic, or anxiolytic
+F13.131
+F13.231
+F13.931
+Other (or unknown) substance
+F19.131
+F19.231
+F19.931
+674
+Medication-induced delirium: This diagnosis applies when the symptoms in
+Criteria A and C arise as a side effect of a medication taken as prescribed.
+Code [specific medication]–induced delirium: F11.921 opioid taken as
+prescribed (or F11.988 if during withdrawal from opioid taken as prescribed);
+F12.921 pharmaceutical cannabis receptor agonist taken as prescribed;
+F13.921 sedative, hypnotic, or anxiolytic taken as prescribed (or F13.931 if

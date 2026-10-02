@@ -1,0 +1,46 @@
+F64.0
+match one’s experienced gender.
+B. The condition is associated with clinically significant distress or impairment in
+social, school, or other important areas of functioning.
+Specify if:
+With a disorder/difference of sex development (e.g., a congenital
+adrenogenital disorder such as E25.0 congenital adrenal hyperplasia or E34.50
+androgen insensitivity syndrome).
+Coding note: Code the disorder/difference of sex development as well as
+gender dysphoria.
+Gender Dysphoria in Adolescents and Adults
+A. A marked incongruence between one’s experienced/expressed gender
+and assigned gender, of at least 6 months’ duration, as manifested by at least
+two of the following:
+1. A marked incongruence between one’s experienced/expressed gender and
+primary and/or secondary sex characteristics (or in young adolescents, the
+anticipated secondary sex characteristics).
+513
+2. A strong desire to be rid of one’s primary and/or secondary sex
+characteristics 
+because 
+of 
+a 
+marked 
+incongruence 
+with 
+one’s
+experienced/expressed gender (or in young adolescents, a desire to prevent
+the development of the anticipated secondary sex characteristics).
+3. A strong desire for the primary and/or secondary sex characteristics of the
+other gender.
+4. A strong desire to be of the other gender (or some alternative gender different
+from one’s assigned gender).
+5. A strong desire to be treated as the other gender (or some alternative gender
+different from one’s assigned gender).
+6. A strong conviction that one has the typical feelings and reactions of the other
+gender (or some alternative gender different from one’s assigned gender).
+B. The condition is associated with clinically significant distress or impairment in
+social, occupational, or other important areas of functioning.
+Specify if:
+With a disorder/difference of sex development (e.g., a congenital
+adrenogenital disorder such as E25.0 congenital adrenal hyperplasia or E34.50
+androgen insensitivity syndrome).
+Coding note: Code the disorder/difference of sex development as well as
+gender dysphoria.
+Specify if:

@@ -1,0 +1,58 @@
+F16.94
+Without use disorder
+___.__
+Phencyclidine-Induced Anxiety Disordera (255)
+F16.180
+With mild use disorder
+F16.280
+With moderate or severe use disorder
+F16.980
+Without use disorder
+___.__
+Phencyclidine Intoxication Delirium (672)
+Specify if: Acute, Persistent
+Specify if: Hyperactive, Hypoactive, Mixed level of activity
+F16.121
+With mild use disorder
+F16.221
+With moderate or severe use disorder
+F16.921
+Without use disorder
+___.__
+Hallucinogen-Induced Mental Disorders (600)
+Note: Disorders are listed in their order of appearance in the manual.
+aSpecify With onset during intoxication, With onset after medication use. Note: When prescribed as
+medication, substances in this class can also induce the relevant substance-induced mental disorder.
+bSpecify if: Acute, Persistent
+cSpecify if: Hyperactive, Hypoactive, Mixed level of activity
+___.__
+Other Hallucinogen–Induced Psychotic Disordera (126)
+F16.159
+With mild use disorder
+F16.259
+With moderate or severe use disorder
+F16.959
+Without use disorder
+___.__
+Other Hallucinogen–Induced Bipolar and Related Disordera (162)
+F16.14
+With mild use disorder
+F16.24
+With moderate or severe use disorder
+F16.94
+Without use disorder
+___.__
+Other Hallucinogen–Induced Depressive Disordera (201)
+F16.14
+With mild use disorder
+F16.24
+With moderate or severe use disorder
+F16.94
+Without use disorder
+xlv
+___.__
+Other Hallucinogen-Induced Anxiety Disordera (255)
+F16.180
+With mild use disorder
+F16.280
+With moderate or severe use disorder

@@ -1,0 +1,46 @@
+Major depressive disorder.
+Other specified depressive disorder.
+Bipolar I and bipolar II disorders.
+Cyclothymic disorder.
+Differential Diagnosis
+If there is a depressed mood for more days than not plus two or more
+persistent depressive disorder Criterion B symptoms for 2 years or more, then the diagnosis of
+persistent depressive disorder is made. If the symptom criteria are sufficient for a diagnosis of a
+major depressive episode at any time during this period, then the additional diagnosis of major
+depression should be made. The comorbid presence of major depressive episodes during this
+period should also be noted by assigning the appropriate course specifier to the persistent
+depressive disorder diagnosis as follows: If the individual’s symptoms currently meet full criteria
+for a major depressive episode, and there have been periods of at least 8 weeks in at least the
+preceding 2 years with symptoms below the threshold for a full major depressive episode, then
+the specifier “with intermittent major depressive episodes, with current episode” would be
+assigned. If full criteria for a major depressive episode are not currently met but there has been
+one or more major depressive episodes in at least the preceding 2 years, then the specifier “with
+intermittent major depressive episodes, without current episode” is assigned. If a major
+depressive episode
+196
+has persisted for at least a 2-year duration and remains present, then the specifier “with persistent
+major depressive episode” is used. If the individual has not experienced an episode of major
+depression in the last 2 years, then the specifier “with pure dysthymic syndrome” is used.
+Because the criteria for a major depressive episode include
+symptoms (i.e., markedly diminished interest or pleasure in activities; psychomotor agitation or
+retardation; recurrent thoughts of death, suicidal ideation, suicide attempt or plan) that are absent
+from the symptom list for persistent depressive disorder (i.e., depressed mood and two out of six
+Criterion B symptoms), a very limited number of individuals will have depressive symptoms that
+have persisted longer than 2 years but that do not meet criteria for persistent depressive disorder.
+If full criteria for a major depressive episode have been met at some point during the current
+episode of illness, a diagnosis of major depressive disorder would apply. Otherwise, a diagnosis
+of other specified depressive disorder or unspecified depressive disorder should be given.
+A history of a manic or hypomanic episode precludes the
+diagnosis of persistent depressive disorder. A history of manic episodes (with or without
+hypomanic episodes) indicates a diagnosis of bipolar I disorder. A history of hypomanic episodes
+(without any history of manic episodes in individuals with persistent depressive presentations
+during which criteria have been met for a major depressive episode) warrants a diagnosis of
+bipolar II disorder. Other specified bipolar disorder applies to individuals whose presentations
+include a history of hypomanic episodes along with persistent depressive presentation that has
+never met full criteria for a major depressive episode.
+A diagnosis of cyclothymic disorder precludes the diagnosis of persistent
+depressive disorder. Thus, if during the period lasting at least 2 years of depressed mood for most
+of the day, for more days than not, 1) there are numerous periods with hypomanic symptoms that
+do not meet criteria for a hypomanic episode, 2) there have not been any symptom-free periods
+of more than 2 months at a time, and 3) criteria have never been met for a major depressive,
+manic, or hypomanic episode, then the diag-nosis would be cyclothymic disorder instead of

@@ -1,0 +1,42 @@
+xxvii
+DSM-5-TR Classification
+Before each disorder name, ICD-10-CM codes are provided. Blank lines indicate that the ICD-
+10-CM code depends on the applicable subtype, specifier, or class of substance. For periodic
+DSM-5-TR coding and other updates, see www.dsm5.org.
+Following chapter titles and disorder names, page numbers for the corresponding text or
+criteria are included in parentheses.
+Note for all mental disorders due to another medical condition: Insert the name of the
+etiological medical condition within the name of the mental disorder due to [the medical
+condition]. The code and name for the etiological medical condition should be listed first
+immediately before the mental disorder due to the medical condition.
+Neurodevelopmental Disorders (35)
+Intellectual Developmental Disorders (37)
+___.__
+Intellectual Developmental Disorder (Intellectual Disability) (37)
+Specify current severity:
+F70
+Mild
+F71
+Moderate
+F72
+Severe
+F73
+Profound
+F88
+Global Developmental Delay (46)
+F79
+Unspecified Intellectual Developmental Disorder (Intellectual Disability) (46)
+Communication Disorders (46)
+F80.2
+Language Disorder (47)
+F80.0
+Speech Sound Disorder (50)
+F80.81
+Childhood-Onset Fluency Disorder (Stuttering) (51)
+Note: Later-onset cases are diagnosed as F98.5 adult-onset fluency disorder.
+F80.82
+Social (Pragmatic) Communication Disorder (54)
+F80.9
+Unspecified Communication Disorder (56)
+xxviii
+Autism Spectrum Disorder (56)

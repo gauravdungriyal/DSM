@@ -1,0 +1,82 @@
+F15.21
+Other or unspecified stimulant use disorder, Severe, In early remission
+F15.21
+Other or unspecified stimulant use disorder, Severe, In sustained remission
+F15.220
+Amphetamine-type substance intoxication, Without perceptual disturbances, With moderate or severe
+use disorder
+F15.220
+Other stimulant intoxication, Without perceptual disturbances, With moderate or severe use disorder
+F15.221
+Amphetamine-type substance (or other stimulant) intoxication delirium, With moderate or severe use
+disorder
+F15.222
+Amphetamine-type substance intoxication, With perceptual disturbances, With moderate or severe use
+disorder
+F15.222
+Other stimulant intoxication, With perceptual disturbances, With moderate or severe use disorder
+F15.23
+Amphetamine-type substance withdrawal, With moderate or severe use disorder
+F15.23
+Other stimulant withdrawal, With moderate or severe use disorder
+F15.24
+Amphetamine-type substance (or other stimulant)–induced bipolar and related disorder, With moderate
+or severe use disorder
+F15.24
+Amphetamine-type substance (or other stimulant)–induced depressive disorder, With moderate or
+severe use disorder
+F15.259
+Amphetamine-type substance (or other stimulant)–induced psychotic disorder, With moderate or
+severe use disorder
+F15.280
+Amphetamine-type substance (or other stimulant)–induced anxiety disorder, With moderate or severe
+use disorder
+F15.281
+Amphetamine-type substance (or other stimulant)–induced sexual dysfunction, With moderate or
+severe use disorder
+F15.282
+Amphetamine-type substance (or other stimulant)–induced sleep disorder, With moderate or severe use
+disorder
+F15.288
+Amphetamine-type substance (or other stimulant)–induced mild neurocognitive disorder, With
+moderate or severe use disorder
+F15.288
+Amphetamine-type substance (or other stimulant)–induced obsessive-compulsive and related disorder,
+With moderate or severe use disorder
+F15.920
+Amphetamine-type substance intoxication, Without perceptual disturbances, Without use disorder
+F15.920
+Caffeine intoxication
+F15.920
+Other stimulant intoxication, Without perceptual disturbances, Without use disorder
+967
+F15.921
+Amphetamine-type (or other stimulant) medication–induced delirium (amphetamine-type or other
+stimulant medication taken as prescribed)
+F15.921
+Amphetamine-type substance (or other stimulant) intoxication delirium, Without use disorder
+F15.922
+Amphetamine-type substance intoxication, With perceptual disturbances, Without use disorder
+F15.922
+Other stimulant intoxication, With perceptual disturbances, Without use disorder
+F15.93
+Amphetamine-type substance withdrawal, Without use disorder
+F15.93
+Caffeine withdrawal
+F15.93
+Other stimulant withdrawal, Without use disorder
+F15.94
+Amphetamine-type substance (or other stimulant)–induced bipolar and related disorder, Without use
+disorder
+F15.94
+Amphetamine-type substance (or other stimulant)–induced depressive disorder, Without use disorder
+F15.959
+Amphetamine-type substance (or other stimulant)–induced psychotic disorder, Without use disorder
+F15.980
+Amphetamine-type substance (or other stimulant)–induced anxiety disorder, Without use disorder
+F15.980
+Caffeine-induced anxiety disorder, Without use disorder
+F15.981
+Amphetamine-type substance (or other stimulant)–induced sexual dysfunction, Without use disorder
+F15.982
+Amphetamine-type substance (or other stimulant)–induced sleep disorder, Without use disorder

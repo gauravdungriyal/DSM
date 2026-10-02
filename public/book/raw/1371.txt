@@ -1,0 +1,60 @@
+Substance/medication-induced major or mild neurocognitive disorder, 682, 712–717
+Substance/medication-induced mental disorders, 25, 287, 336, 346–347, 544, 548, 550–553
+Substance/medication-induced neurocognitive disorder, 556
+Substance/medication-induced obsessivecompulsive and related disorder, 264, 287–291, 293
+Substance/medication-induced psychotic disorder, 108, 121, 126–131, 134, 584, 907
+Substance/medication-induced sexual dysfunction, 488, 504–509
+Substance/medication-induced sleep disorder, 468–474
+Substance-related disorders. See also Alcoholrelated disorders; Caffeine-related disorders; Cannabis-related disorders; Cocaine
+use disorder; Hallucinogen-related disorders; Inhalant-related disorders; Non-substance-related disorders; Opioid-related
+disorders; Other (unknown) substance-related disorders; Sedative-, hypnotic-, or anxiolytic-related disorders; Stimulant-
+related disorders; Substanceinduced disorders; Substance use disorders; Tobacco-related disorder
+Substance use disorders. See also Substance abuse
+comorbidity and, 159, 250, 271, 392, 581
+diagnostic features of, 544, 545, 546–547
+differential diagnosis of
+ADHD, 74–75
+anorexia nervosa, 386
+brief psychotic disorder, 110
+personality disorders, 737, 739, 744, 747, 751, 757, 760, 764, 767, 771, 775, 777
+phencyclidine use disorder, 590
+hypersomnolence disorder and, 421
+intermittent explosive disorder and, 530
+Internet gaming and, 914
+neurocognitive disorders and, 712, 717
+oppositional defiant disorder and, 526–527
+other (or unknown) substance use disorder and, 655
+psychological factors affecting other medical conditions and, 366
+pyromania and, 539
+substance/medication-induced mental disorders distinguished from, 550
+traumatic brain injury and, 710
+Substance withdrawal, 545, 548–550, 675
+Subtypes
+of anorexia nervosa, 382
+of central sleep apnea, 436
+of conduct disorder, 532
+contextual information in DSM-5-TR on, 26
+of delusional disorder, 106
+as element of diagnosis, 21
+of encopresis, 402–403
+of enuresis, 399
+of exhibitionistic disorder, 783
+of major and mild neurocognitive disorders, 684, 687
+of narcolepsy, 423
+of personality change due to another medical condition, 776
+of personality disorder - trait specified, 890
+of sexual dysfunctions, 477, 479, 482, 486, 487, 491
+of sleep-related hypoventilation, 440
+“Sudden sniffing death,” 604, 607
+Suggestibility, and histrionic personality disorder, 758
+Suicidal behavior disorder, 920–923, 926
+Suicidal thoughts or behavior. See also specific disorders
+Alzheimer’s disease and, 694
+anxiety disorders and, 220, 228, 233, 240, 245, 249, 263
+bipolar and related disorders and, 148, 157
+borderline personality disorder and, 754
+coding of, 822
+contextual information in DSM-5-TR, 27
+depressive disorders and, 190, 195, 199, 205, 208
+depressive episodes with short-duration hypomania and, 909
+dissociative disorders and, 334, 340

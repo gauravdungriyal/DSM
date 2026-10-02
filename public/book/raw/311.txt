@@ -1,0 +1,42 @@
+In full remission (p. 214)
+F32.5
+F33.42
+Unspecified
+F32.9
+F33.9
+*For an episode to be considered recurrent, there must be an interval of at least 2 consecutive months between
+separate episodes in which criteria are not met for a major depressive episode. The definitions of specifiers are
+found on the indicated pages.
+**If psychotic features are present, code the “with psychotic features” specifier irrespective of episode severity.
+In recording the name of a diagnosis, terms should be listed in the following order:
+major depressive disorder, single or recurrent episode, severity/psychotic/remission
+specifiers, followed by as many of the following specifiers without codes that apply to
+the current episode (or the most recent episode if the major depressive disorder is in
+partial or full remission). Note: The specifier “with seasonal pattern” describes the
+pattern of recurrent major depressive episodes.
+Specify if:
+With anxious distress (pp. 210–211)
+With mixed features (p. 211)
+With melancholic features (pp. 211–212)
+185
+With atypical features (p. 212)
+With mood-congruent psychotic features (p. 213)
+With mood-incongruent psychotic features (p. 213)
+With catatonia (p. 213). Coding note: Use additional code F06.1.
+With peripartum onset (p. 213)
+With seasonal pattern (applies to pattern of recurrent major depressive
+episodes) (p. 214)
+Diagnostic Features
+Major depressive disorder is defined by the presence of at least one major depressive episode
+occurring in the absence of a history of manic or hypomanic episodes. The essential feature of a
+major depressive episode is a period lasting at least 2 weeks during which there is either
+depressed mood or the loss of interest or pleasure in all or nearly all activities for most of the day
+nearly every day (Criterion A). The individual must also experience at least four additional
+symptoms during the same 2-week period, drawn from a list that includes changes in appetite or
+weight, sleep, and psychomotor activity; decreased energy; feelings of worthlessness or guilt;
+difficulty thinking, concentrating, or making decisions; or thoughts of death, suicidal ideation, a
+suicide attempt, or a specific plan for suicidal behavior. To count toward a diagnosis of a major
+depressive episode, a symptom must either be newly present or have clearly worsened compared
+with the individual’s pre-episode status. Moreover, the symptoms must occur nearly every day,
+for at least 2 consecutive weeks, with the exception of thoughts of death and suicidal ideation,
+which must be recurrent, and attempting suicide or making a specific plan, which only needs to

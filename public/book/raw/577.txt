@@ -1,0 +1,31 @@
+F98.0
+Elimination Disorders
+Elimination disorders all involve the inappropriate elimination of urine or feces and
+are usually first diagnosed in childhood or adolescence. This group of disorders includes
+enuresis, the repeated voiding of urine into inappropriate places, and encopresis, the repeated
+passage of feces into inappropriate places. Subtypes are provided to differentiate nocturnal from
+diurnal (i.e., during waking hours) voiding for enuresis and the presence or absence of
+constipation and overflow incontinence for encopresis. Although there are minimum age
+requirements for diagnosis of both disorders, these are based on developmental age and not
+solely on chronological age. Both disorders may be voluntary or involuntary. Although these
+disorders typically occur separately, co-occurrence may also be observed.
+Enuresis
+Diagnostic Criteria
+A. Repeated voiding of urine into bed or clothes, whether involuntary or intentional.
+B. The behavior is clinically significant as manifested by either a frequency of at
+least twice a week for at least 3 consecutive months or the presence of clinically
+significant distress or impairment in social, academic (occupational), or other
+important areas of functioning.
+C. Chronological age is at least 5 years (or equivalent developmental level).
+D. The behavior is not attributable to the physiological effects of a substance (e.g.,
+a diuretic, an antipsychotic medication) or another medical condition (e.g.,
+diabetes, spina bifida, a seizure disorder).
+Specify whether:
+Nocturnal only: Passage of urine only during nighttime sleep.
+Diurnal only: Passage of urine during waking hours.
+Nocturnal and diurnal: A combination of the two subtypes above.
+Subtypes
+The nocturnal-only subtype of enuresis, sometimes referred to as monosymptomatic enuresis, is
+the most common subtype and involves incontinence only during nighttime sleep, typically
+during the first one-third of the night. The diurnal-only subtype occurs in the absence of
+nocturnal enuresis and may be referred to simply as urinary incontinence. Individuals with this

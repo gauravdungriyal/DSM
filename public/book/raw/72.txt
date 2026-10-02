@@ -1,0 +1,58 @@
+F15.988
+Without use disorder
+___.__
+Cocaine-Induced Obsessive-Compulsive and Related Disordera (287)
+F14.188
+With mild use disorder
+F14.288
+With moderate or severe use disorder
+F14.988
+Without use disorder
+___.__
+Amphetamine-Type Substance (or Other Stimulant)–Induced Sleep
+Disordera (468)
+Specify whether Insomnia type, Daytime sleepiness type, Mixed type
+F15.182
+With mild use disorder
+F15.282
+With moderate or severe use disorder
+F15.982
+Without use disorder
+___.__
+Cocaine-Induced Sleep Disordera (468)
+Specify whether Insomnia type, Daytime sleepiness type, Mixed type
+F14.182
+With mild use disorder
+F14.282
+With moderate or severe use disorder
+liii
+F14.982
+Without use disorder
+___.__
+Amphetamine-Type Substance (or Other Stimulant)–Induced Sexual
+Dysfunctiona (504)
+Specify if: Mild, Moderate, Severe
+F15.181
+With mild use disorder
+F15.281
+With moderate or severe use disorder
+F15.981
+Without use disorder
+___.__
+Cocaine-Induced Sexual Dysfunctiona (504)
+Specify if: Mild, Moderate, Severe
+F14.181
+With mild use disorder
+F14.281
+With moderate or severe use disorder
+F14.981
+Without use disorder
+___.__
+Amphetamine-Type Substance (or Other Stimulant) Intoxication
+Deliriumb,c (672)
+F15.121
+With mild use disorder
+F15.221
+With moderate or severe use disorder
+F15.921
+Without use disorder

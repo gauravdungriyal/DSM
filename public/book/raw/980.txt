@@ -1,0 +1,35 @@
+Personality Disorders
+This chapter begins with a general definition of personality disorder that applies to each of
+the 10 specific personality disorders. A personality disorder is an enduring pattern of inner
+experience and behavior that deviates markedly from the norms and expectations of the
+individual’s culture, is pervasive and inflexible, has an onset in adolescence or early adulthood,
+is stable over time, and leads to distress or impairment.
+With any ongoing review process, especially one of this complexity, different viewpoints
+emerge, and an effort was made to accommodate them. Thus, personality disorders are included
+in both Sections II and III. The material in Section II represents an update of text associated with
+the same criteria found in DSM-5 (which were carried over from DSM-IV-TR), whereas Section
+III includes the proposed model for personality disorder diagnosis and conceptualization
+developed by the DSM-5 Personality and Personality Disorders Work Group. As this field
+evolves, it is hoped that both versions will serve clinical practice and research initiatives,
+respectively.
+The following personality disorders are included in this chapter.
+Paranoid personality disorder is a pattern of distrust and suspiciousness such that others’ motives are interpreted as
+malevolent.
+Schizoid personality disorder is a pattern of detachment from social relationships and a restricted range of emotional
+expression.
+Schizotypal personality disorder is a pattern of acute discomfort in close relationships, cognitive or perceptual distortions,
+and eccentricities of behavior.
+Antisocial personality disorder is a pattern of disregard for, and violation of, the rights of others, criminality, impulsivity,
+and a failure to learn from experience.
+Borderline personality disorder is a pattern of instability in interpersonal relationships, self-image, and affects, and
+marked impulsivity.
+Histrionic personality disorder is a pattern of excessive emotionality and attention seeking.
+Narcissistic personality disorder is a pattern of grandiosity, need for admiration, and lack of empathy.
+Avoidant personality disorder is a pattern of social inhibition, feelings of inadequacy, and hypersensitivity to negative
+evaluation.
+Dependent personality disorder is a pattern of submissive and clinging behavior related to an excessive need to be taken
+care of.
+Obsessive-compulsive personality disorder is a pattern of preoccupation with orderliness, perfectionism, and control.
+Personality change due to another medical condition is a persistent personality disturbance that is judged to be the direct
+pathophysiological consequence of another medical condition (e.g., frontal lobe lesion).
+Other specified personality disorder is a category provided for two situations: 1) the individual’s personality pattern meets

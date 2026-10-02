@@ -1,0 +1,39 @@
+comorbid substance-induced disorder (including substance intoxication and substance
+withdrawal). In the first example in the paragraph above, the diagnostic code for moderate
+alprazolam use disorder, F13.20, reflects the absence of a comorbid alprazolam-induced mental
+disorder. Because ICD-10-CM codes for substance-induced disorders indicate both the presence
+(or absence) and the severity of the substance use disorder, ICD-10-CM codes for substance use
+disorders can be used only in the absence of a substance-induced disorder. See the individual
+substance-specific sections for additional coding information.
+548
+Substance-Induced Disorders
+The overall category of substance-induced disorders includes substance intoxication, substance
+withdrawal, and substance/medication-induced mental disorders (e.g., substance-induced
+psychotic disorder, substance-induced depressive disorder). While substance intoxication and
+substance withdrawal are recognized as mental disorders, for purposes of clarity of reference in
+discussions across this chapter, the term substance/medication-induced mental disorder (e.g.,
+alcohol-induced depressive disorder, methamphetamine-induced anxiety disorder) is used to
+distinguish these disorders from substance intoxication and substance withdrawal.
+Substance Intoxication and Substance Withdrawal
+Criteria for the substance-specific intoxication syndromes are included within the substance-
+specific sections of this chapter. The essential feature is the development of a reversible
+substance-specific syndrome due to the recent ingestion of a substance (Criterion A). The
+clinically significant problematic behavioral or psychological changes associated with
+intoxication (e.g., belligerence, mood lability, impaired judgment) are attributable to the
+physiological effects of the substance on the central nervous system (CNS) and develop during
+or shortly after use of the substance (Criterion B) and are accompanied by substance-specific
+signs and symptoms (Criterion C). The symptoms are not attributable to another medical
+condition and are not better explained by another mental disorder (Criterion D). Substance
+intoxication is common among individuals with a substance use disorder but also occurs
+frequently in persons who use substances but do not have a substance use disorder. This category
+does not apply to tobacco.
+The most common changes in substance intoxication involve disturbances of perception,
+wakefulness, attention, thinking, judgment, psychomotor behavior, and interpersonal behavior.
+Short-term, or “acute,” substance intoxications may have different signs and symptoms from
+sustained, or “chronic,” substance intoxications. For example, moderate cocaine doses may
+initially produce gregariousness, but social withdrawal may develop if such doses are frequently
+repeated over days or weeks.
+When used in the physiological sense, the term intoxication is broader than the diagnosis of
+substance intoxication as defined in this manual. Many substances may produce physiological or
+psychological changes that are not necessarily problematic. For example, an individual with
+tachycardia from substance use is experiencing a physiological effect from the substance, but if

@@ -1,0 +1,35 @@
+WHODAS 2.0 population norms.
+work/school), and participation.
+For the population norms for IRT-based scoring of the WHODAS
+2.0 and for the population distribution of IRT-based scores for WHODAS 2.0, please see
+www.who.int/classifications/icf/Pop_norms_distrib_IRT_scores.pdf.
+855
+Additional Scoring and Interpretation Guidance for DSM-5-TR Users
+The clinician is asked to review the individual’s response on each item on the measure during the
+clinical interview and to indicate the self-reported score for each item in the section provided for
+“Clinician Use Only.” However, if the clinician determines that the score on an item should be
+different based on the clinical interview and other information available, he or she may indicate a
+corrected score in the raw item score box. Based on findings from the DSM-5 Field Trials in
+adult patient samples across six sites in the United States and one in Canada, DSM-5-TR
+recommends calculation and use of average scores for each domain and for general disability.
+The average scores are comparable to the WHODAS 5-point scale, which allows the clinician to
+think of the individual’s disability in terms of none (1), mild (2), moderate (3), severe (4), or
+extreme (5). The average domain and general disability scores were found to be reliable, easy to
+use, and clinically useful to the clinicians in the DSM-5 Field Trials. The average domain score
+is calculated by dividing the raw domain score by the number of items in the domain (e.g., if all
+the items within the “understanding and communicating” domain are rated as being moderate,
+then the average domain score would be 18/6 = 3, indicating moderate disability). The average
+general disability score is calculated by dividing the raw overall score by number of items in the
+measure (i.e., 36). The individual should be encouraged to complete all of the items on the
+WHODAS 2.0. If no response is given on 10 or more items of the measure (i.e., more than 25%
+of the 36 total items), calculation of the simple and average general disability scores may not be
+helpful. If 10 or more of the total items on the measure are missing but the items for some of the
+domains are 75%–100% complete, the simple or average domain scores may be used for those
+domains.
+Frequency of Use
+To track change in the individual’s level of disability over time, the measure may be completed
+at regular intervals as clinically indicated, depending on the stability of the individual’s
+symptoms and treatment status. Consistently high scores on a particular domain may indicate
+significant and problematic areas for the individual that might warrant further assessment and
+intervention.
+856

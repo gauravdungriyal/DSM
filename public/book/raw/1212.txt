@@ -1,0 +1,79 @@
+G31.84
+Mild frontotemporal neurocognitive disorder
+G31.84
+Mild neurocognitive disorder due to Alzheimer’s disease
+942
+G31.84
+Mild neurocognitive disorder due to another medical condition
+G31.84
+Mild neurocognitive disorder due to HIV infection
+G31.84
+Mild neurocognitive disorder due to Huntington’s disease
+G31.84
+Mild neurocognitive disorder with Lewy bodies
+G31.84
+Mild neurocognitive disorder due to multiple etiologies
+G31.84
+Mild neurocognitive disorder due to Parkinson’s disease
+G31.84
+Mild neurocognitive disorder due to prion disease
+G31.84
+Mild neurocognitive disorder due to traumatic brain injury
+G31.84
+Mild vascular neurocognitive disorder
+F60.81
+Narcissistic personality disorder
+Narcolepsy
+G47.411
+Narcolepsy with cataplexy or hypocretin deficiency (type 1)
+G47.421
+Narcolepsy with cataplexy or hypocretin deficiency due to a medical condition
+G47.419
+Narcolepsy without cataplexy and either without hypocretin deficiency or hypocretin unmeasured
+(type 2)
+G47.429
+Narcolepsy without cataplexy and without hypocretin deficiency due to a medical condition
+G21.0
+Neuroleptic malignant syndrome
+F51.5
+Nightmare disorder
+Z03.89
+No diagnosis or condition
+Z91.19
+Nonadherence to medical treatment
+Non–rapid eye movement sleep arousal disorders
+F51.4
+Sleep terror type
+F51.3
+Sleepwalking type
+R45.88
+Nonsuicidal self-injury, current
+Z91.52
+Nonsuicidal self-injury, history of
+F42.2
+Obsessive-compulsive disorder
+F60.5
+Obsessive-compulsive personality disorder
+F06.8
+Obsessive-compulsive and related disorder due to another medical condition
+G47.33
+Obstructive sleep apnea hypopnea
+Opioid-induced anxiety disorder
+F11.188
+With mild use disorder
+F11.288
+With moderate or severe use disorder
+F11.988
+Without use disorder
+F11.921
+Opioid-induced delirium (opioid medication taken as prescribed)
+F11.988
+Opioid-induced delirium (during withdrawal from opioid medication taken as prescribed)
+Opioid-induced depressive disorder
+F11.14
+With mild use disorder
+F11.24
+With moderate or severe use disorder
+F11.94
+Without use disorder
+943

@@ -1,0 +1,79 @@
+937
+Cocaine use disorder
+F14.10
+Mild
+F14.11
+In early remission
+F14.11
+In sustained remission
+F14.20
+Moderate
+F14.21
+In early remission
+F14.21
+In sustained remission
+F14.20
+Severe
+F14.21
+In early remission
+F14.21
+In sustained remission
+Cocaine withdrawal
+F14.13
+With mild use disorder
+F14.23
+With moderate or severe use disorder
+F14.93
+Without use disorder
+Conduct disorder
+F91.2
+Adolescent-onset type
+F91.1
+Childhood-onset type
+F91.9
+Unspecified onset
+Conversion disorder (see Functional neurological symptom disorder)
+Z65.0
+Conviction in civil or criminal proceedings without imprisonment
+R45.88
+Current nonsuicidal self-injury
+Current suicidal behavior
+T14.91A
+Initial encounter
+T14.91D
+Subsequent encounter
+F34.0
+Cyclothymic disorder
+F52.32
+Delayed ejaculation
+Delirium
+F05
+Delirium due to another medical condition
+F05
+Delirium due to multiple etiologies
+Medication-induced delirium (for ICD-10-CM codes, see specific substances)
+Substance intoxication delirium (see specific substances for codes)
+Substance withdrawal delirium (see specific substances for codes)
+F22
+Delusional disorder
+F60.7
+Dependent personality disorder
+F48.1
+Depersonalization/derealization disorder
+Depressive disorder due to another medical condition
+F06.31
+With depressive features
+F06.32
+With major depressive–like episode
+F06.34
+With mixed features
+F82
+Developmental coordination disorder
+Z71.3
+Dietary counseling
+Z56.4
+Discord with boss and workmates
+Z59.2
+Discord with neighbor, lodger, or landlord
+Z64.4
+Discord with social service provider, including probation officer, case manager, or social services

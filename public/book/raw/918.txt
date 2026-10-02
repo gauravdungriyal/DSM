@@ -1,0 +1,37 @@
+A. Evidence of modest cognitive decline from a previous level of performance in
+one or more cognitive domains (complex attention, executive function, learning
+and memory, language, perceptual-motor, or social cognition) based on:
+1. Concern of the individual, a knowledgeable informant, or the clinician that
+there has been a mild decline in cognitive function; and
+2. A modest impairment in cognitive performance, preferably documented by
+standardized neuropsychological testing or, in its absence, another quantified
+clinical assessment.
+B. The cognitive deficits do not interfere with capacity for independence in everyday
+activities (i.e., complex instrumental activities of daily living such as paying bills
+or managing medications are preserved, but greater effort, compensatory
+strategies, or accommodation may be required).
+C. The cognitive deficits do not occur exclusively in the context of a delirium.
+D. The cognitive deficits are not better explained by another mental disorder (e.g.,
+major depressive disorder, schizophrenia).
+681
+Specify whether due to:
+Note: Each subtype listed has specific diagnostic criteria and corresponding text,
+which follow the general discussion of major and mild neurocognitive disorders.
+Alzheimer’s disease
+Frontotemporal degeneration
+Lewy body disease
+Vascular disease
+Traumatic brain injury
+Substance/medication use
+HIV infection
+Prion disease
+Parkinson’s disease
+Huntington’s disease
+Another medical condition
+Multiple etiologies
+Unspecified etiology
+Coding note: For mild neurocognitive disorder due to any of the medical etiologies
+listed above, code G31.84. Do not use additional codes for the presumed etiological
+medical conditions. For substance/medication-induced mild neurocognitive disorder,
+code based on type of substance; see “Substance/Medication-Induced Major or Mild
+Neurocognitive Disorder.” For unspecified mild neurocognitive disorder, code R41.9.

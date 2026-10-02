@@ -1,0 +1,41 @@
+processes, or that other medical conditions are unrelated to behavioral or psychosocial factors or
+processes.
+Types of Information in the DSM-5-TR Text
+The DSM-5-TR text provides contextual information to aid in diagnostic decision-making. The
+text appears immediately following the diagnostic criteria for each disorder and systematically
+describes the disorder under the following headings: Recording Procedures, Subtypes, Specifiers,
+Diagnostic Features, Associated Features, Prevalence, Development and Course, Risk and
+Prognostic Factors, Culture-Related Diagnostic Issues, Sex- and Gender-Related Diagnostic
+Issues, Diagnostic Markers, Association With Suicidal Thoughts or Behavior, Functional
+Consequences, Differential Diagnosis, and Comorbidity. In general, when limited information is
+available for a section, that section is not included.
+Recording Procedures provides guidelines for reporting the name of the disorder and for
+selecting and recording the appropriate ICD-10-CM diagnostic code. It also includes
+instructions for applying any appropriate subtypes and/or specifiers.
+Subtypes and/or Specifiers provide brief descriptions of applicable subtypes and/or
+specifiers.
+Diagnostic Features provides descriptive text illustrating the use of the criteria and includes
+key points on their interpretation. For example, within the diagnostic features for
+schizophrenia, it is explained that some symptoms that may appear to be negative symptoms
+could instead be attributable to medication side effects.
+Associated Features includes clinical features that are not represented in the criteria but
+occur significantly more often in individuals with the disorder than those without the
+disorder. For example, individuals with generalized anxiety disorder may also experience
+somatic symptoms that are not contained within the disorder criteria.
+Prevalence describes rates of the disorder in the community, most often described as 12-
+month prevalence, although for some disorders point prevalence is noted. Prevalence
+estimates are also provided by age group and by ethnoracial/cultural group when possible.
+Sex ratio (prevalence in men vs. women) is also provided in this section. When international
+data are available, geographic variance in prevalence rates is described. For some disorders,
+especially those for which there are limited data on rates in the community, prevalence in
+relevant clinical samples is noted.
+Development and Course describes the typical lifetime patterns of presentation and
+evolution of the disorder. It notes the typical age at onset and whether the presentation may
+have prodromal/insidious features or may manifest abruptly. Other descriptions may include
+an episodic versus persistent course as well as a single episode versus a recurrent episodic
+course. Descriptors in this section may address duration of symptoms or episodes as well as
+progression of severity and associated functional impact. The general trend of the disorder
+over time (e.g., stable, worsening, improving) is described here. Variations that may be
+noted include features related to developmental stage (e.g., infancy, childhood, adolescence,
+adulthood, late life).
+Risk and Prognostic Factors includes a discussion of factors thought to contribute to the

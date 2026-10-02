@@ -1,0 +1,38 @@
+wake disorders, particularly for disorders of excessive sleepiness, such as narcolepsy, for which
+cerebrospinal fluid hypocretin-1 immunoreactivity values can be diagnostic; for breathing-related
+sleep disorders, for which formal sleep studies (i.e., polysomnography) are indicated; and for
+restless legs syndrome, which can often coexist with periodic limb movements during sleep,
+detectable via polysomnography.
+408
+Co-Occurring Disorders and Differential Diagnosis
+Sleep disorders are often accompanied by depression, anxiety, and cognitive changes that must
+be addressed in treatment planning and management. Furthermore, persistent sleep disturbances
+(both insomnia and excessive sleepiness) are established risk factors for the subsequent
+development of mental illnesses (including substance use and non–substance use disorders) and
+other medical conditions. They may also represent a prodromal expression of an episode of
+mental illness, allowing the possibility of early intervention to preempt or to attenuate a full-
+blown episode.
+The differential diagnosis of sleep-wake complaints necessitates a multidimensional
+approach, with consideration of possibly coexisting clinical conditions, which are the rule and
+not the exception. Sleep disturbances furnish a clinically useful indicator of clinical conditions
+that often coexist with depression and other common mental disorders. Prominent among these
+comorbidities are breathing-related sleep disorders, cardiac and pulmonary conditions (e.g.,
+congestive heart failure, chronic obstructive pulmonary disease), neurodegenerative disorders
+(e.g., Alzheimer’s disease), and disorders of the musculoskeletal system (e.g., osteoarthritis).
+These disorders not only may disturb sleep but also may themselves be worsened during sleep
+(e.g., prolonged apneas or electrocardiographic arrhythmias during REM sleep; confusional
+arousals in individuals with major neurocognitive disorder; seizures in individuals with complex
+partial seizures). REM sleep behavior disorder is often an early indicator of neurodegenerative
+disorders (alpha synucleinopathies) like Parkinson’s disease. For all of these reasons—related to
+differential diagnosis, clinical comorbidity, and facilitation of treatment planning—sleep
+disorders are included in DSM-5.
+Key Concepts and Terms
+Four distinct sleep stages can be measured by polysomnography: REM sleep and three stages of
+NREM sleep (N1, N2, and N3).
+REM sleep, during which the majority of typical story-like dreams occur, occupies about 20%–25% of total sleep.
+NREM sleep stage 1 (N1) is a transition from wakefulness to sleep and occupies about 5% of time spent asleep in healthy
+adults.
+NREM sleep stage 2 (N2), which is characterized by specific electroencephalographic waveforms (sleep spindles and K
+complexes), occupies about 50% of time spent asleep.
+NREM sleep stage 3 (N3) (also known as slow-wave sleep) is the deepest level of sleep and occupies about 20% of sleep
+time in healthy, younger adults.

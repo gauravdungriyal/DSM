@@ -1,0 +1,57 @@
+___.__
+Cocaine Intoxication Deliriumb,c (672)
+F14.121
+With mild use disorder
+F14.221
+With moderate or severe use disorder
+F14.921
+Without use disorder
+F15.921
+Amphetamine-Type (or Other Stimulant) Medication–Induced
+Deliriumb,c (674)
+Note: When amphetamine-type or other stimulant medication taken as
+prescribed. The designation “taken as prescribed” is used to
+differentiate medication-induced delirium from substance intoxication
+delirium.
+___.__
+Amphetamine-Type Substance (or Other Stimulant)–Induced Mild
+Neurocognitive Disorder (712)
+Specify if: Persistent
+F15.188
+With mild use disorder
+F15.288
+With moderate or severe use disorder
+F15.988
+Without use disorder
+___.__
+Cocaine-Induced Mild Neurocognitive Disorder (712)
+Specify if: Persistent
+F14.188
+With mild use disorder
+F14.288
+With moderate or severe use disorder
+F14.988
+Without use disorder
+___.__
+Unspecified Stimulant-Related Disorder (644)
+F15.99
+Amphetamine-type substance or other stimulant
+F14.99
+Cocaine
+Tobacco-Related Disorders (645)
+___.__
+Tobacco Use Disorder (645)
+Specify if: On maintenance therapy, In a controlled environment
+Specify current severity/remission:
+Z72.0
+Mild
+liv
+F17.200
+Moderate
+F17.201
+In early remission
+F17.201
+In sustained remission
+F17.200
+Severe
+In early remission

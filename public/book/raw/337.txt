@@ -1,0 +1,39 @@
+F06.34 With mixed features: Symptoms of mania or hypomania are also
+present but do not predominate in the clinical picture.
+Coding note: Include the name of the other medical condition in the name of the
+mental disorder (e.g., F06.31 depressive disorder due to hypothyroidism, with
+depressive features). The other medical condition should also be coded and listed
+separately immediately before the depressive disorder due to the medical condition
+(e.g., E03.9 hypothyroidism; F06.31 depressive disorder due to hypothyroidism,
+with depressive features).
+Diagnostic Features
+The essential feature of depressive disorder due to another medical condition is a prominent and
+persistent period of depressed mood or markedly diminished interest or pleasure in all, or almost
+all, activities that predominates in the clinical picture (Criterion A) and that is thought to be due
+to the physiological effects of another medical condition (Criterion B). In determining whether
+the mood disturbance is due to another medical condition, the clinician must first establish the
+presence of another medical condition. Further, the clinician must establish that the mood
+disturbance is etiologically related to another medical condition through a physiological
+207
+mechanism. A careful and comprehensive assessment of multiple factors is necessary to make
+this judgment. Although there are no infallible guidelines for determining whether the
+relationship between the mood disturbance and another medical condition is etiological, several
+considerations provide some guidance in this area. One consideration is the presence of a
+temporal association between the onset, exacerbation, or remission of another medical condition
+and that of the mood disturbance. A second consideration is the presence of features that are
+atypical of independent depressive disorders (e.g., atypical age at onset or course or absence of
+family history). Evidence from the literature that suggests that there can be a direct association
+between another medical condition in question and the development of mood symptoms can
+provide a useful context in the assessment of a particular situation.
+Associated Features
+Etiology (i.e., a causal relationship to another medical condition based on best clinical evidence)
+is the key variable in depressive disorder due to another medical condition. The listing of the
+medical conditions that are said to be able to induce major depression is never complete, and the
+clinician’s best judgment is the essence of this diagnosis.
+There are clear associations, as well as some neuroanatomical correlates, of depression with
+cerebrovascular accident (CVA), Huntington’s disease, Parkinson’s disease, and traumatic brain
+injury (TBI). Among the neuroendocrine conditions most closely associated with depression are
+Cushing’s syndrome and hypothyroidism. Autoimmune disorders, such systemic lupus
+erythematosus, and deficiencies of certain vitamins, such as vitamin B12, have also been linked
+to depression. There are numerous other conditions thought to be associated with depression,
+such as multiple sclerosis. However, the literature’s support for a causal association is greater

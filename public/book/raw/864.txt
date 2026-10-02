@@ -1,0 +1,35 @@
+F15.11 Other or unspecified stimulant
+Mild, In sustained remission
+F15.11 Amphetamine-type substance
+F14.11 Cocaine
+F15.11 Other or unspecified stimulant
+Moderate: Presence of 4–5 symptoms.
+F15.20 Amphetamine-type substance
+F14.20 Cocaine
+F15.20 Other or unspecified stimulant
+Moderate, In early remission
+F15.21 Amphetamine-type substance
+F14.21 Cocaine
+F15.21 Other or unspecified stimulant
+Moderate, In sustained remission
+F15.21 Amphetamine-type substance
+F14.21 Cocaine
+F15.21 Other or unspecified stimulant
+Severe: Presence of 6 or more symptoms.
+F15.20 Amphetamine-type substance
+F14.20 Cocaine
+F15.20 Other or unspecified stimulant
+Severe, In early remission
+F15.21 Amphetamine-type substance
+F14.21 Cocaine
+F15.21 Other or unspecified stimulant
+Severe, In sustained remission
+F15.21 Amphetamine-type substance
+F14.21 Cocaine
+F15.21 Other or unspecified stimulant
+Specifiers
+“In a controlled environment” applies as a further specifier of remission if the individual is both
+in remission and in a controlled environment (i.e., in early remission in a controlled environment
+or in sustained remission in a controlled environment). Examples of these environments are
+closely supervised and substance-free jails, therapeutic communities, and locked hospital units.
+635

@@ -1,0 +1,44 @@
+This category may be used when the focus of clinical attention is a pattern of interaction among
+siblings that is associated with significant impairment in individual or family functioning or with
+development of symptoms in one or more of the siblings, or when a sibling relational problem is
+affecting the course, prognosis, or treatment of a sibling’s mental disorder or other medical
+condition. This category may be used for either children or adults if the focus is on the sibling
+relationship. Siblings in this context include full, half-, step-, foster, and adopted siblings.
+Z63.0
+Relationship Distress With Spouse or Intimate Partner
+This category may be used when the major focus of the clinical contact is to address the quality
+of the intimate (spouse or partner) relationship or when the quality of that relationship is
+affecting the course, prognosis, or treatment of a mental disorder or other medical condition.
+Partners can be of the same or different genders. Typically, the relationship distress is associated
+with impaired functioning in behavioral, cognitive, or affective domains. Examples of behavioral
+problems include conflict resolution difficulty, withdrawal, and overinvolvement. Cognitive
+problems can manifest as chronic negative attributions of the other’s intentions or dismissals of
+the partner’s positive behaviors. Affective problems would include chronic sadness, apathy,
+and/or anger about the other partner.
+Problems Related to the Family Environment
+Z62.29
+Upbringing Away From Parents
+This category may be used when the main focus of clinical attention pertains to issues regarding
+a child being raised away from the parents or when this separate upbringing affects the course,
+prognosis, or treatment of a mental disorder or other medical condition. The child could be one
+who is under state custody and placed in kin care or foster care. The child could also be one who
+is living in a nonparental relative’s home, or with friends, but whose out-of-home placement is
+not mandated or sanctioned by the courts. Problems related to a child living in a group home or
+orphanage are also included. This category excludes issues related to Z59.3 Problem Related to
+Living in a Residential Institution.
+830
+Z62.898 Child Affected by Parental Relationship Distress
+This category may be used when the focus of clinical attention is the negative effects of parental
+relationship discord (e.g., high levels of conflict, distress, or disparagement) on a child in the
+family, including effects on the child’s mental disorder or other medical condition.
+Z63.5
+Disruption of Family by Separation or Divorce
+This category may be used when partners in an intimate adult couple are living apart because of
+relationship problems or are in the process of divorce.
+Z63.8
+High Expressed Emotion Level Within Family
+Expressed emotion is a construct used as a qualitative measure of the “amount” of emotion—in
+particular, hostility, emotional overinvolvement, and criticism directed toward a family member
+who is an identified patient—displayed in the family environment. This category may be used
+when a family’s high level of expressed emotion is the focus of clinical attention or is affecting
+the course, prognosis, or treatment of a family member’s mental disorder or other medical

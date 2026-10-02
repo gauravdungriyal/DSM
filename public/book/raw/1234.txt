@@ -1,0 +1,82 @@
+F13.981
+Sedative-, hypnotic-, or anxiolytic-induced sexual dysfunction, Without use disorder
+964
+F13.982
+Sedative-, hypnotic-, or anxiolytic-induced sleep disorder, Without use disorder
+F13.988
+Sedative-, hypnotic-, or anxiolytic-induced mild neurocognitive disorder, Without use disorder
+F13.99
+Unspecified sedative-, hypnotic-, or anxiolytic-related disorder
+F14.10
+Cocaine use disorder, Mild
+F14.11
+Cocaine use disorder, Mild, In early remission
+F14.11
+Cocaine use disorder, Mild, In sustained remission
+F14.120
+Cocaine intoxication, Without perceptual disturbances, With mild use disorder
+F14.121
+Cocaine intoxication delirium, With mild use disorder
+F14.122
+Cocaine intoxication, With perceptual disturbances, With mild use disorder
+F14.13
+Cocaine withdrawal, With mild use disorder
+F14.14
+Cocaine-induced bipolar and related disorder, With mild use disorder
+F14.14
+Cocaine-induced depressive disorder, With mild use disorder
+F14.159
+Cocaine-induced psychotic disorder, With mild use disorder
+F14.180
+Cocaine-induced anxiety disorder, With mild use disorder
+F14.181
+Cocaine-induced sexual dysfunction, With mild use disorder
+F14.182
+Cocaine-induced sleep disorder, With mild use disorder
+F14.188
+Cocaine-induced mild neurocognitive disorder, With mild use disorder
+F14.188
+Cocaine-induced obsessive-compulsive and related disorder, With mild use disorder
+F14.20
+Cocaine use disorder, Moderate
+F14.20
+Cocaine use disorder, Severe
+F14.21
+Cocaine use disorder, Moderate, In early remission
+F14.21
+Cocaine use disorder, Moderate, In sustained remission
+F14.21
+Cocaine use disorder, Severe, In early remission
+F14.21
+Cocaine use disorder, Severe, In sustained remission
+F14.220
+Cocaine intoxication, Without perceptual disturbances, With moderate or severe use disorder
+F14.221
+Cocaine intoxication delirium, With moderate or severe use disorder
+F14.222
+Cocaine intoxication, With perceptual disturbances, With moderate or severe use disorder
+F14.23
+Cocaine withdrawal, With moderate or severe use disorder
+F14.24
+Cocaine-induced bipolar and related disorder, With moderate or severe use disorder
+F14.24
+Cocaine-induced depressive disorder, With moderate or severe use disorder
+F14.259
+Cocaine-induced psychotic disorder, With moderate or severe use disorder
+F14.280
+Cocaine-induced anxiety disorder, With moderate or severe use disorder
+F14.281
+Cocaine-induced sexual dysfunction, With moderate or severe use disorder
+F14.282
+Cocaine-induced sleep disorder, With moderate or severe use disorder
+F14.288
+Cocaine-induced mild neurocognitive disorder, With moderate or severe use disorder
+F14.288
+Cocaine-induced obsessive-compulsive and related disorder, With moderate or severe use disorder
+F14.920
+Cocaine intoxication, Without perceptual disturbances, Without use disorder
+965
+F14.921
+Cocaine intoxication delirium, Without use disorder
+F14.922
+Cocaine intoxication, With perceptual disturbances, Without use disorder

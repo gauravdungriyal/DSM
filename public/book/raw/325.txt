@@ -1,0 +1,42 @@
+Psychotic disorders.
+Depressive or bipolar and related disorder due to another medical condition.
+Substance/medication-induced depressive or bipolar and related disorder.
+Personality disorders.
+F32.81
+persistent depressive disorder.
+Depressive symptoms are a common associated feature of chronic psychotic
+disorders (e.g., schizoaffective disorder, schizophrenia, delusional disorder). A separate
+diagnosis of persistent depressive disorder is not made if the symptoms occur only during the
+course of the psychotic disorder (including residual phases).
+Persistent 
+depressive
+disorder must be distinguished from a depressive or bipolar and related disorder due to another
+medical condition. The diagnosis is depressive or bipolar and related disorder due to another
+medical condition if the mood disturbance is judged, based on history, physical examination, or
+laboratory findings, to be attributable to the direct pathophysiological effects of a specific,
+usually chronic, medical condition (e.g., multiple sclerosis). If it is judged that the depressive
+symptoms are not attributable to the physiological effects of another medical condition, then the
+primary mental disorder (e.g., persistent depressive disorder) is recorded, and the medical
+condition is noted as a concomitant medical condition (e.g., diabetes mellitus).
+A 
+substance/medication-
+induced depressive or bipolar and related disorder is distinguished from persistent depressive
+disorder when a substance (e.g., a drug of abuse, a medication, a toxin) is judged to be
+etiologically related to the mood disturbance.
+A personality disorder is characterized by an enduring pattern of inner
+experience and behavior that deviates markedly from the expectations of the
+197
+individual’s culture, with onset by adolescence or early adulthood. Personality disorders
+commonly co-occur with persistent depressive disorder. If criteria are met for persistent
+depressive disorder and a personality disorder, both may be diagnosed.
+Comorbidity
+In comparison to individuals with major depressive disorder, those with persistent depressive
+disorder are at higher risk for psychiatric comorbidity in general, and for anxiety disorders,
+substance use disorders, and personality disorders in particular. Early-onset persistent depressive
+disorder is strongly associated with DSM-5 Cluster B and C personality disorders.
+Premenstrual Dysphoric Disorder
+Diagnostic Criteria
+A. In the majority of menstrual cycles, at least five symptoms must be present in the
+final week before the onset of menses, start to improve within a few days after
+the onset of menses, and become minimal or absent in the week postmenses.
+B. One (or more) of the following symptoms must be present:

@@ -1,0 +1,16 @@
+Neurodevelopmental disorder associated with prenatal alcohol exposure:
+Neurodevelopmental disorder associated with prenatal alcohol exposure is
+characterized by a range of developmental disabilities following exposure to
+alcohol in utero.
+Unspecified Neurodevelopmental Disorder
+F89
+This category applies to presentations in which symptoms characteristic of a
+neurodevelopmental disorder that cause impairment in social, occupational, or other
+important areas of functioning predominate but do not meet the full criteria for any of
+the disorders in the neurodevelopmental disorders diagnostic class. The unspecified
+neurodevelopmental disorder category is used in situations in which the clinician
+chooses not to specify the reason that the criteria are not met for a specific
+neurodevelopmental disorder and includes presentations in which there is
+insufficient information to make a more specific diagnosis (e.g., in emergency room
+settings).
+100

@@ -1,0 +1,88 @@
+disorders (diagnostic criteria and text are provided in this manual for substance/medication-
+induced psychotic disorders, bipolar and related disorders, depressive disorders, anxiety
+disorders, obsessive-compulsive and related disorders, sleep disorders, sexual dysfunctions,
+delirium, and neurocognitive disorders in their respective chapters). The term
+544
+substance/medication-induced mental disorder refers to symptomatic presentations that are
+due to the physiological effects of an exogenous substance on the central nervous system and
+includes typical intoxicants (e.g., alcohol, inhalants, cocaine), psychotropic medications (e.g.,
+stimulants, sedative-hypnotics), other medications, (e.g., steroids), and environmental toxins
+(e.g., organophosphate insecticides).
+The current section begins with a general discussion of criteria sets for substance use
+disorder, substance intoxication, substance withdrawal, and substance/medication-induced
+mental disorders, at least some of which are applicable across classes of substances. Reflecting
+some unique aspects of the 10 substance classes relevant to this chapter, the remainder of the
+chapter is organized by substance class. To facilitate differential diagnosis, the diagnostic criteria
+and text for the substance/medication-induced mental disorders are included with disorders with
+which they share phenomenology (e.g., substance/medication-induced depressive disorder is in
+the chapter “Depressive Disorders”). Note that only certain classes of drugs are capable of
+causing particular types of substance-induced disorders. The substance-related diagnostic
+categories associated with specific drug classes are shown in Table 1.
+545
+TABLE 1 Diagnoses associated with substance class
+Psychotic
+disorders
+Bipolar
+and
+related
+disorders
+Depressive
+disorders
+Anxiety
+disorders
+Obsessive-
+compulsive
+and related
+disorders
+Sleep
+disorders dy
+Alcohol
+I/W
+I/W
+I/W
+I/W
+I/W
+Caffeine
+I
+I/W
+Cannabis
+I
+I
+I/W
+Hallucinogens
+Phencyclidine
+I
+I
+I
+I
+Other
+hallucinogens
+I*
+I
+I
+I
+Inhalants
+I
+I
+I
+Opioids
+I/W
+W
+I/W
+Sedatives,
+hypnotics, or
+anxiolytics
+I/W
+I/W
+I/W
+W
+I/W
+Stimulants**
+I
+I/W
+I/W
+I/W
+I/W
+I/W
+Tobacco
+W

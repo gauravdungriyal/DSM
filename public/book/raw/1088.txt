@@ -1,0 +1,31 @@
+reasonable and causes no bodily injury to the child.
+Child Physical Abuse, Confirmed
+T74.12XA Initial encounter
+T74.12XD Subsequent encounter
+Child Physical Abuse, Suspected
+T76.12XA Initial encounter
+T76.12XD Subsequent encounter
+Other Circumstances Related to Child Physical Abuse
+Z69.010 Encounter for mental health services for victim of child physical abuse by parent
+Z69.020 Encounter for mental health services for victim of nonparental child physical abuse
+Z62.810 Personal history (past history) of physical abuse in childhood
+Z69.011 Encounter for mental health services for perpetrator of parental child physical abuse
+Z69.021  Encounter for mental health services for perpetrator of nonparental child physical
+abuse
+Child Sexual Abuse
+This category may be used when sexual abuse of a child is a focus of clinical attention. Child
+sexual abuse encompasses any sexual act involving a child that is intended to provide sexual
+gratification to a parent, caregiver, or other individual who has responsibility
+824
+for the child. Sexual abuse includes activities such as fondling a child’s genitals, penetration,
+incest, rape, sodomy, and indecent exposure. Sexual abuse also includes noncontact exploitation
+of a child by a parent or caregiver—for example, forcing, tricking, enticing, threatening, or
+pressuring a child to participate in acts for the sexual gratification of others, without direct
+physical contact between child and abuser.
+Child Sexual Abuse, Confirmed
+T74.22XA Initial encounter
+T74.22XD Subsequent encounter
+Child Sexual Abuse, Suspected
+T76.22XA Initial encounter
+T76.22XD Subsequent encounter
+Other Circumstances Related to Child Sexual Abuse

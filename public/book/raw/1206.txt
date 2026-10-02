@@ -1,0 +1,77 @@
+Cocaine-induced anxiety disorder
+F14.180
+With mild use disorder
+F14.280
+With moderate or severe use disorder
+F14.980
+Without use disorder
+Cocaine-induced bipolar and related disorder
+F14.14
+With mild use disorder
+F14.24
+With moderate or severe use disorder
+F14.94
+Without use disorder
+Cocaine-induced depressive disorder
+F14.14
+With mild use disorder
+F14.24
+With moderate or severe use disorder
+F14.94
+Without use disorder
+Cocaine-induced mild neurocognitive disorder
+F14.188
+With mild use disorder
+F14.288
+With moderate or severe use disorder
+F14.988
+Without use disorder
+Cocaine-induced obsessive-compulsive and related disorder
+F14.188
+With mild use disorder
+F14.288
+With moderate or severe use disorder
+F14.988
+Without use disorder
+Cocaine-induced psychotic disorder
+F14.159
+With mild use disorder
+F14.259
+With moderate or severe use disorder
+F14.959
+Without use disorder
+Cocaine-induced sexual dysfunction
+F14.181
+With mild use disorder
+F14.281
+With moderate or severe use disorder
+F14.981
+Without use disorder
+Cocaine-induced sleep disorder
+F14.182
+With mild use disorder
+F14.282
+With moderate or severe use disorder
+F14.982
+Without use disorder
+Cocaine intoxication, With perceptual disturbances
+F14.122
+With mild use disorder
+F14.222
+With moderate or severe use disorder
+F14.922
+Without use disorder
+Cocaine intoxication, Without perceptual disturbances
+F14.120
+With mild use disorder
+F14.220
+With moderate or severe use disorder
+F14.920
+Without use disorder
+Cocaine intoxication delirium
+F14.121
+With mild use disorder
+F14.221
+With moderate or severe use disorder
+F14.921
+Without use disorder

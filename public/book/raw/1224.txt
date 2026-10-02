@@ -1,0 +1,76 @@
+Substance/medication-induced depressive disorder (see specific substances for codes)
+Substance/medication-induced major or mild neurocognitive disorder (see specific substances for
+codes)
+Substance/medication-induced obsessive-compulsive and related disorder (see specific substances for
+codes)
+Substance/medication-induced psychotic disorder (see specific substances for codes)
+Substance/medication-induced sexual dysfunction (see specific substances for codes)
+Substance/medication-induced sleep disorder (see specific substances for codes)
+Suicidal behavior, current
+T14.91A
+Initial encounter
+T14.91D
+Subsequent encounter
+Z91.51
+Suicidal behavior, history of
+G25.71
+Tardive akathisia
+G24.01
+Tardive dyskinesia
+G24.09
+Tardive dystonia
+Z60.5
+Target of (perceived) adverse discrimination or persecution
+Z56.2
+Threat of job loss
+Tic disorders
+F95.8
+Other specified tic disorder
+F95.1
+Persistent (chronic) motor or vocal tic disorder
+F95.0
+Provisional tic disorder
+F95.2
+Tourette's disorder
+F95.9
+Unspecified tic disorder
+F17.208
+Tobacco-induced sleep disorder, With moderate or severe use disorder
+Tobacco use disorder
+Z72.0
+Mild
+F17.200
+Moderate
+F17.201
+In early remission
+F17.201
+In sustained remission
+F17.200
+Severe
+F17.201
+In early remission
+F17.201
+In sustained remission
+955
+F17.203
+Tobacco withdrawal
+F95.2
+Tourette’s disorder
+F65.1
+Transvestic disorder
+F63.3
+Trichotillomania (hair-pulling disorder)
+Z75.3
+Unavailability or inaccessibility of health care facilities
+Z75.4
+Unavailability or inaccessibility of other helping agencies
+Z63.4
+Uncomplicated bereavement
+Z56.5
+Uncongenial work environment
+Z55.3
+Underachievement in school
+Z56.0
+Unemployment
+F10.99
+Unspecified alcohol-related disorder

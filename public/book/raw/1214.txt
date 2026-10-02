@@ -1,0 +1,78 @@
+Other circumstances related to adult abuse by nonspouse or nonpartner
+Z69.82
+Encounter for mental health services for perpetrator of nonspousal or nonpartner adult abuse
+Z69.81
+Encounter for mental health services for victim of nonspousal or nonpartner adult abuse
+Other circumstances related to child neglect
+Z69.021
+Encounter for mental health services for perpetrator of nonparental child neglect
+Z69.011
+Encounter for mental health services for perpetrator of parental child neglect
+Z69.010
+Encounter for mental health services for victim of child neglect by parent
+Z69.020
+Encounter for mental health services for victim of nonparental child neglect
+Z62.812
+Personal history (past history) of neglect in childhood
+Other circumstances related to child physical abuse
+Z69.021
+Encounter for mental health services for perpetrator of nonparental child physical abuse
+Z69.011
+Encounter for mental health services for perpetrator of parental child physical abuse
+Z69.010
+Encounter for mental health services for victim of child physical abuse by parent
+Z69.020
+Encounter for mental health services for victim of nonparental child physical abuse
+Z62.810
+Personal history (past history) of physical abuse in childhood
+Other circumstances related to child psychological abuse
+Z69.021
+Encounter for mental health services for perpetrator of nonparental child psychological abuse
+Z69.011
+Encounter for mental health services for perpetrator of parental child psychological abuse
+Z69.010
+Encounter for mental health services for victim of child psychological abuse by parent
+Z69.020
+Encounter for mental health services for victim of nonparental child psychological abuse
+Z62.811
+Personal history (past history) of psychological abuse in childhood
+Other circumstances related to child sexual abuse
+Z69.021
+Encounter for mental health services for perpetrator of nonparental child sexual abuse
+Z69.011
+Encounter for mental health services for perpetrator of parental child sexual abuse
+Z69.010
+Encounter for mental health services for victim of child sexual abuse by parent
+Z69.020
+Encounter for mental health services for victim of nonparental child sexual abuse
+Z62.810
+Personal history (past history) of sexual abuse in childhood
+Other circumstances related to spouse or partner abuse, Psychological
+Z69.12
+Encounter for mental health services for perpetrator of spouse or partner psychological abuse
+Z69.11
+Encounter for mental health services for victim of spouse or partner psychological abuse
+Z91.411
+Personal history (past history) of spouse or partner psychological abuse
+945
+Other circumstances related to spouse or partner neglect
+Z69.12
+Encounter for mental health services for perpetrator of spouse or partner neglect
+Z69.11
+Encounter for mental health services for victim of spouse or partner neglect
+Z91.412
+Personal history (past history) of spouse or partner neglect
+Other circumstances related to spouse or partner violence, Physical
+Z69.12
+Encounter for mental health services for perpetrator of spouse or partner violence, Physical
+Z69.11
+Encounter for mental health services for victim of spouse or partner violence, Physical
+Z91.410
+Personal history (past history) of spouse or partner violence, Physical
+Other circumstances related to spouse or partner violence, Sexual
+Z69.12
+Encounter for mental health services for perpetrator of spouse or partner violence, Sexual
+Z69.81
+Encounter for mental health services for victim of spouse or partner violence, Sexual
+Z91.410
+Personal history (past history) of spouse or partner violence, Sexual

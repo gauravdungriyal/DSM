@@ -1,0 +1,76 @@
+F10.10
+Mild
+F10.11
+In early remission
+F10.11
+In sustained remission
+F10.20
+Moderate
+F10.21
+In early remission
+F10.21
+In sustained remission
+F10.20
+Severe
+F10.21
+In early remission
+F10.21
+In sustained remission
+Alcohol withdrawal, With perceptual disturbances
+F10.132
+With mild use disorder
+F10.232
+With moderate or severe use disorder
+F10.932
+Without use disorder
+Alcohol withdrawal, Without perceptual disturbances
+F10.130
+With mild use disorder
+F10.230
+With moderate or severe use disorder
+F10.930
+Without use disorder
+Alcohol withdrawal delirium
+F10.131
+With mild use disorder
+F10.231
+With moderate or severe use disorder
+F10.931
+Without use disorder
+F15.921
+Amphetamine-type (or other stimulant) medication–induced delirium (amphetamine-type or other
+stimulant medication taken as prescribed)
+Amphetamine-type substance (or other stimulant)–induced anxiety disorder
+F15.180
+With mild use disorder
+F15.280
+With moderate or severe use disorder
+F15.980
+Without use disorder
+Amphetamine-type substance (or other stimulant)–induced bipolar and related disorder
+F15.14
+With mild use disorder
+F15.24
+With moderate or severe use disorder
+F15.94
+Without use disorder
+Amphetamine-type substance (or other stimulant)–induced depressive disorder
+F15.14
+With mild use disorder
+F15.24
+With moderate or severe use disorder
+F15.94
+Without use disorder
+Amphetamine-type substance (or other stimulant)–induced mild neurocognitive disorder
+F15.188
+With mild use disorder
+F15.288
+With moderate or severe use disorder
+F15.988
+Without use disorder
+932
+Amphetamine-type substance (or other stimulant)–induced obsessive-compulsive and related disorder
+F15.188
+With mild use disorder
+F15.288
+With moderate or severe use disorder

@@ -1,0 +1,36 @@
+choose between unspecified bipolar and related disorder and unspecified depressive
+disorder (e.g., acute agitation).
+Specifiers for Depressive Disorders
+Specify if:
+With anxious distress: Anxious distress is defined as the presence of at least
+two of the following symptoms during the majority of days of the current major
+depressive episode (or the most recent major depressive episode if major
+depressive disorder is currently in partial or full remission) or current persistent
+depressive disorder:
+1. Feeling keyed up or tense.
+2. Feeling unusually restless.
+3. Difficulty concentrating because of worry.
+4. Fear that something awful may happen.
+5. Feeling that the individual might lose control of himself or herself.
+Specify current severity:
+Mild: Two symptoms.
+Moderate: Three symptoms.
+Moderate-severe: Four or five symptoms.
+Severe: Four or five symptoms and with motor agitation.
+Note: Anxious distress has been noted as a prominent feature of both bipolar
+and major depressive disorder in both primary care and specialty mental
+health
+211
+settings. High levels of anxiety have been associated with higher suicide risk,
+longer duration of illness, and greater likelihood of treatment nonresponse. As
+a result, it is clinically useful to specify accurately the presence and severity
+levels of anxious distress for treatment planning and monitoring of response to
+treatment.
+With mixed features:
+A. At least three of the following manic/hypomanic symptoms are present during
+the majority of days of the current major depressive episode (or the most
+recent major depressive episode if major depressive disorder is currently in
+partial or full remission):
+1. Elevated, expansive mood.
+2. Inflated self-esteem or grandiosity.
+3. More talkative than usual or pressure to keep talking.

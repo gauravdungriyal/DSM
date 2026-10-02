@@ -1,0 +1,57 @@
+F31.5
+With psychotic features
+F31.75
+In partial remission
+F31.76
+In full remission
+F31.9
+Unspecified
+F31.9
+Current or most recent episode unspecified
+xxxi
+F31.81
+Bipolar II Disorder (150)
+Specify current or most recent episode: Hypomanicb, Depresseda
+Specify course if full criteria for a mood episode are not currently met: In partial remission, In full
+remission
+Specify severity if full criteria for a major depressive episode are currently met: Mild, Moderate,
+Severe
+F34.0
+Cyclothymic Disorder (159)
+Specify if: With anxious distress (specify current severity: mild, moderate, moderate-severe, severe)
+___.__
+Substance/Medication-Induced Bipolar and Related Disorder (162)
+Note: For applicable ICD-10-CM codes, refer to the substance classes under Substance-Related and
+Addictive Disorders for the specific substance/medication-induced bipolar and related disorder. See
+also the criteria set and corresponding recording procedures in the manual for more information.
+Coding note: The ICD-10-CM code depends on whether or not there is a comorbid substance use
+disorder present for the same class of substance. In any case, an additional separate diagnosis of a
+substance use disorder is not given.
+Specify if: With onset during intoxication, With onset during withdrawal, With onset after medication
+use
+___.__
+Bipolar and Related Disorder Due to Another Medical Condition (166)
+Specify if:
+F06.33
+With manic features
+F06.33
+With manic- or hypomanic-like episode
+F06.34
+With mixed features
+F31.89
+Other Specified Bipolar and Related Disorder (168)
+F31.9
+Unspecified Bipolar and Related Disorder (169)
+F39
+Unspecified Mood Disorder (169)
+Depressive Disorders (177)
+F34.81
+Disruptive Mood Dysregulation Disorder (178)
+___.__
+Major Depressive Disorder (183)
+Specify: With anxious distress (specify current severity: mild, moderate, moderate-severe, severe);
+With mixed features; With melancholic features; With atypical features; With mood-congruent
+psychotic features; With mood-incongruent psychotic features; With catatonia (use additional code
+F06.1); With peripartum onset; With seasonal pattern
+___.__
+Single episode

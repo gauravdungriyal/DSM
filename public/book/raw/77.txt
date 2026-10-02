@@ -1,0 +1,52 @@
+F19.27
+With moderate or severe use disorder
+F19.97
+Without use disorder
+___.__
+Other (or Unknown) Substance–Induced Mild Neurocognitive Disorder
+(712)
+Specify if: Persistent
+F19.188
+With mild use disorder
+F19.288
+With moderate or severe use disorder
+F19.988
+Without use disorder
+F19.99
+Unspecified Other (or Unknown) Substance–Related Disorder (660)
+Non-Substance-Related Disorders (661)
+F63.0
+Gambling Disorder (661)
+Specify if: Episodic, Persistent
+Specify if: In early remission, In sustained remission
+Specify current severity: Mild, Moderate, Severe
+Neurocognitive Disorders (667)
+___.__
+Delirium (672)
+Specify if: Acute, Persistent
+Specify if: Hyperactive, Hypoactive, Mixed level of activity
+aNote: For applicable ICD-10-CM codes, refer to the substance classes under Substance-Related and
+Addictive Disorders for the specific substance/medication-induced delirium. See also the criteria set
+and corresponding recording procedures in the manual for more information.
+Specify whether:
+___.__
+Substance intoxication deliriuma
+___.__
+Substance withdrawal deliriuma
+lvii
+___.__
+Medication-induced deliriuma
+F05
+Delirium due to another medical condition
+F05
+Delirium due to multiple etiologies
+R41.0
+Other Specified Delirium (678)
+R41.0
+Unspecified Delirium (678)
+Major and Mild Neurocognitive Disorders (679)
+Specify whether due to [any of the following medical etiologies]: Alzheimer’s disease, Frontotemporal degeneration, Lewy body
+disease, Vascular disease, Traumatic brain injury, Substance/medication use, HIV infection, Prion disease, Parkinson’s
+disease, Huntington’s disease, Another medical condition, Multiple etiologies, Unspecified etiology
+aSpecify current severity: Mild, Moderate, Severe. This specifier applies only to major neurocognitive disorders (including
+probable and possible).

@@ -1,0 +1,40 @@
+289
+With onset during withdrawal: If criteria are met for withdrawal from the
+substance and the symptoms develop during, or shortly after, withdrawal.
+With onset after medication use: If symptoms developed at initiation of
+medication, with a change in use of medication, or during withdrawal of
+medication.
+Recording Procedures
+The name of the substance/medication-induced obsessive-compulsive and related disorder begins
+with the specific substance (e.g., cocaine) that is presumed to be causing the obsessive-
+compulsive and related symptoms. The diagnostic code is selected from the table included in the
+criteria set, which is based on the drug class and presence or absence of a comorbid substance
+use disorder. For substances that do not fit into any of the classes (e.g., ropinirole), the code for
+“other (or unknown) substance” should be used; and in cases in which a substance is judged to
+be an etiological factor but the specific class of substance is unknown, the same code should also
+be used.
+To record the name of the disorder, the comorbid substance use disorder (if any) is listed
+first, followed by “with substance/medication-induced obsessive-compulsive and related
+disorder” (incorporating the name of the specific etiological substance/medication), followed by
+the specification of onset (i.e., onset during intoxication, onset during withdrawal, with onset
+after medication use). For example, in the case of repetitive skin-picking occurring during
+intoxication in a man with a severe cocaine use disorder, the diagnosis is F14.288 severe cocaine
+use disorder with cocaine-induced obsessive-compulsive and related disorder, with onset during
+intoxication. A separate diagnosis of the comorbid severe cocaine use disorder is not given. If the
+substance-induced obsessive-compulsive and related disorder occurs without a comorbid
+substance use disorder (e.g., after a one-time heavy use of the substance), no accompanying
+substance use disorder is noted (e.g., F15.988 amphetamine-induced obsessive-compulsive and
+related disorder, with onset during intoxication). When more than one substance is judged to play
+a significant role in the development of the obsessive-compulsive and related disorder, each
+should be listed separately.
+Diagnostic Features
+The essential features of substance/medication-induced obsessive-compulsive and related
+disorder are prominent symptoms of an obsessive-compulsive and related disorder (Criterion A)
+that are judged to be attributable to the effects of a substance (e.g., drug of abuse, medication).
+The obsessive-compulsive and related disorder symptoms must have developed during or soon
+after substance intoxication or withdrawal or after exposure to or withdrawal from a medication
+or toxin, and the substance/medication must be capable of producing the symptoms (Criterion
+B). Substance/medication-induced obsessive-compulsive and related disorder due to a prescribed
+treatment for a mental disorder or other medical condition must have its onset while the
+individual is receiving the medication. Once the treatment is discontinued, the obsessive-
+compulsive and related disorder symptoms will usually improve or remit within days to weeks

@@ -1,0 +1,81 @@
+the exercise of clinical judgment based on the individual’s history and the cultural
+norms for the expression of distress in the context of loss.1
+Bipolar I Disorder
+A. Criteria have been met for at least one manic episode (Criteria A–D under
+“Manic Episode” above).
+B. At least one manic episode is not better explained by schizoaffective disorder
+and is not superimposed on schizophrenia, schizophreniform disorder,
+delusional disorder, or other specified or unspecified schizophrenia spectrum
+and other psychotic disorder.
+Coding and Recording Procedures
+The diagnostic code for bipolar I disorder is based on type of current or most recent
+episode and its status with respect to current severity, presence of psychotic
+features, and remission status. Current severity and psychotic features are only
+indicated if full criteria are currently met for a manic or major depressive episode.
+Remission specifiers are only indicated if the full criteria are not currently met for a
+manic, hypomanic, or major depressive episode. Codes are as follows:
+Bipolar I disorder
+Current or
+most
+recent
+episode
+manic
+Current or
+most recent
+episode
+hypomanic*
+Current or
+most
+recent
+episode
+depressed
+Current or
+most recent
+episode
+unspecified**
+Mild (p. 175)
+F31.11
+NA
+F31.31
+NA
+Moderate (p. 175)
+F31.12
+NA
+F31.32
+NA
+Severe (p. 175)
+F31.13
+NA
+F31.4
+NA
+143
+With psychotic features*** (p. 173)
+F31.2
+NA
+F31.5
+NA
+In partial remission (p. 175)
+F31.73
+F31.71
+F31.75
+NA
+In full remission (p. 175)
+F31.74
+F31.72
+F31.76
+NA
+Unspecified
+F31.9
+F31.9
+F31.9
+NA
+*Severity and psychotic specifiers do not apply; code F31.0 for cases not in remission.
+**Severity, psychotic, and remission specifiers do not apply. Code F31.9.
+***If psychotic features are present, code the “with psychotic features” specifier irrespective of episode severity.
+In recording the name of a diagnosis, terms should be listed in the following order:
+bipolar I disorder, type of current episode (or most recent episode if bipolar I
+disorder is in partial or full remission), severity/psychotic/remission specifiers,
+followed by as many of the following specifiers without codes as apply to the
+current episode (or the most recent episode if bipolar I disorder is in partial or full
+remission). Note: The specifiers “with rapid cycling” and “with seasonal pattern”
+describe the pattern of mood episodes.

@@ -1,0 +1,41 @@
+(within a week) without the need for treatment. Other symptoms of maternity
+blues include sleep disturbance and even confusion that can occur shortly
+after delivery.
+ Perinatal women may be at higher risk for depressive disorders due to
+thyroid abnormalities as well as other medical conditions that can cause
+depressive symptoms. If the depressive symptoms are judged to be due to
+another medical condition related to the perinatal period, depressive
+disorder due to another medical condition should be diagnosed instead of a
+major depressive episode, with peripartum onset.
+With seasonal pattern: This specifier applies to the lifetime pattern of mood
+episodes. The essential feature is a regular seasonal pattern of at least one
+type of episode (i.e., mania, hypomania, or depression). The other types of
+episodes may not follow this pattern. For example, an individual may have
+seasonal manias but have depressions that do not regularly occur at a specific
+time of year.
+A. There has been a regular temporal relationship between the onset of manic,
+hypomanic, or major depressive episodes and a particular time of the year
+(e.g., in the fall or winter) in bipolar I or bipolar II disorder.
+Note: Do not include cases in which there is an obvious effect of seasonally
+related psychosocial stressors (e.g., regularly being unemployed every
+winter).
+B. Full remissions (or a change from major depression to mania or hypomania
+or vice versa) also occur at a characteristic time of the year (e.g.,
+depression disappears in the spring).
+C. In the last 2 years, the individual’s manic, hypomanic, or major depressive
+episodes have demonstrated a temporal seasonal relationship, as defined
+above, and no nonseasonal episodes of that polarity have occurred during
+that 2-year period.
+D. Seasonal manias, hypomanias, or depressions (as described above)
+substantially outnumber any nonseasonal manias, hypomanias, or
+depressions that may have occurred over the individual’s lifetime.
+Note: The specifier “with seasonal pattern” can apply to the pattern of major
+depressive episodes in bipolar I and bipolar II disorder, to the pattern of
+manic episodes
+175
+and hypomanic episodes in bipolar I disorder, and to the pattern of
+hypomanic episodes in bipolar II disorder. The essential feature is the onset
+and remission of major depressive, manic, or hypomanic episodes at
+characteristic times of the year. In most cases, the seasonal major
+depressive episodes begin in fall or winter and remit in spring. Less
+commonly, there may be recurrent summer depressive episodes. This

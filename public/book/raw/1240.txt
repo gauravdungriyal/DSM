@@ -1,0 +1,79 @@
+F19.21
+Other (or unknown) substance use disorder, Moderate, In sustained remission
+F19.21
+Other (or unknown) substance use disorder, Severe, In early remission
+F19.21
+Other (or unknown) substance use disorder, Severe, In sustained remission
+F19.220
+Other (or unknown) substance intoxication, Without perceptual disturbances, With moderate or severe
+use disorder
+971
+F19.221
+Other (or unknown) substance intoxication delirium, With moderate or severe use disorder
+F19.222
+Other (or unknown) substance intoxication, With perceptual disturbances, With moderate or severe use
+disorder
+F19.230
+Other (or unknown) substance withdrawal, Without perceptual disturbances, With moderate or severe
+use disorder
+F19.231
+Other (or unknown) substance withdrawal delirium, With moderate or severe use disorder
+F19.232
+Other (or unknown) substance withdrawal, With perceptual disturbances, With moderate or severe use
+disorder
+F19.24
+Other (or unknown) substance–induced bipolar and related disorder, With moderate or severe use
+disorder
+F19.24
+Other (or unknown) substance–induced depressive disorder, With moderate or severe use disorder
+F19.259
+Other (or unknown) substance–induced psychotic disorder, With moderate or severe use disorder
+F19.27
+Other (or unknown) substance–induced major neurocognitive disorder, With moderate or severe use
+disorder
+F19.280
+Other (or unknown) substance–induced anxiety disorder, With moderate or severe use disorder
+F19.281
+Other (or unknown) substance–induced sexual dysfunction, With moderate or severe use disorder
+F19.282
+Other (or unknown) substance–induced sleep disorder, With moderate or severe use disorder
+F19.288
+Other (or unknown) substance–induced mild neurocognitive disorder, With moderate or severe use
+disorder
+F19.288
+Other (or unknown) substance–induced obsessive-compulsive and related disorder, With moderate or
+severe use disorder
+F19.920
+Other (or unknown) substance intoxication, Without perceptual disturbances, Without use disorder
+F19.921
+Other (or unknown) medication–induced delirium (other [or unknown] medication taken as prescribed)
+F19.921
+Other (or unknown) substance intoxication delirium, Without use disorder
+F19.922
+Other (or unknown) substance intoxication, With perceptual disturbances, Without use disorder
+F19.930
+Other (or unknown) substance withdrawal, Without perceptual disturbances, Without use disorder
+F19.931
+Other (or unknown) medication–induced delirium (during withdrawal from other [or unknown]
+medication taken as prescribed)
+F19.931
+Other (or unknown) substance withdrawal delirium, Without use disorder
+F19.932
+Other (or unknown) substance withdrawal, With perceptual disturbances, Without use disorder
+F19.94
+Other (or unknown) substance–induced bipolar and related disorder, Without use disorder
+F19.94
+Other (or unknown) substance–induced depressive disorder, Without use disorder
+F19.959
+Other (or unknown) substance–induced psychotic disorder, Without use disorder
+972
+F19.97
+Other (or unknown) substance–induced major neurocognitive disorder, Without use disorder
+F19.980
+Other (or unknown) substance–induced anxiety disorder, Without use disorder
+F19.981
+Other (or unknown) substance–induced sexual dysfunction, Without use disorder
+F19.982
+Other (or unknown) substance–induced sleep disorder, Without use disorder
+F19.988
+Other (or unknown) substance–induced mild neurocognitive disorder, Without use disorder

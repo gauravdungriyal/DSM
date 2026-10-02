@@ -1,0 +1,61 @@
+the cessation of acute withdrawal or severe intoxication; or there is other
+evidence 
+suggesting 
+the 
+existence 
+of 
+an 
+independent 
+non-
+substance/medication-induced obsessive-compulsive and related disorder
+(e.g., a history of recurrent non-substance/medication-related episodes).
+D. The disturbance does not occur exclusively during the course of a delirium.
+E. The disturbance causes clinically significant distress or impairment in social,
+occupational, or other important areas of functioning.
+Note: This diagnosis should be made in addition to a diagnosis of substance
+intoxication or substance withdrawal only when the symptoms in Criterion A
+predominate in the clinical picture and are sufficiently severe to warrant clinical
+attention.
+Coding note: The ICD-10-CM codes for the [specific substance/medication]-induced
+obsessive-compulsive and related disorders are indicated in the table below. Note
+that the ICD-10-CM code depends on whether or not there is a comorbid substance
+use disorder present for the same class of substance. In any case, an additional
+separate diagnosis of a substance use disorder is not given. If a mild substance use
+disorder is comorbid with the substance-induced obsessive-compulsive and related
+disorder, the 4th position character is “1,” and the clinician should record “mild
+[substance] use disorder” before the substance-induced obsessive-compulsive and
+related disorder (e.g., “mild cocaine use disorder with cocaine-induced obsessive-
+compulsive and related disorder”). If a moderate or severe substance use disorder is
+comorbid with the substance-induced obsessive-compulsive and related disorder,
+the 4th position character is “2,” and the clinician should record “moderate
+[substance] use disorder” or “severe [substance] use disorder,” depending on the
+severity of the comorbid substance use disorder. If there is no comorbid substance
+use disorder (e.g., after a one-time heavy use of the substance), then the 4th
+position character is “9,” and the clinician should record only the substance-induced
+obsessive-compulsive and related disorder.
+ICD-10-CM
+With mild use
+disorder
+With moderate or
+severe use disorder
+Without use
+disorder
+Amphetamine-type substance (or other
+stimulant)
+F15.188
+F15.288
+F15.988
+Cocaine
+F14.188
+F14.288
+F14.988
+Other (or unknown) substance
+F19.188
+F19.288
+F19.988
+Specify (see Table 1 in the chapter “Substance-Related and Addictive Disorders,”
+which indicates whether “with onset during intoxication” and/or “with onset during
+withdrawal” applies to a given substance class; or specify “with onset after
+medication use”):
+With onset during intoxication: If criteria are met for intoxication with the
+substance and the symptoms develop during intoxication.

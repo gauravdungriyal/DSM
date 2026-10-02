@@ -1,0 +1,71 @@
+Coding note: The ICD-10-CM codes for the [specific substance/medication]-induced
+sleep disorders are indicated in the table below. Note that the ICD-10-CM code
+depends on whether or not there is a comorbid substance use disorder present for
+the same class of substance. In any case, an additional separate diagnosis of a
+substance use disorder is not given. If a mild substance use disorder is comorbid
+with the substance-induced sleep disorder, the 4th position character is “1,” and the
+clinician should record “mild [substance] use disorder” before the substance-induced
+sleep disorder (e.g., “mild cocaine use disorder with cocaine-induced sleep
+disorder”). If a moderate or severe substance use disorder is comorbid with the
+substance-induced sleep disorder, the 4th position character is “2,” and the clinician
+should record “moderate [substance] use disorder” or “severe [substance] use
+disorder,” depending on the severity of the comorbid substance use disorder. If there
+is no comorbid substance use disorder (e.g., after a one-time heavy use of the
+substance), then the 4th position character is “9,” and the clinician should record
+only the substance-induced sleep disorder.
+There are two exceptions to this coding convention as it applies to caffeine- and
+tobacco-induced sleep disorders. Because caffeine use disorder is not an official
+DSM-5 category,
+469
+there is only a single ICD-10-CM code for caffeine-induced sleep disorder: F15.982.
+Moreover, because ICD-10-CM assumes that tobacco-induced sleep disorder can
+only occur in the context of moderate or severe tobacco use disorder, the ICD-10-
+CM code for tobacco-induced sleep disorder is F17.208.
+ICD-10-CM
+With mild use
+disorder
+With moderate or
+severe use disorder
+Without use
+disorder
+Alcohol
+F10.182
+F10.282
+F10.982
+Caffeine
+NA
+NA
+F15.982
+Cannabis
+F12.188
+F12.288
+F12.988
+Opioid
+F11.182
+F11.282
+F11.982
+Sedative, hypnotic, or anxiolytic
+F13.182
+F13.282
+F13.982
+Amphetamine-type substance (or other
+stimulant)
+F15.182
+F15.282
+F15.982
+Cocaine
+F14.182
+F14.282
+F14.982
+Tobacco
+NA
+F17.208
+NA
+Other (or unknown) substance
+F19.182
+F19.282
+F19.982
+Specify whether:
+Insomnia type: Characterized by difficulty falling asleep or maintaining sleep,
+frequent nocturnal awakenings, or nonrestorative sleep.
+Daytime sleepiness type: Characterized by predominant complaint of

@@ -1,0 +1,39 @@
+With intermittent major depressive episodes, with current episode: Full
+criteria for a major depressive episode are currently met, but there have been
+periods of at least 8 weeks in at least the preceding 2 years with symptoms
+below the threshold for a full major depressive episode.
+With intermittent major depressive episodes, without current episode: Full
+criteria for a major depressive episode are not currently met, but there has been
+one or more major depressive episodes in at least the preceding 2 years.
+Specify current severity:
+Mild (p. 214)
+Moderate (p. 214)
+Severe (p. 214)
+Diagnostic Features
+The essential feature of persistent depressive disorder is a depressed mood that occurs for most
+of the day, for more days than not, for at least 2 years, or at least 1 year for children and
+adolescents (Criterion A). This disorder represents a consolidation of DSM-IV-defined chronic
+major depressive disorder and dysthymic disorder. Major depression may precede persistent
+depressive disorder, and major depressive episodes may occur during persistent depressive
+disorder. Individuals whose symptoms meet major depressive disorder criteria for 2 years should
+be given a diagnosis of persistent depressive disorder as well as major depressive disorder.
+Individuals with persistent depressive disorder describe their mood as sad or “down in the
+dumps.” During periods of depressed mood, at least two of the six symptoms from Criterion B
+are present. Because these symptoms have become a part of the individual’s day-to-day
+experience, particularly in the case of early onset (e.g., “I’ve always been this way”), they may
+not be reported unless the individual is directly prompted. During the 2-year period (1 year for
+children or adolescents), any symptom-free intervals that have occurred have lasted no longer
+than 2 months (Criterion C).
+Prevalence
+Persistent depressive disorder is effectively an amalgam of DSM-IV dysthymic disorder and
+chronic major depressive episode. The 12-month prevalence in the United States is
+approximately 0.5% for dysthymic disorder and 1.5% for chronic major depressive disorder,
+with prevalence among women approximately 1.5 and 2 times higher than prevalence among
+men for each of these diagnoses, respectively. Based on studies using comparable ascertainment
+procedures, the lifetime and 12-month estimates of DSM-IV dysthymia may be higher in high-
+income than in low- and middle-income countries. However, the disorder is associated with
+elevated risk of suicidal outcomes and comparable levels of disability wherever it occurs.
+Development and Course
+Persistent depressive disorder often has an early and insidious onset (i.e., in childhood,
+adolescence, or early adult life) and, by definition, a chronic course. Borderline personality
+disorder is a particularly robust risk factor for persistent depressive disorder. When persistent

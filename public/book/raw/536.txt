@@ -1,0 +1,37 @@
+Mental disorder due to another medical condition.
+symptoms that develop in response to a medical condition are more properly coded as an
+adjustment disorder (a clinically significant psychological response to an identifiable stressor).
+There must be reasonable evidence to suggest an association between the psychological factors
+and the medical condition, although it may often not be possible to demonstrate direct causality
+or the mechanisms underlying the relationship.
+Prevalence
+The prevalence of psychological factors affecting other medical conditions is unclear. In U.S.
+private insurance billing data, it was a more common diagnosis than DSM-IV somatic symptom
+disorders.
+Development and Course
+Psychological factors affecting other medical conditions can occur across the lifespan.
+Particularly with young children, corroborative history from parents or school can assist the
+366
+diagnostic evaluation. Some conditions are characteristic of particular life stages (e.g., in older
+individuals, the stress associated with acting as a caregiver for an ill spouse or partner).
+Culture-Related Diagnostic Issues
+Many differences between cultural contexts may influence psychological factors and their effects
+on medical conditions, such as those in language and communication style, idioms of distress,
+explanatory models of illness, patterns of seeking health care, service availability and
+organization, doctor-patient relationships and other healing practices, family and gender roles,
+and attitudes toward pain and death. Psychological factors affecting other medical conditions
+must be differentiated from culturally specific coping behaviors such as accessing faith, spiritual,
+or traditional healers or other variations in illness management that are acceptable within cultural
+contexts and represent an attempt to help heal the medical condition. These local practices may
+complement rather than obstruct evidence-based interventions. Use of alternative healing
+practices may delay use of medical services and affect outcomes, but when the intent of the
+healing practice is to address the problem in a culturally sanctioned way, these practices should
+not be pathologized as psychological factors affecting other medical conditions.
+Functional Consequences of Psychological Factors Affecting Other
+Medical Conditions
+Psychological and behavioral factors have been demonstrated to affect the course of many
+medical diseases.
+Differential Diagnosis
+A temporal association between symptoms of a
+mental disorder and those of a medical condition is also characteristic of a mental disorder due to
+another medical condition, but the presumed causality is in the opposite direction. In a mental

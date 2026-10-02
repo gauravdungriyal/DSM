@@ -1,0 +1,40 @@
+Specify if:
+Persistent: A persistent course is characterized by severe symptoms, marked
+impairment, and long duration (more than 6 months).
+Specify current severity:
+Mild: Only one of the symptoms specified in Criterion B is fulfilled.
+Moderate: Two or more of the symptoms specified in Criterion B are fulfilled.
+Severe: Two or more of the symptoms specified in Criterion B are fulfilled, plus
+there are multiple somatic complaints (or one very severe somatic symptom).
+Diagnostic Features
+Individuals with somatic symptom disorder typically have multiple, current, somatic symptoms
+that are distressing or result in significant disruption of daily life (Criterion A), although
+sometimes only one severe symptom, most commonly pain, is present. Symptoms may be
+specific (e.g., localized pain) or relatively nonspecific (e.g., fatigue). The symptoms sometimes
+represent normal bodily sensations or discomfort that does not generally signify serious disease.
+Somatic symptoms without an evident medical explanation are not sufficient to make this
+diagnosis. The individual’s suffering is authentic, whether or not it is medically explained.
+The symptoms may or may not be associated with another medical condition. The diagnoses
+of somatic symptom disorder and a concurrent medical illness are not mutually exclusive, and
+these frequently occur together. For example, an individual may become seriously disabled by
+symptoms of somatic symptom disorder after an uncomplicated myocardial infarction even if the
+myocardial infarction itself did not result in any disability. If another medical condition or high
+risk for developing one is present (e.g., strong family history), the thoughts, feelings, and
+behaviors associated with this condition are excessive (Criterion B).
+352
+Individuals with somatic symptom disorder tend to have very high levels of worry about
+illness (Criterion B). They appraise their bodily symptoms as unduly threatening, harmful, or
+troublesome and often think the worst about their health. Even when there is evidence to the
+contrary, some individuals still fear the medical seriousness of their symptoms. In severe somatic
+symptom disorder, health concerns may assume a central role in the individual’s life, becoming a
+feature of his or her identity and dominating interpersonal relationships.
+Individuals typically experience distress that is principally focused on somatic symptoms and
+their significance. When asked directly about their distress, some individuals describe it in
+relation to other aspects of their lives, while others deny any source of distress other than the
+somatic symptoms. Health-related quality of life is often impaired, both physically and mentally.
+The diagnosis can further be specified by stating whether complaints predominantly involve pain
+and/or if complaints are marked by a persistent course.
+Additionally, severity of somatic symptom disorder can be specified by the number of
+fulfilled B criteria. Mild forms of somatic symptom disorder (one symptom as specified in
+Criterion B is fulfilled) are more prevalent, while moderate (two or more B criteria are present)
+and severe cases (two or more symptoms as specified in Criterion B are fulfilled in combination

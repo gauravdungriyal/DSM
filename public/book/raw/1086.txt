@@ -1,0 +1,40 @@
+1. 
+Problems related to access to medical and other health care (e.g., unavailability or
+inaccessibility of health care facilities).
+2. 
+Circumstances of personal history (e.g., personal history of psychological trauma, military
+deployment).
+822
+3. 
+Other health service encounters for counseling and medical advice (e.g., sex counseling,
+other counseling or consultation).
+4. 
+Additional conditions or problems that may be a focus of clinical attention (e.g.,
+wandering associated with a mental disorder, uncomplicated bereavement, phase of life
+problem).
+Suicidal Behavior and Nonsuicidal Self-Injury
+Coding Note for ICD-10-CM Suicidal Behavior
+For T codes only, the 6th character should be coded as follows:
+A (initial encounter)—Use while the individual is receiving active treatment for the
+condition (e.g., emergency department encounter, evaluation and treatment by a new
+clinician); or
+D (subsequent encounter)—Use for encounters after the individual has received active
+treatment for the condition and when he or she is receiving routine care for the condition
+during the healing or recovery phase (e.g., medication adjustment, other aftercare and
+follow-up visits).
+Suicidal Behavior
+This category may be used for individuals who have engaged in potentially self-injurious
+behavior with at least some intent to die as a result of the act. Evidence of intent to end one’s life
+can be explicit or inferred from the behavior or circumstances. A suicide attempt may or may not
+result in actual self-injury. If the individual is dissuaded by another person or changes his or her
+mind before initiating the behavior, this category does not apply.
+Current Suicidal Behavior
+T14.91A Initial encounter: If suicidal behavior is part of the initial encounter with the clinical
+presentation
+T14.91D Subsequent encounter: If suicidal behavior is part of subsequent encounters with the
+clinical presentation
+Z91.51
+History of Suicidal Behavior
+If suicidal behavior has occurred during the individual’s lifetime
+Nonsuicidal Self-Injury
+This category may be used for individuals who have engaged in intentional self-inflicted damage

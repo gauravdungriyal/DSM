@@ -1,0 +1,39 @@
+inappropriate sexual or aggressive behavior, mood lability, impaired judgment)
+that developed during, or shortly after, sedative, hypnotic, or anxiolytic use.
+627
+C. One (or more) of the following signs or symptoms developing during, or shortly
+after, sedative, hypnotic, or anxiolytic use:
+1. Slurred speech.
+2. Incoordination.
+3. Unsteady gait.
+4. Nystagmus.
+5. Impairment in cognition (e.g., attention, memory).
+6. Stupor or coma.
+D. The signs or symptoms are not attributable to another medical condition and are
+not better explained by another mental disorder, including intoxication with
+another substance.
+Coding note: The ICD-10-CM code depends on whether there is a comorbid
+sedative, hypnotic, or anxiolytic use disorder. If a mild sedative, hypnotic, or
+anxiolytic use disorder is comorbid, the ICD-10-CM code is F13.120, and if a
+moderate or severe sedative, hypnotic, or anxiolytic use disorder is comorbid, the
+ICD-10-CM code is F13.220. If there is no comorbid sedative, hypnotic, or anxiolytic
+use disorder, then the ICD-10-CM code is F13.920.
+Note: For information on Development and Course; Risk and Prognostic Factors;
+Culture-Related Diagnostic Issues; Diagnostic Markers; Functional Consequences of
+Sedative, Hypnotic, or Anxiolytic Intoxication; and Comorbidity, see the corresponding
+sections in Sedative, Hypnotic, or Anxiolytic Use Disorder.
+Diagnostic Features
+The essential feature of sedative, hypnotic, or anxiolytic intoxication is the presence of clinically
+significant maladaptive behavioral or psychological changes (e.g., inappropriate sexual or
+aggressive behavior, mood lability, impaired judgment, impaired social or occupational
+functioning) that develop during, or shortly after, use of a sedative, hypnotic, or anxiolytic
+(Criteria A and B). As with other brain depressants, such as alcohol, these behaviors may be
+accompanied by slurred speech, incoordination (at levels that can interfere with driving abilities
+and with performing usual activities to the point of causing falls or automobile accidents), an
+unsteady gait, nystagmus, impairment in cognition (e.g., attentional or memory problems), and
+stupor or coma (Criterion C). Memory impairment is a prominent feature of sedative, hypnotic,
+or anxiolytic intoxication and is most often characterized by an anterograde amnesia that
+resembles “alcoholic blackouts,” which can be disturbing to the individual. The symptoms must
+not be attributable to another medical condition and are not better explained by another mental
+disorder (Criterion D). Intoxication may occur in individuals who are receiving these substances
+by prescription, are borrowing the medication from friends or relatives, or are deliberately taking

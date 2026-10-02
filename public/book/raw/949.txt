@@ -1,0 +1,39 @@
+disturbance: code first S06.2X9S diffuse traumatic brain injury with loss of
+consciousness of unspecified duration, sequela; followed by F02.80 major
+neurocognitive disorder due to traumatic brain injury, without behavioral disturbance.
+Note: The severity specifiers “mild,” “moderate,” and “severe” cannot be coded for
+major neurocognitive disorder but should still be recorded.
+For mild neurocognitive disorder due to traumatic brain injury, code G31.84. (Note:
+Do not use the additional code for traumatic brain injury. “With behavioral
+disturbance” and “without behavioral disturbance” cannot be coded but should still
+be recorded.)
+For major or mild neurocognitive disorder due to traumatic brain injury: Use
+additional code(s) to indicate clinically significant psychiatric symptoms due to the
+traumatic brain injury (e.g., F06.34 bipolar and related disorder due to traumatic
+brain injury, with mixed features; F07.0 personality change due to traumatic brain
+injury, apathetic type).
+Specifiers
+Rate the severity of the neurocognitive disorder (NCD), not the underlying traumatic brain injury
+(see the section “Development and Course” for this disorder).
+Diagnostic Features
+Major or mild NCD due to traumatic brain injury (TBI) denotes an acquired and persistent
+disorder of cognition resulting from a traumatic brain injury. Traumatic brain injury is defined as
+disruption of brain structure and/or function resulting from the application of biomechanical
+forces (including acceleration/deceleration forces and blast-related forces), as manifested
+immediately by one or more of the following clinical signs: loss of consciousness, loss of
+memory for events immediately before or after the injury (posttraumatic amnesia), alteration in
+mental state (e.g., confusion, disorientation, slowed thinking), or focal neurological signs (e.g.,
+hemiparesis, hemisensory loss, cortical blindness, aphasia, apraxia, weakness, loss of balance,
+other sensory loss that cannot be accounted for by peripheral or other causes) (Criterion B).
+These manifestations of TBI must not be due to alcohol or other drugs or medications, other
+injuries or treatment(s) for other injuries (e.g., facial injuries, intubation, or bodily/systemic
+injuries), or psychological trauma, language barrier, or coexisting medical conditions.
+The severity of a TBI is classified as mild, complicated mild, moderate, or severe according
+to the thresholds in Table 2. An individual whose injury phenomenologically meets criteria for
+mild TBI but whose computed tomographic or magnetic resonance imaging in the acute period
+after TBI reveals traumatic intracranial abnormalities (i.e., traumatic epidural or subdural
+hematoma, subarachnoid or intracerebral hemorrhage, cerebral contusions or laceration) is
+classified as complicated mild TBI. Outcomes of individuals with complicated mild TBI are
+more like those with moderate TBI than those with uncomplicated mild TBI.
+708
+TABLE 2 Classification of traumatic brain injury (TBI) severity

@@ -1,0 +1,38 @@
+These conditions include Huntington’s disease, Wilson’s disease, Sydenham’s (rheumatic)
+chorea, systemic lupus erythematosus, thyrotoxicosis, heavy metal poisoning, ill-fitting dentures,
+dyskinesia due to other medications such as L-dopa or bromocriptine, and spontaneous
+dyskinesias. Factors that may be helpful in making the distinction are evidence that the
+symptoms preceded the exposure to the antipsychotic medication or other dopamine receptor
+blocking agent or that other focal neurological signs are present. It should be noted that other
+movement disorders may coexist with tardive dyskinesia. Because spontaneous dyskinesia can
+occur in more than 5% of individuals and is also more common in elderly persons, it may be
+difficult to prove that antipsychotic medications produced tardive dyskinesia in a given
+individual. Tardive dyskinesia must be distinguished from symptoms that are due to a
+medication-induced acute movement disorder (e.g., medication-induced parkinsonism, acute
+dystonia, acute akathisia). Acute dystonia and acute akathisia can develop quickly within hours
+to days, and medication-induced parkinsonism develops within weeks of initiating or increasing
+the dose of an antipsychotic medication or other dopamine receptor blocking agent (or reducing
+the dose of a medication used to treat the acute extrapyramidal symptoms). Tardive dyskinesia,
+on the other hand, generally develops after more prolonged exposure to antipsychotic medication
+(months to years) and can appear after the withdrawal of antipsychotic medication; the minimum
+exposure history required for the diagnosis of tardive dyskinesia is antipsychotic medication use
+for at least 3 months (or 1 month in middle-age and elderly individuals).
+Tardive Dystonia Tardive Akathisia
+G24.09 Tardive Dystonia
+G25.71 Tardive Akathisia
+This category is for tardive syndromes involving other types of movement problems, such as
+dystonia or akathisia, which are distinguished by their late emergence in the course of treatment
+and their potential persistence for months to years, even in the face of discontinuation of an
+antipsychotic medication or other dopamine receptor blocking agent or dosage reduction.
+817
+Medication-Induced Postural Tremor
+G25.1 Medication-Induced Postural Tremor
+The essential feature of this condition is a fine tremor occurring during attempts to maintain a
+posture, which develops in association with the use of medication. Medications with which such
+a tremor may be associated include lithium, β-adrenergic medications (e.g., isoproterenol),
+stimulants (e.g., amphetamine), dopaminergic medications, anticonvulsant medications (e.g.,
+valproic acid), antidepressant medications, and methylxanthines (e.g., caffeine, theophylline).
+The tremor is a regular, rhythmic oscillation of the limbs (most commonly hands and fingers),
+head, mouth, or tongue, most commonly with a frequency of between 8 and 12 cycles per
+second. It is most easily observed when the affected body part is held in a sustained posture (e.g.,
+hands outstretched, mouth held open). The tremor may worsen in severity when the affected

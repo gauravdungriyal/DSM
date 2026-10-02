@@ -1,0 +1,40 @@
+Laboratory analyses of blood and urine samples can help determine recent use and the specific
+substances involved. However, a positive laboratory test result does not by itself indicate that the
+individual has a pattern of substance use that meets criteria for a substance-induced or substance
+use disorder, and a negative test result does not by itself rule out a diagnosis.
+Laboratory tests can be useful in identifying withdrawal. If the individual presents with
+withdrawal from an unknown substance, laboratory tests may help identify the substance and
+may also be helpful in differentiating withdrawal from other mental disorders. In addition,
+normal functioning in the presence of high blood levels of a substance suggests considerable
+tolerance.
+Development and Course
+Individuals ages 18–24 years have relatively high prevalence rates for the use of virtually every
+substance. Intoxication is usually the initial substance-related disorder and often begins in the
+teens. Withdrawal can occur at any age as long as the relevant drug has been taken in sufficient
+doses over an extended period of time.
+Recording Procedures for Substance Intoxication and Substance
+Withdrawal
+The clinician should use the code that applies to the class of substances but record the name of
+the specific substance. For example, the clinician should record F13.230 secobarbital withdrawal
+(rather than sedative, hypnotic, or anxiolytic withdrawal) or F15.120 methamphetamine
+intoxication (rather than amphetamine-type substance intoxication). Note that
+550
+the appropriate ICD-10-CM diagnostic codes for substance intoxication and substance
+withdrawal depend on whether there is a comorbid substance use disorder. In this case, the
+F15.120 code for methamphetamine intoxication indicates the presence of a comorbid mild
+methamphetamine use disorder. If there had been no comorbid methamphetamine use disorder
+(and no perceptual disturbances), the diagnostic code would have been F15.920. See the coding
+note for the substance-specific intoxication and withdrawal syndromes for the actual coding
+options.
+For substances that do not fit into any of the classes (e.g., anabolic steroids), the ICD-10-CM
+code for other (or unknown) substance intoxication or other (or unknown) substance withdrawal
+should be used and the specific substance indicated (e.g., F19.920 anabolic steroid intoxication).
+If the substance taken by the individual is unknown, the same code (i.e., for the class “other [or
+unknown] substance”) should be used (e.g., F19.920 unknown substance intoxication). If there
+are symptoms or problems associated with a particular substance but criteria are not met for any
+of the substance-specific disorders, the unspecified category can be used (e.g., F12.99
+unspecified cannabis-related disorder).
+As noted above, the substance-related codes in ICD-10-CM combine the substance use
+disorder aspect of the clinical picture and the substance-induced aspect into a single combined
+code. Thus, if both heroin withdrawal and moderate heroin use disorder are present, the single
+code F11.23 for heroin withdrawal is given to cover both presentations. See the individual

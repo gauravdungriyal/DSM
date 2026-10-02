@@ -1,0 +1,32 @@
+Functional Consequences of Encopresis
+Encopresis is associated with a significant decrease in health-related quality of life and family
+functioning, particularly in older children.
+405
+Differential Diagnosis
+A diagnosis of encopresis in the presence of another medical condition is appropriate only if the
+mechanism involves constipation that cannot be explained by other medical conditions. Fecal
+incontinence related to other medical conditions (e.g., chronic diarrhea, spina bifida, anal
+stenosis) would not warrant a DSM-5 diagnosis of encopresis.
+Comorbidity
+Enuresis is often present in children with encopresis, particularly in children with encopresis,
+without constipation and overflow incontinence.
+Other Specified Elimination Disorder
+ 
+This category applies to presentations in which symptoms characteristic of an
+elimination disorder that cause clinically significant distress or impairment in social,
+occupational, or other important areas of functioning predominate but do not meet
+the full criteria for any of the disorders in the elimination disorders diagnostic class.
+The other specified elimination disorder category is used in situations in which the
+clinician chooses to communicate the specific reason that the presentation does not
+meet the criteria for any specific elimination disorder. This is done by recording
+“other specified elimination disorder” followed by the specific reason (e.g., “low-
+frequency enuresis”).
+Coding note: Code N39.498 for other specified elimination disorder with urinary
+symptoms; R15.9 for other specified elimination disorder with fecal symptoms.
+Unspecified Elimination Disorder
+ 
+This category applies to presentations in which symptoms characteristic of an
+elimination disorder that cause clinically significant distress or impairment in social,
+occupational, or other important areas of functioning predominate but do not meet
+the full criteria for any of the disorders in the elimination disorders diagnostic class.
+The unspecified elimination disorder category is used in situations in which the

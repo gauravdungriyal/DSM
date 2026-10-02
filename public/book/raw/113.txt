@@ -1,0 +1,34 @@
+21
+Use of the Manual
+This text is designed to provide a practical guide to using DSM-5, particularly in clinical
+practice.
+Approach to Clinical Case Formulation
+The primary purpose of DSM-5 is to assist trained clinicians in the diagnosis of mental disorders
+as part of a case formulation assessment that leads to an informed treatment plan for each
+individual. The case formulation for any given individual should involve a careful clinical
+history and concise summary of the social, psychological, and biological factors that may have
+contributed to developing a given mental disorder. It is not sufficient to simply check off the
+symptoms in the diagnostic criteria to make a mental disorder diagnosis. A thorough evaluation
+of these criteria may assure more reliable assessment (which may be aided by the use of
+dimensional symptom severity assessment tools); the relative severity and salience of an
+individual’s signs and symptoms and their contribution to a diagnosis will ultimately require
+clinical judgment. Diagnosis requires clinical training to recognize when the combination of
+predisposing, precipitating, perpetuating, and protective factors has resulted in a
+psychopathological condition in which the signs and symptoms exceed normal ranges. The
+ultimate goal of a clinical case formulation is to use the available contextual and diagnostic
+information in developing a comprehensive treatment plan that is informed by the individual’s
+cultural and social context. However, recommendations for the selection and use of the most
+appropriate evidence-based treatment options for each disorder are beyond the scope of this
+manual.
+Elements of a Diagnosis
+Diagnostic criteria are offered as guidelines for making diagnoses, and their use should be
+informed by clinical judgment. Text descriptions, including introductory sections of each
+diagnostic chapter, can help support diagnosis (e.g., describing the criteria more fully under
+“Diagnostic Features”; providing differential diagnoses).
+Following the assessment of diagnostic criteria, clinicians should consider the application of
+disorder subtypes and/or specifiers as appropriate. Most specifiers are only applicable to the
+current presentation and may change over the course of the disorder (e.g., with good to fair
+insight; predominantly inattentive presentation; in a controlled environment) and can be given
+only if full criteria for the disorder are currently met. Other specifiers are indicative of the
+lifetime course (e.g., with seasonal pattern, bipolar type in schizoaffective disorder) and can be
+assigned regardless of current status.

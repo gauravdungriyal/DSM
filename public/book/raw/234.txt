@@ -1,0 +1,41 @@
+Severity is rated by a quantitative assessment of the primary symptoms of
+psychosis, including delusions, hallucinations, disorganized speech, abnormal
+psychomotor behavior, and negative symptoms. Each of these symptoms may
+be rated for its current severity (most severe in the last 7 days) on a 5-point
+scale ranging from 0 (not present) to 4 (present and severe). (See Clinician-
+Rated Dimensions of Psychosis Symptom Severity in the chapter “Assessment
+Measures.”)
+Note: Diagnosis of schizoaffective disorder can be made without using this
+severity specifier.
+Diagnostic Features
+The diagnosis of schizoaffective disorder is based on the assessment of an uninterrupted period
+of illness during which the individual continues to display active or residual symptoms of
+psychotic illness. The diagnosis is usually, but not necessarily, made during the period of
+psychotic illness. At some time during the period, Criterion A for schizophrenia has to be met.
+Criteria B (social dysfunction), C (6-month duration), and F (exclusion of autism spectrum
+disorder or other communication disorder of childhood onset) for schizophrenia do not have to
+be met. In addition to meeting Criterion A for schizophrenia, there is a major mood episode
+(major depressive or manic) (Criterion A for schizoaffective disorder). Because loss of interest or
+pleasure is common in schizophrenia, to meet Criterion A for schizoaffective disorder, the major
+depressive episode must include pervasive depressed mood (i.e., the presence of markedly
+diminished interest or pleasure is not sufficient). Episodes of depression or mania are present for
+the majority of the total duration of the illness (i.e., after Criterion A has been met) (Criterion C
+for schizoaffective disorder). To separate schizoaffective disorder from a depressive or bipolar
+disorder with psychotic features, delusions or hallucinations must be present for at least 2 weeks
+in the absence of a major mood episode (depressive or manic) at some point during the lifetime
+duration of the illness (Criterion B for schizoaffective disorder). The symptoms must not be
+attributable to the effects of a substance or another medical condition (Criterion D for
+schizoaffective disorder).
+Criterion C for schizoaffective disorder specifies that mood symptoms meeting criteria for a
+major mood episode must be present for the majority of the total duration of the active and
+residual portion of the illness. Criterion C requires the assessment of mood symptoms for the
+entire lifetime course of a psychotic illness. If the mood symptoms are present
+123
+for only a relatively brief period, the diagnosis is schizophrenia, not schizoaffective disorder.
+When deciding whether an individual’s presentation meets Criterion C, the clinician should
+review the total duration of psychotic illness (i.e., both active and residual symptoms) and
+determine when significant mood symptoms (untreated or in need of treatment with
+antidepressant and/or mood-stabilizing medication) accompanied the psychotic symptoms. This
+determination requires sufficient historical information and clinical judgment. For example, an
+individual with a 4-year history of active and residual symptoms of schizophrenia develops
+depressive and manic episodes that, taken together, do not occupy more than 1 year during the 4-

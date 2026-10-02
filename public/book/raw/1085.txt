@@ -1,0 +1,37 @@
+Other Conditions That May Be a Focus of
+Clinical Attention
+This chapter includes conditions and psychosocial or environmental problems that may be
+a focus of clinical attention or otherwise affect the diagnosis, course, prognosis, or treatment of
+an individual’s mental disorder. These conditions are presented with their corresponding codes
+from ICD-10-CM (usually Z codes). A condition or problem in this chapter may be coded 1) if it
+is a reason for the current visit; 2) if it helps to explain the need for a test, procedure, or
+treatment; 3) if it plays a role in the initiation or exacerbation of a mental disorder; or 4) if it
+constitutes a problem that should be considered in the overall management plan.
+The conditions and problems listed in this chapter are not mental disorders. Their inclusion in
+DSM-5-TR is meant to draw attention to the scope of additional issues that may be encountered
+in routine clinical practice and to provide a systematic listing that may be useful to clinicians in
+documenting these issues.
+For quick reference to all codes in this section, see the DSM-5-TR Classification. Conditions
+and problems that may be a focus of clinical attention are listed in the subsequent text as follows:
+1. Suicidal behavior (potentially self-injurious behavior with at least some intent to die) and
+nonsuicidal self-injury (intentional self-inflicted damage to the body in the absence of
+suicidal intent).
+2. Abuse and neglect (e.g., child and adult maltreatment and neglect problems, including
+physical abuse, sexual abuse, neglect, and psychological abuse).
+3. Relational problems (e.g., parent-child relational problem, sibling relational problem,
+relationship distress with spouse or intimate partner, disruption by separation or divorce).
+4. Educational problems (e.g., illiteracy or low-level literacy, schooling unavailable or
+unattainable, failed school examinations, underachievement in school).
+5. Occupational problems (e.g., unemployment, change of job, threat of job loss, stressful
+work schedule, discord with boss and workmates).
+6. Housing problems (e.g., homelessness; inadequate housing; discord with neighbor, lodger,
+or landlord).
+7. Economic problems (e.g., lack of adequate food or safe drinking water, extreme poverty,
+low income).
+8. Problems related to the social environment (e.g., problem related to living alone,
+acculturation difficulty, social exclusion or rejection).
+9. Problems related to interaction with the legal system (e.g., conviction in criminal
+proceedings, imprisonment or other incarceration, problems related to release from prison,
+problems related to other legal circumstances).
+0. Problems related to other psychosocial, personal, and environmental circumstances
+(e.g., problems related to unwanted pregnancy, victim of crime, victim of terrorism).

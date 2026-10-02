@@ -1,0 +1,50 @@
+Z72.810 Child or Adolescent Antisocial Behavior
+This category may be used when the focus of clinical attention is antisocial behavior in a child or
+adolescent that is not attributable to a mental disorder (e.g., intermittent explosive disorder,
+conduct disorder). Examples include isolated antisocial acts by children or adolescents (not a
+pattern of antisocial behavior).
+Z91.19
+Nonadherence to Medical Treatment
+This category may be used when the focus of clinical attention is nonadherence to an important
+aspect of treatment for a mental disorder or another medical condition. Reasons for such
+nonadherence may include discomfort resulting from treatment (e.g., medication side effects),
+expense of treatment, personal value judgments or religious or cultural beliefs about the
+proposed treatment, age-related debility, and the presence of a mental disorder (e.g.,
+schizophrenia, personality disorder). This category may be used only when the problem is
+sufficiently severe to warrant independent clinical attention and does not meet diagnostic criteria
+for psychological factors affecting other medical conditions.
+E66.9
+Overweight or Obesity
+This category may be used when overweight or obesity is a focus of clinical attention.
+Z76.5
+Malingering
+The essential feature of malingering is the intentional production of false or grossly exaggerated
+physical or psychological symptoms, motivated by external incentives such as avoiding military
+duty, avoiding work, obtaining financial compensation, evading criminal prosecution, or
+obtaining drugs. Under some circumstances, malingering may represent adaptive behavior—for
+example, feigning illness while a captive of the enemy during wartime. Malingering should be
+strongly considered if any combination of the following is noted:
+1. 
+Medicolegal context of presentation (e.g., the individual is referred by an attorney to the
+clinician for examination, or the individual self-refers while litigation or criminal charges are
+pending).
+2. 
+Marked discrepancy between the individual’s claimed stress or disability and the objective
+findings and observations.
+3. 
+Lack of cooperation during the diagnostic evaluation and in complying with the prescribed
+treatment regimen.
+4. 
+The presence of antisocial personality disorder.
+Malingering differs from factitious disorder in that the motivation for the symptom
+production in malingering is an external incentive, whereas in factitious disorder external
+incentives are absent. Malingering is differentiated from functional neurological symptom
+disorder (conversion disorder) and other somatic symptom–related mental disorders by the
+intentional production of symptoms and by the obvious external incentives associated with it.
+Definite evidence of feigning (such as clear evidence that loss of function is present during the
+examination but not at home) would suggest a diagnosis of factitious disorder if the individual’s
+apparent aim is to assume the sick role, or malingering if it is to obtain an incentive, such as
+money.
+R41.81
+Age-Related Cognitive Decline
+This category may be used when the focus of clinical attention is an objectively identified

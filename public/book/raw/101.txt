@@ -1,0 +1,38 @@
+S. Pine, M.D., as Revision Subcommittee Vice Chairs. The DSM-5-TR development effort
+involved more than 200 experts (the majority of whom were involved in the development of
+DSM-5), who were given the task of conducting literature reviews covering the past 10 years and
+reviewing the text to identify out-of-date material. A review of
+11
+conflicts of interest for all proposed changes to the text was conducted to eliminate any possible
+compromise of the objectivity of the content. Mirroring the structure of the DSM-5 process,
+experts were divided into 20 Disorder review groups, each headed by a section editor. Four
+cross-cutting review groups (Culture, Sex and Gender, Suicide, and Forensic) reviewed all the
+chapters, focusing on material involving their specific expertise. The text was also reviewed by a
+work group on Ethnoracial Equity and Inclusion to ensure appropriate attention to risk factors
+such as racism and discrimination and the use of nonstigmatizing language. Although the scope
+of the text revision did not include conceptual changes to the criteria sets, some necessary
+clarifications to certain diagnostic criteria became apparent during the review of the text.
+Proposals for changes in diagnostic criteria or specifier definitions that were a result of the text
+revision process were reviewed and approved by the DSM Steering Committee, as well as the
+APA Assembly and Board of Trustees, as part of the DSM-5 iterative revision process described
+in the prior section.
+Changes in DSM-5 Organizational Structure
+DSM is a medical classification of disorders and as such serves as a historically determined
+cognitive schema imposed on clinical and scientific information to increase its comprehensibility
+and utility. The classification of disorders (the way in which disorders are grouped) provides a
+high-level organization for the manual.
+Regrouping of Disorders in DSM-5
+Members of the DSM-5 diagnostic spectra study group examined whether scientific validators
+could inform possible new groupings of related disorders within the existing categorical
+framework. Eleven such indicators were recommended by the study group for this purpose (i.e.,
+their ability to meaningfully separate groups of psychiatric illness from each other): neural
+substrates, family traits, genetic risk factors, specific environmental risk factors, biomarkers,
+temperamental antecedents, abnormalities of emotional or cognitive processing, symptom
+similarity, course of illness, high comorbidity, and shared treatment response. These indicators
+served the study group as empirical guidelines to inform decision-making by the work groups
+and the task force about how to cluster disorders to maximize their validity and clinical utility
+(i.e., the more likely that disorders shared these validators, the more likely they would be in the
+same diagnostic grouping).
+A series of papers was developed and published in a prominent international journal
+(Psychological Medicine, Vol. 39, 2009) as part of both the DSM-5 and the ICD-11
+developmental processes to document that such validators were most useful for suggesting large

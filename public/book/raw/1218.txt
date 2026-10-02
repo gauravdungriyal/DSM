@@ -1,0 +1,81 @@
+F19.120
+With mild use disorder
+F19.220
+With moderate or severe use disorder
+F19.920
+Without use disorder
+Other (or unknown) substance intoxication delirium
+F19.121
+With mild use disorder
+F19.221
+With moderate or severe use disorder
+F19.921
+Without use disorder
+Other (or unknown) substance use disorder
+F19.10
+Mild
+F19.11
+In early remission
+F19.11
+In sustained remission
+F19.20
+Moderate
+F19.21
+In early remission
+F19.21
+In sustained remission
+F19.20
+Severe
+F19.21
+In early remission
+F19.21
+In sustained remission
+Other (or unknown) substance withdrawal, With perceptual disturbances
+F19.132
+With mild use disorder
+F19.232
+With moderate or severe use disorder
+F19.932
+Without use disorder
+Other (or unknown) substance withdrawal, Without perceptual disturbances
+F19.130
+With mild use disorder
+F19.230
+With moderate or severe use disorder
+F19.930
+Without use disorder
+Other (or unknown) substance withdrawal delirium
+F19.131
+With mild use disorder
+F19.231
+With moderate or severe use disorder
+F19.931
+Without use disorder
+949
+Other or unspecified stimulant use disorder
+F15.10
+Mild
+F15.11
+In early remission
+F15.11
+In sustained remission
+F15.20
+Moderate
+F15.21
+In early remission
+F15.21
+In sustained remission
+F15.20
+Severe
+F15.21
+In early remission
+F15.21
+In sustained remission
+E66.9
+Overweight or obesity
+no code
+Panic attack specifier
+F41.0
+Panic disorder
+F60.0
+Paranoid personality disorder

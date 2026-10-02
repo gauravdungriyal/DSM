@@ -1,0 +1,37 @@
+Diagnostic Criteria
+A. The criteria are met for major or mild neurocognitive disorder.
+B. The disturbance has insidious onset and gradual progression.
+C. Either (1) or (2):
+1. Behavioral variant:
+a. Three or more of the following behavioral symptoms:
+i. Behavioral disinhibition.
+ii. Apathy or inertia.
+iii. Loss of sympathy or empathy.
+696
+iv. Perseverative, stereotyped or compulsive/ritualistic behavior.
+v. Hyperorality and dietary changes.
+b. Prominent decline in social cognition and/or executive abilities.
+2. Language variant:
+a. Prominent decline in language ability, in the form of speech production,
+word finding, object naming, grammar, or word comprehension.
+D. Relative sparing of learning and memory and perceptual-motor function.
+E. The disturbance is not better explained by cerebrovascular disease, another
+neurodegenerative disease, the effects of a substance, or another mental,
+neurological, or systemic disorder.
+Probable frontotemporal neurocognitive disorder is diagnosed if either of the
+following is present; otherwise, possible frontotemporal neurocognitive disorder
+should be diagnosed:
+1. Evidence of a causative frontotemporal neurocognitive disorder genetic mutation,
+from either family history or genetic testing.
+2. Evidence of disproportionate frontal and/or temporal lobe involvement from
+neuroimaging.
+Possible frontotemporal neurocognitive disorder is diagnosed if there is no
+evidence of a genetic mutation, and neuroimaging has not been performed.
+Coding note (see coding table on pp. 682–683):
+For major neurocognitive disorder due to probable or possible frontotemporal
+degeneration, with behavioral disturbance, code first G31.09 frontotemporal
+degeneration, followed by F02.81. For major neurocognitive disorder due to probable
+or possible frontotemporal degeneration, without behavioral disturbance, code first
+G31.09 frontotemporal degeneration, followed by F02.80.
+Note: The severity specifiers “mild,” “moderate,” and “severe” cannot be coded for
+major neurocognitive disorder but should still be recorded.

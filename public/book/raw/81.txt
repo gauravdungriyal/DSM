@@ -1,0 +1,49 @@
+F02.81
+With behavioral disturbance
+F02.80
+Without behavioral disturbance
+Note: If vascular disease is among the multiple etiological medical conditions, code either F01.51 for
+major vascular neurocognitive disorder, with behavioral disturbance, or F01.50 for major vascular
+neurocognitive disorder, without behavioral disturbance.
+G31.84
+Mild Neurocognitive Disorder Due to Multiple Etiologiesb
+Unspecified Neurocognitive Disorderb (732)
+Note: No additional medical code.
+R41.9
+Unspecified Neurocognitive Disorderb
+Personality Disorders (733)
+Cluster A Personality Disorders
+F60.0
+Paranoid Personality Disorder (737)
+F60.1
+Schizoid Personality Disorder (741)
+F21
+Schizotypal Personality Disorder (744)
+Cluster B Personality Disorders
+F60.2
+Antisocial Personality Disorder (748)
+F60.3
+Borderline Personality Disorder (752)
+F60.4
+Histrionic Personality Disorder (757)
+F60.81
+Narcissistic Personality Disorder (760)
+Cluster C Personality Disorders
+F60.6
+Avoidant Personality Disorder (764)
+F60.7
+Dependent Personality Disorder (768)
+F60.5
+Obsessive-Compulsive Personality Disorder (771)
+lxi
+Other Personality Disorders
+F07.0
+Personality Change Due to Another Medical Condition (775)
+Specify whether: Labile type, Disinhibited type, Aggressive type, Apathetic type, Paranoid type, Other
+type, Combined type, Unspecified type
+F60.89
+Other Specified Personality Disorder (778)
+F60.9
+Unspecified Personality Disorder (778)
+Paraphilic Disorders (779)
+The following specifier applies to Paraphilic Disorders where indicated:

@@ -1,0 +1,86 @@
+F14.93
+Cocaine withdrawal, Without use disorder
+F14.94
+Cocaine-induced bipolar and related disorder, Without use disorder
+F14.94
+Cocaine-induced depressive disorder, Without use disorder
+F14.959
+Cocaine-induced psychotic disorder, Without use disorder
+F14.980
+Cocaine-induced anxiety disorder, Without use disorder
+F14.981
+Cocaine-induced sexual dysfunction, Without use disorder
+F14.982
+Cocaine-induced sleep disorder, Without use disorder
+F14.988
+Cocaine-induced mild neurocognitive disorder, Without use disorder
+F14.988
+Cocaine-induced obsessive-compulsive and related disorder, Without use disorder
+F14.99
+Unspecified cocaine-related disorder
+F15.10
+Amphetamine-type substance use disorder, Mild
+F15.10
+Other or unspecified stimulant use disorder, Mild
+F15.11
+Amphetamine-type substance use disorder, Mild, In early remission
+F15.11
+Amphetamine-type substance use disorder, Mild, In sustained remission
+F15.11
+Other or unspecified stimulant use disorder, Mild, In early remission
+F15.11
+Other or unspecified stimulant use disorder, Mild, In sustained remission
+F15.120
+Amphetamine-type substance intoxication, Without perceptual disturbances, With mild use disorder
+F15.120
+Other stimulant intoxication, Without perceptual disturbances, With mild use disorder
+F15.121
+Amphetamine-type substance (or other stimulant) intoxication delirium, With mild use disorder
+F15.122
+Amphetamine-type substance intoxication, With perceptual disturbances, With mild use disorder
+F15.122
+Other stimulant intoxication, With perceptual disturbances, With mild use disorder
+F15.13
+Amphetamine-type substance withdrawal, With mild use disorder
+F15.13
+Other stimulant withdrawal, With mild use disorder
+F15.14
+Amphetamine-type substance (or other stimulant)–induced bipolar and related disorder, With mild use
+disorder
+F15.14
+Amphetamine-type substance (or other stimulant)–induced depressive disorder, With mild use disorder
+F15.159
+Amphetamine-type substance (or other stimulant)–induced psychotic disorder, With mild use disorder
+F15.180
+Amphetamine-type substance (or other stimulant)–induced anxiety disorder, With mild use disorder
+F15.181
+Amphetamine-type substance (or other stimulant)–induced sexual dysfunction, With mild use disorder
+F15.182
+Amphetamine-type substance (or other stimulant)–induced sleep disorder, With mild use disorder
+F15.188
+Amphetamine-type substance (or other stimulant)–induced mild neurocognitive disorder, With mild
+use disorder
+F15.188
+Amphetamine-type substance (or other stimulant)–induced obsessive-compulsive and related disorder,
+With mild use disorder
+966
+F15.20
+Amphetamine-type substance use disorder, Moderate
+F15.20
+Amphetamine-type substance use disorder, Severe
+F15.20
+Other or unspecified stimulant use disorder, Moderate
+F15.20
+Other or unspecified stimulant use disorder, Severe
+F15.21
+Amphetamine-type substance use disorder, Moderate, In early remission
+F15.21
+Amphetamine-type substance use disorder, Moderate, In sustained remission
+F15.21
+Amphetamine-type substance use disorder, Severe, In early remission
+F15.21
+Amphetamine-type substance use disorder, Severe, In sustained remission
+F15.21
+Other or unspecified stimulant use disorder, Moderate, In early remission
+F15.21
+Other or unspecified stimulant use disorder, Moderate, In sustained remission

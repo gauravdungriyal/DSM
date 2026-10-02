@@ -1,0 +1,39 @@
+Specify current severity:
+Mild: Occurs on 25%–50% of occasions of sexual activity.
+Moderate: Occurs on 50%–75% of occasions of sexual activity.
+Severe: Occurs on 75% or more of occasions of sexual activity.
+Recording Procedures
+The name of the substance/medication-induced sexual dysfunction begins with the specific
+substance (e.g., alcohol) that is presumed to be causing the sexual dysfunction. The ICD-10-CM
+code that corresponds to the applicable drug class is selected from the table included in the
+criteria set. For substances that do not fit into any of the classes (e.g., fluoxetine), the ICD-10-
+CM code for the other (or unknown) substance class should be used and the name of the specific
+substance recorded (e.g., F19.981 fluoxetine-induced sexual dysfunction). In cases in which a
+substance is judged to be an etiological factor but the specific substance is unknown, the ICD-10-
+CM code for the other (or unknown) substance class is used and the fact that the substance is
+unknown is recorded (e.g., F19.981 unknown substance-induced sexual dysfunction).
+When recording the name of the disorder, the comorbid substance use disorder (if any) is
+listed first, followed by the word “with,” followed by the name of the substance-induced sexual
+dysfunction, followed by the specification of onset (i.e., onset during intoxication, onset during
+withdrawal, with onset after medication use), followed by the severity specifier (e.g., mild,
+moderate, severe). For example, in the case of erectile dysfunction occurring during intoxication
+in a man with a severe alcohol use disorder, the diagnosis is F10.281 severe alcohol use disorder
+with alcohol-induced sexual dysfunction, with onset during intoxication, moderate. A separate
+diagnosis of the comorbid severe alcohol use disorder is not given. If the substance-induced
+sexual dysfunction occurs without a comorbid substance use disorder (e.g., after a one-time
+heavy use of the substance), no accompanying substance use disorder is noted (e.g., F15.981
+amphetamine-induced sexual dysfunction, with onset during intoxication). When more than one
+substance is judged to play a significant role in the development of the sexual dysfunction, each
+should be listed separately (e.g., F14.181 mild cocaine use disorder with cocaine-induced sexual
+dysfunction, with onset during intoxication, moderate; F19.981 fluoxetine-induced sexual
+dysfunction, with onset after medication use, moderate).
+Diagnostic Features
+The essential features of substance/medication-induced sexual dysfunction are clinically
+significant disturbances in sexual function that are predominant in the clinical picture (Criterion
+A) that are judged to be due to the effects of a substance (e.g., a drug of abuse or medication).
+The sexual dysfunction must have developed during or soon after substance intoxication or
+withdrawal or after exposure to or withdrawal from a medication, and the substances or
+medications must be capable of producing the symptoms (Criterion B2). Substance/medication-
+induced sexual dysfunction due to a prescribed treatment for a
+507
+mental disorder or another medical condition must have its onset while the individual is

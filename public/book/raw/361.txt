@@ -1,0 +1,36 @@
+disorder, followed by separation anxiety disorder and specific phobia. In clinical settings,
+selective mutism and autism spectrum disorder have also been noted as frequently co-occurring
+conditions. Oppositional behaviors can be observed in a substantial minority of children with
+selective mutism, although this oppositional behavior may be limited to situations requiring
+speech. Communication delays or disorders also may appear in some children with selective
+mutism.
+Specific Phobia
+Diagnostic Criteria
+A. Marked fear or anxiety about a specific object or situation (e.g., flying, heights,
+animals, receiving an injection, seeing blood).
+Note: In children, the fear or anxiety may be expressed by crying, tantrums,
+freezing, or clinging.
+B. The phobic object or situation almost always provokes immediate fear or anxiety.
+C. The phobic object or situation is actively avoided or endured with intense fear or
+anxiety.
+D. The fear or anxiety is out of proportion to the actual danger posed by the specific
+object or situation and to the sociocultural context.
+E. The fear, anxiety, or avoidance is persistent, typically lasting for 6 months or
+more.
+F. The fear, anxiety, or avoidance causes clinically significant distress or
+impairment in social, occupational, or other important areas of functioning.
+G. The disturbance is not better explained by the symptoms of another mental
+disorder, including fear, anxiety, and avoidance of situations associated with
+panic-like symptoms or other incapacitating symptoms (as in agoraphobia);
+objects or situations related to obsessions (as in obsessive-compulsive
+disorder); reminders of traumatic events (as in posttraumatic stress disorder);
+separation from home or attachment figures (as in separation anxiety disorder);
+or social situations (as in social anxiety disorder).
+Specify if:
+Code based on the phobic stimulus:
+F40.218 Animal (e.g., spiders, insects, dogs).
+F40.228 Natural environment (e.g., heights, storms, water).
+F40.23x Blood-injection-injury (e.g., needles, invasive medical procedures).
+225
+Coding note: Select specific ICD-10-CM code as follows: F40.230 fear of
+blood; F40.231 fear of injections and transfusions; F40.232 fear of other

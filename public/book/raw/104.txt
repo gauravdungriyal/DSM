@@ -1,0 +1,37 @@
+official coding system in the United States continues to be the International Classification of
+Diseases, Tenth Revision, Clinical Modification (ICD-10-CM).
+Key Conceptual Frameworks and Approaches
+Definition of a Mental Disorder
+Each disorder identified in Section II of the manual (excluding those in the chapters
+“Medication-Induced Movement Disorders and Other Adverse Effects of Medication” and
+“Other Conditions That May Be a Focus of Clinical Attention”) must meet the definition of a
+mental disorder. Although no definition can capture all aspects of the range of disorders
+contained in DSM-5, the following elements are required:
+14
+A mental disorder is a syndrome characterized by clinically significant
+disturbance in an individual’s cognition, emotion regulation, or behavior that
+reflects a dysfunction in the psychological, biological, or developmental
+processes underlying mental functioning. Mental disorders are usually
+associated with significant distress or disability in social, occupational, or
+other important activities. An expectable or culturally approved response to a
+common stressor or loss, such as the death of a loved one, is not a mental
+disorder. Socially deviant behavior (e.g., political, religious, or sexual) and
+conflicts that are primarily between the individual and society are not mental
+disorders unless the deviance or conflict results from a dysfunction in the
+individual, as described above.
+The diagnosis of a mental disorder should have clinical utility: it should help clinicians to
+determine prognosis, treatment plans, and potential treatment outcomes for their patients.
+However, the diagnosis of a mental disorder is not equivalent to a need for treatment. Need for
+treatment is a complex clinical decision that takes into consideration symptom severity, symptom
+salience (e.g., the presence of suicidal thoughts), the individual’s distress (mental pain)
+associated with the symptom(s), disability related to the individual’s symptoms, risks and
+benefits of available treatments, and other factors (e.g., psychiatric symptoms complicating other
+illness). Clinicians may thus encounter individuals whose symptoms do not meet full criteria for
+a mental disorder but who demonstrate a clear need for treatment or care. The fact that some
+individuals do not show all symptoms indicative of a diagnosis should not be used to justify
+limiting their access to appropriate care.
+It should be noted that the definition of mental disorder was developed for clinical, public
+health, and research purposes. Additional information is usually required beyond that contained
+in the DSM-5 diagnostic criteria in order to make legal judgments on such issues as criminal
+responsibility, eligibility for disability compensation, and competency (see “Cautionary
+Statement for Forensic Use of DSM-5” at the conclusion of Section I).

@@ -1,0 +1,57 @@
+Specify if:
+Acute: Lasting a few hours or days.
+Persistent: Lasting weeks or months.
+Specify if:
+Hyperactive: The individual has a hyperactive level of psychomotor activity that
+may be accompanied by mood lability, agitation, and/or refusal to cooperate with
+medical care.
+Hypoactive: The individual has a hypoactive level of psychomotor activity that
+may be accompanied by sluggishness and lethargy that approaches stupor.
+Mixed level of activity: The individual has a normal level of psychomotor
+activity even though attention and awareness are disturbed. Also includes
+individuals whose activity level rapidly fluctuates.
+Specify whether:
+Substance intoxication delirium: This diagnosis should be made instead of
+substance intoxication when the symptoms in Criteria A and C predominate in
+the clinical picture and when they are sufficiently severe to warrant clinical
+attention.
+Coding note: The ICD-10-CM codes for the [specific substance] intoxication
+delirium are indicated in the table below. Note that the ICD-10-CM code
+depends on whether or not there is a comorbid substance use disorder
+present for the same class of substance. If a mild substance use disorder is
+comorbid with the substance intoxication delirium, the 4th position character is
+“1,” and the clinician should record “mild [substance] use disorder” before the
+substance intoxication delirium (e.g., “mild cocaine use disorder with cocaine
+intoxication delirium”). If a moderate or severe substance use disorder is
+comorbid with the substance intoxication delirium, the 4th position character is
+“2,” and the clinician should record “moderate [substance] use disorder” or
+“severe [substance] use disorder,” depending on the severity of the comorbid
+substance use disorder. If there is no comorbid substance use disorder (e.g.,
+after a one-time heavy use of the substance), then the 4th position character is
+“9,” and the clinician should record only the substance intoxication delirium.
+673
+ICD-10-CM
+Substance intoxication delirium
+With mild use
+disorder
+With moderate or
+severe use
+disorder
+Without use
+disorder
+Alcohol
+F10.121
+F10.221
+F10.921
+Cannabis
+F12.121
+F12.221
+F12.921
+Phencyclidine
+F16.121
+F16.221
+F16.921
+Other hallucinogen
+F16.121
+F16.221
+F16.921

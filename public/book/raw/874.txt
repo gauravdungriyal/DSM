@@ -1,0 +1,36 @@
+Stimulant-induced mental disorders.
+Independent mental disorders.
+sizes make estimating rates among American Indians/Alaskan Natives difficult.
+Differential Diagnosis
+Stimulant intoxication is distinguished from stimulant-induced
+mental disorders (e.g., stimulant-induced anxiety disorder, with onset during intoxication)
+because the symptoms (e.g., anxiety) in the latter disorders are in excess of those usually seen in
+stimulant intoxication, predominate in the clinical presentation, and meet full criteria for the
+relevant disorder.
+Salient mental disturbances associated with stimulant intoxication
+should be distinguished from the symptoms of schizophrenia, bipolar and depressive disorders,
+generalized anxiety disorder, and panic disorder as described in this manual.
+Comorbidity
+Given the typical overlap of stimulant intoxication with stimulant use disorder, see
+“Comorbidity” under Stimulant Use Disorder for more details about co-occurring conditions that
+are likely to be encountered.
+643
+Stimulant Withdrawal
+Diagnostic Criteria
+A. Cessation of (or reduction in) prolonged amphetamine-type substance, cocaine,
+or other stimulant use.
+B. Dysphoric mood and two (or more) of the following physiological changes,
+developing within a few hours to several days after Criterion A:
+1. Fatigue.
+2. Vivid, unpleasant dreams.
+3. Insomnia or hypersomnia.
+4. Increased appetite.
+5. Psychomotor retardation or agitation.
+C. The signs or symptoms in Criterion B cause clinically significant distress or
+impairment in social, occupational, or other important areas of functioning.
+D. The signs or symptoms are not attributable to another medical condition and are
+not better explained by another mental disorder, including intoxication or
+withdrawal from another substance.
+Specify the particular substance that causes the withdrawal syndrome (i.e.,
+amphetamine-type substance, cocaine, or other stimulant).
+Coding note: The ICD-10-CM code depends on whether the stimulant is an

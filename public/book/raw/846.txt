@@ -1,0 +1,28 @@
+Opioid-Induced Mental Disorders
+The following opioid-induced mental disorders are described in other chapters of the manual
+with disorders with which they share phenomenology (see the substance/medication-induced
+mental disorders in these chapters): opioid-induced depressive disorder (“Depressive
+Disorders”); opioid-induced anxiety disorder (“Anxiety Disorders”); opioid-induced sleep
+disorder (“Sleep-Wake Disorders”); and opioid-induced sexual dysfunction (“Sexual
+Dysfunctions”). For opioid intoxication delirium, opioid withdrawal delirium, and delirium
+induced by opioids taken as prescribed, see the criteria and discussion of delirium in the chapter
+“Neurocognitive Disorders.” These opioid-induced mental disorders are diagnosed instead of
+opioid intoxication or opioid withdrawal only when the symptoms are sufficiently severe to
+warrant independent clinical attention.
+Unspecified Opioid-Related Disorder
+F11.99
+This category applies to presentations in which symptoms characteristic of an opioid-
+related disorder that cause clinically significant distress or impairment in social,
+occupational, or other important areas of functioning predominate but do not meet
+the full criteria for any specific opioid-related disorder or any of the disorders in the
+substance-related and addictive disorders diagnostic class.
+620
+Sedative-, Hypnotic-, or Anxiolytic-Related
+Disorders
+Sedative, Hypnotic, or Anxiolytic Use Disorder
+Sedative, Hypnotic, or Anxiolytic Intoxication
+Sedative, Hypnotic, or Anxiolytic Withdrawal
+Sedative-, Hypnotic-, or Anxiolytic-Induced Mental Disorders
+Unspecified Sedative-, Hypnotic-, or Anxiolytic-Related Disorder
+Sedative, Hypnotic, or Anxiolytic Use Disorder
+Diagnostic Criteria

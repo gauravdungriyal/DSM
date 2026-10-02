@@ -1,0 +1,35 @@
+occurs with conduct disorder in adolescents and with antisocial personality disorder. Individuals
+with inhalant use disorder may have comorbid symptoms of hepatic or renal damage,
+rhabdomyolysis, methemoglobinemia, or symptoms of other gastrointestinal, cardiovascular, or
+pulmonary diseases.
+Inhalant Intoxication
+Diagnostic Criteria
+A. Recent intended or unintended short-term, high-dose exposure to inhalant
+substances, including volatile hydrocarbons such as toluene or gasoline.
+B. Clinically significant problematic behavioral or psychological changes (e.g.,
+belligerence, assaultiveness, apathy, impaired judgment) that developed during,
+or shortly after, exposure to inhalants.
+C. Two (or more) of the following signs or symptoms developing during, or shortly
+after, inhalant use or exposure:
+1. Dizziness.
+2. Nystagmus.
+3. Incoordination.
+606
+4. Slurred speech.
+5. Unsteady gait.
+6. Lethargy.
+7. Depressed reflexes.
+8. Psychomotor retardation.
+9. Tremor.
+10. Generalized muscle weakness.
+11. Blurred vision or diplopia.
+12. Stupor or coma.
+13. Euphoria.
+D. The signs or symptoms are not attributable to another medical condition and are
+not better explained by another mental disorder, including intoxication with
+another substance.
+Coding note: The ICD-10-CM code depends on whether there is a comorbid
+inhalant use disorder. If a mild inhalant use disorder is comorbid, the ICD-10-CM
+code is F18.120, and if a moderate or severe inhalant use disorder is comorbid, the
+ICD-10-CM code is F18.220. If there is no comorbid inhalant use disorder, then the
+ICD-10-CM code is F18.920.

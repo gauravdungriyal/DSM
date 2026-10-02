@@ -1,0 +1,41 @@
+The sections on prevalence for each disorder were reviewed to ensure that findings are
+presented with clear reference to the geographic areas or social groups included in data collection
+(e.g., “in the U.S. general population”); this avoids overgeneralizing the findings to communities
+not yet studied. Prevalence data on specific ethnoracial groups were included when existing
+research documented reliable estimates based on representative
+19
+samples. The work group was concerned that data from nonrepresentative samples may be
+misleading. This explains the limited inclusion of data on certain ethnoracial groups, notably
+Native Americans. There is an urgent need for research on this and other important groups.
+Prevalence estimates also depend on the absence of assessment bias; the text indicates when
+more research is needed to ensure the accuracy of available data. Users are encouraged to read
+the sections on culture-related diagnostic issues to contextualize the sections on prevalence.
+Sex and Gender Differences
+Sex and gender differences as they relate to the causes and expression of medical conditions are
+established for a number of diseases, including a growing number of mental disorders. Sex refers
+to factors attributable to an individual’s reproductive organs and XX or XY chromosomal
+complement. Gender is a result of reproductive organs as well as an individual’s self-
+representation and includes the psychological, behavioral, and social consequences of the
+individual’s perceived gender. Much of the information on the expression of psychiatric illness
+in women and men is based on self-identified gender, and thus we commonly use gender
+differences or “women and men” or “boys and girls” in DSM-5-TR. However, if information is
+available and pertinent to “sex”—for example, sex differences in metabolism of substances, or
+life stages restricted to only one sex, such as pregnancy or menopause—we use the term sex
+differences or “male and female.”
+Sex and gender can influence illness in a variety of ways. First, sex may exclusively
+determine whether an individual is at risk for a disorder (e.g., as in premenstrual dysphoric
+disorder). Second, sex or gender may moderate the overall risk for development of a disorder as
+shown by marked differences in the prevalence and incidence rates for selected mental disorders
+in men and women. Third, sex or gender may influence the likelihood that particular symptoms
+of a disorder are experienced by an individual. For example, ADHD may manifest differently in
+boys and girls. Sex or gender may also have other effects on the experience of a disorder that are
+indirectly relevant to psychiatric diagnosis. For example, certain symptoms may be more readily
+endorsed by men or women, and this endorsement contributes to differences in service provision
+(e.g., women may be more likely to recognize a depressive, bipolar, or anxiety disorder and
+endorse a more comprehensive list of symptoms than do men).
+Reproductive life cycle events, including variations in ovarian hormones during the
+menstrual cycle, pregnancy, or menopause, may contribute to sex differences in risk and
+expression of illness. Thus, the specifier “with peripartum onset” that can apply to brief
+psychotic disorder or to a manic, hypomanic, or major depressive episode denotes a time frame
+wherein women may be at increased risk for the onset of an illness episode. In the case of sleep
+and energy, postpartum alterations are often normative and thus may have lower diagnostic

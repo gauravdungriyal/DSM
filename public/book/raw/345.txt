@@ -1,0 +1,41 @@
+depressed). Leaden paralysis is defined as feeling heavy, leaden, or weighted
+down, usually in the arms or legs. This sensation is generally present for at least
+an hour a day but often lasts for many hours at a time. Unlike the other atypical
+features, pathological sensitivity to perceived interpersonal rejection is a trait that
+has an early onset and persists throughout most of adult life. Rejection sensitivity
+occurs when the person is and is not depressed, though it may be exacerbated
+during depressive periods.
+With psychotic features: Delusions and/or hallucinations are present at any
+time in the current major depressive episode (or the most recent major
+depressive episode if major depressive disorder is currently in partial or full
+remission). If psychotic features are present, specify if mood-congruent or mood-
+incongruent:
+213
+With mood-congruent psychotic features: The content of all delusions and
+hallucinations is consistent with the typical depressive themes of personal
+inadequacy, guilt, disease, death, nihilism, or deserved punishment.
+With mood-incongruent psychotic features: The content of the delusions or
+hallucinations does not involve typical depressive themes of personal
+inadequacy, guilt, disease, death, nihilism, or deserved punishment, or the
+content is a mixture of mood-incongruent and mood-congruent themes.
+With catatonia: This specifier is applied to the current major depressive episode
+(or the most recent major depressive episode if major depressive disorder is
+currently in partial or full remission) if catatonic features are present during most
+of the episode. See criteria for catatonia associated with a mental disorder in the
+chapter “Schizophrenia Spectrum and Other Psychotic Disorders.”
+With peripartum onset: This specifier is applied to the current major depressive
+episode (or the most recent major depressive episode if major depressive
+disorder is currently in partial or full remission) if onset of mood symptoms
+occurs during pregnancy or in the 4 weeks following delivery.
+Note: Mood episodes can have their onset either during pregnancy or
+postpartum. About 50% of postpartum major depressive episodes begin prior
+to delivery. Thus, these episodes are referred to collectively as peripartum
+episodes.
+ Between conception and birth, about 9% of women will experience a major
+depressive episode. The best estimate for prevalence of a major depressive
+episode between birth and 12 months postpartum is just below 7%.
+ Peripartum-onset mood episodes can present either with or without
+psychotic features. Infanticide (a rare occurrence) is most often associated
+with postpartum psychotic episodes that are characterized by command
+hallucinations to kill the infant or delusions that the infant is possessed, but
+psychotic symptoms can also occur in severe postpartum mood episodes

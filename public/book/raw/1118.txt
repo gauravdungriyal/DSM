@@ -1,0 +1,69 @@
+such as the degree of cognitive and/or neurobiological deficits. Dimensional assessments capture
+meaningful variation in the severity of symptoms, which may help with treatment planning,
+prognostic decision-making, and research on pathophysiological mechanisms. The Clinician-
+Rated Dimensions of Psychosis Symptom Severity measure provides scales for the dimensional
+assessment of the primary symptoms of psychosis, including hallucinations, delusions,
+disorganized speech, abnormal psychomotor behavior, and negative symptoms. A scale for the
+dimensional assessment of cognitive impairment is also included. Many individuals with
+psychotic disorders have impairments in a range of cognitive domains, which predict functional
+abilities and prognosis. In addition, scales for dimensional assessment of depression and mania
+are provided, which may alert clinicians to co-occurring mood pathology. The severity of mood
+symptoms in psychosis has prognostic value and can guide treatment.
+The Clinician-Rated Dimensions of Psychosis Symptom Severity is an 8-item measure that
+may be completed by the clinician at the time of the clinical assessment. Each item asks the
+clinician to rate the severity of each symptom as experienced by the individual when it was at its
+most severe during the past 7 days.
+Scoring and Interpretation
+Each item on the measure is rated on a 5-point scale (0 = none; 1 = equivocal; 2 = present, but
+mild; 3 = present and moderate; and 4 = present and severe) with a symptom-specific definition
+of each rating level. The clinician reviews all of the individual’s available information and, based
+on clinical judgment, selects (with checkmark) the level that most accurately describes the
+severity of the symptom domain. The clinician then indicates the score for each item in the
+“Score” column provided.
+Frequency of Use
+To track changes in the individual’s symptom severity over time, the measure may be completed
+at regular intervals as clinically indicated, depending on the stability of the individual’s
+symptoms and treatment status. Consistently high scores on a particular domain may indicate
+significant and problematic areas for the individual that might warrant further assessment,
+treatment, and follow-up. Clinical judgment should always guide decision making.
+852
+Clinician-Rated Dimensions of Psychosis Symptom Severity
+Name:______________________________________
+Age: __________
+Date:________________
+Instructions: Based on all the information you have on the individual and using your clinical judgment, please rate (with
+checkmark) the presence and severity of the following symptoms as experienced by the individual, when each symptom was
+at its most severe, in the past seven (7) days.
+Domain
+0
+1
+2
+3
+4
+Score
+I. Hallucinations ❑ Not
+present
+❑ Equivocal (severity or
+duration not sufficient to be
+considered psychosis)
+❑ Present, but
+mild (little
+pressure to act
+upon voices or
+other types of
+hallucinations,
+not very
+❑ Present and
+moderate (some
+pressure to
+respond to
+voices or other
+types of
+hallucinations,
+❑ Present and
+severe (severe
+pressure to
+respond to voices
+or other types of
+hallucinations, or
+is very bothered

@@ -1,0 +1,37 @@
+Diagnostic Criteria
+A. Cessation of cannabis use that has been heavy and prolonged (i.e., usually daily
+or almost daily use over a period of at least a few months).
+B. Three (or more) of the following signs and symptoms develop within
+approximately 1 week after Criterion A:
+1. Irritability, anger, or aggression.
+2. Nervousness or anxiety.
+3. Sleep difficulty (e.g., insomnia, disturbing dreams).
+4. Decreased appetite or weight loss.
+5. Restlessness.
+6. Depressed mood.
+7. At least one of the following physical symptoms causing significant
+discomfort: abdominal pain, shakiness/tremors, sweating, fever, chills, or
+headache.
+C. The signs or symptoms in Criterion B cause clinically significant distress or
+impairment in social, occupational, or other important areas of functioning.
+D. The signs or symptoms are not attributable to another medical condition and are
+not better explained by another mental disorder, including intoxication or
+withdrawal from another substance.
+Coding note: The ICD-10-CM code depends on whether or not there is a comorbid
+cannabis use disorder. If a mild cannabis use disorder is comorbid, the ICD-10-CM
+code is F12.13, and if a moderate or severe cannabis use disorder is comorbid, the
+ICD-10-CM code is F12.23. For cannabis withdrawal occurring in the absence of a
+cannabis use disorder (e.g., in a patient taking cannabis solely under appropriate
+medical supervision), the ICD-10-CM code is F12.93.
+585
+Diagnostic Features
+The essential feature of cannabis withdrawal is the presence of a characteristic withdrawal
+syndrome that develops after the cessation of regular cannabis use. Regular users become
+tolerant to many acute cannabis effects, and cessation of regular use can lead to a cannabis
+withdrawal syndrome. Common cannabis withdrawal symptoms include irritability, depressed
+mood, anxiety, restlessness, sleep difficulty, and decreased appetite or weight loss. Cannabis
+withdrawal can cause significant distress, leading to continued use to relieve the symptoms,
+difficulty in quitting, and relapse. Unlike withdrawal from other substances (i.e., opioids,
+alcohol, sedatives), behavioral and emotional symptoms (e.g., nervousness, irritability, sleep
+difficulty) are often more common than physical symptoms (e.g., shakiness, sweating).
+Associated Features

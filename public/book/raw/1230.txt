@@ -1,0 +1,87 @@
+F10.120
+Alcohol intoxication, With mild use disorder
+F10.121
+Alcohol intoxication delirium, With mild use disorder
+F10.130
+Alcohol withdrawal, Without perceptual disturbances, With mild use disorder
+F10.131
+Alcohol withdrawal delirium, With mild use disorder
+F10.132
+Alcohol withdrawal, With perceptual disturbances, With mild use disorder
+F10.14
+Alcohol-induced bipolar and related disorder, With mild use disorder
+F10.14
+Alcohol-induced depressive disorder, With mild use disorder
+F10.159
+Alcohol-induced psychotic disorder, With mild use disorder
+F10.180
+Alcohol-induced anxiety disorder, With mild use disorder
+F10.181
+Alcohol-induced sexual dysfunction, With mild use disorder
+F10.182
+Alcohol-induced sleep disorder, With mild use disorder
+F10.188
+Alcohol-induced mild neurocognitive disorder, With mild use disorder
+F10.20
+Alcohol use disorder, Moderate
+F10.20
+Alcohol use disorder, Severe
+F10.21
+Alcohol use disorder, Moderate, In early remission
+F10.21
+Alcohol use disorder, Moderate, In sustained remission
+F10.21
+Alcohol use disorder, Severe, In early remission
+F10.21
+Alcohol use disorder, Severe, In sustained remission
+F10.220
+Alcohol intoxication, With moderate or severe use disorder
+F10.221
+Alcohol intoxication delirium, With moderate or severe use disorder
+F10.230
+Alcohol withdrawal, Without perceptual disturbances, With moderate or severe use disorder
+F10.231
+Alcohol withdrawal delirium, With moderate or severe use disorder
+F10.232
+Alcohol withdrawal, With perceptual disturbances, With moderate or severe use disorder
+F10.24
+Alcohol-induced bipolar and related disorder, With moderate or severe use disorder
+F10.24
+Alcohol-induced depressive disorder, With moderate or severe use disorder
+F10.259
+Alcohol-induced psychotic disorder, With moderate or severe use disorder
+F10.26
+Alcohol-induced major neurocognitive disorder, Amnestic-confabulatory type, With moderate or
+severe use disorder
+960
+F10.27
+Alcohol-induced major neurocognitive disorder, Nonamnestic-confabulatory type, With moderate or
+severe use disorder
+F10.280
+Alcohol-induced anxiety disorder, With moderate or severe use disorder
+F10.281
+Alcohol-induced sexual dysfunction, With moderate or severe use disorder
+F10.282
+Alcohol-induced sleep disorder, With moderate or severe use disorder
+F10.288
+Alcohol-induced mild neurocognitive disorder, With moderate or severe use disorder
+F10.920
+Alcohol intoxication, Without use disorder
+F10.921
+Alcohol intoxication delirium, Without use disorder
+F10.930
+Alcohol withdrawal, Without perceptual disturbances, Without use disorder
+F10.931
+Alcohol withdrawal delirium, without use disorder
+F10.932
+Alcohol withdrawal, With perceptual disturbances, Without use disorder
+F10.94
+Alcohol-induced bipolar and related disorder, Without use disorder
+F10.94
+Alcohol-induced depressive disorder, Without use disorder
+F10.959
+Alcohol-induced psychotic disorder, Without use disorder
+F10.96
+Alcohol-induced major neurocognitive disorder, Amnestic-confabulatory type, Without use disorder
+F10.97
+Alcohol-induced major neurocognitive disorder, Nonamnestic-confabulatory type, Without use

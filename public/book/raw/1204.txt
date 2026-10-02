@@ -1,0 +1,79 @@
+F60.3
+Borderline personality disorder
+F23
+Brief psychotic disorder
+F50.2
+Bulimia nervosa
+F15.980
+Caffeine-induced anxiety disorder, Without use disorder
+F15.982
+Caffeine-induced sleep disorder, Without use disorder
+F15.920
+Caffeine intoxication
+F15.93
+Caffeine withdrawal
+Cannabis-induced anxiety disorder
+F12.180
+With mild use disorder
+F12.280
+With moderate or severe use disorder
+F12.980
+Without use disorder
+Cannabis-induced psychotic disorder
+F12.159
+With mild use disorder
+F12.259
+With moderate or severe use disorder
+F12.959
+Without use disorder
+Cannabis-induced sleep disorder
+F12.188
+With mild use disorder
+F12.288
+With moderate or severe use disorder
+F12.988
+Without use disorder
+Cannabis intoxication, With perceptual disturbances
+F12.122
+With mild use disorder
+F12.222
+With moderate or severe use disorder
+F12.922
+Without use disorder
+Cannabis intoxication, Without perceptual disturbances
+F12.120
+With mild use disorder
+F12.220
+With moderate or severe use disorder
+F12.920
+Without use disorder
+Cannabis intoxication delirium
+F12.121
+With mild use disorder
+F12.221
+With moderate or severe use disorder
+F12.921
+Without use disorder
+F12.921
+Cannabis receptor agonist–induced delirium, pharmaceutical (medication taken as prescribed)
+Cannabis use disorder
+F12.10
+Mild
+F12.11
+In early remission
+F12.11
+In sustained remission
+F12.20
+Moderate
+F12.21
+In early remission
+F12.21
+In sustained remission
+F12.20
+Severe
+F12.21
+In early remission
+F12.21
+In sustained remission
+935
+Cannabis withdrawal

@@ -1,0 +1,45 @@
+With 
+obsessive-compulsive 
+disorder–like 
+symptoms: 
+If 
+obsessive-
+compulsive disorder–like symptoms predominate in the clinical presentation.
+With appearance preoccupations: If preoccupation with perceived appearance
+defects or flaws predominates in the clinical presentation.
+With hoarding symptoms: If hoarding predominates in the clinical presentation.
+With hair-pulling symptoms: If hair pulling predominates in the clinical
+presentation.
+With skin-picking symptoms: If skin picking predominates in the clinical
+presentation.
+Coding note: Include the name of the other medical condition in the name of the
+mental disorder (e.g., F06.8 obsessive-compulsive and related disorder due to
+cerebral infarction). The other medical condition should be coded and listed
+separately immediately before the obsessive-compulsive and related disorder due
+to the medical condition (e.g., I69.398 cerebral infarction; F06.8 obsessive-
+compulsive and related disorder due to cerebral infarction).
+Diagnostic Features
+The essential feature of obsessive-compulsive and related disorder due to another medical
+condition is clinically significant obsessive-compulsive and related symptoms that are judged to
+be best explained as the direct pathophysiological consequence of another medical condition.
+Symptoms can include prominent obsessions, compulsions, preoccupations with appearance,
+hoarding, hair pulling, skin picking, or other body-focused repetitive behaviors (Criterion A).
+The judgment that the symptoms are best explained by the associated medical condition must be
+based on evidence from the history, physical examination, or laboratory findings (Criterion B).
+Additionally, it must be judged that the symptoms are not better explained by another mental
+disorder (Criterion C). The diagnosis is not made if the obsessive-compulsive and related
+symptoms occur only during the course of a delirium (Criterion D). The obsessive-compulsive
+and related symptoms must cause clinically significant distress or impairment in social,
+occupational, or other important areas of functioning (Criterion E).
+292
+In determining whether the obsessive-compulsive and related symptoms are attributable to
+another medical condition, a medical condition must be present at the time of the onset of the
+obsessive-compulsive and related symptoms. Furthermore, it must be established that obsessive-
+compulsive and related symptoms can be etiologically related to the medical condition through a
+pathophysiological mechanism and that this best explains the symptoms in the individual.
+Although there are no infallible guidelines for determining whether the relationship between the
+obsessive-compulsive and related symptoms and the medical condition is etiological,
+considerations that may provide some guidance in making this diagnosis include the presence of
+a clear temporal association between the onset, exacerbation, or remission of the medical
+condition and the obsessive-compulsive and related symptoms; the presence of features that are
+atypical of a primary obsessive-compulsive and related disorder (e.g., atypical age at onset or

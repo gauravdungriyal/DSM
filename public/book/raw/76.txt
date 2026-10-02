@@ -1,0 +1,56 @@
+F19.288
+With moderate or severe use disorder
+F19.988
+Without use disorder
+___.__
+Other (or Unknown) Substance–Induced Sleep Disordera (468)
+Specify whether Insomnia type, Daytime sleepiness type, Parasomnia
+type, Mixed type
+F19.182
+With mild use disorder
+F19.282
+With moderate or severe use disorder
+F19.982
+Without use disorder
+___.__
+Other (or Unknown) Substance–Induced Sexual Dysfunctiona (504)
+Specify if: Mild, Moderate, Severe
+F19.181
+With mild use disorder
+F19.281
+With moderate or severe use disorder
+F19.981
+Without use disorder
+lvi
+___.__
+Other (or Unknown) Substance Intoxication Deliriumb,c (672)
+F19.121
+With mild use disorder
+F19.221
+With moderate or severe use disorder
+F19.921
+Without use disorder
+___.__
+Other (or Unknown) Substance Withdrawal Deliriumb,c (673)
+F19.131
+With mild use disorder
+F19.231
+With moderate or severe use disorder
+F19.931
+Without use disorder
+___.__
+Other (or Unknown) Medication–Induced Deliriumb,c (674)
+Note: The designation “taken as prescribed” is used to differentiate
+medication-induced delirium from substance intoxication delirium and
+substance withdrawal delirium.
+F19.921
+When other (or unknown) medication taken as prescribed (674)
+F19.931
+During withdrawal from other (or unknown) medication taken as
+prescribed (674)
+___.__
+Other (or Unknown) Substance–Induced Major Neurocognitive Disorder
+(712)
+Specify if: Persistent
+F19.17
+With mild use disorder

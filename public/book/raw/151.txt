@@ -1,0 +1,43 @@
+Sensory deficits.
+Normal speech dysfluencies.
+Specific learning disorder, with impairment in reading.
+Bilingualism.
+Medication side effects.
+Adult-onset dysfluencies.
+Tourette’s disorder.
+F80.82
+Dysfluencies of speech may be associated with a hearing impairment or other
+sensory deficit or a speech-motor deficit. When the speech dysfluencies are in excess of those
+usually associated with these problems, a diagnosis of childhood-onset fluency disorder may be
+made.
+The disorder must be distinguished from normal dysfluencies that
+occur frequently in young children, which include whole-word or phrase repetitions (e.g., “I
+want, I want ice cream”), incomplete phrases, interjections, unfilled pauses, and parenthetical
+remarks. If these difficulties increase in frequency or complexity as the child grows older, a
+diagnosis of childhood-onset fluency disorder may be appropriate.
+Children who have dysfluencies when they
+read aloud may be diagnosed mistakenly as having a reading disorder. Oral reading fluency
+typically is measured by timed assessments. Slower reading rates may not accurately reflect the
+actual reading ability of children who stutter.
+It is necessary to distinguish between dysfluencies resulting from attempts to learn
+a new language and dysfluencies that indicate a fluency disorder, which typically appear in both
+languages.
+Stuttering may occur as a side effect of medication and may be detected
+by a temporal relationship with exposure to the medication.
+If onset of dysfluencies is during or after adolescence, it is an “adult-
+onset dysfluency” rather than a neurodevelopmental disorder. Adult-onset dysfluencies are
+associated with specific neurological insults and a variety of medical conditions and mental
+disorders and may be specified with them, but they are not a DSM-5 diagnosis.
+Vocal tics and repetitive vocalizations of Tourette’s disorder should be
+distinguishable from the repetitive sounds of childhood-onset fluency disorder by their nature
+and timing.
+Comorbidity
+Childhood-onset fluency disorder can co-occur with other disorders, such as attention-
+deficit/hyperactivity disorder, autism spectrum disorder, intellectual developmental
+54
+disorder (intellectual disability), language disorder or specific learning disorder, seizure
+disorders, social anxiety disorder, speech sound disorder, and other developmental disorders.
+Social (Pragmatic) Communication Disorder
+Diagnostic Criteria
+A. Persistent difficulties in the social use of verbal and nonverbal communication as
+manifested by all of the following:

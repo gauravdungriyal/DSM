@@ -1,0 +1,39 @@
+social, academic, or occupational functioning.
+E. The symptoms do not occur exclusively during the course of schizophrenia or
+another psychotic disorder and are not better explained by another mental
+disorder (e.g., mood disorder, anxiety disorder, dissociative disorder, personality
+disorder, substance intoxication or withdrawal).
+Specify whether:
+F90.2 Combined presentation: If both Criterion A1 (inattention) and Criterion
+A2 (hyperactivity-impulsivity) are met for the past 6 months.
+F90.0 Predominantly inattentive presentation: If Criterion A1 (inattention) is
+met but Criterion A2 (hyperactivity-impulsivity) is not met for the past 6 months.
+F90.1 Predominantly hyperactive/impulsive presentation: If Criterion A2
+(hyperactivity-impulsivity) is met and Criterion A1 (inattention) is not met for the
+past 6 months.
+Specify if:
+In partial remission: When full criteria were previously met, fewer than the full
+criteria have been met for the past 6 months, and the symptoms still result in
+impairment in social, academic, or occupational functioning.
+70
+Specify current severity:
+Mild: Few, if any, symptoms in excess of those required to make the diagnosis
+are present, and symptoms result in no more than minor impairments in social or
+occupational functioning.
+Moderate: Symptoms or functional impairment between “mild” and “severe” are
+present.
+Severe: Many symptoms in excess of those required to make the diagnosis, or
+several symptoms that are particularly severe, are present, or the symptoms
+result in marked impairment in social or occupational functioning.
+Diagnostic Features
+The essential feature of attention-deficit/hyperactivity disorder (ADHD) is a persistent pattern of
+inattention and/or hyperactivity-impulsivity that interferes with functioning or development.
+Inattention manifests behaviorally in ADHD as wandering off task, failing to follow through on
+instructions or finishing work or chores, having difficulty sustaining focus, and being
+disorganized and is not attributable to defiance or lack of comprehension. Hyperactivity refers to
+excessive motor activity (such as a child running about) when it is not appropriate, or excessive
+fidgeting, tapping, or talkativeness. In adults, hyperactivity may manifest as extreme restlessness
+or wearing others out with their activity. Impulsivity refers to hasty actions that occur in the
+moment without forethought, which may have potential for harm to the individual (e.g., darting
+into the street without looking). Impulsivity may reflect a desire for immediate rewards or an
+inability to delay gratification. Impulsive behaviors may manifest as social intrusiveness (e.g.,

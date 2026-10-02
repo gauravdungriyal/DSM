@@ -1,0 +1,37 @@
+E. Once the stressor or its consequences have terminated, the symptoms do not
+persist for more than an additional 6 months.
+Specify whether:
+F43.21 With depressed mood: Low mood, tearfulness, or feelings of
+hopelessness are predominant.
+F43.22 With anxiety: Nervousness, worry, jitteriness, or separation anxiety is
+predominant.
+F43.23 With mixed anxiety and depressed mood: A combination of
+depression and anxiety is predominant.
+F43.24 With disturbance of conduct: Disturbance of conduct is predominant.
+F43.25 With mixed disturbance of emotions and conduct: Both emotional
+symptoms (e.g., depression, anxiety) and a disturbance of conduct are
+predominant.
+F43.20 Unspecified: For maladaptive reactions that are not classifiable as one
+of the specific subtypes of adjustment disorder.
+320
+Specify if:
+Acute: This specifier can be used to indicate persistence of symptoms for less
+than 6 months.
+Persistent (chronic): This specifier can be used to indicate persistence of
+symptoms for 6 months or longer. By definition, symptoms cannot persist for
+more than 6 months after the termination of the stressor or its consequences.
+The persistent specifier therefore applies when the duration of the disturbance is
+longer than 6 months in response to a chronic stressor or to a stressor that has
+enduring consequences.
+Specifiers
+By definition, an adjustment disorder must resolve within 6 months of the termination of the
+stressor or its consequences. However, the symptoms may persist for a prolonged period (i.e.,
+longer than 6 months) if they occur in response to a persistent stressor (e.g., a chronic disabling
+other medical condition) or to a stressor that has enduring consequences (e.g., the financial and
+emotional difficulties resulting from a divorce). The duration of the symptoms of an adjustment
+disorder can be indicated by using the acute or persistent (chronic) specifiers. The acute specifier
+is used to indicate persistence of symptoms for less than 6 months. The persistent (chronic)
+specifier is used to indicate persistence of symptoms for 6 months or longer. This latter specifier
+therefore applies when the duration of the disturbance is longer than 6 months in response to a
+persistent stressor or to a stressor that has enduring consequences.
+Diagnostic Features

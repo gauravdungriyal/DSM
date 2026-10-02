@@ -1,0 +1,41 @@
+Genetic and physiological.
+Although age at onset is variable, symptoms begin typically in adolescence and early adulthood
+and persist for several months to years before diagnosis is established. Severity may decrease
+with age. Relapse of symptoms is common.
+Clinical expression may vary across the life span depending on social, school, and work
+obligations. Exacerbation is usually triggered by a change in work or school schedule that
+requires an early rise time. Individuals who can alter their work schedules to accommodate the
+delayed circadian sleep and wake timing can experience remission of symptoms.
+Increased prevalence in adolescence may be a consequence of both physiological and
+behavioral factors. Hormonal changes may be involved specifically, as delayed sleep phase is
+associated with the onset of puberty. Thus, delayed sleep phase type in adolescents should be
+differentiated from the common delay in the timing of circadian rhythms in this age group. In the
+familial form, the course is persistent and may not improve significantly with age.
+445
+Risk and Prognostic Factors
+Predisposing factors may include a longer than average circadian
+period, changes in light sensitivity, and impaired homeostatic sleep drive. Some individuals with
+delayed sleep phase type may be hypersensitive to evening light, which can serve as a delay
+signal to the circadian clock, or they may be hyposensitive to morning light such that its phase-
+advancing effects are reduced. Genetic factors may play a role in the pathogenesis of familial and
+sporadic forms of delayed sleep phase type. A study of unrelated families showing strong
+heritability of the disorder described a mutation in the clock gene, CRY1, occurring in about
+0.6% of the population, which results in increased inhibition of transcription of the activator
+clock genes, CLOCK and BMAL1.
+Diagnostic Markers
+Confirmation of the diagnosis includes a complete history and use of a sleep diary or actigraph
+(i.e., a wrist-worn motion detector that monitors motor activity for prolonged periods; if
+measured for at least 7 days, motor activity can be used as a proxy for sleep-wake patterns). The
+period covered should include weekends, when social and occupational obligations are less strict,
+to ensure that the individual exhibits a consistently delayed sleep-wake pattern. The most
+commonly available laboratory-derived phase marker is salivary dim light melatonin onset
+(DLMO) time. However, not all individuals with diagnosed delayed sleep phase exhibit delayed
+DLMO. An investigation of rigorously diagnosed individuals found that only 57% exhibited
+physiological phase delays (as gauged by a DLMO time occurring subsequent to the desired
+bedtime), whereas the remaining 43% had DLMO times that occurred before the desired
+bedtimes. As noted above, behavior, rather than circadian physiological alteration, may play a
+more predominant role in the latter (earlier DLMO) group. Given this, phase markers may
+ultimately demonstrate more value for optimization of treatment timing and/or as a measure of
+treatment response.
+Functional Consequences of Delayed Sleep Phase Type
+Excessive early day sleepiness is prominent. Extreme and prolonged difficulty awakening with

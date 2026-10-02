@@ -1,0 +1,43 @@
+Substance intoxication delirium.
+during withdrawal from sedative, hypnotic, or anxiolytic taken as prescribed);
+F15.921 amphetamine-type substance or other stimulant taken as prescribed;
+F16.921 ketamine or other hallucinogen taken as prescribed or for medical
+reasons; F19.921 for medications that do not fit into any of the classes (e.g.,
+dexamethasone) and in cases in which a substance is judged to be an
+etiological factor but the specific class of substance is unknown (or F19.931 if
+during withdrawal from medications that do not fit into any of the classes,
+taken as prescribed).
+F05 Delirium due to another medical condition: There is evidence from the
+history, physical examination, or laboratory findings that the disturbance is
+attributable to the physiological consequences of another medical condition.
+Coding note: Include the name of the other medical condition in the name of
+the delirium (e.g., F05 delirium due to hepatic encephalopathy). The other
+medical condition should also be coded and listed separately immediately
+before the delirium due to another medical condition (e.g., K72.90 hepatic
+encephalopathy; F05 delirium due to hepatic encephalopathy).
+F05 Delirium due to multiple etiologies: There is evidence from the history,
+physical examination, or laboratory findings that the delirium has more than one
+etiology (e.g., more than one etiological medical condition; another medical
+condition plus substance intoxication or medication side effect).
+Coding note: Use multiple separate codes reflecting specific delirium
+etiologies (e.g., K72.90 hepatic encephalopathy; F05 delirium due to hepatic
+failure; F10.231 alcohol withdrawal delirium). Note that the etiological medical
+condition both appears as a separate code that precedes the delirium code
+and is substituted into the delirium due to another medical condition rubric.
+Recording Procedures
+The name of the substance intoxication delirium begins with the
+specific substance (e.g., cocaine) that is presumed to be causing the delirium. The diagnostic
+code is selected from the table included in the criteria set, which is based on the drug class and
+presence or absence of a comorbid substance use disorder. For substances that do not fit into any
+of the classes (e.g., dexamethasone), the code for “other substance” should be used; and in cases
+in which a substance is judged to be an etiological factor but the specific class of substance is
+unknown, the category “unknown substance” should be used.
+When recording the name of the disorder, the comorbid substance use disorder (if any) is
+listed first, followed by the word “with,” followed by the name of the substance intoxication
+delirium, followed by the course (i.e., acute, persistent), followed by the specifier indicating level
+of psychomotor activity (i.e., hyperactive, hypoactive, mixed level of activity). For example, in
+the case of acute hyperactive intoxication delirium occurring in a man with a severe cocaine use
+disorder, the diagnosis is F14.221 severe cocaine use disorder with cocaine intoxication delirium,
+acute, hyperactive. A separate diagnosis of the comorbid severe cocaine use disorder is not
+given. If the intoxication delirium occurs without a comorbid substance use disorder (e.g., after a
+one-time heavy use of the substance), no accompanying substance use disorder is noted (e.g.,

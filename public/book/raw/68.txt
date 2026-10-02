@@ -1,0 +1,58 @@
+(674)
+F13.931
+During withdrawal from sedative, hypnotic, or anxiolytic medication
+taken as prescribed (674)
+___.__
+Sedative-, Hypnotic-, or Anxiolytic-Induced Major Neurocognitive
+Disorder (712)
+Specify if: Persistent
+F13.27
+With moderate or severe use disorder
+F13.97
+Without use disorder
+___.__
+Sedative-, Hypnotic-, or Anxiolytic-Induced Mild Neurocognitive
+Disorder (712)
+Specify if: Persistent
+F13.188
+With mild use disorder
+F13.288
+With moderate or severe use disorder
+F13.988
+Without use disorder
+F13.99
+Unspecified Sedative-, Hypnotic-, or Anxiolytic-Related Disorder (632)
+l
+Stimulant-Related Disorders (632)
+___.__
+Stimulant Use Disorder (632)
+Specify if: In a controlled environment
+Specify current severity/remission:
+___.__
+Mild
+F15.10
+Amphetamine-type substance
+F14.10
+Cocaine
+F15.10
+Other or unspecified stimulant
+___.__
+Mild, In early remission
+F15.11
+Amphetamine-type substance
+F14.11
+Cocaine
+F15.11
+Other or unspecified stimulant
+___.__
+Mild, In sustained remission
+F15.11
+Amphetamine-type substance
+F14.11
+Cocaine
+F15.11
+Other or unspecified stimulant
+___.__
+Moderate
+F15.20
+Amphetamine-type substance

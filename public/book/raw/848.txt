@@ -1,0 +1,41 @@
+b. Sedatives, hypnotics, or anxiolytics (or a closely related substance, such
+as alcohol) are taken to relieve or avoid withdrawal symptoms.
+Note: This criterion is not considered to be met for individuals taking
+sedatives, hypnotics, or anxiolytics under medical supervision.
+Specify if:
+In early remission: After full criteria for sedative, hypnotic, or anxiolytic use
+disorder were previously met, none of the criteria for sedative, hypnotic, or
+anxiolytic use disorder have been met for at least 3 months but for less than 12
+months (with the exception that Criterion A4, “Craving, or a strong desire or urge
+to use the sedative, hypnotic, or anxiolytic,” may be met).
+In sustained remission: After full criteria for sedative, hypnotic, or anxiolytic
+use disorder were previously met, none of the criteria for sedative, hypnotic, or
+anxiolytic use disorder have been met at any time during a period of 12 months
+or longer (with the exception that Criterion A4, “Craving, or a strong desire or
+urge to use the sedative, hypnotic, or anxiolytic,” may be met).
+Specify if:
+In a controlled environment: This additional specifier is used if the individual is
+in an environment where access to sedatives, hypnotics, or anxiolytics is
+restricted.
+Code based on current severity/remission: If a sedative, hypnotic, or anxiolytic
+intoxication; sedative, hypnotic, or anxiolytic withdrawal; or another sedative-,
+hypnotic-, or anxiolytic-induced mental disorder is also present, do not use the codes
+below for sedative, hypnotic, or anxiolytic use disorder. Instead, the comorbid
+sedative, hypnotic, or anxiolytic use disorder is indicated in the 4th character of the
+sedative-, hypnotic-, or anxiolytic-induced disorder (see the coding note for sedative,
+hypnotic, or anxiolytic intoxication; sedative, hypnotic, or anxiolytic withdrawal; or
+specific sedative-, hypnotic-, or anxiolytic-induced mental disorder). For example, if
+there is comorbid sedative-, hypnotic-, or anxiolytic-induced depressive disorder and
+sedative, hypnotic, or anxiolytic use disorder, only the sedative-, hypnotic-, or
+anxiolytic-induced depressive disorder code is given, with the 4th character
+indicating whether the comorbid sedative, hypnotic, or anxiolytic use disorder is mild,
+moderate, or severe: F13.14 for mild sedative, hypnotic, or anxiolytic use disorder
+with sedative-, hypnotic-, or anxiolytic-induced depressive disorder or F13.24 for a
+moderate or severe sedative, hypnotic, or anxiolytic use disorder with sedative-,
+hypnotic-, or anxiolytic-induced depressive disorder.
+Specify current severity/remission:
+F13.10 Mild: Presence of 2–3 symptoms.
+F13.11 Mild, In early remission
+F13.11 Mild, In sustained remission
+F13.20 Moderate: Presence of 4–5 symptoms.
+F13.21 Moderate, In early remission

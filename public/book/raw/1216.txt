@@ -1,0 +1,80 @@
+Z56.9
+Other problem related to employment
+Z60.9
+Other problem related to social environment
+Z55.9
+Other problems related to education and literacy
+F41.8
+Other specified anxiety disorder
+F90.8
+Other specified attention-deficit/hyperactivity disorder
+F31.89
+Other specified bipolar and related disorder
+R41.0
+Other specified delirium
+F32.89
+Other specified depressive disorder
+F91.8
+Other specified disruptive, impulse-control, and conduct disorder
+F44.89
+Other specified dissociative disorder
+Other specified elimination disorder
+R15.9
+With fecal symptoms
+N39.498
+With urinary symptoms
+F50.89
+Other specified feeding or eating disorder
+F64.8
+Other specified gender dysphoria
+G47.19
+Other specified hypersomnolence disorder
+G47.09
+Other specified insomnia disorder
+F99
+Other specified mental disorder
+F06.8
+Other specified mental disorder due to another medical condition
+F88
+Other specified neurodevelopmental disorder
+F42.8
+Other specified obsessive-compulsive and related disorder
+F65.89
+Other specified paraphilic disorder
+F60.89
+Other specified personality disorder
+F28
+Other specified schizophrenia spectrum and other psychotic disorder
+F52.8
+Other specified sexual dysfunction
+G47.8
+Other specified sleep-wake disorder
+F45.8
+Other specified somatic symptom and related disorder
+F95.8
+Other specified tic disorder
+F43.8
+Other specified trauma- and stressor-related disorder
+947
+Other stimulant intoxication, With perceptual disturbances
+F15.122
+With mild use disorder
+F15.222
+With moderate or severe use disorder
+F15.922
+Without use disorder
+Other stimulant intoxication, Without perceptual disturbances
+F15.120
+With mild use disorder
+F15.220
+With moderate or severe use disorder
+F15.920
+Without use disorder
+See also Other or unspecified stimulant use disorder
+Other stimulant withdrawal
+F15.13
+With mild use disorder
+F15.23
+With moderate or severe use disorder
+F15.93
+Without use disorder

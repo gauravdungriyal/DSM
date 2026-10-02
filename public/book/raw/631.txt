@@ -1,0 +1,35 @@
+444
+G47.24 Non-24-hour sleep-wake type: A pattern of sleep-wake cycles that is
+not synchronized to the 24-hour environment, with a consistent daily drift (usually
+to later and later times) of sleep onset and wake times.
+G47.26 Shift work type: Insomnia during the major sleep period and/or
+excessive sleepiness (including inadvertent sleep) during the major awake
+period associated with a shift work schedule (i.e., requiring unconventional work
+hours).
+G47.20 Unspecified type
+Specify if:
+Episodic: Symptoms last at least 1 month but less than 3 months.
+Persistent: Symptoms last 3 months or longer.
+Recurrent: Two or more episodes occur within the space of 1 year.
+Delayed Sleep Phase Type
+Diagnostic Features
+The delayed sleep phase type is based primarily on a history of a delay in the timing of the major
+sleep period (usually more than 2 hours) in relation to the desired sleep and wake-up time,
+resulting in symptoms of insomnia and excessive sleepiness. When allowed to set their own
+schedule, individuals with delayed sleep phase type exhibit normal sleep quality and duration for
+age. Symptoms of sleep-onset insomnia, difficulty waking in the morning, and excessive
+sleepiness early in the day are prominent.
+Associated Features
+Common associated features of delayed sleep phase type include a history of mental disorders or
+a concurrent mental disorder. Extreme and prolonged difficulty awakening with morning
+confusion is also common. Insomnia disorder may develop as a result of maladaptive behaviors
+that impair sleep and increase arousal because of repeated attempts to fall asleep at an earlier
+time.
+Prevalence
+The prevalence of delayed sleep phase type is highest in adolescents and young adults, with rates
+estimated between 3.3% and 4.6% in Norway and Sweden. Studies of adult prevalence yield
+significantly lower rates, estimated to be 0.2%–1.7% in Norway and New Zealand. Although the
+prevalence of familial delayed sleep phase type has not been established, a family history of
+delayed sleep phase is often present in individuals with delayed sleep phase type.
+Development and Course
+Course is persistent, with intermittent exacerbations throughout adulthood in some individuals.

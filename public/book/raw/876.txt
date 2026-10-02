@@ -1,0 +1,34 @@
+Comorbidity
+Given the typical overlap of stimulant withdrawal with stimulant use disorder, see
+“Comorbidity” under Stimulant Use Disorder for more details about co-occurring conditions that
+are likely to be encountered.
+Stimulant-Induced Mental Disorders
+The following stimulant-induced mental disorders (which include amphetamine-type substance–,
+cocaine-, and other stimulant–induced mental disorders) are described in other chapters of the
+manual with disorders with which they share phenomenology (see the substance/medication-
+induced mental disorders in these chapters): stimulant-induced psychotic disorder
+(“Schizophrenia Spectrum and Other Psychotic Disorders”); stimulant-induced bipolar and
+related disorder (“Bipolar and Related Disorders”); stimulant-induced depressive disorder
+(“Depressive Disorders”); stimulant-induced anxiety disorder (“Anxiety Disorders”); stimulant-
+induced obsessive-compulsive disorder (“Obsessive-Compulsive and Related Disorders”);
+stimulant-induced sleep disorder (“Sleep-Wake Disorders”); stimulant-induced sexual
+dysfunction (“Sexual Dysfunctions”); and stimulant-induced mild neurocognitive disorder
+(“Neurocognitive Disorders”). For stimulant intoxication delirium and delirium induced by
+stimulants taken as prescribed, see the criteria and discussion of delirium in the chapter
+“Neurocognitive Disorders.” These stimulant-induced mental disorders are diagnosed instead of
+stimulant intoxication or stimulant withdrawal only when the symptoms are sufficiently severe to
+warrant independent clinical attention.
+Unspecified Stimulant-Related Disorder
+This category applies to presentations in which symptoms characteristic of a
+stimulant-related disorder that cause clinically significant distress or impairment in
+social, occupational, or other important areas of functioning predominate but do not
+meet the full criteria for any specific stimulant-related disorder or any of the disorders
+in the substance-related and addictive disorders diagnostic class.
+Coding note: The ICD-10-CM code depends on whether the stimulant is an
+amphetamine-type substance, cocaine, or other stimulant. The ICD-10-CM code for
+an unspecified amphetamine-type substance or other stimulant–related disorder is
+F15.99. The ICD-10-CM code for an unspecified cocaine-related disorder is F14.99.
+645
+Tobacco-Related Disorders
+Tobacco Use Disorder
+Tobacco Withdrawal

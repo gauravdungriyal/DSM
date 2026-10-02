@@ -1,0 +1,47 @@
+F81.2 With impairment in mathematics:
+Number sense
+Memorization of arithmetic facts
+Accurate or fluent calculation
+Accurate math reasoning
+Note: Dyscalculia is an alternative term used to refer to a pattern of difficulties
+characterized by problems processing numerical information, learning
+arithmetic facts, and performing accurate or fluent calculations. If dyscalculia is
+used to specify this particular pattern of mathematic difficulties, it is important
+also to specify any additional difficulties that are present, such as difficulties
+with math reasoning or word reasoning accuracy.
+Specify current severity:
+Mild: Some difficulties learning skills in one or two academic domains, but of
+mild enough severity that the individual may be able to compensate or function
+well when provided with appropriate accommodations or support services,
+especially during the school years.
+Moderate: Marked difficulties learning skills in one or more academic domains,
+so that the individual is unlikely to become proficient without some intervals of
+intensive 
+and 
+specialized 
+teaching 
+during 
+the 
+school 
+years. 
+Some
+accommodations or supportive services at least part of the day at school, in the
+workplace, or at home may be needed to complete activities accurately and
+efficiently.
+Severe: Severe difficulties learning skills, affecting several academic domains,
+so that the individual is unlikely to learn those skills without ongoing intensive
+individualized and specialized teaching for most of the school years. Even with
+an array of appropriate accommodations or services at home, at school, or in the
+workplace, the individual may not be able to complete all activities efficiently.
+Recording Procedures
+Each impaired academic domain and subskill of specific learning disorder should be recorded.
+Because of ICD coding requirements, impairments in reading, impairments in written expression,
+and impairments in mathematics, with their corresponding impairments in subskills, must be
+coded and recorded separately. For example, impairments in reading and mathematics and
+impairments in the subskills of reading rate or fluency, reading comprehension, accurate or
+fluent calculation, and accurate math reasoning would be coded and recorded as F81.0 specific
+learning disorder with impairment in reading, with impairment in reading rate or fluency, and
+impairment in reading comprehension; F81.2 specific learning disorder with impairment in
+mathematics, with impairment in accurate or fluent calculation and impairment in accurate math
+reasoning.
+Diagnostic Features

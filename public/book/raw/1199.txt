@@ -1,0 +1,61 @@
+Alphabetical Listing of DSM-5-TR
+Diagnoses and ICD-10-CM Codes
+For periodic DSM-5-TR coding and other updates, see www.dsm5.org.
+ICD-10-CM
+Disorder, condition, or problem
+Z60.3
+Acculturation difficulty
+F43.0
+Acute stress disorder
+Adjustment disorders
+F43.22
+With anxiety
+F43.21
+With depressed mood
+F43.24
+With disturbance of conduct
+F43.23
+With mixed anxiety and depressed mood
+F43.25
+With mixed disturbance of emotions and conduct
+F43.20
+Unspecified
+Z72.811
+Adult antisocial behavior
+F98.5
+Adult-onset fluency disorder
+Adult physical abuse by nonspouse or nonpartner, Confirmed
+T74.11XA
+Initial encounter
+T74.11XD
+Subsequent encounter
+Adult physical abuse by nonspouse or nonpartner, Suspected
+T76.11XA
+Initial encounter
+T76.11XD
+Subsequent encounter
+Adult psychological abuse by nonspouse or nonpartner, Confirmed
+T74.31XA
+Initial encounter
+T74.31XD
+Subsequent encounter
+Adult psychological abuse by nonspouse or nonpartner, Suspected
+T76.31XA
+Initial encounter
+T76.31XD
+Subsequent encounter
+Adult sexual abuse by nonspouse or nonpartner, Confirmed
+T74.21XA
+Initial encounter
+T74.21XD
+Subsequent encounter
+Adult sexual abuse by nonspouse or nonpartner, Suspected
+T76.21XA
+Initial encounter
+T76.21XD
+Subsequent encounter
+R41.81
+Age-related cognitive decline
+F40.00
+Agoraphobia
+930

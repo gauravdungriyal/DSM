@@ -1,0 +1,60 @@
+F18.259
+With moderate or severe use disorder
+F18.959
+Without use disorder
+___.__
+Inhalant-Induced Depressive Disordera (201)
+F18.14
+With mild use disorder
+F18.24
+With moderate or severe use disorder
+F18.94
+Without use disorder
+xlvi
+___.__
+Inhalant-Induced Anxiety Disordera (255)
+F18.180
+With mild use disorder
+F18.280
+With moderate or severe use disorder
+F18.980
+Without use disorder
+___.__
+Inhalant Intoxication Delirium (672)
+Specify if: Acute, Persistent
+Specify if: Hyperactive, Hypoactive, Mixed level of activity
+F18.121
+With mild use disorder
+F18.221
+With moderate or severe use disorder
+F18.921
+Without use disorder
+___.__
+Inhalant-Induced Major Neurocognitive Disorder (712)
+Specify if: Persistent
+F18.17
+With mild use disorder
+F18.27
+With moderate or severe use disorder
+F18.97
+Without use disorder
+___.__
+Inhalant-Induced Mild Neurocognitive Disorder (712)
+Specify if: Persistent
+F18.188
+With mild use disorder
+F18.288
+With moderate or severe use disorder
+F18.988
+Without use disorder
+F18.99
+Unspecified Inhalant-Related Disorder (608)
+Opioid-Related Disorders (608)
+___.__
+Opioid Use Disorder (608)
+Specify if: On maintenance therapy, In a controlled environment
+Specify current severity/remission:
+F11.10
+Mild
+F11.11
+In early remission

@@ -1,0 +1,46 @@
+641
+Specify the particular intoxicant (i.e., amphetamine-type substance, cocaine, or
+other stimulant).
+Specify if:
+With perceptual disturbances: This specifier may be noted when
+hallucinations with intact reality testing or auditory, visual, or tactile illusions
+occur in the absence of a delirium.
+Coding note: The ICD-10-CM code depends on whether the stimulant is an
+amphetamine-type substance, cocaine, or other stimulant; whether there is a
+comorbid amphetamine-type substance, cocaine, or other stimulant use disorder;
+and whether or not there are perceptual disturbances.
+For amphetamine-type substance, cocaine, or other stimulant intoxication,
+without perceptual disturbances: If a mild amphetamine-type substance or
+other stimulant use disorder is comorbid, the ICD-10-CM code is F15.120, and if
+a moderate or severe amphetamine-type substance or other stimulant use
+disorder is comorbid, the ICD-10-CM code is F15.220. If there is no comorbid
+amphetamine-type substance or other stimulant use disorder, then the ICD-10-
+CM code is F15.920. Similarly, if a mild cocaine use disorder is comorbid, the
+ICD-10-CM code is F14.120, and if a moderate or severe cocaine use disorder is
+comorbid, the ICD-10-CM code is F14.220. If there is no comorbid cocaine use
+disorder, then the ICD-10-CM code is F14.920.
+For amphetamine-type substance, cocaine, or other stimulant intoxication,
+with perceptual disturbances: If a mild amphetamine-type substance or other
+stimulant use disorder is comorbid, the ICD-10-CM code is F15.122, and if a
+moderate or severe amphetamine-type substance or other stimulant use
+disorder is comorbid, the ICD-10-CM code is F15.222. If there is no comorbid
+amphetamine-type substance or other stimulant use disorder, then the ICD-10-
+CM code is F15.922. Similarly, if a mild cocaine use disorder is comorbid, the
+ICD-10-CM code is F14.122, and if a moderate or severe cocaine use disorder is
+comorbid, the ICD-10-CM code is F14.222. If there is no comorbid cocaine use
+disorder, then the ICD-10-CM code is F14.922.
+Diagnostic Features
+The essential feature of stimulant intoxication, related to amphetamine-type substances and
+cocaine, is the presence of clinically significant behavioral or psychological changes that develop
+during, or shortly after, use of stimulants (Criteria A and B). Auditory hallucinations may be
+prominent, as may paranoid ideation, and these symptoms must be distinguished from an
+independent psychotic disorder such as schizophrenia. Stimulant intoxication usually begins with
+a “high” feeling and includes one or more of the following: euphoria with enhanced vigor,
+gregariousness, 
+hyperactivity, 
+restlessness, 
+hypervigilance, 
+interpersonal 
+sensitivity,
+talkativeness, anxiety, tension, alertness, grandiosity, stereotyped and repetitive behavior, anger,
+impaired judgment, and, in the case of chronic intoxication, affective blunting with fatigue or

@@ -1,0 +1,40 @@
+WHODAS 2.0 summary scores.
+WHODAS 2.0 domain scores.
+or restlessness)
+Note. SD = standard deviation; SES = socioeconomic status.
+854
+World Health Organization Disability Assessment Schedule 2.0
+The adult self-administered version of the World Health Organization Disability Assessment
+Schedule 2.0 (WHODAS 2.0) is a 36-item measure that assesses disability in adults age 18 years
+and older. It has been validated across numerous cultures worldwide and demonstrated
+sensitivity to change. It assesses disability across six domains, including understanding and
+communicating, getting around, self-care, getting along with people, life activities (i.e.,
+household, work, and/or school activities), and participation in society. If the adult individual is
+of impaired capacity and unable to complete the form (e.g., a patient with major neurocognitive
+disorder), a knowledgeable informant may complete the proxy-administered version of the
+measure, which is available at www.psychiatry.org/dsm5. Each item on the self-administered
+version of the WHODAS 2.0 asks the individual to rate how much difficulty he or she has had in
+specific areas of functioning during the past 30 days.
+WHODAS 2.0 Scoring Instructions Provided by WHO
+There are two basic options for computing the summary scores for
+the WHODAS 2.0 36-item full version.
+Simple: The scores assigned to each of the items—“none” (1), “mild” (2), “moderate” (3),
+“severe” (4), and “extreme” (5)—are summed for a maximum total raw score of 180. This
+method is referred to as simple scoring because the scores from each of the items are simply
+added up without recoding or collapsing of response categories; thus, there is no weighting of
+individual items. This approach is practical to use as a hand-scoring approach, and may be the
+method of choice in busy clinical settings or in paper-and-pencil interview situations. As a result,
+the simple sum of the scores of the items across all domains constitutes a statistic that is
+sufficient to describe the degree of functional limitations.
+Complex: The more complex method of scoring is called “item-response-theory” (IRT)–
+based scoring. It takes into account multiple levels of difficulty for each WHODAS 2.0 item. It
+takes the coding for each item response as “none,” “mild,” “moderate,” “severe,” and “extreme”
+separately, and then requires a computer to determine the summary score by differentially
+weighting the items and the levels of severity. The computer program is available from the WHO
+Web site. The scoring has three steps:
+Step 1—Summing of recoded item scores within each domain (i.e., for each item, the response options 1–5 are converted to
+a rate of 0–4, leading to a total raw score of 144).
+Step 2—Summing of all six domain scores.
+Step 3—Converting the summary score into a metric ranging from 0 to 100 (where 0 = no disability; 100 = full disability).
+WHODAS 2.0 produces domain-specific scores for six different
+functioning domains: cognition, mobility, self-care, getting along, life activities (household and

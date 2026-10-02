@@ -1,0 +1,39 @@
+areas of functioning.
+Coding and Recording Procedures
+Bipolar II disorder has one diagnostic code: F31.81. Its status with respect to current
+severity, presence of psychotic features, course, and other specifiers cannot be
+coded but should be indicated in writing (e.g., F31.81 bipolar II disorder, current
+episode depressed, moderate severity, with mixed features; F31.81 bipolar II
+disorder, most recent episode depressed, in partial remission).
+Specify current or most recent episode:
+Hypomanic
+Depressed
+If current episode is hypomanic (or most recent episode if bipolar II disorder is in
+partial or full remission):
+153
+In recording the diagnosis, terms should be listed in the following order: bipolar II
+disorder, current or most recent episode hypomanic, in partial remission/in full
+remission (p. 175) (if full criteria for a hypomanic episode are not currently met),
+plus any of the following hypomanic episode specifiers that are applicable. Note:
+The specifiers “with rapid cycling” and “with seasonal pattern” describe the
+pattern of mood episodes.
+Specify if:
+With anxious distress (p. 169–170)
+With mixed features (pp. 170–171)
+With rapid cycling (p. 171)
+With peripartum onset (pp. 173–174)
+With seasonal pattern (pp. 174–175)
+If current episode is depressed (or most recent episode if bipolar II disorder is in
+partial or full remission):
+In recording the diagnosis, terms should be listed in the following order: bipolar II
+disorder, current or most recent episode depressed, mild/moderate/severe (if full
+criteria for a major depressive episode are currently met), in partial remission/in
+full remission (if full criteria for a major depressive episode are not currently met)
+(p. 175), plus any of the following major depressive episode specifiers that are
+applicable. Note: The specifiers “with rapid cycling” and “with seasonal pattern”
+describe the pattern of mood episodes.
+Specify if:
+With anxious distress (pp. 169–170)
+With mixed features (pp. 170–171)
+With rapid cycling (p. 171)
+With melancholic features (pp. 171–172)

@@ -1,0 +1,87 @@
+F60.2
+Antisocial personality disorder
+F60.3
+Borderline personality disorder
+F60.4
+Histrionic personality disorder
+F60.5
+Obsessive-compulsive personality disorder
+F60.6
+Avoidant personality disorder
+F60.7
+Dependent personality disorder
+F60.81
+Narcissistic personality disorder
+F60.89
+Other specified personality disorder
+F60.9
+Unspecified personality disorder
+F63.0
+Gambling disorder
+F63.1
+Pyromania
+F63.2
+Kleptomania
+F63.3
+Trichotillomania (hair-pulling disorder)
+F63.81
+Intermittent explosive disorder
+F64.0
+Gender dysphoria in adolescents and adults
+F64.2
+Gender dysphoria in children
+F64.8
+Other specified gender dysphoria
+F64.9
+Unspecified gender dysphoria
+F65.0
+Fetishistic disorder
+F65.1
+Transvestic disorder
+F65.2
+Exhibitionistic disorder
+F65.3
+Voyeuristic disorder
+F65.4
+Pedophilic disorder
+F65.51
+Sexual masochism disorder
+F65.52
+Sexual sadism disorder
+F65.81
+Frotteuristic disorder
+F65.89
+Other specified paraphilic disorder
+F65.9
+Unspecified paraphilic disorder
+F68.10
+Factitious disorder imposed on self
+976
+F68.A
+Factitious disorder imposed on another
+F70
+Intellectual developmental disorder (intellectual disability), Mild
+F71
+Intellectual developmental disorder (intellectual disability), Moderate
+F72
+Intellectual developmental disorder (intellectual disability), Severe
+F73
+Intellectual developmental disorder (intellectual disability), Profound
+F79
+Unspecified intellectual developmental disorder (intellectual disability)
+F80.0
+Speech sound disorder
+F80.2
+Language disorder
+F80.81
+Childhood-onset fluency disorder (stuttering)
+F80.82
+Social (pragmatic) communication disorder
+F80.9
+Unspecified communication disorder
+F81.0
+Specific learning disorder, With impairment in reading
+F81.2
+Specific learning disorder, With impairment in mathematics
+F81.81
+Specific learning disorder, With impairment in written expression

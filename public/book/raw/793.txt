@@ -1,0 +1,37 @@
+the codes below for cannabis use disorder. Instead, the comorbid cannabis use
+disorder is indicated in the 4th character of the cannabis-induced disorder code (see
+the coding note for cannabis intoxication, cannabis withdrawal, or a specific
+cannabis-induced mental disorder). For example, if there is comorbid cannabis-
+induced anxiety disorder and cannabis use disorder, only the cannabis-induced
+anxiety disorder code is given, with the 4th character indicating whether the
+comorbid cannabis use disorder is mild, moderate, or severe: F12.180 for mild
+cannabis use disorder with cannabis-induced anxiety disorder or F12.280 for a
+moderate or severe cannabis use disorder with cannabis-induced anxiety disorder.
+Specify current severity/remission:
+F12.10 Mild: Presence of 2–3 symptoms.
+F12.11 Mild, In early remission
+F12.11 Mild, In sustained remission
+F12.20 Moderate: Presence of 4–5 symptoms.
+F12.21 Moderate, In early remission
+F12.21 Moderate, In sustained remission
+F12.20 Severe: Presence of 6 or more symptoms.
+F12.21 Severe, In early remission
+F12.21 Severe, In sustained remission
+Specifiers
+“In a controlled environment” applies as a further specifier of remission if the individual is both
+in remission and in a controlled environment (i.e., in early remission in a controlled environment
+or in sustained remission in a controlled environment). Examples of these environments are
+closely supervised and substance-free jails, therapeutic communities, and locked hospital units.
+Changing severity across time in an individual may also be reflected by changes in the
+frequency (e.g., days of use per month or times used per day) and/or dose (e.g., amount used per
+episode) of cannabis, as assessed by individual self-report, report of knowledgeable others,
+clinician’s observations, and biological testing.
+Diagnostic Features
+Cannabis use disorder includes problems associated with use of substances derived from the
+cannabis plant and chemically similar synthetic compounds. In these substances, the primary
+component with psychoactive effects (and hence, addiction potential) is the cannabinoid delta-9-
+tetrahydrocannabinol (delta-9-THC or THC). Cannabinoids have diverse effects in the brain,
+prominent among which are actions on CB1 and CB2 cannabinoid receptors found throughout the
+central nervous system.
+577
+Cannabis is used in many forms. It is most commonly smoked in a cigarette-like form (often

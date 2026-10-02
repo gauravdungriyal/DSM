@@ -1,0 +1,86 @@
+disorder
+F10.980
+Alcohol-induced anxiety disorder, Without use disorder
+F10.981
+Alcohol-induced sexual dysfunction, Without use disorder
+F10.982
+Alcohol-induced sleep disorder, Without use disorder
+F10.988
+Alcohol-induced mild neurocognitive disorder, Without use disorder
+F10.99
+Unspecified alcohol-related disorder
+F11.10
+Opioid use disorder, Mild
+F11.11
+Opioid use disorder, Mild, In early remission
+F11.11
+Opioid use disorder, Mild, In sustained remission
+F11.120
+Opioid intoxication, Without perceptual disturbances, With mild use disorder
+F11.121
+Opioid intoxication delirium, With mild use disorder
+961
+F11.122
+Opioid intoxication, With perceptual disturbances, With mild use disorder
+F11.13
+Opioid withdrawal, With mild use disorder
+F11.14
+Opioid-induced depressive disorder, With mild use disorder
+F11.181
+Opioid-induced sexual dysfunction, With mild use disorder
+F11.182
+Opioid-induced sleep disorder, With mild use disorder
+F11.188
+Opioid-induced anxiety disorder, With mild use disorder
+F11.188
+Opioid withdrawal delirium, With mild use disorder
+F11.20
+Opioid use disorder, Moderate
+F11.20
+Opioid use disorder, Severe
+F11.21
+Opioid use disorder, Moderate, In early remission
+F11.21
+Opioid use disorder, Moderate, In sustained remission
+F11.21
+Opioid use disorder, Severe, In early remission
+F11.21
+Opioid use disorder, Severe, In sustained remission
+F11.220
+Opioid intoxication, Without perceptual disturbances, With moderate or severe use disorder
+F11.221
+Opioid intoxication delirium, With moderate or severe use disorder
+F11.222
+Opioid intoxication, With perceptual disturbances, With moderate or severe use disorder
+F11.23
+Opioid withdrawal, With moderate or severe use disorder
+F11.24
+Opioid-induced depressive disorder, With moderate or severe use disorder
+F11.281
+Opioid-induced sexual dysfunction, With moderate or severe use disorder
+F11.282
+Opioid-induced sleep disorder, With moderate or severe use disorder
+F11.288
+Opioid-induced anxiety disorder, With moderate or severe use disorder
+F11.288
+Opioid withdrawal delirium, With moderate or severe use disorder
+F11.920
+Opioid intoxication, Without perceptual disturbances, Without use disorder
+F11.921
+Opioid-induced delirium (opioid medication taken as prescribed)
+F11.921
+Opioid intoxication delirium, Without use disorder
+F11.922
+Opioid intoxication, With perceptual disturbances, Without use disorder
+F11.93
+Opioid withdrawal, Without use disorder
+F11.94
+Opioid-induced depressive disorder, Without use disorder
+F11.981
+Opioid-induced sexual dysfunction, Without use disorder
+F11.982
+Opioid-induced sleep disorder, Without use disorder
+F11.988
+Opioid-induced anxiety disorder, Without use disorder
+F11.988
+Opioid-induced delirium (during withdrawal from opioid medication taken as prescribed)

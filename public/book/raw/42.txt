@@ -1,0 +1,57 @@
+F84.0
+Autism Spectrum Disorder (56)
+Specify current severity: Requiring very substantial support, Requiring substantial support, Requiring
+support
+Specify if: With or without accompanying intellectual impairment, With or without accompanying
+language impairment
+Specify if: Associated with a known genetic or other medical condition or environmental factor
+(Coding note: Use additional code to identify the associated genetic or other medical condition);
+Associated with a neurodevelopmental, mental, or behavioral problem
+Specify if: With catatonia (use additional code F06.1)
+Attention-Deficit/Hyperactivity Disorder (68)
+___.__
+Attention-Deficit/Hyperactivity Disorder (68)
+Specify if: In partial remission
+Specify current severity: Mild, Moderate, Severe
+Specify whether:
+F90.2
+Combined presentation
+F90.0
+Predominantly inattentive presentation
+F90.1
+Predominantly hyperactive/impulsive presentation
+F90.8
+Other Specified Attention-Deficit/Hyperactivity Disorder (76)
+F90.9
+Unspecified Attention-Deficit/Hyperactivity Disorder (76)
+Specific Learning Disorder (76)
+___.__
+Specific Learning Disorder (76)
+Specify current severity: Mild, Moderate, Severe
+Specify if:
+F81.0
+With impairment in reading (specify if with word reading accuracy,
+reading rate or fluency, reading comprehension)
+F81.81
+With impairment in written expression (specify if with spelling accuracy,
+grammar and punctuation accuracy, clarity or organization of written
+expression)
+F81.2
+With impairment in mathematics (specify if with number sense,
+memorization of arithmetic facts, accurate or fluent calculation,
+accurate math reasoning)
+Motor Disorders (85)
+F82
+Developmental Coordination Disorder (85)
+F98.4
+Stereotypic Movement Disorder (89)
+Specify if: With self-injurious behavior, Without self-injurious behavior
+Specify if: Associated with a known genetic or other medical condition, neurodevelopmental disorder,
+or environmental factor
+Specify current severity: Mild, Moderate, Severe
+Tic Disorders
+F95.2
+Tourette's Disorder (93)
+F95.1
+Persistent (Chronic) Motor or Vocal Tic Disorder (93)
+Specify if: With motor tics only, With vocal tics only

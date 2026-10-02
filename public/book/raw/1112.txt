@@ -1,0 +1,89 @@
+Scoring and interpretation.
+Domain Domain name
+further inquiry
+Measurea
+I.
+Somatic symptoms
+Mild or greater
+Level 2—Somatic Symptoms—Parent/Guardian
+of Child Age 6–17 (Patient Health
+Questionnaire–15 [PHQ-15] Somatic Symptom
+Severity Scale)
+II.
+Sleep problems
+Mild or greater
+Level 2—Sleep Disturbance—Parent/Guardian of
+Child Age 6–17 (PROMIS Sleep Disturbance—
+Short Form)
+III.
+Inattention
+Slight or greater
+Level 2—Inattention—Parent/Guardian of Child
+Age 6–17 (Swanson, Nolan, and Pelham,
+Version IV [SNAP-IV])
+IV.
+Depression
+Mild or greater
+Level 2—Depression—Parent/Guardian of Child
+Age 6–17 (PROMIS Emotional Distress—
+Depression—Parent Item Bank)
+V.
+Anger
+Mild or greater
+Level 2—Anger—Parent/Guardian of Child
+(PROMIS Calibrated Anger Measure—Parent)
+VI.
+Irritability
+Mild or greater
+Level 2—Irritability—Parent/Guardian of Child
+(Affective Reactivity Index [ARI])
+VII.
+Mania
+Mild or greater
+Level 2—Mania—Parent/Guardian of Child Age
+6–17 (Altman Self-Rating Mania Scale
+[ASRM])
+VIII.
+Anxiety
+Mild or greater
+Level 2—Anxiety—Parent/Guardian of Child Age
+6–17 (PROMIS Emotional Distress—Anxiety
+—Parent Item Bank)
+IX.
+Psychosis
+Slight or greater
+None
+X.
+Repetitive thoughts and
+behaviors
+Mild or greater
+None
+XI.
+Substance use
+Yes
+Level 2—Substance Use—Parent/Guardian of
+Child Age 6–17 (adapted from the NIDA-
+modified ASSIST)
+Don’t Know
+NIDA-modified ASSIST (adapted)—Child-Rated
+(age 11–17 years)
+XII.
+Suicidal ideation/suicide
+attempts
+Yes
+None
+Don’t Know
+None
+Note. NIDA = National Institute on Drug Abuse.
+aAvailable at www.psychiatry.org/dsm5.
+On the adult self-rated version of the measure, each item is rated on a
+5-point scale (0 = none or not at all; 1 = slight or rare, less than a day or two; 2 = mild or several
+days; 3 = moderate or more than half the days; and 4 = severe or nearly every day). The score on
+each item within a multi-item domain should be reviewed by the clinician, especially if a Level 2
+cross-cutting symptom assessment is not indicated, to understand which specific symptom within
+a domain is most problematic (e.g., auditory hallucinations or thought broadcasting for the
+psychosis domain) to help guide further inquiry. However, a rating of mild (i.e., 2) or greater on
+any item within a domain, except for substance use, suicidal ideation, and psychosis, strongly
+suggests the need for
+846
+additional inquiry and follow-up to determine if a more detailed assessment is necessary, which

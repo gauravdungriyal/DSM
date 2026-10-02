@@ -1,0 +1,37 @@
+Bipolar and Related Disorder Due to Another Medical
+Condition
+Diagnostic Criteria
+A. A prominent and persistent disturbance in mood that predominates in the clinical
+picture and is characterized by abnormally elevated, expansive, or irritable mood
+and abnormally increased activity or energy.
+B. There is evidence from the history, physical examination, or laboratory findings
+that the disturbance is the direct pathophysiological consequence of another
+medical condition.
+C. The disturbance is not better explained by another mental disorder.
+D. The disturbance does not occur exclusively during the course of a delirium.
+E. The disturbance causes clinically significant distress or impairment in social,
+occupational, or other important areas of functioning, or necessitates
+hospitalization to prevent harm to self or others, or there are psychotic features.
+Coding note: The ICD-10-CM code depends on the specifier (see below).
+Specify if:
+F06.33 With manic features: Full criteria are not met for a manic or hypomanic
+episode.
+F06.33 With manic- or hypomanic-like episode: Full criteria are met except
+Criterion D for a manic episode or except Criterion F for a hypomanic episode.
+F06.34 With mixed features: Symptoms of depression are also present but do
+not predominate in the clinical picture.
+Coding note: Include the name of the other medical condition in the name of the
+mental disorder (e.g., F06.33 bipolar disorder due to hyperthyroidism, with manic
+features). The other medical condition should also be coded and listed separately
+immediately before the bipolar and related disorder due to the medical condition
+(e.g., E05.90 hyperthyroidism; F06.33 bipolar disorder due to hyperthyroidism, with
+manic features).
+Diagnostic Features
+The essential features of bipolar and related disorder due to another medical condition are
+presence of a prominent and persistent period of abnormally elevated, expansive, or irritable
+mood and abnormally increased activity or energy predominating in the clinical picture
+(Criterion A) that is attributable to another medical condition (Criterion B). In most cases the
+manic or hypomanic picture may appear during the initial presentation of the medical condition
+(i.e., within 1 month); however, there are exceptions, especially in chronic medical conditions
+that might worsen or relapse and herald the appearance of the manic or hypomanic picture.
+Bipolar and related disorder due to another medical condition would not be diagnosed when the

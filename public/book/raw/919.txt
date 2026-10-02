@@ -1,0 +1,73 @@
+Specify (behavioral disturbance cannot be coded but should still be recorded):
+Without behavioral disturbance: If the cognitive disturbance is not
+accompanied by any clinically significant behavioral disturbance.
+With behavioral disturbance (specify disturbance): If the cognitive disturbance
+is accompanied by a clinically significant behavioral disturbance (e.g., psychotic
+symptoms, mood disturbance, agitation, apathy, or other behavioral symptoms).
+Coding note: Use additional code(s) to indicate clinically significant psychiatric
+symptoms due to the same medical condition causing the mild neurocognitive
+disorder (e.g., F06.2 psychotic disorder due to traumatic brain injury, with
+delusions; F06.32 depressive disorder due to HIV disease, with major
+depressive–like episode). Note: Mental disorders due to another medical
+condition are included with disorders with which they share phenomenology
+(e.g., for depressive disorders due to another medical condition, see the chapter
+“Depressive Disorders”).
+Coding and Recording Procedures
+The following are examples of coding and recording mild neurocognitive disorders
+due to an etiological subtype (for more information, see coding table on pp. 682–683
+and coding notes in the specific diagnostic criteria for each major and mild
+neurocognitive disorder subtype):
+G31.84 Mild neurocognitive disorder due to Alzheimer’s disease, without
+behavioral disturbance.
+G31.84 Mild neurocognitive disorder due to traumatic brain injury, with
+behavioral disturbance; F06.34 bipolar and related disorder due to traumatic
+brain injury, with mixed features.
+682
+Etiological subtype
+Associated
+etiological medical
+code for major
+neurocognitive
+disordera
+Major
+neurocognitive
+disorder code
+Mild neurocognitive disorder code
+Alzheimer’s disease
+G30.9
+F02.8xb
+G31.84c Do not use additional code for
+Alzheimer’s disease.
+Frontotemporal
+degeneration
+G31.09
+F02.8xb
+G31.84c Do not use additional code for
+frontotemporal degeneration.
+Lewy body disease
+G31.83
+F02.8xb
+G31.84c Do not use additional code for
+Lewy body disease.
+Vascular disease
+No additional
+medical code.
+F01.5xb Do not use
+additional code for the
+vascular disease.
+G31.84c Do not use additional code for the
+vascular disease.
+Traumatic brain injury
+S06.2X9S
+F02.8xb
+G31.84c Do not use additional code for the
+traumatic brain injury.
+Substance/medication-
+induced
+No additional
+medical code.
+Code based on the
+type of substance
+causing the major
+Code based on the type of substance
+causing the mild neurocognitive disorder.d

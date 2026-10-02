@@ -1,0 +1,93 @@
+DSM-IV) requires multiple cognitive deficits. Thus, cases that would qualify in ICD-10 and
+ICD-11 (and formerly DSM-IV) for a diagnosis of amnestic disorder (memory impairment in the
+absence of other cognitive deficits) are diagnosed as major NCD in DSM-5.
+668
+Neurocognitive Domains
+The criteria for the various NCDs are based on defined cognitive domains. Table 1 provides for
+each of the key domains a working definition, examples of symptoms or observations regarding
+impairments in everyday activities, and examples of assessments. The domains thus defined,
+along with guidelines for clinical thresholds, form the basis on which the NCDs, their levels, and
+their subtypes may be diagnosed.
+669
+TABLE 1 Neurocognitive domains
+Cognitive domain
+Examples of symptoms or observations
+Examples of assessments
+Complex attention
+(sustained attention,
+divided attention,
+selective attention,
+processing speed)
+Major: Has increased difficulty in environments
+with multiple stimuli (TV, radio, conversation);
+is easily distracted by competing events in the
+environment. Is unable to attend unless input is
+restricted and simplified. Has difficulty holding
+new information in mind, such as recalling
+phone numbers or addresses just given, or
+reporting what was just said. Is unable to
+perform mental calculations. All thinking takes
+longer than usual, and components to be
+processed must be simplified to one or a few.
+Mild: Normal tasks take longer than previously.
+Begins to find errors in routine tasks; finds
+work needs more double-checking than
+previously. Thinking is easier when not
+competing with other things (radio, TV, other
+conversations, cell phone, driving).
+Sustained attention: Maintenance of attention
+over time (e.g., pressing a button every time a
+tone is heard, and over a period of time).
+Selective attention: Maintenance of attention
+despite competing stimuli or distractors:
+hearing numbers and letters read and asked to
+count only letters.
+Divided attention: Attending to two tasks within
+the same time period: rapidly tapping while
+learning a story being read. Processing speed
+can be quantified on any task by timing it (e.g.,
+time to put together a design of blocks; time to
+match symbols with numbers; speed in
+responding, such as counting speed or serial 3
+speed).
+Executive function
+(planning, decision-
+making, working
+memory, responding
+to feedback/error
+correction, overriding
+habits/inhibition,
+mental flexibility)
+Major: Abandons complex projects. Needs to
+focus on one task at a time. Needs to rely on
+others to plan instrumental activities of daily
+living or make decisions.
+Mild: Increased effort required to complete
+multistage projects. Has increased difficulty
+multitasking or difficulty resuming a task
+interrupted by a visitor or phone call. May
+complain of increased fatigue from the extra
+effort required to organize, plan, and make
+decisions. May report that large social
+gatherings are more taxing or less enjoyable
+because of increased effort required to follow
+shifting conversations.
+Planning: Ability to find the exit to a maze;
+interpret a sequential picture or object
+arrangement.
+Decision-making: Performance of tasks that
+assess process of deciding in the face of
+competing alternatives (e.g., simulated
+gambling).
+Working memory: Ability to hold information for
+a brief period and to manipulate it (e.g., adding
+up a list of numbers or repeating a series of
+numbers or words backward).
+Feedback/error utilization: Ability to benefit
+from feedback to infer the rules for solving a
+problem.
+Overriding habits/inhibition: Ability to choose a
+more complex and effortful solution to be
+correct (e.g., looking away from the direction
+indicated by an arrow; naming the color of a
+word’s font rather than naming the word)

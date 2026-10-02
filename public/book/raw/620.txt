@@ -1,0 +1,36 @@
+Systemic hypertension, coronary artery disease, heart failure, stroke, diabetes, and increased
+mortality are consistently associated with obstructive sleep apnea hypopnea. Risk
+435
+estimates vary from 30% to as much as 300% for moderate to severe obstructive sleep apnea
+hypopnea. Obstructive sleep apnea and cardiovascular disease are strongly related, and treatment
+of obstructive sleep apnea reduces morbidity and mortality of cardiovascular disease. Ethnic and
+racialized groups that have not received adequate health care may be at higher risk for undetected
+cardiovascular risk factors associated with obstructive sleep apnea. Evidence of pulmonary
+hypertension and right heart failure (e.g., cor pulmonale, ankle edema, hepatic congestion) is rare
+in obstructive sleep apnea hypopnea and when present indicates either very severe disease or
+associated hypoventilation or cardiopulmonary comorbidities. Obstructive sleep apnea hypopnea
+also may occur with increased frequency in association with a number of medical or neurological
+conditions (e.g., cerebrovascular disease, Parkinson’s disease). Physical findings reflect the co-
+occurrence of these conditions.
+As many as one-third of individuals referred for evaluation of obstructive sleep apnea
+hypopnea report symptoms of depression, with as many of 10% having depression scores
+consistent with moderate to severe depression. Severity of obstructive sleep apnea hypopnea, as
+measured by the apnea hypopnea index, has been found to be correlated with severity of
+symptoms of depression. This association may be stronger in men than in women.
+Relationship to International Classification of Sleep Disorders
+The International Classification of Sleep Disorders, 3rd Edition (ICSD-3), differentiates 11
+subtypes of “sleep-related breathing disorders,” including central sleep apneas (CSAs) (e.g.,
+primary CSA, CSA due to a medical/neurological condition, CSA due to a substance or
+medication), obstructive sleep apnea (adult and pediatric), and sleep-related hypoventilation
+disorders.
+Central Sleep Apnea
+Diagnostic Criteria
+A. Evidence by polysomnography of five or more central apneas per hour of sleep.
+B. The disorder is not better explained by another current sleep disorder.
+Specify whether:
+G47.31 Idiopathic central sleep apnea: Characterized by repeated episodes of
+apneas and hypopneas during sleep caused by variability in respiratory effort but
+without evidence of airway obstruction.
+R06.3 Cheyne-Stokes breathing: A pattern of periodic crescendo-decrescendo
+variation in tidal volume that results in central apneas and hypopneas at a
+frequency of at least five events per hour, accompanied by frequent arousal.

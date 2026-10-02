@@ -1,0 +1,41 @@
+by mental health clinicians. These conditions may be listed as a reason for a clinical visit in
+addition to, or in place of, the mental disorders in Section II. The chapter “Medication-Induced
+Disorders and Other Adverse Effects of Medication” includes medication-induced
+parkinsonism, neuroleptic malignant syndrome, medication-induced acute dystonia, medication-
+induced acute akathisia, tardive dyskinesia, tardive dystonia/tardive akathisia, medication-
+induced postural tremor, antidepressant discontinuation syndrome, and other adverse effect of
+medication. These conditions are included in Section II because of their frequent importance in
+1) the management by medication of mental disorders or other medical conditions, and 2) the
+differential diagnosis with mental disorders (e.g., anxiety disorder vs. medication-induced acute
+akathisia).
+28
+The chapter “Other Conditions That May Be a Focus of Clinical Attention” includes
+conditions and psychosocial or environmental problems that are not considered to be mental
+disorders but otherwise affect the diagnosis, course, prognosis, or treatment of an individual’s
+mental disorder. These conditions are presented with their corresponding codes from ICD-10-
+CM (usually Z codes). A condition or problem in this chapter may be coded with or without an
+accompanying mental disorder diagnosis 1) if it is a reason for the current visit; 2) if it helps to
+explain the need for a test, procedure, or treatment; 3) if it plays a role in the initiation or
+exacerbation of a mental disorder; or 4) if it constitutes a problem that should be considered in
+the overall management plan. These include suicidal behavior and nonsuicidal self-injury; abuse
+and neglect; relational problems (e.g., Relationship Distress With Spouse or Intimate Partner);
+educational, occupational, housing, and economic problems; problems related to the social
+environment, interaction with the legal system, and other psychosocial, personal, and
+environmental circumstances (e.g., problems related to unwanted pregnancy, being a victim of
+crime or terrorism); problems related to access to medical and other health care; circumstances of
+personal history (e.g., Personal History of Psychological Trauma); other health service
+encounters for counseling and medical advice (e.g., sex counseling); and additional conditions or
+problems that may be a focus of clinical attention (e.g., wandering associated with a mental
+disorder, uncomplicated bereavement, phase of life problem).
+Online Enhancements
+DSM-5-TR is available in online subscriptions at PsychiatryOnline.org, as well as an e-book that
+reflects the print edition. The online version provides a complete set of supporting in-text
+citations and references not available in print or e-book; it is also updated periodically to reflect
+any changes resulting from the DSM-5 iterative revision process, described in the Introduction.
+DSM-5 will be retained online in an archived format at PsychiatryOnline.org, joining prior
+versions of DSM.
+Clinical rating scales and measures in the print edition and e-book (see “Assessment
+Measures” in Section III) are included online along with additional assessment measures used in
+the field trials (www.psychiatry.org/dsm5), linked to the relevant disorders. From the Section III
+chapter “Culture and Psychiatric Diagnosis,” the Cultural Formulation Interview, Cultural
+Formulation Interview—Informant Version (both included in print and e-book), and

@@ -1,0 +1,41 @@
+NCD with a gradual onset and slow progression is generally attributable to small vessel disease
+leading to lesions in the white matter, basal ganglia, or thalamus. The gradual progression in
+these cases is often punctuated by acute
+704
+events that leave subtle neurological deficits. The cognitive deficits in these cases can be
+attributed to disruption of cortical-subcortical circuits; complex attention, particularly speed of
+information processing, and executive function are likely to be affected. Clinical subtypes of
+vascular NCD have been described and include 1) poststroke NCD, manifesting immediately
+after a stroke; 2) subcortical ischemic vascular NCD; 3) multi-infarct (cortical) NCD; and 4)
+cortical-subcortical vascular NCD.
+Assessing for the presence of sufficient cerebrovascular disease relies on history, physical
+examination, and neuroimaging (Criterion C). Etiological certainty requires the demonstration of
+abnormalities on neuroimaging. The lack of neuroimaging can result in significant diagnostic
+inaccuracy by overlooking “silent” brain infarction and white matter lesions. However, if the
+neurocognitive impairment is temporally associated with one or more well-documented strokes,
+a probable diagnosis can be made in the absence of neuroimaging. Clinical evidence of
+cerebrovascular disease includes documented history of stroke, with cognitive decline temporally
+associated with the event, or physical signs consistent with stroke (e.g., hemiparesis;
+pseudobulbar syndrome, visual field defect). Neuroimaging (magnetic resonance imaging [MRI]
+or computed tomography [CT]) evidence of cerebrovascular disease comprises one or more of
+the following: one or more large vessel infarcts or hemorrhages, a strategically placed single
+infarct or hemorrhage (e.g., in angular gyrus, thalamus, basal forebrain), two or more lacunes
+outside the brain stem, or extensive and confluent white matter lesions. The latter is often termed
+small vessel disease or subcortical ischemic changes on clinical neuroimaging evaluations. MRI
+is the preferred mode of neuroimaging, and there has been interest in using specialized MRI
+techniques to detect cerebral microbleeds, cortical microinfarcts, dilated perivascular spaces, and
+diffusion-based analyses of white matter tracts and network connectivity.
+For mild vascular NCD, history of a single stroke or extensive white matter disease is
+generally sufficient. For major vascular NCD, two or more strokes, a strategically placed stroke,
+or a combination of white matter disease and one or more lacunes is generally necessary.
+However, the relationship between identifiable vascular pathology in the brain on neuroimaging
+and the cognitive symptoms is imperfect, and clinical judgment is generally needed to relate the
+vascular lesions to the cognitive syndrome.
+The neurocognitive symptoms must not be better explained by another medical condition or
+mental disorder. For example, prominent memory deficit early in the course might suggest NCD
+due to Alzheimer’s disease, early and prominent parkinsonian features would suggest NCD due
+to Parkinson’s disease, and a close association between onset of cognitive and depressive
+symptoms would suggest cognitive impairment as a result of depression.
+A number of expert international groups have similarly defined and categorized the vascular
+NCDs, with which DSM-5 criteria generally display good correspondence.
+Associated Features

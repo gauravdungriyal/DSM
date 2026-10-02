@@ -1,0 +1,33 @@
+together or binding a child to furniture or another object, or confining a child to a small enclosed
+area [e.g., a closet]); egregious scapegoating of the child; coercing the child to inflict pain on
+himself or herself; and disciplining the child excessively (i.e., at an extremely high frequency or
+duration, even if not at a level of physical abuse) through physical or nonphysical means.
+Child Psychological Abuse, Confirmed
+T74.32XA Initial encounter
+T74.32XD Subsequent encounter
+Child Psychological Abuse, Suspected
+T76.32XA Initial encounter
+T76.32XD Subsequent encounter
+Other Circumstances Related to Child Psychological Abuse
+Z69.010 Encounter for mental health services for victim of child psychological abuse by parent
+Z69.020 Encounter for mental health services for victim of nonparental child psychological
+abuse
+Z62.811 Personal history (past history) of psychological abuse in childhood
+Z69.011 Encounter for mental health services for perpetrator of parental child psychological
+abuse
+Z69.021 Encounter for mental health services for perpetrator of nonparental child
+psychological abuse
+Adult Maltreatment and Neglect Problems
+826
+Spouse or Partner Violence, Physical
+This category may be used when spouse or partner physical violence is a focus of clinical
+attention. Spouse or partner physical violence is nonaccidental acts of physical force that result,
+or have reasonable potential to result, in physical harm to an intimate partner or that evoke
+significant fear in the partner. Nonaccidental acts of physical force include shoving, slapping,
+hair pulling, pinching, restraining, shaking, throwing, biting, kicking, hitting with the fist or an
+object, burning, poisoning, applying force to the throat, cutting off the air supply, holding the
+head under water, and using a weapon. Acts for the purpose of physically protecting oneself or
+one’s partner are excluded.
+Spouse or Partner Violence, Physical, Confirmed
+T74.11XA Initial encounter
+T74.11XD Subsequent encounter

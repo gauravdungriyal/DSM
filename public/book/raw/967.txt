@@ -1,0 +1,40 @@
+Environmental.
+Genetic and physiological.
+Development and Course
+Prion disease may develop at any age in adults—the peak age for sporadic CJD is approximately
+67 years—although it has been reported to occur in individuals spanning the teenage years to late
+life. Non-Latinx Whites were found to have an older mean age at onset compared with other
+ethnic and racialized populations in the United States. Prodromal symptoms of prion disease may
+include fatigue, anxiety, problems with appetite or sleeping, or difficulties with concentration.
+After several weeks, these symptoms may be followed by incoordination, altered vision, or
+abnormal gait or other movements that may be myoclonic, choreoathetoid, or ballistic, along
+with a rapidly progressive dementia. The disease typically progresses very rapidly to the major
+level of impairment over several months. More rarely, it can progress over 2 years and appear
+similar in its course to other NCDs.
+Risk and Prognostic Factors
+Cross-species transmission of prion infections, with agents that are closely related
+to the human form, has been demonstrated (e.g., the outbreak of bovine spongiform
+encephalopathy inducing variant CJD in the United Kingdom during the mid-1990s).
+Transmission by corneal transplantation, cadaveric dura mater grafts, contaminated neurosurgical
+instruments, cadaver-derived human growth hormone and pituitary gonadotropin injections, and
+blood transfusion (only in the case of variant CJD) has been documented. Studies have not
+demonstrated an increased risk of sporadic CJD in health care professionals.
+In up to 15% of prion disease cases, there are autosomal dominant
+genetic mutations in the prion protein gene (PRNP), which encodes for a normal neuronal
+membrane–bound protein. The codon 129 polymorphism of PRNP mediates the risk
+723
+of sporadic and acquired prion diseases as well as modifies clinical manifestation, age at disease
+onset, and disease duration.
+Diagnostic Markers
+Prion disease can be definitively confirmed only by brain biopsy or at autopsy. There are several
+cerebrospinal fluid (CSF) proteins that are markers of neuronal injury and are frequently elevated
+in prion disease; the ones most commonly used for diagnostic purposes are 14-3-3 and tau, which
+have high sensitivity but variable specificity. Real-time quaking induced conversion (RT-QuIC)
+is another CSF diagnostic test that is able to amplify minute amounts of disease-causing prion
+proteins and has extremely high specificity. Magnetic resonance brain imaging is currently
+considered the most sensitive diagnostic test when DWI (diffusion-weighted imaging) is
+performed, with the most common finding being multifocal gray matter hyperintensities in
+subcortical and/or cortical regions. In some individuals, the electroencephalogram reveals
+periodic sharp, often triphasic and synchronous discharges at a rate of 0.5–2 Hz at some point
+during the course of the disorder. It is important to note that the above diagnostic markers vary
+across prion disease type (e.g., sporadic CJD, genetic CJD, variant CJD).

@@ -1,0 +1,40 @@
+specific reason that the presentation does not meet the criteria for any specific category within a
+diagnostic class. This is done by recording the name of the category, followed by the specific
+reason. For example, with an individual with persistent hallucinations occurring in the absence of
+any other psychotic symptoms (a presentation that does not meet criteria for any of the specific
+disorders in the chapter “Schizophrenia Spectrum and Other Psychotic Disorders”), the clinician
+would record “other specified schizophrenia spectrum and other psychotic disorder, with
+persistent auditory hallucinations.” If the clinician chooses not to specify the reason that the
+criteria are not met for a specific disorder, then “unspecified schizophrenia spectrum and other
+psychotic disorder” would be diagnosed. Note that the differentiation between other specified
+and unspecified disorders is based on the clinician’s choice to indicate or not the reasons why the
+presentation does not meet full criteria, providing maximum flexibility for diagnosis. When the
+clinician determines that there is enough available clinical information to specify the nature of
+the
+23
+presentation, the “other specified” diagnosis can be given. In those cases where the clinician
+is not able to further specify the clinical presentation (e.g., in emergency room settings), the
+“unspecified” diagnosis can be given. This is entirely a matter of clinical judgment.
+It is a long-standing DSM convention for conditions included in the “Conditions for Further
+Study” chapter in Section III to be listed as examples of presentations that can be specified using
+the “other specified” designation. The inclusion of these conditions for further study as examples
+does not represent endorsement by the American Psychiatric Association that these are valid
+diagnostic categories.
+Use of Clinical Judgment
+DSM-5 is a classification of mental disorders that was developed for use in clinical, educational,
+and research settings. The diagnostic categories, criteria, and textual descriptions are meant to be
+employed by individuals with appropriate clinical training and experience in diagnosis. It is
+important that DSM-5 not be applied mechanically by individuals without clinical training. The
+specific diagnostic criteria included in DSM-5 are meant to serve as guidelines to be informed by
+clinical judgment and are not meant to be used in a rigid cookbook fashion. For example, the
+exercise of clinical judgment may justify giving a certain diagnosis to an individual even though
+the clinical presentation falls just short of meeting the full criteria for the diagnosis as long as the
+symptoms that are present are persistent and severe. On the other hand, lack of familiarity with
+DSM-5 or excessively flexible and idiosyncratic application of DSM-5 criteria substantially
+reduces its utility as a common language for communication.
+Clinical Significance Criterion
+In the absence of clear biological markers or clinically useful measurements of severity for many
+mental disorders, it has not been possible to completely separate normal from pathological
+symptom expressions contained in diagnostic criteria. This gap in information is particularly
+problematic in clinical situations in which the individual’s symptom presentation by itself
+(particularly in mild forms) is not inherently pathological and may be encountered in those for

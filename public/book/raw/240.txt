@@ -1,0 +1,40 @@
+Specify current severity:
+Severity is rated by a quantitative assessment of the primary symptoms of
+psychosis, including delusions, hallucinations, abnormal psychomotor behavior,
+and negative symptoms. Each of these symptoms may be rated for its current
+severity (most severe in the last 7 days) on a 5-point scale ranging from 0 (not
+present) to 4 (present and severe). (See Clinician-Rated Dimensions of
+Psychosis Symptom Severity in the chapter “Assessment Measures.”)
+Note: Diagnosis of substance/medication-induced psychotic disorder can be
+made without using this severity specifier.
+Recording Procedures
+The name of the substance/medication-induced psychotic disorder begins with the specific
+substance (e.g., cocaine, dexamethasone) that is presumed to be causing the delusions or
+hallucinations. The diagnostic code is selected from the table included in the criteria set, which is
+based on the drug class and presence or absence of a comorbid substance use disorder. For
+substances that do not fit into any of the classes (e.g., dexamethasone), the code for “other (or
+unknown) substance” should be used; and in cases in which a substance is judged to be an
+etiological factor but the specific class of substance is unknown, the same code should also be
+used.
+128
+When recording the name of the disorder, the comorbid substance use disorder (if any) is
+listed first, followed by the word “with,” followed by the name of the substance-induced
+psychotic disorder, followed by the specification of onset (i.e., onset during intoxication, onset
+during withdrawal). For example, in the case of delusions occurring during intoxication in a man
+with a severe cocaine use disorder, the diagnosis is F14.259 severe cocaine use disorder with
+cocaine-induced psychotic disorder, with onset during intoxication. A separate diagnosis of the
+comorbid severe cocaine use disorder is not given. If the substance-induced psychotic disorder
+occurs without a comorbid substance use disorder (e.g., after a one-time heavy use of the
+substance), no accompanying substance use disorder is noted (e.g., F16.959 phencyclidine-
+induced psychotic disorder, with onset during intoxication). When more than one substance is
+judged to play a significant role in the development of psychotic symptoms, each should be listed
+separately (e.g., F12.259 severe cannabis use disorder with cannabis-induced psychotic disorder,
+with onset during intoxication; F16.159 mild phencyclidine use disorder with phencyclidine-
+induced psychotic disorder, with onset during intoxication).
+Diagnostic Features
+The essential features of substance/medication-induced psychotic disorder are prominent
+delusions and/or hallucinations (Criterion A) that are judged to be due to the physiological
+effects of a substance/medication (i.e., a drug of abuse, a medication, or a toxin exposure)
+(Criterion B). Hallucinations that the individual realizes are substance/medication-induced are
+not included here and instead would be diagnosed as substance intoxication or substance
+withdrawal with the accompanying specifier “with perceptual disturbances” (applies to alcohol

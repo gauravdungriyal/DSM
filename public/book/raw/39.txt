@@ -1,0 +1,41 @@
+Enhanced specificity for major and mild neurocognitive disorders. Given the explosion in neuroscience,
+neuropsychology, and brain imaging over the past 20 years, it was critical to convey the current state-of-the-art in the
+diagnosis of specific types of disorders that were previously referred to as the “dementias” or organic brain diseases.
+Biological markers identified by imaging for vascular and traumatic brain disorders and
+xxv
+specific molecular genetic findings for rare variants of Alzheimer’s disease and Huntington’s disease have greatly advanced
+clinical diagnoses, and these disorders and others have now been separated into specific subtypes.
+Transition in conceptualizing personality disorders. Although the benefits of a more dimensional approach to personality
+disorders have been identified in previous editions, the transition from a categorical diagnostic system of individual
+disorders to one based on the relative distribution of personality traits has not been widely accepted. In DSM-5, the
+categorical personality disorders are virtually unchanged from the previous edition. However, an alternative “hybrid” model
+has been proposed in Section III to guide future research that separates interpersonal functioning assessments and the
+expression of pathological personality traits for six specific disorders. A more dimensional profile of personality trait
+expression is also proposed for a trait-specified approach.
+Section III: new disorders and features. A new section (Section III) has been added to highlight disorders that require
+further study but are not sufficiently well established to be a part of the official classification of mental disorders for routine
+clinical use. Dimensional measures of symptom severity in 13 symptom domains have also been incorporated to allow for
+the measurement of symptom levels of varying severity across all diagnostic groups. Likewise, the WHO Disability
+Assessment Schedule (WHODAS), a standard method for assessing global disability levels for mental disorders that is based
+on the International Classification of Functioning, Disability and Health (ICF) and is applicable in all of medicine, has been
+provided to replace the more limited Global Assessment of Functioning scale. It is our hope that as these measures are
+implemented over time, they will provide greater accuracy and flexibility in the clinical description of individual
+symptomatic presentations and associated disability during diagnostic assessments.
+Online enhancements. DSM-5 features online supplemental information. Additional cross-cutting and diagnostic severity
+measures are available online (www.psychiatry.org/dsm5), linked to the relevant disorders. In addition, the Cultural
+Formulation Interview, Cultural Formulation Interview—Informant Version, and supplementary modules to the core
+Cultural Formulation Interview are also included online at www.psychiatry.org/dsm5.
+These innovations were designed by the leading authorities on mental disorders in the world
+and were implemented on the basis of their expert review, public commentary, and independent
+peer review. The 13 work groups, under the direction of the DSM-5 Task Force, in conjunction
+with other review bodies and, eventually, the APA Board of Trustees, collectively represent the
+global expertise of the specialty. This effort was supported by an extensive base of advisors and
+by the professional staff of the APA Division of Research; the names of everyone involved are
+too numerous to mention here but are listed in the Appendix. We owe tremendous thanks to
+those who devoted countless hours and invaluable expertise to this effort to improve the
+diagnosis of mental disorders.
+We would especially like to acknowledge the chairs, text coordinators, and members of the
+13 work groups, listed in the front of the manual, who spent many hours in this volunteer effort
+to improve the scientific basis of clinical practice over a sustained 6-year period. Susan K.
+Schultz, M.D., who served as text editor, worked tirelessly with Emily A. Kuhl, Ph.D., senior
+science writer and DSM-5 staff text editor, to coordinate the efforts of the work groups into a

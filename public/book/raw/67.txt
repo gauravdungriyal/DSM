@@ -1,0 +1,61 @@
+With moderate or severe use disorder
+F13.94
+Without use disorder
+___.__
+Sedative-, Hypnotic-, or Anxiolytic-Induced Depressive Disordera (201)
+F13.14
+With mild use disorder
+F13.24
+With moderate or severe use disorder
+F13.94
+Without use disorder
+___.__
+Sedative-, Hypnotic-, or Anxiolytic-Induced Anxiety Disordera (255)
+F13.180
+With mild use disorder
+F13.280
+With moderate or severe use disorder
+F13.980
+Without use disorder
+___.__
+Sedative-, Hypnotic-, or Anxiolytic-Induced Sleep Disordera (468)
+Specify whether Insomnia type, Daytime sleepiness type, Parasomnia
+type, Mixed type
+F13.182
+With mild use disorder
+F13.282
+With moderate or severe use disorder
+F13.982
+Without use disorder
+___.__
+Sedative-, Hypnotic-, or Anxiolytic-Induced Sexual Dysfunctiona (504)
+Specify if: Mild, Moderate, Severe
+F13.181
+With mild use disorder
+F13.281
+With moderate or severe use disorder
+F13.981
+Without use disorder
+___.__
+Sedative-, Hypnotic-, or Anxiolytic Intoxication Deliriumb,c (672)
+F13.121
+With mild use disorder
+F13.221
+With moderate or severe use disorder
+F13.921
+Without use disorder
+___.__
+Sedative-, Hypnotic-, or Anxiolytic Withdrawal Deliriumb,c (673)
+F13.131
+With mild use disorder
+F13.231
+With moderate or severe use disorder
+F13.931
+Without use disorder
+___.__
+Sedative-, Hypnotic-, or Anxiolytic-Induced Deliriumb,c (674)
+Note: The designation “taken as prescribed” is used to differentiate
+medication-induced delirium from substance intoxication delirium and
+substance withdrawal delirium.
+F13.921
+When sedative, hypnotic, or anxiolytic medication taken as prescribed

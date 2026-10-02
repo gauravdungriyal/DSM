@@ -1,0 +1,39 @@
+postpartum.
+Specify if:
+With catatonia (refer to the criteria for catatonia associated with another mental
+disorder, p. 135, for definition).
+Coding note: Use additional code F06.1 catatonia associated with brief
+psychotic disorder to indicate the presence of the comorbid catatonia.
+Specify current severity:
+Severity is rated by a quantitative assessment of the primary symptoms of
+psychosis, including delusions, hallucinations, disorganized speech, abnormal
+psychomotor behavior, and negative symptoms. Each of these symptoms may
+be rated for its current severity (most severe in the last 7 days) on a 5-point
+scale ranging from 0 (not present) to 4 (present and severe). (See Clinician-
+Rated Dimensions of Psychosis Symptom Severity in the chapter “Assessment
+Measures.”)
+Note: Diagnosis of brief psychotic disorder can be made without using this
+severity specifier.
+Diagnostic Features
+The essential feature of brief psychotic disorder is a disturbance that involves at least one of the
+following positive psychotic symptoms: delusions, hallucinations, disorganized speech (e.g.,
+frequent derailment or incoherence), or grossly abnormal psychomotor behavior, including
+catatonia (Criterion A). An episode of the disturbance lasts at least 1 day but less than 1 month,
+and the individual eventually has a full return to the premorbid level of functioning (Criterion B).
+The disturbance is not better explained by a depressive or bipolar disorder with psychotic
+features, by schizoaffective disorder, or by schizophrenia and is not attributable to the
+physiological effects of a substance (e.g., a hallucinogen) or another medical condition (e.g.,
+subdural hematoma) (Criterion C).
+In addition to the four symptom domain areas identified in the diagnostic criteria, the
+assessment of cognition, depression, and mania symptom domains is vital for making critically
+important distinctions between the various schizophrenia spectrum and other psychotic disorders.
+Associated Features
+Individuals with brief psychotic disorder typically experience emotional turmoil or
+overwhelming confusion. They may have rapid shifts from one intense affect to another.
+Although the disturbance is brief, the level of impairment may be severe, and supervision may be
+required to ensure that nutritional and hygienic needs are met and that the individual is protected
+from the consequences of poor judgment, cognitive impairment, or acting on the basis of
+delusions. There appears to be an increased risk of suicidal behavior, particularly during the
+acute episode.
+110
+Prevalence

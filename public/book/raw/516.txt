@@ -1,0 +1,38 @@
+Somatic Symptom and Related Disorders
+This chapter includes the diagnoses of somatic symptom disorder, illness anxiety disorder,
+functional neurological symptom disorder (conversion disorder), psychological factors affecting
+other medical conditions, factitious disorder, other specified somatic symptom and related
+disorder, and unspecified somatic symptom and related disorder. All of the disorders in this
+chapter share a common feature: the prominence of somatic symptoms and/or illness anxiety
+associated with significant distress and impairment. Individuals with disorders with prominent
+somatic symptoms or illness anxiety are commonly encountered in primary care and other
+medical settings but are less commonly encountered in psychiatric and other mental health
+settings. These reconceptualized diagnoses, based on a reorganization of DSM-IV somatoform
+disorder diagnoses, are more useful for primary care and other medical (nonpsychiatric)
+clinicians.
+The major diagnosis in this diagnostic class, somatic symptom disorder, emphasizes
+diagnosis made on the basis of the presence of symptoms and signs (distressing somatic
+symptoms plus abnormal thoughts, feelings, and behaviors in response to these symptoms) rather
+than the absence of a medical explanation for somatic symptoms. A distinctive characteristic of
+many individuals with somatic symptom disorder is not the somatic symptoms per se, but instead
+the way they present and interpret them. Incorporating affective, cognitive, and behavioral
+components into the criteria for somatic symptom disorder provides a more comprehensive and
+accurate reflection of the true clinical picture than can be achieved by assessing the somatic
+complaints alone.
+The principles behind the changes in the somatic symptom and related diagnoses from DSM-
+IV are crucial in understanding the DSM-5 diagnoses. The DSM-IV term somatoform disorders
+was confusing and was replaced by somatic symptom and related disorders. In DSM-IV there
+was a great deal of overlap across the somatoform disorders and a lack of clarity about the
+boundaries of diagnoses. Although individuals with these disorders primarily present in medical
+rather than mental health settings, nonpsychiatric physicians found the DSM-IV somatoform
+diagnoses difficult to understand and use. The current DSM-5 classification recognizes this
+overlap by reducing the total number of disorders as well as their subcategories.
+The previous criteria overemphasized the centrality of symptoms being unexplained by
+recognized pathophysiological processes. Such symptoms are present to various degrees,
+particularly in functional neurological symptom disorder, but somatic symptom disorders can
+also accompany recognized medical conditions (i.e., those disorders related to clearly recognized
+pathophysiological processes). The reliability of determining that a somatic symptom is
+unexplained by a recognized pathophysiological process related to a recognized medical
+condition is limited, and grounding a diagnosis on the absence of an explanation is problematic
+and reinforces mind-body dualism. It is not appropriate to give an individual a mental disorder
+diagnosis solely because a recognized medical condition cannot be demonstrated. Furthermore,

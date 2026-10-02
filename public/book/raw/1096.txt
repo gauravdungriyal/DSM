@@ -1,0 +1,45 @@
+condition.
+Educational Problems
+These categories may be used when an academic or educational problem is the focus of clinical
+attention or has an impact on the individual’s diagnosis, treatment, or prognosis. Problems to be
+considered include illiteracy or low-level literacy; lack of access to schooling owing to
+unavailability or unattainability; problems with academic performance (e.g., failing school
+examinations, receiving failing marks or grades) or underachievement (below what would be
+expected given the individual’s intellectual capacity); discord with teachers, school staff, or other
+students; problems related to inadequate teaching; and any other problems related to education
+and/or literacy.
+Z55.0
+Illiteracy and Low-Level Literacy
+Z55.1
+Schooling Unavailable and Unattainable
+Z55.2
+Failed School Examinations
+Z55.3
+Underachievement in School
+Z55.4
+Educational Maladjustment and Discord With Teachers and Classmates
+Z55.8
+Problems Related to Inadequate Teaching
+Z55.9
+Other Problems Related to Education and Literacy
+Occupational Problems
+These categories may be used when an occupational problem is the focus of clinical attention or
+has an impact on the individual’s treatment or prognosis. Areas to be considered include
+problems with employment or in the work environment, including problems related to current
+military deployment status; unemployment; recent change of job; threat of job loss; stressful
+work schedule; uncertainty about career choices; sexual harassment on the job; other discord
+with boss, supervisor, co-workers, or others in the work environment; uncongenial or hostile
+work environments; other physical or mental strain related to work; sexual harassment on the
+job; and any other problems related to employment and/or occupation.
+Z56.82
+Problem Related to Current Military Deployment Status
+This category may be used when an occupational problem directly related to an individual’s
+military deployment status is the focus of clinical attention or has an impact on the individual’s
+diagnosis, treatment, or prognosis. Psychological reactions to deployment are not included in this
+category; such reactions would be better captured as an adjustment disorder or another mental
+disorder.
+831
+Z56.0
+Unemployment
+Z56.1
+Change of Job

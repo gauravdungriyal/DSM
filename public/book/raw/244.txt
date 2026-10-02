@@ -1,0 +1,36 @@
+substance-induced psychotic symptoms (e.g., disorganized or catatonic behavior; disorganized
+speech; incoherence or irrational content) should be classified in the category other specified or
+unspecified schizophrenia spectrum and other psychotic disorder.
+Psychotic Disorder Due to Another Medical Condition
+Diagnostic Criteria
+A. Prominent hallucinations or delusions.
+B. There is evidence from the history, physical examination, or laboratory findings
+that the disturbance is the direct pathophysiological consequence of another
+medical condition.
+C. The disturbance is not better explained by another mental disorder.
+D. The disturbance does not occur exclusively during the course of a delirium.
+E. The disturbance causes clinically significant distress or impairment in social,
+occupational, or other important areas of functioning.
+Specify whether:
+Code based on predominant symptom:
+F06.2 With delusions: If delusions are the predominant symptom.
+F06.0 With hallucinations: If hallucinations are the predominant symptom.
+Coding note: Include the name of the other medical condition in the name of the
+mental disorder (e.g., F06.2 psychotic disorder due to malignant lung neoplasm, with
+delusions). The other medical condition should be coded and listed separately
+immediately before the psychotic disorder due to the medical condition (e.g., C34.90
+malignant lung neoplasm; F06.2 psychotic disorder due to malignant lung neoplasm,
+with delusions).
+Specify current severity:
+Severity is rated by a quantitative assessment of the primary symptoms of
+psychosis, including delusions, hallucinations, abnormal psychomotor behavior,
+and negative symptoms. Each of these symptoms may be rated for its current
+severity (most severe in the last 7 days) on a 5-point scale ranging from 0 (not
+present) to 4 (present and severe). (See Clinician-Rated Dimensions of
+Psychosis Symptom Severity in the chapter “Assessment Measures.”)
+Note: Diagnosis of psychotic disorder due to another medical condition can be
+made without using this severity specifier.
+Specifiers
+In addition to the symptom domain areas identified in the diagnostic criteria, the assessment of
+cognition, depression, and mania symptom domains is vital for making critically important
+distinctions between the various schizophrenia spectrum and other psychotic disorders.

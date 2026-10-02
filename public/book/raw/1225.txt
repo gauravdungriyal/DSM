@@ -1,0 +1,86 @@
+F41.9
+Unspecified anxiety disorder
+F90.9
+Unspecified attention-deficit/hyperactivity disorder
+F31.9
+Unspecified bipolar and related disorder
+F15.99
+Unspecified caffeine-related disorder
+F12.99
+Unspecified cannabis-related disorder
+F06.1
+Unspecified catatonia (code first R29.818 other symptoms involving nervous and musculoskeletal
+systems)
+F80.9
+Unspecified communication disorder
+R41.0
+Unspecified delirium
+F32.A
+Unspecified depressive disorder
+F91.9
+Unspecified disruptive, impulse-control, and conduct disorder
+F44.9
+Unspecified dissociative disorder
+Unspecified elimination disorder
+R15.9
+With fecal symptoms
+R32
+With urinary symptoms
+F50.9
+Unspecified feeding or eating disorder
+F64.9
+Unspecified gender dysphoria
+F16.99
+Unspecified hallucinogen-related disorder
+G47.10
+Unspecified hypersomnolence disorder
+F18.99
+Unspecified inhalant-related disorder
+G47.00
+Unspecified insomnia disorder
+F79
+Unspecified intellectual developmental disorder (intellectual disability)
+F99
+Unspecified mental disorder
+F09
+Unspecified mental disorder due to another medical condition
+F39
+Unspecified mood disorder
+R41.9
+Unspecified neurocognitive disorder
+F89
+Unspecified neurodevelopmental disorder
+F42.9
+Unspecified obsessive-compulsive and related disorder
+F11.99
+Unspecified opioid-related disorder
+F19.99
+Unspecified other (or unknown) substance–related disorder
+F65.9
+Unspecified paraphilic disorder
+F60.9
+Unspecified personality disorder
+F16.99
+Unspecified phencyclidine-related disorder
+956
+F29
+Unspecified schizophrenia spectrum and other psychotic disorder
+F13.99
+Unspecified sedative-, hypnotic-, or anxiolytic-related disorder
+F52.9
+Unspecified sexual dysfunction
+G47.9
+Unspecified sleep-wake disorder
+F45.9
+Unspecified somatic symptom and related disorder
+Unspecified stimulant-related disorder
+F15.99
+Unspecified amphetamine-type substance–related disorder
+F14.99
+Unspecified cocaine-related disorder
+F15.99
+Unspecified other stimulant–related disorder
+F95.9
+Unspecified tic disorder
+F17.209
+Unspecified tobacco-related disorder

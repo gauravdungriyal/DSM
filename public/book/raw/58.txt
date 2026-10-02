@@ -1,0 +1,63 @@
+Specify current severity/remission:
+F12.10
+Mild
+F12.11
+In early remission
+F12.11
+In sustained remission
+F12.20
+Moderate
+F12.21
+In early remission
+F12.21
+In sustained remission
+F12.20
+Severe
+F12.21
+In early remission
+F12.21
+In sustained remission
+___.__
+Cannabis Intoxication (582)
+Without perceptual disturbances
+F12.120
+With mild use disorder
+F12.220
+With moderate or severe use disorder
+F12.920
+Without use disorder
+With perceptual disturbances
+F12.122
+With mild use disorder
+F12.222
+With moderate or severe use disorder
+F12.922
+Without use disorder
+___.__
+Cannabis Withdrawal (584)
+F12.13
+With mild use disorder
+F12.23
+With moderate or severe use disorder
+F12.93
+Without use disorder
+___.__
+Cannabis-Induced Mental Disorders (586)
+Note: Disorders are listed in their order of appearance in the manual.
+aSpecify With onset during intoxication, With onset during withdrawal, With onset after medication
+use. Note: When prescribed as medication, substances in this class can also induce the relevant
+substance-induced mental disorder.
+bSpecify if: Acute, Persistent
+cSpecify if: Hyperactive, Hypoactive, Mixed level of activity
+___.__
+Cannabis-Induced Psychotic Disordera (126)
+F12.159
+With mild use disorder
+F12.259
+With moderate or severe use disorder
+F12.959
+Without use disorder
+___.__
+Cannabis-Induced Anxiety Disordera (255)
+F12.180
+With mild use disorder

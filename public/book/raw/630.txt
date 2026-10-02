@@ -1,0 +1,34 @@
+hypoventilation syndrome, sleep-related hypoventilation due to a medication or substance, and
+sleep-related hypoventilation due to a medical disorder are subsumed under comorbid sleep-
+related hypoventilation in DSM-5. The subtype late-onset central hypoventilation with
+hypothalamic dysfunction is not in DSM-5. The DSM-5 approach to classification reflects the
+frequent co-occurrence of disorders that lead to hypoventilation and hypoxemia. In contrast, the
+classification used in ICSD-3 reflects evidence that there are distinct sleep-related pathogenetic
+processes leading to hypoventilation.
+Circadian Rhythm Sleep-Wake Disorders
+Diagnostic Criteria
+A. A persistent or recurrent pattern of sleep disruption that is primarily due to an
+alteration of the circadian system or to a misalignment between the endogenous
+circadian rhythm and the sleep-wake schedule required by an individual’s
+physical environment or social or professional schedule.
+B. The sleep disruption leads to excessive sleepiness or insomnia, or both.
+C. The sleep disturbance causes clinically significant distress or impairment in
+social, occupational, and other important areas of functioning.
+Specify whether:
+G47.21 Delayed sleep phase type: A pattern of delayed sleep onset and
+awakening times, with an inability to fall asleep and awaken at a desired or
+conventionally acceptable earlier time.
+Specify if:
+Familial: A family history of delayed sleep phase is present.
+Specify if:
+Overlapping with non-24-hour sleep-wake type: Delayed sleep
+phase type may overlap with another circadian rhythm sleep-wake
+disorder, non-24-hour sleep-wake type.
+G47.22 Advanced sleep phase type: A pattern of advanced sleep onset and
+awakening times, with an inability to remain awake or asleep until the desired or
+conventionally acceptable later sleep or wake times.
+Specify if:
+Familial: A family history of advanced sleep phase is present.
+G47.23 Irregular sleep-wake type: A temporally disorganized sleep-wake
+pattern, such that the timing of sleep and wake periods is variable throughout the
+24-hour period.

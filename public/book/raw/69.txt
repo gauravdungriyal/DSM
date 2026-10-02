@@ -1,0 +1,63 @@
+F14.20
+Cocaine
+F15.20
+Other or unspecified stimulant
+___.__
+Moderate, In early remission
+F15.21
+Amphetamine-type substance
+F14.21
+Cocaine
+F15.21
+Other or unspecified stimulant
+___.__
+Moderate, In sustained remission
+F15.21
+Amphetamine-type substance
+F14.21
+Cocaine
+F15.21
+Other or unspecified stimulant
+___.__
+Severe
+F15.20
+Amphetamine-type substance
+F14.20
+Cocaine
+F15.20
+Other or unspecified stimulant
+___.__
+Severe, In early remission
+F15.21
+Amphetamine-type substance
+F14.21
+Cocaine
+F15.21
+Other or unspecified stimulant
+___.__
+Severe, In sustained remission
+F15.21
+Amphetamine-type substance
+F14.21
+Cocaine
+F15.21
+Other or unspecified stimulant
+___.__
+Stimulant Intoxication (640)
+Specify the particular intoxicant
+Without perceptual disturbances
+li
+___.__
+Amphetamine-type substance or other stimulant intoxication
+F15.120
+With mild use disorder
+F15.220
+With moderate or severe use disorder
+F15.920
+Without use disorder
+___.__
+Cocaine intoxication
+F14.120
+With mild use disorder
+F14.220
+With moderate or severe use disorder

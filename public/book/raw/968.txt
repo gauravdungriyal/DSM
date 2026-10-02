@@ -1,0 +1,37 @@
+Other major neurocognitive disorders.
+Differential Diagnosis
+Major NCD due to prion disease may appear similar in its
+course to other NCDs, but prion diseases are typically distinguished by their rapid progression
+and prominent cerebellar and motor symptoms.
+Major or Mild Neurocognitive Disorder Due to
+Parkinson’s Disease
+Diagnostic Criteria
+A. The criteria are met for major or mild neurocognitive disorder.
+B. The disturbance occurs in the setting of established Parkinson’s disease.
+C. There is insidious onset and gradual progression of impairment.
+D. The neurocognitive disorder is not attributable to another medical condition and
+is not better explained by another mental disorder.
+Major or mild neurocognitive disorder probably due to Parkinson’s disease
+should be diagnosed if 1 and 2 are both met. Major or mild neurocognitive
+disorder possibly due to Parkinson’s disease should be diagnosed if 1 or 2 is
+met:
+1. There is no evidence of mixed etiology (i.e., absence of other neurodegenerative
+or cerebrovascular disease or another neurological, mental, or systemic disease
+or condition likely contributing to cognitive decline).
+2. The Parkinson’s disease clearly precedes the onset of the neurocognitive
+disorder.
+Coding note (see coding table on pp. 682–683):
+For major neurocognitive disorder probably or possibly due to Parkinson’s disease,
+with behavioral disturbance, code first G20 Parkinson’s disease, followed by F02.81.
+For major neurocognitive disorder probably or possibly due to Parkinson’s disease,
+without behavioral disturbance, code first G20 Parkinson’s disease, followed by
+F02.80.
+Note: The severity specifiers “mild,” “moderate,” and “severe” cannot be coded for
+major neurocognitive disorder but should still be recorded.
+724
+For mild neurocognitive disorder due to Parkinson’s disease, code G31.84. (Note:
+Do not use the additional code for Parkinson’s disease. “With behavioral
+disturbance” and “without behavioral disturbance” cannot be coded but should still
+be recorded.)
+For major or mild neurocognitive disorder due to Parkinson’s disease: Use additional
+code(s) to indicate clinically significant psychiatric symptoms due to Parkinson’s

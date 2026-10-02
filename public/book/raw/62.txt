@@ -1,0 +1,60 @@
+F16.980
+Without use disorder
+___.__
+Other Hallucinogen Intoxication Deliriumb,c (672)
+F16.121
+With mild use disorder
+F16.221
+With moderate or severe use disorder
+F16.921
+Without use disorder
+F16.921
+Ketamine or Other Hallucinogen–Induced Deliriumb,c (674)
+Note: When ketamine or other hallucinogen medication taken as
+prescribed. The designation “taken as prescribed” is used to
+differentiate medication-induced delirium from substance intoxication
+delirium.
+F16.99
+Unspecified Phencyclidine-Related Disorder (600)
+F16.99
+Unspecified Hallucinogen-Related Disorder (601)
+Inhalant-Related Disorders (601)
+___.__
+Inhalant Use Disorder (601)
+Specify the particular inhalant
+Specify if: In a controlled environment
+Specify current severity/remission:
+F18.10
+Mild
+F18.11
+In early remission
+F18.11
+In sustained remission
+F18.20
+Moderate
+F18.21
+In early remission
+F18.21
+In sustained remission
+F18.20
+Severe
+F18.21
+In early remission
+F18.21
+In sustained remission
+___.__
+Inhalant Intoxication (605)
+F18.120
+With mild use disorder
+F18.220
+With moderate or severe use disorder
+F18.920
+Without use disorder
+___.__
+Inhalant-Induced Mental Disorders (607)
+Note: Disorders are listed in their order of appearance in the manual.
+aSpecify With onset during intoxication
+___.__
+Inhalant-Induced Psychotic Disordera (126)
+F18.159
+With mild use disorder

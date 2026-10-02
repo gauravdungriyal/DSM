@@ -1,0 +1,29 @@
+inhalant-induced major or mild neurocognitive disorder (“Neurocognitive Disorders”). For
+inhalant intoxication delirium, see the criteria and discussion of delirium in the chapter
+“Neurocognitive Disorders.” These inhalant-induced mental disorders are diagnosed instead of
+inhalant intoxication only when symptoms are sufficiently severe to warrant independent clinical
+attention.
+Unspecified Inhalant-Related Disorder
+F18.99
+This category applies to presentations in which symptoms characteristic of an
+inhalant-related disorder that cause clinically significant distress or impairment in
+social, occupational, or other important areas of functioning predominate but do not
+meet the full criteria for any specific inhalant-related disorder or any of the disorders
+in the substance-related and addictive disorders diagnostic class.
+Opioid-Related Disorders
+Opioid Use Disorder
+Opioid Intoxication
+Opioid Withdrawal
+Opioid-Induced Mental Disorders
+Unspecified Opioid-Related Disorder
+Opioid Use Disorder
+Diagnostic Criteria
+A. A problematic pattern of opioid use leading to clinically significant impairment or
+distress, as manifested by at least two of the following, occurring within a 12-
+month period:
+1. Opioids are often taken in larger amounts or over a longer period than was
+intended.
+2. There is a persistent desire or unsuccessful efforts to cut down or control
+opioid use.
+3. A great deal of time is spent in activities necessary to obtain the opioid, use
+the opioid, or recover from its effects.

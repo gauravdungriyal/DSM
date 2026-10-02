@@ -1,0 +1,6 @@
+clinician chooses not to specify the reason that the criteria are not met for a specific
+elimination disorder and includes presentations in which there is insufficient
+information to make a more specific diagnosis (e.g., in emergency room settings).
+Coding note: Code R32 for unspecified elimination disorder with urinary symptoms;
+R15.9 for unspecified elimination disorder with fecal symptoms.
+406

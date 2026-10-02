@@ -1,0 +1,42 @@
+7. Important social, occupational, or recreational activities are given up or
+reduced because of hallucinogen use.
+8. Recurrent hallucinogen use in situations in which it is physically hazardous
+(e.g., driving an automobile or operating a machine when impaired by the
+hallucinogen).
+9. Hallucinogen use is continued despite knowledge of having a persistent or
+recurrent physical or psychological problem that is likely to have been caused
+or exacerbated by the hallucinogen.
+10. Tolerance, as defined by either of the following:
+a. A need for markedly increased amounts of the hallucinogen to achieve
+intoxication or desired effect.
+b. A markedly diminished effect with continued use of the same amount of
+the hallucinogen.
+Note: Withdrawal symptoms and signs are not established for hallucinogens, and so
+this criterion does not apply.
+Specify the particular hallucinogen.
+Specify if:
+In early remission: After full criteria for other hallucinogen use disorder were
+previously met, none of the criteria for other hallucinogen use disorder have
+been met for at least 3 months but for less than 12 months (with the exception
+that Criterion A4, “Craving, or a strong desire or urge to use the hallucinogen,”
+may be met).
+In sustained remission: After full criteria for other hallucinogen use disorder
+were previously met, none of the criteria for other hallucinogen use disorder
+have been met at any time during a period of 12 months or longer (with the
+exception that Criterion A4, “Craving, or a strong desire or urge to use the
+hallucinogen,” may be met).
+Specify if:
+In a controlled environment: This additional specifier is used if the individual is
+in an environment where access to hallucinogens is restricted.
+Code based on current severity/remission: If a hallucinogen intoxication or
+another hallucinogen-induced mental disorder is also present, do not use the codes
+below for hallucinogen use disorder. Instead, the comorbid hallucinogen use
+disorder is indicated in the 4th character of the hallucinogen-induced disorder code
+(see the coding note for hallucinogen intoxication or specific hallucinogen-induced
+mental disorder). For example, if there is comorbid hallucinogen-induced psychotic
+disorder and hallucinogen use disorder, only the hallucinogen-induced psychotic
+disorder code is given, with the 4th character indicating whether the comorbid
+hallucinogen use disorder is mild, moderate, or severe: F16.159 for mild
+hallucinogen use disorder with hallucinogen-induced psychotic disorder or F16.259
+for a moderate or severe hallucinogen use disorder with hallucinogen-induced
+psychotic disorder.

@@ -1,0 +1,88 @@
+G25.81
+Restless legs syndrome
+G31.84
+Mild frontotemporal neurocognitive disorder
+G31.84
+Mild neurocognitive disorder due to Alzheimer’s disease
+G31.84
+Mild neurocognitive disorder due to another medical condition
+G31.84
+Mild neurocognitive disorder due to HIV infection
+G31.84
+Mild neurocognitive disorder due to Huntington’s disease
+G31.84
+Mild neurocognitive disorder with Lewy bodies
+G31.84
+Mild neurocognitive disorder due to multiple etiologies
+G31.84
+Mild neurocognitive disorder due to Parkinson’s disease
+G31.84
+Mild neurocognitive disorder due to prion disease
+G31.84
+Mild neurocognitive disorder due to traumatic brain injury
+G31.84
+Mild vascular neurocognitive disorder
+G47.00
+Unspecified insomnia disorder
+G47.09
+Other specified insomnia disorder
+G47.10
+Unspecified hypersomnolence disorder
+G47.19
+Other specified hypersomnolence disorder
+G47.20
+Circadian rhythm sleep-wake disorders, Unspecified type
+G47.21
+Circadian rhythm sleep-wake disorders, Delayed sleep phase type
+G47.22
+Circadian rhythm sleep-wake disorders, Advanced sleep phase type
+G47.23
+Circadian rhythm sleep-wake disorders, Irregular sleep-wake type
+G47.24
+Circadian rhythm sleep-wake disorders, Non-24-hour sleep-wake type
+G47.26
+Circadian rhythm sleep-wake disorders, Shift work type
+G47.31
+Central sleep apnea, Idiopathic central sleep apnea
+G47.33
+Obstructive sleep apnea hypopnea
+G47.34
+Sleep-related hypoventilation, Idiopathic hypoventilation
+G47.35
+Sleep-related hypoventilation, Congenital central alveolar hypoventilation
+G47.36
+Sleep-related hypoventilation, Comorbid sleep-related hypoventilation
+G47.37
+Central sleep apnea comorbid with opioid use
+G47.411
+Narcolepsy with cataplexy or hypocretin deficiency (type 1)
+978
+G47.419
+Narcolepsy without cataplexy and either without hypocretin deficiency or hypocretin unmeasured
+(type 2)
+G47.421
+Narcolepsy with cataplexy or hypocretin deficiency due to a medical condition
+G47.429
+Narcolepsy without cataplexy and without hypocretin deficiency due to a medical condition
+G47.52
+Rapid eye movement sleep behavior disorder
+G47.8
+Other specified sleep-wake disorder
+G47.9
+Unspecified sleep-wake disorder
+N39.498
+Other specified elimination disorder, With urinary symptoms
+R06.3
+Central sleep apnea, Cheyne-Stokes breathing
+R15.9
+Other specified elimination disorder, With fecal symptoms
+R15.9
+Unspecified elimination disorder, With fecal symptoms
+R32
+Unspecified elimination disorder, With urinary symptoms
+R41.0
+Other specified delirium
+R41.0
+Unspecified delirium
+R41.81
+Age-related cognitive decline

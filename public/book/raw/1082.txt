@@ -1,0 +1,40 @@
+Antidepressant Discontinuation Syndrome
+T43.205A Initial encounter
+T43.205D Subsequent encounter
+T43.205S Sequelae
+Discontinuation symptoms may occur following treatment with all types of antidepressants. The
+incidence of this syndrome depends on the dosage and half-life of the medication being taken, as
+well as the rate at which the medication is tapered. Short half-life medications that are abruptly
+discontinued (or when the dose is significantly reduced) rather than tapered gradually may pose
+the greatest risk. The short-acting antidepressants paroxetine and venlafaxine are the agents most
+commonly associated with discontinuation symptoms. Antidepressant discontinuation syndrome
+may occur in the context of intermittent non-adherence to treatment and therefore may be
+irregularly present in some individuals who have not actually stopped taking the medication.
+This is especially true for very short half-life medications (e.g., venlafaxine). By contrast, long
+half-life medications like fluoxetine seldom produce significant discontinuation effects.
+Unlike withdrawal syndromes associated with opioids, alcohol, and other substances,
+antidepressant discontinuation syndrome has no pathognomonic symptoms. Instead, the
+symptoms tend to be vague and variable. Symptoms typically begin 2–4 days after the last dose
+of the antidepressant. For selective serotonin reuptake inhibitors, symptoms such as dizziness,
+tinnitus, “electric shock”–like sensations, insomnia, and acute anxiety are described. The
+antidepressant use before discontinuation must not have incurred hypomania or mixed state (i.e.,
+there should be confidence that the discontinuation syndrome is not the result of fluctuations in
+mood stability associated with the previous treatment). For the tricyclic antidepressants, sudden
+discontinuation has been associated with gastrointestinal symptoms (cramping—reflecting
+cholinergic overactivity after stopping an anticholinergic tricyclic antidepressant) as well as
+rebound hypomania.
+The antidepressant discontinuation syndrome is based solely on pharmacological factors and
+is not related to the reinforcing effects of an antidepressant. Unlike the discontinuation of
+substances with reinforcing effects like opioids, drug craving does not occur. Also, when a
+stimulant is used to augment an antidepressant, abrupt cessation may result in stimulant
+withdrawal symptoms (see “Stimulant Withdrawal” in the chapter “Substance-Related and
+Addictive Disorders”) rather than the antidepressant discontinuation syndrome described here.
+The prevalence of antidepressant discontinuation syndrome is unknown but is thought to vary
+according to any of the following factors: the dosage before discontinuation, the half-life (i.e.,
+occurring more commonly with short half-life medications) and receptor-binding affinity of the
+medication (e.g., more likely to occur with serotonin reuptake inhibitors), and possibly the
+individual’s genetically influenced rate of metabolism for this
+819
+medication. Therefore, discontinuation reactions occur more frequently with short half-life
+medications, but may also be influenced by rapid or ultrarapid metabolizer status of cytochrome
+enzymes that metabolize the antidepressant.

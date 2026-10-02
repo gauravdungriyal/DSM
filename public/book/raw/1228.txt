@@ -1,0 +1,61 @@
+Numerical Listing of DSM-5-TR
+Diagnoses and ICD-10-CM Codes
+For periodic DSM-5-TR coding and other updates, see www.dsm5.org.
+ICD-10-CM
+Disorder, condition, or problem
+E66.9
+Overweight or obesity
+F01.50
+Major neurocognitive disorder possibly due to vascular disease, Without behavioral disturbance
+F01.50
+Major neurocognitive disorder probably due to vascular disease, Without behavioral disturbance
+F01.51
+Major neurocognitive disorder possibly due to vascular disease, With behavioral disturbance
+F01.51
+Major neurocognitive disorder probably due to vascular disease, With behavioral disturbance
+F02.80
+Major neurocognitive disorder due to another medical condition, Without behavioral disturbance
+F02.80
+Major neurocognitive disorder due to HIV infection, Without behavioral disturbance (code first B20
+HIV infection)
+F02.80
+Major neurocognitive disorder due to Huntington’s disease, Without behavioral disturbance (code first
+G10 Huntington’s disease)
+F02.80
+Major neurocognitive disorder due to multiple etiologies, Without behavioral disturbance
+F02.80
+Major neurocognitive disorder due to possible Alzheimer’s disease, Without behavioral disturbance
+(code first G30.9 Alzheimer’s disease)
+F02.80
+Major neurocognitive disorder due to possible frontotemporal degeneration, Without behavioral
+disturbance (code first G31.09 frontotemporal degeneration)
+F02.80
+Major neurocognitive disorder with possible Lewy bodies, Without behavioral disturbance (code first
+G31.83 Lewy body disease)
+F02.80
+Major neurocognitive disorder possibly due to Parkinson’s disease, Without behavioral disturbance
+(code first G20 Parkinson’s disease)
+F02.80
+Major neurocognitive disorder due to prion disease, Without behavioral disturbance (code first A81.9
+prion disease)
+F02.80
+Major neurocognitive disorder due to probable Alzheimer’s disease, Without behavioral disturbance
+(code first G30.9 Alzheimer’s disease)
+F02.80
+Major neurocognitive disorder due to probable frontotemporal degeneration, Without behavioral
+disturbance (code first G31.09 frontotemporal degeneration)
+958
+F02.80
+Major neurocognitive disorder with probable Lewy bodies, Without behavioral disturbance (code first
+G31.83 Lewy body disease)
+F02.80
+Major neurocognitive disorder probably due to Parkinson’s disease, Without behavioral disturbance
+(code first G20 Parkinson’s disease)
+F02.80
+Major neurocognitive disorder due to traumatic brain injury, Without behavioral disturbance (code
+first S06.2X9S diffuse traumatic brain injury with loss of consciousness of unspecified duration,
+sequela)
+F02.81
+Major neurocognitive disorder due to another medical condition, With behavioral disturbance
+F02.81
+Major neurocognitive disorder due to HIV infection, With behavioral disturbance (code first B20 HIV

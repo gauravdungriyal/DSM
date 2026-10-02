@@ -1,0 +1,75 @@
+Alcohol-induced anxiety disorder
+F10.180
+With mild use disorder
+F10.280
+With moderate or severe use disorder
+F10.980
+Without use disorder
+Alcohol-induced bipolar and related disorder
+F10.14
+With mild use disorder
+F10.24
+With moderate or severe use disorder
+F10.94
+Without use disorder
+Alcohol-induced depressive disorder
+F10.14
+With mild use disorder
+F10.24
+With moderate or severe use disorder
+F10.94
+Without use disorder
+Alcohol-induced major neurocognitive disorder, Amnestic-confabulatory type
+F10.26
+With moderate or severe use disorder
+F10.96
+Without use disorder
+Alcohol-induced major neurocognitive disorder, Nonamnestic-confabulatory type
+F10.27
+With moderate or severe use disorder
+F10.97
+Without use disorder
+Alcohol-induced mild neurocognitive disorder
+F10.188
+With mild use disorder
+F10.288
+With moderate or severe use disorder
+F10.988
+Without use disorder
+Alcohol-induced psychotic disorder
+F10.159
+With mild use disorder
+F10.259
+With moderate or severe use disorder
+F10.959
+Without use disorder
+Alcohol-induced sexual dysfunction
+F10.181
+With mild use disorder
+F10.281
+With moderate or severe use disorder
+F10.981
+Without use disorder
+Alcohol-induced sleep disorder
+F10.182
+With mild use disorder
+F10.282
+With moderate or severe use disorder
+F10.982
+Without use disorder
+Alcohol intoxication
+F10.120
+With mild use disorder
+F10.220
+With moderate or severe use disorder
+F10.920
+Without use disorder
+Alcohol intoxication delirium
+F10.121
+With mild use disorder
+F10.221
+With moderate or severe use disorder
+F10.921
+Without use disorder
+Alcohol use disorder
+931

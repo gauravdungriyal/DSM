@@ -1,0 +1,41 @@
+C. Continuous signs of the disturbance persist for at least 6 months. This 6-month
+period must include at least 1 month of symptoms (or less if successfully treated)
+that meet Criterion A (i.e., active-phase symptoms) and may include periods of
+prodromal or residual symptoms. During these prodromal or residual periods, the
+signs of the disturbance may be manifested by only negative symptoms or by
+two or more symptoms listed in Criterion A present in an attenuated form (e.g.,
+odd beliefs, unusual perceptual experiences).
+D. Schizoaffective disorder and depressive or bipolar disorder with psychotic
+features have been ruled out because either 1) no major depressive or manic
+episodes have occurred concurrently with the active-phase symptoms, or 2) if
+mood episodes have occurred during active-phase symptoms, they have been
+present for a minority of the total duration of the active and residual periods of
+the illness.
+E. The disturbance is not attributable to the physiological effects of a substance
+(e.g., a drug of abuse, a medication) or another medical condition.
+F. If there is a history of autism spectrum disorder or a communication disorder of
+childhood onset, the additional diagnosis of schizophrenia is made only if
+prominent delusions or hallucinations, in addition to the other required symptoms
+of schizophrenia, are also present for at least 1 month (or less if successfully
+treated).
+Specify if:
+The following course specifiers are only to be used after a 1-year duration of the
+disorder and if they are not in contradiction to the diagnostic course criteria.
+First episode, currently in acute episode: First manifestation of the disorder
+meeting the defining diagnostic symptom and time criteria. An acute episode is a
+time period in which the symptom criteria are fulfilled.
+First episode, currently in partial remission: Partial remission is a period of
+time during which an improvement after a previous episode is maintained and in
+which the defining criteria of the disorder are only partially fulfilled.
+First episode, currently in full remission: Full remission is a period of time
+after a previous episode during which no disorder-specific symptoms are
+present.
+Multiple episodes, currently in acute episode: Multiple episodes may be
+determined after a minimum of two episodes (i.e., after a first episode, a
+remission and a minimum of one relapse).
+Multiple episodes, currently in partial remission
+Multiple episodes, currently in full remission
+Continuous: Symptoms fulfilling the diagnostic symptom criteria of the disorder
+are remaining for the majority of the illness course, with subthreshold symptom
+periods being very brief relative to the overall course.
+Unspecified

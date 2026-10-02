@@ -1,0 +1,43 @@
+Specify current severity/remission:
+F16.10 Mild: Presence of 2–3 symptoms.
+F16.11 Mild, In early remission
+F16.11 Mild, In sustained remission
+F16.20 Moderate: Presence of 4–5 symptoms.
+F16.21 Moderate, In early remission
+F16.21 Moderate, In sustained remission
+F16.20 Severe: Presence of 6 or more symptoms.
+F16.21 Severe, In early remission
+F16.21 Severe, In sustained remission
+592
+Specifiers
+“In a controlled environment” applies as a further specifier of remission if the individual is both
+in remission and in a controlled environment (i.e., in early remission in a controlled environment
+or in sustained remission in a controlled environment). Examples of these environments are
+closely supervised and substance-free jails, therapeutic communities, and locked hospital units.
+Diagnostic Features
+Hallucinogens comprise a diverse group of substances that despite having different chemical
+structures and possibly involving different molecular mechanisms, produce similar alterations of
+perception, mood, and cognition in users. Hallucinogens included are phenylalkylamines (e.g.,
+mescaline, 
+DOM 
+[2,5-dimethoxy-4-methylamphetamine], 
+and 
+MDMA 
+[3,4-
+methylenedioxymethamphetamine; also called “ecstasy” or “molly”]); the indoleamines,
+including psilocybin (and its metabolite psilocin, the compound primarily responsible for the
+psychedelic effects of hallucinogenic mushrooms) and dimethyltryptamine (DMT); and the
+ergolines, such as LSD (lysergic acid diethylamide) and morning glory seeds. In addition,
+miscellaneous other ethnobotanical compounds are classified as hallucinogens, of which Salvia
+divinorum and jimsonweed are two examples. Excluded from the hallucinogen group are
+cannabis and its active compound, delta-9-tetrahydrocannabinol (THC) (see the section
+“Cannabis-Related Disorders”). These substances can have hallucinogenic effects but are
+diagnosed separately because of significant differences in their psychological and behavioral
+effects.
+Hallucinogens are usually taken orally, although some forms are smoked (e.g., DMT, salvia)
+or (rarely) taken intranasally or by injection (e.g., ecstasy). Duration of effects varies across
+types of hallucinogens. Some of these substances (i.e., LSD, MDMA) have a long half-life and
+extended duration such that users may spend hours to days using and/or recovering from the
+effects of these drugs. However, other hallucinogenic drugs (e.g., DMT, salvia) are short acting.
+Tolerance to hallucinogens develops with repeated use and has been reported to have both
+autonomic and psychological effects.

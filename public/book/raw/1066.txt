@@ -1,0 +1,37 @@
+disorder due to another medical condition that cause clinically significant distress or
+impairment in social, occupational, or other important areas of functioning
+predominate but do not meet the full criteria for any specific mental disorder
+attributable to another medical
+804
+condition. The other specified mental disorder due to another medical condition
+category is used in situations in which the clinician chooses to communicate the
+specific reason that the presentation does not meet the criteria for any specific
+mental disorder attributable to another medical condition. This is done by recording
+the name of the disorder, with the specific etiological medical condition inserted in
+place of “another medical condition,” followed by the specific symptomatic
+manifestation that does not meet the criteria for any specific mental disorder due to
+another medical condition. Furthermore, the diagnostic code for the specific medical
+condition must be listed immediately before the code for the other specified mental
+disorder due to another medical condition. For example, dissociative symptoms due
+to complex partial seizures would be coded and recorded as G40.209 complex
+partial seizures, F06.8 other specified mental disorder due to complex partial
+seizures, dissociative symptoms.
+An example of a presentation that can be specified using the “other specified”
+designation is the following:
+Dissociative symptoms: This includes symptoms occurring, for example, in the
+context of complex partial seizures.
+805
+Unspecified Mental Disorder Due to Another Medical
+Condition
+F09
+This category applies to presentations in which symptoms characteristic of a mental
+disorder due to another medical condition that cause clinically significant distress or
+impairment in social, occupational, or other important areas of functioning
+predominate but do not meet the full criteria for any specific mental disorder due to
+another medical condition. The unspecified mental disorder due to another medical
+condition category is used in situations in which the clinician chooses not to specify
+the reason that the criteria are not met for a specific mental disorder due to another
+medical condition, and includes presentations for which there is insufficient
+information to make a more specific diagnosis (e.g., in emergency room settings).
+This is done by recording the name of the disorder, with the specific etiological
+medical condition inserted in place of “another medical condition.” Furthermore, the

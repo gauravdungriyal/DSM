@@ -1,0 +1,39 @@
+qualifying criteria on a computer-assisted DSM-5 diagnostic checklist, determine diagnoses,
+score the severity of the diagnosis, and upload the data to a central repository. This study design
+allowed the calculation of the degree to which two independent clinicians could agree on a
+diagnosis (using the intraclass kappa statistic) and on clinician-administered ratings of cross-
+cutting and diagnosis-specific symptom severity (using intraclass correlation coefficients), as
+well as the level of agreement on measures of self-reported cross-cutting symptoms, personality
+traits, disability, and diagnostic severity administered to the same patient on two occasions up to
+2 weeks apart (using intraclass correlation coefficients), along with information on the precision
+of these estimates of reliability. It was also possible to assess the prevalence rates of both DSM-
+IV and DSM-5 conditions in the respective clinical populations.
+The routine clinical practice field trials involved recruitment of individual psychiatrists and
+other mental health clinicians and were conducted from October 2011 to March 2012. A
+volunteer sample was recruited that included generalist and specialty psychiatrists, psychologists,
+licensed clinical social workers, counselors, marriage and family therapists, and advanced
+practice psychiatric mental health nurses. The field trials provided exposure of the proposed
+DSM-5 diagnoses and dimensional measures to a wide range of clinicians to assess their
+feasibility and clinical utility.
+Public and Professional Review
+In 2010, the APA launched a website devoted to the DSM-5 revision to facilitate public and
+professional input into DSM-5. All draft diagnostic criteria and proposed changes in organization
+were posted on www.dsm5.org for a 2-month comment period. Feedback totaled more than
+8,000 submissions, which were systematically reviewed by each of the 13 work groups, whose
+members, where appropriate, integrated questions and comments into discussions of draft
+revisions and plans for field trial testing. After revisions to the initial draft criteria and proposed
+chapter organization, a second posting occurred in 2011. Work groups considered feedback from
+both web postings and the results of the DSM-5 Field Trials when drafting proposed final
+criteria, which were posted on the website for a third and final time in 2012. These three
+iterations of external review produced more than 13,000 individually signed comments on the
+website that were received and reviewed by the work
+9
+groups, plus thousands of organized petition signers for and against some proposed revisions, all
+of which allowed the task force to actively address concerns of DSM users, as well as patients
+and advocacy groups, and ensure that clinical utility remained a high priority.
+Expert Review and Final Approval
+The members of the 13 work groups, representing expertise in their respective areas, collaborated
+with advisors and reviewers under the overall direction of the DSM-5 Task Force to draft the
+diagnostic criteria and accompanying text. This effort was supported by a team of APA Division
+of Research staff and developed through a network of text coordinators from each work group.
+The preparation of the text was coordinated by the text editor, working in close collaboration

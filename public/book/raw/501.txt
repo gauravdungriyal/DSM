@@ -1,0 +1,36 @@
+F44.0
+Dissociative Amnesia
+Diagnostic Criteria
+A. An inability to recall important autobiographical information, usually of a
+traumatic or stressful nature, that is inconsistent with ordinary forgetting.
+Note: Dissociative amnesia most often consists of localized or selective amnesia
+for a specific event or events; or generalized amnesia for identity and life history.
+B. The symptoms cause clinically significant distress or impairment in social,
+occupational, or other important areas of functioning.
+C. The disturbance is not attributable to the physiological effects of a substance
+(e.g., alcohol or other drug of abuse, a medication) or a neurological or other
+medical condition (e.g., partial complex seizures, transient global amnesia,
+sequelae of a closed head injury/traumatic brain injury, other neurological
+condition).
+D. The disturbance is not better explained by dissociative identity disorder,
+posttraumatic stress disorder, acute stress disorder, somatic symptom disorder,
+or major or mild neurocognitive disorder.
+Coding note: The code for dissociative amnesia without dissociative fugue is F44.0.
+The code for dissociative amnesia with dissociative fugue is F44.1.
+Specify if:
+F44.1 With dissociative fugue: Apparently purposeful travel or bewildered
+wandering that is associated with amnesia for identity or for other important
+autobiographical information.
+338
+Specifiers
+The specifier “with dissociative fugue” applies when dissociative amnesia occurs in the context
+of a dissociative fugue, which is characterized by apparently purposeful travel or bewildered
+wandering that is associated with amnesia for identity or other important autobiographical
+information.
+Diagnostic Features
+The defining characteristic of dissociative amnesia is an inability to recall important
+autobiographical information that 1) should be successfully stored in memory and 2) ordinarily
+would be freely recollected (Criterion A). Dissociative amnesia is conceptualized as a potentially
+reversible memory retrieval deficit. In this way, among others, it differs from the amnesias
+attributable to neurobiological damage or toxicity that impair memory storage or retrieval.
+A variety of types of dissociative amnesia may manifest. In general, the memory deficit in

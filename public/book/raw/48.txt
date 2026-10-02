@@ -1,0 +1,51 @@
+F41.9
+Unspecified Anxiety Disorder (261)
+Obsessive-Compulsive and Related Disorders (263)
+The following specifier applies to Obsessive-Compulsive and Related Disorders where indicated:
+aSpecify if: With good or fair insight, With poor insight, With absent insight/delusional beliefs
+F42.2
+Obsessive-Compulsive Disordera (265)
+Specify if: Tic-related
+F45.22
+Body Dysmorphic Disordera (271)
+Specify if: With muscle dysmorphia
+F42.3
+Hoarding Disordera (277)
+Specify if: With excessive acquisition
+F63.3
+Trichotillomania (Hair-Pulling Disorder) (281)
+F42.4
+Excoriation (Skin-Picking) Disorder (284)
+___.__
+Substance/Medication-Induced Obsessive-Compulsive and Related Disorder (287)
+Note: For applicable ICD-10-CM codes, refer to the substance classes under Substance-Related and
+Addictive Disorders for the specific substance/medication-induced obsessive-compulsive and
+related disorder. See also the criteria set and corresponding recording procedures in the manual for
+more information.
+xxxiv
+Coding note: The ICD-10-CM code depends on whether or not there is a comorbid substance use
+disorder present for the same class of substance. In any case, an additional separate diagnosis of a
+substance use disorder is not given.
+Specify if: With onset during intoxication, With onset during withdrawal, With onset after medication
+use
+F06.8
+Obsessive-Compulsive and Related Disorder Due to Another Medical Condition (291)
+Specify if: With obsessive-compulsive disorder–like symptoms, With appearance preoccupations, With
+hoarding symptoms, With hair-pulling symptoms, With skin-picking symptoms
+F42.8
+Other Specified Obsessive-Compulsive and Related Disorder (293)
+F42.9
+Unspecified Obsessive-Compulsive and Related Disorder (294)
+Trauma- and Stressor-Related Disorders (295)
+F94.1
+Reactive Attachment Disorder (295)
+Specify if: Persistent
+Specify current severity: Severe
+F94.2
+Disinhibited Social Engagement Disorder (298)
+Specify if: Persistent
+Specify current severity: Severe
+F43.10
+Posttraumatic Stress Disorder (301)
+Specify whether: With dissociative symptoms
+Specify if: With delayed expression

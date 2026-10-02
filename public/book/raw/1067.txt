@@ -1,0 +1,30 @@
+diagnostic code for the specific medical condition must be listed immediately before
+the code for the unspecified mental disorder due to another medical condition. For
+example, dissociative symptoms due to complex partial seizures would be coded
+and recorded as G40.209 complex partial seizures, F09 unspecified mental disorder
+due to complex partial seizures.
+Other Specified Mental Disorder
+F99
+This category applies to presentations in which symptoms characteristic of a mental
+disorder that cause clinically significant distress or impairment in social,
+occupational, or other important areas of functioning predominate but do not meet
+the full criteria for any specific mental disorder. The other specified mental disorder
+category is used in situations in which the clinician chooses to communicate the
+specific reason that the presentation does not meet the criteria for any specific
+mental disorder. This is done by recording “other specified mental disorder” followed
+by the specific reason.
+Unspecified Mental Disorder
+F99
+This category applies to presentations in which symptoms characteristic of a mental
+disorder that cause clinically significant distress or impairment in social,
+occupational, or other important areas of functioning predominate but do not meet
+the full criteria for any mental disorder. The unspecified mental disorder category is
+used in situations in which the clinician chooses not to specify the reason that the
+criteria are not met for a specific mental disorder, and includes presentations for
+which there is insufficient information to make a more specific diagnosis (e.g., in
+emergency room settings).
+Additional Codes
+Z03.89 No Diagnosis or Condition
+This code applies to situations in which the person has been evaluated and it is determined that
+no mental disorder or condition is present.
+806

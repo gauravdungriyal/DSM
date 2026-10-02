@@ -1,0 +1,43 @@
+both at initial interview and at follow-up visits. Thus, use of these measures can form key aspects
+of measurement-based care, the process by which standardized assessment tools are
+842
+administered and results used to track individuals’ progress over time to guide a more precise
+plan of care. Use of these measures ultimately aims to inform measurement-based care by
+identifying areas of emerging symptoms and concerns as well as supporting ongoing symptom
+monitoring, treatment adjustment, and outcomes critical to the provision of quality care for
+individuals with mental and substance use disorders. As a result, these cross-cutting symptom
+measures have been identified as important components of psychiatric diagnostic assessment in
+clinical practice guidelines.
+Severity measures are disorder-specific, corresponding closely to the criteria that constitute
+the disorder definition. They may be administered to individuals who have received a diagnosis
+or who have a clinically significant syndrome that falls short of meeting full criteria for a
+diagnosis (e.g., use of the Clinician-Rated Dimensions of Psychosis Symptom Severity in
+individuals whose symptoms meet criteria for schizophrenia). Some of the assessments are self-
+rated, while others are rated by the clinician based on observation of the individual. As with the
+cross-cutting symptom measures, these measures can be administered both at initial interview
+and over time to track the severity of the individual’s disorder and response to treatment. These
+assessments help operationalize symptom frequency, intensity, or duration; overall symptom
+severity; or symptom type (e.g., depression, anxiety, sleep disturbance) for many, though not all,
+DSM-5 diagnoses (e.g., generalized anxiety disorder, social anxiety disorder, psychotic
+disorders, posttraumatic stress disorder, autism spectrum disorder, and social (pragmatic)
+communication disorder). Data obtained from use of these disorder-specific measures can assist
+with diagnosis and inform symptom monitoring and treatment planning.
+The World Health Organization Disability Assessment Schedule, Version 2.0 (WHODAS
+2.0) was developed by the World Health Organization to assess an individual’s ability to perform
+activities in six areas: understanding and communicating; getting around; self-care; getting along
+with people; life activities (e.g., household, work/school); and participation in society. This
+version of the scale is self-administered and was developed for individuals with any medical
+condition, not just mental disorders. It corresponds to concepts contained in the WHO
+International Classification of Functioning, Disability and Health. This assessment can also be
+used over time to track changes in an individual’s level of functioning. Assessment of
+functioning is a key aspect of psychiatric diagnostic assessment given that most DSM-5 criteria
+sets include a requirement that the disturbance causes clinically significant distress or
+impairment in functioning. Individuals with mental disorders are more likely to have severe
+impairment in functioning (i.e., communicating or understanding; getting along with others;
+carrying out daily activities at work, home, or school; participating in social activities) compared
+to individuals with chronic medical conditions. In addition, many individuals seek help for
+mental disorders because of the direct impact of their disorders on functional impairment across
+multiple domains and settings. Functional impairment may impact prognosis across diagnoses
+and, if residual functional impairment remains after symptoms subside, can lead to recurrence or
+relapse for conditions such as major depressive disorder and anxiety disorders.
+This chapter focuses on the DSM-5 Level 1 Cross-Cutting Symptom Measure (adult self-

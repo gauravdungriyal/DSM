@@ -1,0 +1,40 @@
+Trauma- and stressor-related disorders.
+Eating disorders.
+Schizophrenia spectrum and other psychotic disorders.
+F40.10
+If the phobia develops following a traumatic event,
+posttraumatic stress disorder (PTSD) should be considered as a diagnosis. However, traumatic
+events can precede the onset of PTSD and specific phobia. In this case, a diagnosis of specific
+phobia would be assigned only if all of the criteria for PTSD are not met.
+A diagnosis of specific phobia is not given if the avoidance behavior is
+exclusively limited to avoidance of food and food-related cues, in which case a diagnosis of
+anorexia nervosa or bulimia nervosa should be considered.
+When the fear and avoidance are attributable
+to delusional thinking (as in schizophrenia or other schizophrenia spectrum and other psychotic
+disorders), a diagnosis of specific phobia is not warranted.
+Comorbidity
+Specific phobia is rarely seen in medical-clinical settings in the absence of other
+psychopathology and is more frequently seen in nonmedical mental health settings. Specific
+phobia is frequently associated with a range of other disorders. Because of early onset, specific
+phobia is typically the temporally primary disorder. Individuals with specific phobia are at
+increased risk for the development of other disorders, including other anxiety disorders,
+depressive and bipolar disorders, substance-related disorders, somatic symptom and related
+disorders, and personality disorders (particularly dependent personality disorder).
+Social Anxiety Disorder
+Diagnostic Criteria
+A. Marked fear or anxiety about one or more social situations in which the individual
+is exposed to possible scrutiny by others. Examples include social interactions
+(e.g., having a conversation, meeting unfamiliar people), being observed (e.g.,
+eating or drinking), and performing in front of others (e.g., giving a speech).
+Note: In children, the anxiety must occur in peer settings and not just during
+interactions with adults.
+B. The individual fears that he or she will act in a way or show anxiety symptoms
+that will be negatively evaluated (i.e., will be humiliating or embarrassing; will
+lead to rejection or offend others).
+C. The social situations almost always provoke fear or anxiety.
+Note: In children, the fear or anxiety may be expressed by crying, tantrums,
+freezing, clinging, shrinking, or failing to speak in social situations.
+D. The social situations are avoided or endured with intense fear or anxiety.
+E. The fear or anxiety is out of proportion to the actual threat posed by the social
+situation and to the sociocultural context.
+230

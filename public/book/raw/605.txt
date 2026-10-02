@@ -1,0 +1,41 @@
+1. Episodes of cataplexy, defined as either (a) or (b), occurring at least a few
+times per month:
+a. In individuals with long-standing disease, brief (seconds to minutes)
+episodes of sudden bilateral loss of muscle tone with maintained
+consciousness that are precipitated by laughter or joking.
+b. In children or in individuals within 6 months of onset, spontaneous
+grimaces or jaw-opening episodes with tongue thrusting or a global
+hypotonia, without any obvious emotional triggers.
+2. Hypocretin deficiency, as measured using cerebrospinal fluid (CSF)
+hypocretin-1 immunoreactivity values (less than or equal to one-third of
+values obtained in healthy subjects tested using the same assay, or less than
+or equal to 110 pg/mL). Low CSF levels of hypocretin-1 must not be observed
+in the context of acute brain injury, inflammation, or infection.
+3. Nocturnal sleep polysomnography showing rapid eye movement (REM) sleep
+latency less than or equal to 15 minutes, or a multiple sleep latency test
+showing a mean sleep latency less than or equal to 8 minutes and two or
+more sleep-onset REM periods.
+Specify whether:
+G47.411 Narcolepsy with cataplexy or hypocretin deficiency (type 1):
+Criterion B1 (episodes of cataplexy) or Criterion B2 (low CSF hypocretin-1
+levels) is met.
+G47.419 Narcolepsy without cataplexy and either without hypocretin
+deficiency or hypocretin unmeasured (type 2): Criterion B3 (positive
+polysomnography/multiple sleep latency test) is met, but Criterion B1 is not met
+(i.e., no cataplexy is present) and Criterion B2 is not met (i.e., CSF hypocretin-1
+levels are not low or have not been measured).
+G47.421 Narcolepsy with cataplexy or hypocretin deficiency due to a
+medical condition
+G47.429 Narcolepsy without cataplexy and without hypocretin deficiency
+due to a medical condition
+Coding note: For the subtype narcolepsy with cataplexy or hypocretin deficiency
+due to a medical condition and the subtype narcolepsy without cataplexy and without
+hypocretin deficiency due to a medical condition, code first the underlying medical
+condition (e.g., G71.11 myotonic dystrophy; G47.429 narcolepsy without cataplexy
+and without hypocretin deficiency due to myotonic dystrophy).
+Specify current severity:
+Mild: Need for naps only once or twice per day. Sleep disturbance, if present, is
+mild. Cataplexy, when present, is infrequent (occurring less than once per week).
+Moderate: Need for multiple naps daily. Sleep may be moderately disturbed.
+Cataplexy, when present, occurs daily or every few days.
+423

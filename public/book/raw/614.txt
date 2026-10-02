@@ -1,0 +1,39 @@
+Moderate: Apnea hypopnea index is 15–30.
+Severe: Apnea hypopnea index is greater than 30.
+Specifiers
+Disease severity is measured by a count of the number of apneas plus hypopneas per hour of
+sleep (apnea hypopnea index) using polysomnography or other overnight monitoring.
+430
+Apnea refers to the total absence of airflow, and hypopnea refers to a reduction in airflow.
+Overall severity is also informed by levels of nocturnal desaturation and sleep fragmentation
+(measured by brain cortical arousal frequency and sleep stages) and degree of associated
+symptoms and daytime impairment. However, the exact number and thresholds may vary
+according to the specific measurement techniques used, and these numbers may change over
+time. Regardless of the apnea hypopnea index (count) per se, the disorder is considered to be
+more severe when apneas and hypopneas are accompanied by significant oxygen hemoglobin
+desaturation (e.g., when more than 10% of the sleep time is spent at desaturation levels of < 
+90%) or when sleep is severely fragmented as shown by an elevated arousal index (arousals per
+hour of sleep > 30) or reduced time in deep sleep (e.g., percentage stage N3 [slow-wave sleep] < 
+5%).
+Diagnostic Features
+Obstructive sleep apnea hypopnea is the most common breathing-related sleep disorder. It is
+characterized by repeated episodes of upper (pharyngeal) airway obstruction (apneas and
+hypopneas) during sleep. Each apnea or hypopnea represents a reduction in breathing of at least
+10 seconds in duration in adults or two missed breaths in children and is typically associated with
+drops in oxygen saturation of ≥ 3% and/or an electroencephalographic arousal. Both sleep-
+related (nocturnal) and wake-time symptoms are common. The cardinal symptoms of obstructive
+sleep apnea hypopnea are snoring and daytime sleepiness.
+Obstructive sleep apnea hypopnea in adults is diagnosed on the basis of findings from a
+polysomnogram (or sleep testing performed outside of the sleep center, referred to as out of
+center sleep testing [OCST]) and symptoms. The diagnosis is based on symptoms of 1) nocturnal
+breathing disturbances (i.e., snoring, snorting/gasping, breathing pauses during sleep), or 2)
+daytime sleepiness, fatigue, or unrefreshing sleep despite sufficient opportunities to sleep that are
+not better explained by another mental disorder and not attributable to another medical condition,
+along with 3) evidence by polysomnography (or OCST) of five or more obstructive apneas or
+hypopneas per hour of sleep (Criterion A1). Diagnosis can be made in the absence of these
+symptoms if there is evidence by polysomnography (or limited OCST) of 15 or more obstructive
+apneas and/or hypopneas per hour of sleep (Criterion A2).
+Criteria for a diagnosis of obstructive sleep apnea hypopnea in children differ from those for
+a diagnosis in adults. An obstructive apnea hypopnea index of one or more events per hour or
+evidence of obstructive hypoventilation in association with snoring or polysomnographic
+evidence of airflow obstruction is used to define thresholds of abnormality in children.

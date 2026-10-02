@@ -1,0 +1,37 @@
+Diagnostic Criteria
+A. The criteria are met for major or mild neurocognitive disorder.
+B. There is insidious onset and gradual progression.
+C. There is clinically established Huntington’s disease, or risk for Huntington’s
+disease based on family history or genetic testing.
+D. The neurocognitive disorder is not attributable to another medical condition and
+is not better explained by another mental disorder.
+Coding note (see coding table on pp. 682–683):
+For major neurocognitive disorder due to Huntington’s disease, with behavioral
+disturbance, code first G10 Huntington’s disease, followed by F02.81 major
+neurocognitive disorder due to Huntington’s disease, with behavioral disturbance.
+For major neurocognitive disorder due to Huntington’s disease, without behavioral
+disturbance, code first G10 Huntington’s disease, followed by F02.80 major
+neurocognitive disorder due to Huntington’s disease, without behavioral disturbance.
+Note: The severity specifiers “mild,” “moderate,” and “severe” cannot be coded for
+major neurocognitive disorder but should still be recorded.
+727
+For mild neurocognitive disorder due to Huntington’s disease, code G31.84. (Note:
+Do not use the additional code for Huntington’s disease. “With behavioral
+disturbance” and “without behavioral disturbance” cannot be coded but should still
+be recorded.)
+For major or mild neurocognitive disorder due to Huntington’s disease: Use
+additional code(s) to indicate clinically significant psychiatric symptoms due to
+Huntington’s disease (e.g., F06.31 depressive disorder due to Huntington’s disease
+with depressive features; F06.4 anxiety disorder due to Huntington’s disease).
+Diagnostic Features
+Progressive cognitive impairment is a core feature of Huntington’s disease, with early changes in
+executive function (i.e., processing speed, organization, and planning) typically being more
+prominent than decline in learning and memory. Cognitive and associated behavioral changes
+often precede the emergence of the typical motor abnormalities of bradykinesia (i.e., slowing of
+voluntary movement) and chorea (i.e., involuntary jerking movements). A diagnosis of definite
+Huntington’s disease is given in the presence of unequivocal, extrapyramidal motor
+abnormalities in an individual with either a family history of Huntington’s disease or genetic
+testing showing a CAG trinucleotide repeat expansion in the HTT gene, located on chromosome
+4.
+Associated Features
+Irritability, apathy, anxiety, obsessive-compulsive symptoms, depression, and, more rarely,

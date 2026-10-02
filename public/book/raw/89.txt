@@ -1,0 +1,60 @@
+Z56.1
+Change of Job (831)
+Z56.2
+Threat of Job Loss (831)
+Z56.3
+Stressful Work Schedule (831)
+Z56.4
+Discord With Boss and Workmates (831)
+Z56.5
+Uncongenial Work Environment (831)
+Z56.6
+Other Physical and Mental Strain Related to Work (831)
+Z56.81
+Sexual Harassment on the Job (831)
+Z56.9
+Other Problem Related to Employment (831)
+Housing Problems (831)
+Z59.01
+Sheltered Homelessness (831)
+Z59.02
+Unsheltered Homelessness (831)
+Z59.1
+Inadequate Housing (831)
+Z59.2
+Discord With Neighbor, Lodger, or Landlord (831)
+Z59.3
+Problem Related to Living in a Residential Institution (831)
+Z59.9
+Other Housing Problem (831)
+lxviii
+Economic Problems (831)
+Z59.41
+Food Insecurity (832)
+Z58.6
+Lack of Safe Drinking Water (832)
+Z59.5
+Extreme Poverty (832)
+Z59.6
+Low Income (832)
+Z59.7
+Insufficient Social or Health Insurance or Welfare Support (832)
+Z59.9
+Other Economic Problem (832)
+Problems Related to the Social Environment (832)
+Z60.2
+Problem Related to Living Alone (832)
+Z60.3
+Acculturation Difficulty (832)
+Z60.4
+Social Exclusion or Rejection (832)
+Z60.5
+Target of (Perceived) Adverse Discrimination or Persecution (832)
+Z60.9
+Other Problem Related to Social Environment (832)
+Problems Related to Interaction With the Legal System (832)
+Z65.0
+Conviction in Criminal Proceedings Without Imprisonment (833)
+Z65.1
+Imprisonment or Other Incarceration (833)
+Problems Related to Release From Prison (833)

@@ -1,0 +1,37 @@
+is comorbid, the ICD-10-CM code is F19.232. If there is no comorbid other (or
+unknown) substance use disorder (e.g., in a patient taking an other [or unknown]
+substance solely under appropriate medical supervision), then the ICD-10-CM
+code is F19.932.
+Note: For information on Risk and Prognostic Factors and Diagnostic Markers, see the
+corresponding sections in Other (or Unknown) Substance Use Disorder.
+Diagnostic Features
+Other (or unknown) substance withdrawal is a clinically significant syndrome that develops
+during or within a few hours to days after reducing or terminating dosing with a substance
+(Criteria A and B). Although recent dose reduction or termination usually is clear in the history,
+other diagnostic procedures are very challenging if the drug is unknown. Criterion B requires
+development of a “substance-specific syndrome” (i.e., the individual’s signs and symptoms must
+correspond with the known withdrawal syndrome for the recently stopped drug)—a requirement
+that rarely can be met with an unknown substance. Consequently, clinical judgment must guide
+such decisions when this information is limited. Criterion D requires ruling out other medical
+conditions, mental disorders, or withdrawals from familiar substances. When the substance is
+known, it should be reflected in the name of the disorder upon coding (e.g., “betel nut
+withdrawal”).
+Prevalence
+The prevalence of other (or unknown) substance withdrawal is unknown.
+Development and Course
+Withdrawal signs commonly appear some hours after use of the substance is terminated, but the
+onset and course vary greatly, depending on the dose typically used and the rate of elimination of
+the specific substance from the body. At peak severity, withdrawal symptoms from some
+substances involve only moderate levels of discomfort, whereas withdrawal from other
+substances may be fatal. Withdrawal-associated dysphoria often motivates relapse to substance
+use. Withdrawal symptoms slowly abate over days, weeks, or months, depending on the
+particular drug and doses to which the individual became tolerant.
+Functional Consequences of Other (or Unknown) Substance
+Withdrawal
+Withdrawal from any substance may have serious consequences, including physical signs and
+symptoms (e.g., malaise, vital sign changes, abdominal distress, headache), intense drug craving,
+anxiety, depression, agitation, psychotic symptoms, or cognitive impairments. These
+consequences may lead to problems such as dysfunction at work, problems in interpersonal
+relationships, failure to fulfill role obligations, traffic accidents, fighting, high-risk behavior (e.g.,
+having unprotected sex), suicide attempts, and substance or medication overdose. The pattern of
+consequences will vary with the particular substance.

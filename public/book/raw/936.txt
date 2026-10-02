@@ -1,0 +1,47 @@
+For mild neurocognitive disorder due to frontotemporal degeneration, code G31.84.
+(Note: Do not use the additional code for frontotemporal degeneration. “With
+behavioral disturbance” and “without behavioral disturbance” cannot be coded but
+should still be recorded.)
+For major or mild frontotemporal neurocognitive disorder: Use additional code(s) to
+indicate 
+clinically 
+significant 
+psychiatric 
+symptoms 
+due 
+to 
+frontotemporal
+degeneration (e.g., F06.33 bipolar and related disorder due to frontotemporal
+degeneration, with manic features; F07.0 personality change due to frontotemporal
+degeneration, disinhibited type).
+Diagnostic Features
+Major or mild frontotemporal neurocognitive disorder (NCD) comprises a number of syndromic
+variants characterized by the progressive development of behavioral and personality change
+and/or language impairment. The behavioral variant and two language variants (semantic and
+agrammatic/nonfluent) exhibit distinct patterns of brain atrophy and some distinctive
+neuropathology. The criteria must be met for either the behavioral or the language variant to
+make the diagnosis, but many individuals present with features of both.
+Individuals with behavioral-variant major or mild frontotemporal NCD present with varying
+degrees of apathy or disinhibition. They may lose interest in socialization, self-care, and personal
+responsibilities, or display socially inappropriate behaviors. Insight is usually impaired, and this
+often delays medical consultation. The first referral is often to a psychiatrist. Individuals may
+develop changes in social style, and in religious and political
+697
+beliefs, with repetitive movements, hoarding, changes in eating behavior, and hyperorality. In
+later stages, loss of sphincter control may occur. Cognitive decline is less prominent, and formal
+testing may show relatively few deficits in the early stages. Common neurocognitive symptoms
+are lack of planning and organization, distractibility, and poor judgment. Deficits in executive
+function, such as poor performance on tests of mental flexibility, abstract reasoning, and
+response inhibition, are present, but learning and memory are relatively spared, and perceptual-
+motor abilities are almost always preserved in the early stages.
+Individuals with language-variant major or mild frontotemporal NCD present with primary
+progressive aphasia with gradual onset, with two subtypes commonly described: semantic variant
+and agrammatic/nonfluent variant; each variant has distinctive features and corresponding
+neuropathology. A third form of progressive language decline, called logopenic progressive
+aphasia, is associated with left temporoparietal dysfunction and is often caused by Alzheimer’s
+disease pathology.
+“Probable” is distinguished from “possible” frontotemporal NCD by the presence of
+causative genetic factors (e.g., mutations in the gene coding for microtubule-associated protein
+tau) or by the presence of distinctive atrophy or reduced activity in frontotemporal regions on
+structural or functional imaging.
+Associated Features

@@ -1,0 +1,85 @@
+worker
+938
+F94.2
+Disinhibited social engagement disorder
+Z63.5
+Disruption of family by separation or divorce
+F34.81
+Disruptive mood dysregulation disorder
+F44.0
+Dissociative amnesia
+F44.1
+Dissociative amnesia, with dissociative fugue
+F44.81
+Dissociative identity disorder
+Z55.4
+Educational maladjustment and discord with teachers and classmates
+F98.1
+Encopresis
+F98.0
+Enuresis
+F52.21
+Erectile disorder
+F42.4
+Excoriation (skin-picking) disorder
+F65.2
+Exhibitionistic disorder
+Z65.5
+Exposure to disaster, war, or other hostilities
+Z59.5
+Extreme poverty
+F68.A
+Factitious disorder imposed on another
+F68.10
+Factitious disorder imposed on self
+Z55.2
+Failed school examination
+F52.31
+Female orgasmic disorder
+F52.22
+Female sexual interest/arousal disorder
+F65.0
+Fetishistic disorder
+F59.41
+Food insecurity
+F65.81
+Frotteuristic disorder
+Functional neurological symptom disorder (conversion disorder)
+F44.4
+With abnormal movement
+F44.6
+With anesthesia or sensory loss
+F44.5
+With attacks or seizures
+F44.7
+With mixed symptoms
+F44.6
+With special sensory symptom
+F44.4
+With speech symptom
+F44.4
+With swallowing symptoms
+F44.4
+With weakness/paralysis
+F63.0
+Gambling disorder
+F64.0
+Gender dysphoria in adolescents and adults
+F64.2
+Gender dysphoria in children
+F41.1
+Generalized anxiety disorder
+Z31.5
+Genetic counseling
+F52.6
+Genito-pelvic pain/penetration disorder
+F88
+Global developmental delay
+F16.983
+Hallucinogen persisting perception disorder
+For additional hallucinogen-related substance disorders and hallucinogen-induced mental disorders,
+see entries for Other hallucinogen and Phencyclidine
+Z63.8
+High expressed emotion level within family
+Z91.52
+History of nonsuicidal self-injury

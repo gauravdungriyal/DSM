@@ -1,0 +1,30 @@
+F15.920
+F10.99
+This category applies to presentations in which symptoms characteristic of an
+alcohol-related disorder that cause clinically significant distress or impairment in
+social, occupational, or other important areas of functioning predominate but do not
+meet the full criteria for any specific alcohol-related disorder or any of the disorders
+in the substance-related and addictive disorders diagnostic class.
+569
+Caffeine-Related Disorders
+Caffeine Intoxication
+Caffeine Withdrawal
+Caffeine-Induced Mental Disorders
+Unspecified Caffeine-Related Disorder
+Caffeine Intoxication
+Diagnostic Criteria
+A. Recent consumption of caffeine (typically a high dose well in excess of 250 mg).
+B. Five (or more) of the following signs or symptoms developing during, or shortly
+after, caffeine use:
+1. Restlessness.
+2. Nervousness.
+3. Excitement.
+4. Insomnia.
+5. Flushed face.
+6. Diuresis.
+7. Gastrointestinal disturbance.
+8. Muscle twitching.
+9. Rambling flow of thought and speech.
+10. Tachycardia or cardiac arrhythmia.
+11. Periods of inexhaustibility.
+12. Psychomotor agitation.

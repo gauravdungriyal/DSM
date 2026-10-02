@@ -1,0 +1,54 @@
+xxix
+F95.0
+Provisional Tic Disorder (93)
+F95.8
+Other Specified Tic Disorder (98)
+F95.9
+Unspecified Tic Disorder (98)
+Other Neurodevelopmental Disorders (99)
+F88
+Other Specified Neurodevelopmental Disorder (99)
+F89
+Unspecified Neurodevelopmental Disorder (99)
+Schizophrenia Spectrum and Other Psychotic Disorders (101)
+The following specifiers apply to Schizophrenia Spectrum and Other Psychotic Disorders where indicated:
+aSpecify if: The following course specifiers are only to be used after a 1-year duration of the disorder: First episode, currently in
+acute episode; First episode, currently in partial remission; First episode, currently in full remission; Multiple episodes,
+currently in acute episode; Multiple episodes, currently in partial remission; Multiple episodes, currently in full remission;
+Continuous; Unspecified
+bSpecify if: With catatonia (use additional code F06.1)
+cSpecify current severity of delusions, hallucinations, disorganized speech, abnormal psychomotor behavior, negative symptoms,
+impaired cognition, depression, and mania symptoms
+F21
+Schizotypal (Personality) Disorder (104)
+F22
+Delusional Disordera,c (104)
+Specify whether: Erotomanic type, Grandiose type, Jealous type, Persecutory type, Somatic type,
+Mixed type, Unspecified type
+Specify if: With bizarre content
+F23
+Brief Psychotic Disorderb,c (108)
+Specify if: With marked stressor(s), Without marked stressor(s), With peripartum onset
+F20.81
+Schizophreniform Disorderb,c (111)
+Specify if: With good prognostic features, Without good prognostic features
+F20.9
+Schizophreniaa,b,c (113)
+___.__
+Schizoaffective Disordera,b,c (121)
+Specify whether:
+F25.0
+Bipolar type
+F25.1
+Depressive type
+___.__
+Substance/Medication-Induced Psychotic Disorderc (126)
+Note: For applicable ICD-10-CM codes, refer to the substance classes under Substance-Related and
+Addictive Disorders for the specific substance/medication-induced psychotic disorder. See also the
+criteria set and corresponding recording procedures in the manual for more information.
+Coding note: The ICD-10-CM code depends on whether or not there is a comorbid substance use
+disorder present for the same class of substance. In any case, an additional separate diagnosis of a
+substance use disorder is not given.
+Specify if: With onset during intoxication, With onset during withdrawal, With onset after medication
+use
+xxx

@@ -1,0 +1,88 @@
+F19.988
+Other (or unknown) substance–induced obsessive-compulsive and related disorder, Without use
+disorder
+F19.99
+Unspecified other (or unknown) substance–related disorder
+F20.81
+Schizophreniform disorder
+F20.9
+Schizophrenia
+F21
+Schizotypal personality disorder
+F22
+Delusional disorder
+F23
+Brief psychotic disorder
+F25.0
+Schizoaffective disorder, Bipolar type
+F25.1
+Schizoaffective disorder, Depressive type
+F28
+Other specified schizophrenia spectrum and other psychotic disorder
+F29
+Unspecified schizophrenia spectrum and other psychotic disorder
+F31.0
+Bipolar I disorder, Current or most recent episode hypomanic
+F31.11
+Bipolar I disorder, Current or most recent episode manic, Mild
+F31.12
+Bipolar I disorder, Current or most recent episode manic, Moderate
+F31.13
+Bipolar I disorder, Current or most recent episode manic, Severe
+F31.2
+Bipolar I disorder, Current or most recent episode manic, With psychotic features
+F31.31
+Bipolar I disorder, Current or most recent episode depressed, Mild
+F31.32
+Bipolar I disorder, Current or most recent episode depressed, Moderate
+F31.4
+Bipolar I disorder, Current or most recent episode depressed, Severe
+F31.5
+Bipolar I disorder, Current or most recent episode depressed, With psychotic features
+F31.71
+Bipolar I disorder, Current or most recent episode hypomanic, In partial remission
+F31.72
+Bipolar I disorder, Current or most recent episode hypomanic, In full remission
+F31.73
+Bipolar I disorder, Current or most recent episode manic, In partial remission
+F31.74
+Bipolar I disorder, Current or most recent episode manic, In full remission
+F31.75
+Bipolar I disorder, Current or most recent episode depressed, In partial remission
+F31.76
+Bipolar I disorder, Current or most recent episode depressed, In full remission
+F31.81
+Bipolar II disorder
+F31.89
+Other specified bipolar and related disorder
+F31.9
+Bipolar I disorder, Current or most recent episode depressed, Unspecified
+F31.9
+Bipolar I disorder, Current or most recent episode hypomanic, Unspecified
+F31.9
+Bipolar I disorder, Current or most recent episode manic, Unspecified
+973
+F31.9
+Bipolar I disorder, Current or most recent episode unspecified
+F31.9
+Unspecified bipolar and related disorder
+F32.0
+Major depressive disorder, Single episode, Mild
+F32.1
+Major depressive disorder, Single episode, Moderate
+F32.2
+Major depressive disorder, Single episode, Severe
+F32.3
+Major depressive disorder, Single episode, With psychotic features
+F32.4
+Major depressive disorder, Single episode, In partial remission
+F32.5
+Major depressive disorder, Single episode, In full remission
+F32.81
+Premenstrual dysphoric disorder
+F32.89
+Other specified depressive disorder
+F32.9
+Major depressive disorder, Single episode, Unspecified
+F32.A
+Unspecified depressive disorder

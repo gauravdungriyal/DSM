@@ -1,0 +1,40 @@
+These sleep stages have a characteristic temporal organization across the night. N3 tends to occur
+in the first one-third to one-half of the night and increases in duration in response to sleep
+deprivation. REM sleep occurs cyclically throughout the night, alternating with NREM sleep
+about every 80–100 minutes. REM sleep periods increase in duration toward the morning.
+Human sleep also varies characteristically across the life span. After relative stability with
+large amounts of slow-wave sleep in childhood and early adolescence, sleep continuity and depth
+deteriorate across the adult age range. This deterioration is reflected by increased wakefulness
+and N1 sleep and decreased N3 sleep. Because of this, age must be considered in the diagnosis of
+a sleep disorder in any individual.
+Polysomnography is the monitoring of multiple electrophysiological parameters during sleep.
+Most polysomnographic studies are conducted during the individual’s usual sleeping hours—that
+is, at night. However, daytime polysomnographic studies also are used to quantify daytime
+sleepiness. The most common daytime procedure is the multiple sleep
+409
+latency test, in which the individual is instructed to lie down in a dark room and not resist
+falling asleep; this protocol is repeated five times during the day. The amount of time required to
+fall asleep (sleep latency) is measured on each trial and is used as an index of physiological
+sleepiness.
+The following standard terminology for polysomnographic measures is used throughout the
+text in this chapter, and other terms provide context for the chapter discussion:
+Sleep continuity refers to the overall balance of sleep and wakefulness during a night of sleep. “Better” sleep continuity
+indicates consolidated sleep with little wakefulness or fragmentation; “worse” sleep continuity indicates disrupted sleep with
+more wakefulness and fragmentation.
+Specific sleep continuity measures include sleep latency—the amount of time required to
+fall asleep (expressed in minutes); wake after sleep onset—the amount of awake time
+between initial sleep onset and final awakening (expressed in minutes); the number of
+awakenings; and sleep efficiency—the ratio of actual time spent asleep to time spent in bed
+(expressed as a percentage, with higher numbers indicating better sleep continuity).
+Sleep architecture refers to the amount and distribution of specific sleep stages. Sleep architecture measures include absolute
+amounts of REM sleep and each NREM sleep stage (in minutes), relative amount of REM sleep and NREM sleep stages
+(expressed as a percentage of total sleep time), and latency between sleep onset and the first REM period (REM latency).
+When the latency to onset of REM sleep is < 15 minutes, the terms sleep-onset REM and sleep-onset REM period are
+employed.
+Association With Suicidal Thoughts or Behavior
+A review of multiple studies found that the symptom of insomnia may increase the risk for
+suicidal thoughts, suicidal behavior, and death, even after adjustment for depression, and that
+nightmares increase risk for suicidal thoughts and behavior. In one study of college students,
+31.3% of those with sleep problems had suicidal thoughts, and conversely, nearly all (82.7%)
+individuals with suicidal thoughts had sleep problems. A review and consensus statement of the
+American Academy of Sleep Medicine concluded that in teenagers, < 8 hours of sleep is

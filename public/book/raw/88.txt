@@ -1,0 +1,59 @@
+___.__
+Adult Psychological Abuse by Nonspouse or Nonpartner, Suspected (828)
+T76.31XA
+Initial encounter
+T76.31XD
+Subsequent encounter
+___.__
+Other Circumstances Related to Adult Abuse by Nonspouse or Nonpartner (828)
+Z69.81
+Encounter for mental health services for victim of nonspousal or
+nonpartner adult abuse
+Z69.82
+Encounter for mental health services for perpetrator of nonspousal or
+nonpartner adult abuse
+Relational Problems (828)
+___.__
+Parent-Child Relational Problem (829)
+Z62.820
+Parent–Biological Child (829)
+Z62.821
+Parent–Adopted Child (829)
+lxvii
+Z62.822
+Parent–Foster Child (829)
+Z62.898
+Other Caregiver–Child (829)
+Z62.891
+Sibling Relational Problem (829)
+Z63.0
+Relationship Distress With Spouse or Intimate Partner (829)
+Problems Related to the Family Environment (829)
+Z62.29
+Upbringing Away From Parents (829)
+Z62.898
+Child Affected by Parental Relationship Distress (830)
+Z63.5
+Disruption of Family by Separation or Divorce (830)
+Z63.8
+High Expressed Emotion Level Within Family (830)
+Educational Problems (830)
+Z55.0
+Illiteracy and Low-Level Literacy (830)
+Z55.1
+Schooling Unavailable and Unattainable (830)
+Z55.2
+Failed School Examinations (830)
+Z55.3
+Underachievement in School (830)
+Z55.4
+Educational Maladjustment and Discord With Teachers and Classmates (830)
+Z55.8
+Problems Related to Inadequate Teaching (830)
+Z55.9
+Other Problems Related to Education and Literacy (830)
+Occupational Problems (830)
+Z56.82
+Problem Related to Current Military Deployment Status (830)
+Z56.0
+Unemployment (831)

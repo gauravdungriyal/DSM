@@ -1,0 +1,37 @@
+F51.11
+bipolar, depressive, and anxiety disorders. Persistent insomnia represents a risk factor or an early
+symptom of subsequent bipolar, depressive, anxiety, and substance use disorders. Individuals
+with insomnia may misuse medications or alcohol to help with nighttime sleep, anxiolytics to
+combat tension or anxiety, and caffeine or other stimulants to combat excessive daytime fatigue.
+In addition to worsening the insomnia, this type of substance use may in some cases progress to a
+substance use disorder.
+Relationship to International Classification of Sleep Disorders
+The International Classification of Sleep Disorders, 3rd Edition (ICSD-3), recognizes three
+insomnia diagnoses: chronic insomnia disorder, short-term insomnia disorder, and other
+insomnia disorder. DSM-5 insomnia disorder and ICSD-3 chronic insomnia disorder closely
+parallel each other with respect to symptom, duration, and frequency criteria; however, unlike
+DSM-5, ICSD-3 does not include a separate designation for substance/medication-induced sleep
+disorder, insomnia type.
+Hypersomnolence Disorder
+Diagnostic Criteria
+A. Self-reported excessive sleepiness (hypersomnolence) despite a main sleep
+period lasting at least 7 hours, with at least one of the following symptoms:
+1. Recurrent periods of sleep or lapses into sleep within the same day.
+2. A prolonged main sleep episode of more than 9 hours per day that is
+nonrestorative (i.e., unrefreshing).
+3. Difficulty being fully awake after abrupt awakening.
+B. The hypersomnolence occurs at least three times per week, for at least 3
+months.
+C. The hypersomnolence is accompanied by significant distress or impairment in
+cognitive, social, occupational, or other important areas of functioning.
+D. The hypersomnolence is not better explained by and does not occur exclusively
+during the course of another sleep disorder (e.g., narcolepsy, breathing-related
+sleep disorder, circadian rhythm sleep-wake disorder, or a parasomnia).
+E. The hypersomnolence is not attributable to the physiological effects of a
+substance (e.g., a drug of abuse, a medication).
+F. Coexisting mental and medical disorders do not adequately explain the
+predominant complaint of hypersomnolence.
+Specify if:
+With mental disorder, including substance use disorders
+With medical condition
+With another sleep disorder

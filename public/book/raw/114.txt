@@ -1,0 +1,41 @@
+When the symptom presentation does not meet full criteria for any disorder and the
+symptoms cause clinically significant distress or impairment in social, occupational, or other
+important areas of functioning, the “other specified” or “unspecified” category corresponding to
+the predominant symptoms should be considered.
+22
+Subtypes and Specifiers
+Subtypes and specifiers are provided for increased diagnostic specificity. Subtypes define
+mutually exclusive and jointly exhaustive phenomenological subgroupings within a diagnosis
+and are indicated by the instruction “Specify whether” in the criteria set (e.g., in anorexia
+nervosa, Specify whether restricting type or binge-eating/purging type). In contrast, specifiers are
+not intended to be mutually exclusive or jointly exhaustive, and as a consequence, more than one
+specifier may be applied to a given diagnosis. Specifiers (as opposed to subtypes) are indicated
+by the instruction “Specify” or “Specify if” in the criteria set (e.g., in social anxiety disorder,
+“Specify if: performance only”). Specifiers and subtypes provide an opportunity to define a more
+homogeneous subgrouping of individuals with the disorder who share certain features (e.g.,
+major depressive disorder, with mixed features) and to convey information that is relevant to the
+management of the individual’s disorder, such as the “with other medical comorbidity” specifier
+in sleep-wake disorders. Although the fifth character within an ICD-10-CM code is sometimes
+designated to indicate a particular subtype or specifier (e.g., “0” in the fifth character in the
+F02.80 diagnostic code for major neurocognitive disorder due to Alzheimer’s disease, to indicate
+the absence of a behavioral disturbance versus a “1” in the fifth character of the F02.81
+diagnostic code for major neurocognitive disorder due to Alzheimer’s disease to indicate the
+presence of a behavioral disturbance), the majority of subtypes and specifiers included in DSM-
+5-TR are not reflected in the ICD-10-CM code and are indicated instead by recording the
+subtype or specifier after the name of the disorder (e.g., social anxiety disorder, performance
+type).
+Use of Other Specified and Unspecified Mental Disorders
+Although decades of scientific effort have gone into developing the diagnostic criteria sets for
+the disorders included in Section II, it is well recognized that this set of categorical diagnoses
+does not fully describe the full range of mental disorders that individuals experience and present
+to clinicians on a daily basis throughout the world. Hence, it is also necessary to include “other
+specified” or “unspecified” disorder options for presentations that do not fit exactly into the
+diagnostic boundaries of disorders in each chapter. Moreover, there are settings (e.g., emergency
+department) where it may only be possible to identify the most prominent symptom expressions
+associated with a particular chapter (e.g., delusions, hallucinations, mania, depression, anxiety,
+substance intoxication, neurocognitive symptoms). In such cases, it may be most appropriate to
+assign the corresponding “unspecified” disorder as a placeholder until a more complete
+differential diagnosis is possible.
+DSM-5 provides two diagnostic options for presentations that do not meet the diagnostic
+criteria for any of the specific DSM-5 disorders: other specified disorder and unspecified
+disorder. The other specified category is provided to allow the clinician to communicate the

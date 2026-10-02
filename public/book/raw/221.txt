@@ -1,0 +1,39 @@
+present for a minority of the total duration of the active and residual periods of
+the illness.
+D. The disturbance is not attributable to the physiological effects of a substance
+(e.g., a drug of abuse, a medication) or another medical condition.
+Specify if:
+With good prognostic features: This specifier requires the presence of at least
+two of the following features: onset of prominent psychotic symptoms within 4
+weeks of the first noticeable change in usual behavior or functioning; confusion
+or perplexity; good premorbid social and occupational functioning; and absence
+of blunted or flat affect.
+Without good prognostic features: This specifier is applied if two or more of
+the above features have not been present.
+Specify if:
+With catatonia (refer to the criteria for catatonia associated with another mental
+disorder, p. 135, for definition).
+112
+Coding note: Use additional code F06.1 catatonia associated with
+schizophreniform disorder to indicate the presence of the comorbid catatonia.
+Specify current severity:
+Severity is rated by a quantitative assessment of the primary symptoms of
+psychosis, including delusions, hallucinations, disorganized speech, abnormal
+psychomotor behavior, and negative symptoms. Each of these symptoms may
+be rated for its current severity (most severe in the last 7 days) on a 5-point
+scale ranging from 0 (not present) to 4 (present and severe). (See Clinician-
+Rated Dimensions of Psychosis Symptom Severity in the chapter “Assessment
+Measures.”)
+Note: Diagnosis of schizophreniform disorder can be made without using this
+severity specifier.
+Note: For additional information on Associated Features, Development and Course
+(age-related factors), Culture-Related Diagnostic Issues, Sex- and Gender-Related
+Diagnostic Issues, Differential Diagnosis, and Comorbidity, see the corresponding
+sections in Schizophrenia.
+Diagnostic Features
+The characteristic symptoms of schizophreniform disorder are identical to those of schizophrenia
+(Criterion A). Schizophreniform disorder is distinguished by its difference in duration: the total
+duration of the illness, including prodromal, active, and residual phases, is at least 1 month but
+less than 6 months (Criterion B). The duration requirement for schizophreniform disorder is
+intermediate between that for brief psychotic disorder, which lasts more than 1 day and remits by
+1 month, and schizophrenia, which lasts for at least 6 months. The diagnosis of schizophreniform

@@ -1,0 +1,41 @@
+may reflect common underlying vulnerabilities for a larger group of disorders. In recognition of
+this reality, the disorders included in DSM-5 were reordered into a revised organizational
+structure meant to stimulate new clinical perspectives. This new structure corresponds with the
+organizational arrangement of disorders planned for ICD-11 scheduled for release in 2015. Other
+enhancements have been introduced to promote ease of use across all settings:
+xxiv
+Representation of developmental issues related to diagnosis. The change in chapter organization better reflects a lifespan
+approach, with disorders more frequently diagnosed in childhood (e.g., neurodevelopmental disorders) at the beginning of
+the manual and disorders more applicable to older adulthood (e.g., neurocognitive disorders) at the end of the manual. Also,
+within the text, subheadings on development and course provide descriptions of how disorder presentations may change
+across the lifespan. Age-related factors specific to diagnosis (e.g., symptom presentation and prevalence differences in
+certain age groups) are also included in the text. For added emphasis, these age-related factors have been added to the
+criteria themselves where applicable (e.g., in the criteria sets for insomnia disorder and posttraumatic stress disorder, specific
+criteria describe how symptoms might be expressed in children). Likewise, gender and cultural issues have been integrated
+into the disorders where applicable.
+Integration of scientific findings from the latest research in genetics and neuroimaging. The revised chapter structure
+was informed by recent research in neuroscience and by emerging genetic linkages between diagnostic groups. Genetic and
+physiological risk factors, prognostic indicators, and some putative diagnostic markers are highlighted in the text. This new
+structure should improve clinicians’ ability to identify diagnoses in a disorder spectrum based on common neurocircuitry,
+genetic vulnerability, and environmental exposures.
+Consolidation of autistic disorder, Asperger’s disorder, and pervasive developmental disorder into autism spectrum
+disorder. Symptoms of these disorders represent a single continuum of mild to severe impairments in the two domains of
+social communication and restrictive repetitive behaviors/interests rather than being distinct disorders. This change is
+designed to improve the sensitivity and specificity of the criteria for the diagnosis of autism spectrum disorder and to
+identify more focused treatment targets for the specific impairments identified.
+Streamlined classification of bipolar and depressive disorders. Bipolar and depressive disorders are the most commonly
+diagnosed conditions in psychiatry. It was therefore important to streamline the presentation of these disorders to enhance
+both clinical and educational use. Rather than separating the definition of manic, hypomanic, and major depressive episodes
+from the definition of bipolar I disorder, bipolar II disorder, and major depressive disorder as in the previous edition, we
+included all of the component criteria within the respective criteria for each disorder. This approach will facilitate bedside
+diagnosis and treatment of these important disorders. Likewise, the explanatory notes for differentiating bereavement and
+major depressive disorder will provide far greater clinical guidance than was previously provided in the simple bereavement
+exclusion criterion. The new specifiers of anxious distress and mixed features are now fully described in the narrative on
+specifier variations that accompanies the criteria for these disorders.
+Restructuring of substance use disorders for consistency and clarity. The categories of substance abuse and substance
+dependence have been eliminated and replaced with an overarching new category of substance use disorders—with the
+specific substance used defining the specific disorders. “Dependence” has been easily confused with the term “addiction”
+when, in fact, the tolerance and withdrawal that previously defined dependence are actually very normal responses to
+prescribed medications that affect the central nervous system and do not necessarily indicate the presence of an addiction.
+By revising and clarifying these criteria in DSM-5, we hope to alleviate some of the widespread misunderstanding about
+these issues.

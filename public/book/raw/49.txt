@@ -1,0 +1,52 @@
+___.__
+Posttraumatic Stress Disorder in Individuals Older Than 6 Years (301)
+___.__
+Posttraumatic Stress Disorder in Children 6 Years and Younger (303)
+F43.0
+Acute Stress Disorder (313)
+___.__
+Adjustment Disorders (319)
+Specify if: Acute, Persistent (chronic)
+Specify whether:
+F43.21
+With depressed mood
+F43.22
+With anxiety
+F43.23
+With mixed anxiety and depressed mood
+F43.24
+With disturbance of conduct
+F43.25
+With mixed disturbance of emotions and conduct
+F43.20
+Unspecified
+F43.8
+Prolonged Grief Disorder (322)
+F43.8
+Other Specified Trauma- and Stressor-Related Disorder (327)
+F43.9
+Unspecified Trauma- and Stressor-Related Disorder (328)
+Dissociative Disorders (329)
+F44.81
+Dissociative Identity Disorder (330)
+F44.0
+Dissociative Amnesia (337)
+xxxv
+Specify if:
+F44.1
+With dissociative fugue
+F48.1
+Depersonalization/Derealization Disorder (343)
+F44.89
+Other Specified Dissociative Disorder (347)
+F44.9
+Unspecified Dissociative Disorder (348)
+Somatic Symptom and Related Disorders (349)
+F45.1
+Somatic Symptom Disorder (351)
+Specify if: With predominant pain
+Specify if: Persistent
+Specify current severity: Mild, Moderate, Severe
+F45.21
+Illness Anxiety Disorder (357)
+Specify whether: Care-seeking type, Care-avoidant type

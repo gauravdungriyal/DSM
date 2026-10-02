@@ -1,0 +1,41 @@
+Genetic and physiological.
+922
+Risk and Prognostic Factors
+The largest genome-wide association study of suicide attempt to date,
+from the Psychiatric Genomics Consortium, found that the genetic risk for depression increases
+the risk for suicide attempt across diagnostic cohorts with major depressive disorder, bipolar
+disorder, and schizophrenia. In other words, across diagnostic categories, attempters carry more
+risk alleles for depression than nonattempters, rather than simply for their primary psychiatric
+diagnosis. These results suggest that the genetic associations with suicide attempt are partly
+unique and partly shared with the genetic associations with depression.
+Culture-Related Diagnostic Issues
+Cultural contexts affect the frequency and form of suicidal behavior disorder, including
+variations in incidence and prevalence, methods used (e.g., poisoning with pesticides in low-
+income countries; gunshot wounds in the southwestern United States), motivations,
+circumstances, and meanings. These patterns vary over time, by migrant or ethnic group, and by
+service setting. Culturally mediated social stressors and predicaments such as family
+breakdowns, perceived loss of dignity or interpersonal status, conflicting intergenerational roles
+and expectations due to differential acculturation, changing levels of sociocultural integration,
+stigma and self-stigma about suicide, and systemic discrimination and structural inequity
+(institutionalized socioeconomic bias and oppression) may contribute to the risk of suicidal
+behavior disorder. Attitudes toward suicide and suicidal behaviors are influenced by historical,
+environmental, economic, political, legal, social, cultural, moral, and spiritual or religious
+factors. For example, in a longitudinal U.S. sample followed across generations, parental belief
+(self-identified as mostly Protestant and Catholic) in the importance of religion was associated
+with lower risk of suicidal behavior in their offspring, independent of an offspring’s own belief
+about religious importance and other known parental factors, such as parental depression,
+suicidal behavior, and divorce. The reasons for suicide attempts and choice of suicide methods
+may have cultural significance, which may be associated with specific individual and social
+responses (e.g., of stigma, shame, or respect).
+Sex- and Gender-Related Diagnostic Issues
+Suicidal behavior disorder varies in prevalence and form across sex and gender. On average,
+suicides are about twice as common in men compared with women, although the prevalence ratio
+varies by country and cultural context. Estimates also vary because the intent of self-harm
+behaviors is not always clearly measured; however, suicidal behavior that does not result in
+death is more common in women than in men. Men generally use more lethal methods such as
+gunshots and hanging, whereas less lethal means such as self-poisoning are more common in
+women. The frequency of suicidal behaviors is higher in women (i.e., the average number of
+suicide attempts for a woman is generally higher than the average number for a man), but this
+could be explained by the more frequent use of less lethal methods among women. Suicide rates
+among individuals who identify as transgender are high, and transgender individuals are also at
+higher risk for suicidal behavior than cisgender individuals.

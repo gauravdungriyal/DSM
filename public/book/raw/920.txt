@@ -1,0 +1,86 @@
+causing the major
+neurocognitive
+disorder.d
+HIV infection
+B20
+F02.8xb
+G31.84c Do not use additional code for
+HIV infection.
+Prion disease
+A81.9
+F02.8xb
+G31.84c Do not use additional code for
+prion disease.
+Parkinson’s disease
+G20
+F02.8xb
+G31.84c Do not use additional code for
+Parkinson’s disease.
+683
+Huntington’s disease
+G10
+F02.8xb
+G31.84c Do not use additional code for
+Huntington’s disease.
+Due to another
+medical condition
+Code the other
+medical condition
+first (e.g., G35
+multiple sclerosis).
+F02.8xb
+G31.84c Do not use additional codes for
+the presumed etiological medical
+conditions.
+Due to multiple
+etiologies
+Code all of the
+etiological medical
+conditions first (with
+the exception of
+vascular disease).
+F02.8xb (code once
+for major
+neurocognitive
+disorder due to all
+etiologies that apply)
+Code also major
+vascular NCD
+(F01.5x), if present.
+Code also the relevant
+substance/medication-
+induced major
+neurocognitive
+disorders if
+substances or
+medications play a
+role in the etiology.
+G31.84c Do not use additional codes for
+the presumed etiological medical
+conditions. Code also the relevant
+substance/medication-induced mild
+neurocognitive disorders if substances or
+medications play a role in the etiology.
+Unspecified
+neurocognitive
+disorder
+No additional
+medical code.
+R41.9c
+R41.9c
+aCode first, before code for major neurocognitive disorder.
+bCode fifth character based on symptom specifier: .x0 without behavioral disturbance; .x1 with behavioral disturbance
+(e.g., psychotic symptoms, mood disturbance, agitation, apathy, or other behavioral symptoms). Note: The severity
+specifiers “mild,” “moderate,” and “severe” cannot be coded for major neurocognitive disorder but should still be recorded.
+cNote: “With behavioral disturbance” and “without behavioral disturbance” cannot be coded but should still be recorded.
+dSee coding table in “Substance/Medication-Induced Major or Mild Neurocognitive Disorder” for ICD-10-CM code. Note:
+The severity specifiers “mild,” “moderate,” and “severe” (for substance/medication-induced major neurocognitive
+disorder) and the accompanying symptom specifiers “with behavioral disturbance” and “without behavioral disturbance”
+(for substance/medication-induced major or mild neurocognitive disorder) cannot be coded but should still be recorded.
+684
+Subtypes
+Major and mild neurocognitive disorders (NCDs) are primarily subtyped according to the known
+or presumed etiological/pathological entity or entities underlying the cognitive decline. These
+subtypes are distinguished on the basis of a combination of time course, characteristic domains
+affected, and associated symptoms. For certain etiological subtypes, the diagnosis depends
+substantially on the presence of a potentially causative entity, such as Parkinson’s or

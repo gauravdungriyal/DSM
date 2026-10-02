@@ -1,0 +1,36 @@
+Diagnostic Criteria
+A. Recent use of a hallucinogen (other than phencyclidine).
+B. Clinically significant problematic behavioral or psychological changes (e.g.,
+marked anxiety or depression, ideas of reference, fear of “losing one’s mind,”
+paranoid ideation, impaired judgment) that developed during, or shortly after,
+hallucinogen use.
+C. Perceptual changes occurring in a state of full wakefulness and alertness (e.g.,
+subjective intensification of perceptions, depersonalization, derealization,
+illusions, hallucinations, synesthesias) that developed during, or shortly after,
+hallucinogen use.
+D. Two (or more) of the following signs developing during, or shortly after,
+hallucinogen use:
+1. Pupillary dilation.
+2. Tachycardia.
+3. Sweating.
+4. Palpitations.
+5. Blurring of vision.
+6. Tremors.
+7. Incoordination.
+E. The signs or symptoms are not attributable to another medical condition and are
+not better explained by another mental disorder, including intoxication with
+another substance.
+597
+Coding note: The ICD-10-CM code depends on whether there is a comorbid
+hallucinogen use disorder. If a mild hallucinogen use disorder is comorbid, the ICD-
+10-CM code is F16.120, and if a moderate or severe hallucinogen use disorder is
+comorbid, the ICD-10-CM code is F16.220. If there is no comorbid hallucinogen use
+disorder, then the ICD-10-CM code is F16.920.
+Note: For information on Associated Features and Culture-Related Diagnostic Issues,
+see the corresponding sections in Other Hallucinogen Use Disorder.
+Diagnostic Features
+Other hallucinogen intoxication reflects the clinically significant behavioral or psychological
+changes that occur shortly after ingestion of a hallucinogen. Depending on the specific
+hallucinogen, the intoxication may last only minutes (e.g., for salvia) or several hours or longer
+(e.g., for LSD [lysergic acid diethylamide] or MDMA [3,4-methylenedioxymethamphetamine]).
+Prevalence

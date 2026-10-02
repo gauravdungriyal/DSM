@@ -1,0 +1,81 @@
+Z71.9
+Other counseling or consultation
+Z59.9
+Other economic problem
+Other hallucinogen–induced anxiety disorder
+F16.180
+With mild use disorder
+F16.280
+With moderate or severe use disorder
+F16.980
+Without use disorder
+Other hallucinogen–induced bipolar and related disorder
+F16.14
+With mild use disorder
+F16.24
+With moderate or severe use disorder
+F16.94
+Without use disorder
+F16.921
+Other hallucinogen–induced delirium (other hallucinogen medication taken as prescribed or for
+medical reasons)
+Other hallucinogen–induced depressive disorder
+F16.14
+With mild use disorder
+F16.24
+With moderate or severe use disorder
+F16.94
+Without use disorder
+Other hallucinogen–induced psychotic disorder
+F16.159
+With mild use disorder
+F16.259
+With moderate or severe use disorder
+F16.959
+Without use disorder
+Other hallucinogen intoxication
+F16.120
+With mild use disorder
+F16.220
+With moderate or severe use disorder
+F16.920
+Without use disorder
+Other hallucinogen intoxication delirium
+F16.121
+With mild use disorder
+F16.221
+With moderate or severe use disorder
+F16.921
+Without use disorder
+946
+Other hallucinogen use disorder
+F16.10
+Mild
+F16.11
+In early remission
+F16.11
+In sustained remission
+F16.20
+Moderate
+F16.21
+In early remission
+F16.21
+In sustained remission
+F16.20
+Severe
+F16.21
+In early remission
+F16.21
+In sustained remission
+Z59.9
+Other housing problem
+G25.79
+Other medication-induced movement disorder
+G21.19
+Other medication-induced parkinsonism
+Z91.49
+Other personal history of psychological trauma
+Z91.89
+Other personal risk factors
+Z56.6
+Other physical and mental strain related to work

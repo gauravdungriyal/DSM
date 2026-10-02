@@ -1,0 +1,39 @@
+Other major or mild neurocognitive disorder.
+730
+For mild neurocognitive disorder due to another medical condition, code G31.84.
+(Note: Do not use the additional code for the other medical condition. “With
+behavioral disturbance” and “without behavioral disturbance” cannot be coded but
+should still be recorded.)
+For major or mild neurocognitive disorder due to another medical condition: Use
+additional code(s) to indicate clinically significant psychiatric symptoms due to
+another medical condition (e.g., F06.32 depressive disorder due to multiple
+sclerosis, with major depressive–like episode).
+Diagnostic Features
+A number of medical conditions can cause neurocognitive disorders (NCDs) other than those
+specific etiologies (e.g., Alzheimer’s disease) already included in prior NCD criteria sets in this
+chapter. These conditions include structural lesions (e.g., primary or secondary brain tumors,
+subdural hematoma, slowly progressive or normal-pressure hydrocephalus), hypoxia related to
+hypoperfusion from heart failure, endocrine conditions (e.g., hypothyroidism, hypercalcemia,
+hypoglycemia), nutritional conditions (e.g., deficiencies of thiamine or niacin), other infectious
+conditions (e.g., neurosyphilis, cryptococcosis), immune disorders (e.g., temporal arteritis,
+systemic lupus erythematosus), hepatic or renal failure, metabolic conditions (e.g., Kufs’ disease,
+adrenoleukodystrophy, metachromatic leukodystrophy, other storage diseases of adulthood and
+childhood), and other neurological conditions (e.g., epilepsy, multiple sclerosis). Unusual causes
+of central nervous system injury, such as electrical shock or intracranial radiation, are generally
+evident from the history. The temporal association between the onset or exacerbation of the
+medical condition and the development of the cognitive deficit offers the greatest support that the
+NCD is a pathophysiological consequence of the medical condition. Diagnostic certainty
+regarding this relationship may be increased if the neurocognitive deficits ameliorate partially or
+stabilize in the context of treatment of the medical condition.
+Development and Course
+Typically the course of the NCD progresses in a manner that is commensurate with progression
+of the underlying medical condition. In circumstances where the medical condition is treatable
+(e.g., hypothyroidism), the neurocognitive deficit may improve or at least not progress. When the
+medical condition has a deteriorative course (e.g., secondary progressive multiple sclerosis), the
+neurocognitive deficits will progress along with the temporal course of illness.
+Diagnostic Markers
+Associated physical examination and laboratory findings and other clinical features depend on
+the nature and severity of the medical condition.
+Differential Diagnosis
+The presence of an attributable medical condition does
+not entirely exclude the possibility of another etiological type of major or mild NCD. If cognitive

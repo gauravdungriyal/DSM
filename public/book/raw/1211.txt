@@ -1,0 +1,66 @@
+F02.80
+Without behavioral disturbance
+Major neurocognitive disorder due to multiple etiologies
+F02.81
+With behavioral disturbance
+F02.80
+Without behavioral disturbance
+941
+Major neurocognitive disorder due to possible Alzheimer’s disease (code first G30.9 Alzheimer’s
+disease)
+Major neurocognitive disorder due to probable Alzheimer’s disease (code first G30.9 Alzheimer’s
+disease)
+F02.81
+With behavioral disturbance
+F02.80
+Without behavioral disturbance
+Major neurocognitive disorder due to possible frontotemporal degeneration (code first G31.09
+frontotemporal degeneration)
+Major neurocognitive disorder due to probable frontotemporal degeneration (code first G31.09
+frontotemporal degeneration)
+F02.81
+With behavioral disturbance
+F02.80
+Without behavioral disturbance
+Major neurocognitive disorder with possible Lewy bodies (code first G31.83 Lewy body disease)
+Major neurocognitive disorder with probable Lewy bodies (code first G31.83 Lewy body disease)
+F02.81
+With behavioral disturbance
+F02.80
+Without behavioral disturbance
+Major neurocognitive disorder possibly due to Parkinson’s disease (code first G20 Parkinson’s
+disease)
+Major neurocognitive disorder probably due to Parkinson’s disease (code first G20 Parkinson’s
+disease)
+F02.81
+With behavioral disturbance
+F02.80
+Without behavioral disturbance
+Major neurocognitive disorder possibly due to vascular disease
+Major neurocognitive disorder probably due to vascular disease
+F01.51
+With behavioral disturbance
+F01.50
+Without behavioral disturbance
+Major neurocognitive disorder due to prion disease (code first A81.9 prion disease)
+F02.81
+With behavioral disturbance
+F02.80
+Without behavioral disturbance
+Major neurocognitive disorder due to traumatic brain injury (code first S06.2X9S diffuse traumatic
+brain injury with loss of consciousness of unspecified duration, sequela)
+F02.81
+With behavioral disturbance
+F02.80
+Without behavioral disturbance
+F52.0
+Male hypoactive sexual desire disorder
+Z76.5
+Malingering
+G25.71
+Medication-induced acute akathisia
+G24.02
+Medication-induced acute dystonia
+Medication-induced delirium (for ICD-10-CM codes, see specific substances)
+G25.1
+Medication-induced postural tremor

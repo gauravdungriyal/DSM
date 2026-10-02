@@ -1,0 +1,77 @@
+F15.988
+Without use disorder
+Amphetamine-type substance (or other stimulant)–induced psychotic disorder
+F15.159
+With mild use disorder
+F15.259
+With moderate or severe use disorder
+F15.959
+Without use disorder
+Amphetamine-type substance (or other stimulant)–induced sexual dysfunction
+F15.181
+With mild use disorder
+F15.281
+With moderate or severe use disorder
+F15.981
+Without use disorder
+Amphetamine-type substance (or other stimulant)–induced sleep disorder
+F15.182
+With mild use disorder
+F15.282
+With moderate or severe use disorder
+F15.982
+Without use disorder
+Amphetamine-type substance intoxication
+Amphetamine-type substance intoxication, With perceptual disturbances
+F15.122
+With mild use disorder
+F15.222
+With moderate or severe use disorder
+F15.922
+Without use disorder
+Amphetamine-type substance intoxication, Without perceptual disturbances
+F15.120
+With mild use disorder
+F15.220
+With moderate or severe use disorder
+F15.920
+Without use disorder
+Amphetamine-type substance (or other stimulant) intoxication delirium
+F15.121
+With mild use disorder
+F15.221
+With moderate or severe use disorder
+F15.921
+Without use disorder
+Amphetamine-type substance use disorder
+F15.10
+Mild
+F15.11
+In early remission
+F15.11
+In sustained remission
+F15.20
+Moderate
+F15.21
+In early remission
+F15.21
+In sustained remission
+F15.20
+Severe
+F15.21
+In early remission
+F15.21
+In sustained remission
+Amphetamine-type substance withdrawal
+F15.13
+With mild use disorder
+F15.23
+With moderate or severe use disorder
+F15.93
+Without use disorder
+933
+Anorexia nervosa
+F50.02
+Binge-eating/purging type
+F50.01
+Restricting type

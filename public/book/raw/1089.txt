@@ -1,0 +1,34 @@
+Z69.010 Encounter for mental health services for victim of child sexual abuse by parent
+Z69.020 Encounter for mental health services for victim of nonparental child sexual abuse
+Z62.810 Personal history (past history) of sexual abuse in childhood
+Z69.011 Encounter for mental health services for perpetrator of parental child sexual abuse
+Z69.021 Encounter for mental health services for perpetrator of nonparental child sexual abuse
+Child Neglect
+This category may be used when child neglect is a focus of clinical attention. Child neglect is
+defined as any confirmed or suspected egregious act or omission by a child’s parent or other
+caregiver that deprives the child of basic age-appropriate needs and thereby results, or has
+reasonable potential to result, in physical or psychological harm to the child. Child neglect
+encompasses abandonment; lack of appropriate supervision; failure to attend to necessary
+emotional or psychological needs; and failure to provide necessary education, medical care,
+nourishment, shelter, and/or clothing.
+Child Neglect, Confirmed
+T74.02XA Initial encounter
+T74.02XD Subsequent encounter
+Child Neglect, Suspected
+T76.02XA Initial encounter
+T76.02XD Subsequent encounter
+Other Circumstances Related to Child Neglect
+Z69.010 Encounter for mental health services for victim of child neglect by parent
+Z69.020 Encounter for mental health services for victim of nonparental child neglect
+Z62.812 Personal history (past history) of neglect in childhood
+Z69.011 Encounter for mental health services for perpetrator of parental child neglect
+Z69.021 Encounter for mental health services for perpetrator of nonparental child neglect
+825
+Child Psychological Abuse
+This category may be used when psychological abuse of a child is a focus of clinical attention.
+Child psychological abuse is nonaccidental verbal or symbolic acts by a child’s parent or
+caregiver that result, or have reasonable potential to result, in significant psychological harm to
+the child. (Physical and sexual abusive acts are not included in this category.) Examples of
+psychological abuse of a child include berating, disparaging, or humiliating the child; threatening
+the child; harming/abandoning—or indicating that the alleged offender will harm/abandon—
+people or things that the child cares about; confining the child (as by tying a child’s arms or legs

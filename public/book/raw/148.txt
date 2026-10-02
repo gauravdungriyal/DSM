@@ -1,0 +1,45 @@
+Normal variations in speech.
+Hearing or other sensory impairment.
+Structural deficits.
+Dysarthria.
+Selective mutism.
+immature phonological simplification processes past the age when most children can produce
+words clearly.
+Most speech sounds should be produced clearly and most words should be pronounced
+accurately according to age and community norms by age 5 years. The most
+51
+frequently misarticulated sounds in English also tend to be learned later, leading them to be
+called the “late eight” (l, r, s, z, th, ch, dzh, and zh). Misarticulation of any of these sounds by
+itself could be considered within normal limits up to age 8 years; however, when multiple sounds
+are involved, it is important to target some of those sounds as part of a plan to improve
+intelligibility, rather than waiting until the age at which almost all children can produce them
+accurately. Lisping (i.e., misarticulating sibilants) is particularly common and may involve
+frontal or lateral patterns of airstream direction. It may be associated with a tongue-thrust
+swallowing pattern.
+Most children with speech sound disorder respond well to treatment, and speech difficulties
+improve over time, and thus the disorder may not be lifelong. However, when a language
+disorder is also present, the speech disorder has a poorer prognosis and may be associated with
+specific learning disorder.
+Differential Diagnosis
+Regional, social, or cultural/ethnic variations of speech should be
+considered before making the diagnosis. Bilingual children may demonstrate an overall lower
+intelligibility rating, make more overall consonant and vowel errors, and produce more
+uncommon error patterns than monolingual English-speaking children when assessed only in
+English.
+Those who are deaf or hard of hearing may have speech
+sound production errors. When speech deficits are in excess of those usually associated with
+these problems, a diagnosis of speech sound disorder may be made.
+Speech impairment may be due to structural deficits (e.g., cleft palate).
+Speech impairment may be attributable to a motor disorder, such as cerebral palsy.
+Neurological signs, as well as distinctive features of voice, differentiate dysarthria from speech
+sound disorder, although in young children (under 3 years) differentiation may be difficult,
+particularly when there is no or minimal general body motor involvement (as in, e.g., Worster-
+Drought syndrome).
+Limited use of speech may be a sign of selective mutism, an anxiety disorder
+that is characterized by a lack of speech in one or more contexts or settings. Selective mutism
+may develop in children with a speech disorder because of embarrassment about their
+impairments, but many children with selective mutism exhibit normal speech in “safe” settings,
+such as at home or with close friends.
+Comorbidity
+Speech may be differentially impaired in certain genetic conditions (e.g., Down syndrome, 22q
+deletion, FoxP2 gene mutation). If present, these should also be coded.

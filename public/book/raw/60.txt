@@ -1,0 +1,64 @@
+F16.10
+Mild
+F16.11
+In early remission
+F16.11
+In sustained remission
+F16.20
+Moderate
+F16.21
+In early remission
+F16.21
+In sustained remission
+F16.20
+Severe
+F16.21
+In early remission
+F16.21
+In sustained remission
+___.__
+Phencyclidine Intoxication (594)
+F16.120
+With mild use disorder
+F16.220
+With moderate or severe use disorder
+F16.920
+Without use disorder
+___.__
+Other Hallucinogen Intoxication (596)
+F16.120
+With mild use disorder
+F16.220
+With moderate or severe use disorder
+F16.920
+Without use disorder
+xliv
+F16.983
+Hallucinogen Persisting Perception Disorder (598)
+___.__
+Phencyclidine-Induced Mental Disorders (600)
+Note: Disorders are listed in their order of appearance in the manual.
+aSpecify With onset during intoxication, With onset after medication use. Note: When prescribed as
+medication, substances in this class can also induce the relevant substance-induced mental disorder.
+___.__
+Phencyclidine-Induced Psychotic Disordera (126)
+F16.159
+With mild use disorder
+F16.259
+With moderate or severe use disorder
+F16.959
+Without use disorder
+___.__
+Phencyclidine-Induced Bipolar and Related Disordera (162)
+F16.14
+With mild use disorder
+F16.24
+With moderate or severe use disorder
+F16.94
+Without use disorder
+___.__
+Phencyclidine-Induced Depressive Disordera (201)
+F16.14
+With mild use disorder
+F16.24
+With moderate or severe use disorder

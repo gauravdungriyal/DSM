@@ -1,0 +1,40 @@
+medication.
+Recording Procedures
+The name of the substance/medication-induced depressive disorder begins with the specific
+substance (e.g., cocaine, dexamethasone) that is presumed to be causing the depressive
+symptoms. The diagnostic code is selected from the table included in the criteria set, which is
+based on the drug class and presence or absence of a comorbid substance use disorder. For
+substances that do not fit into any of the classes (e.g., dexamethasone), the code for “other (or
+unknown) substance” should be used; and in cases in which a substance is judged to be an
+etiological factor but the specific class of substance is unknown, the same code should also be
+used.
+When recording the name of the disorder, the comorbid substance use disorder (if any) is
+listed first, followed by the word “with,” followed by the name of the substance-induced
+depressive disorder, followed by the specification of onset (i.e., onset during intoxication, onset
+during withdrawal). For example, in the case of depressive symptoms occurring during
+withdrawal in a man with a severe cocaine use disorder, the diagnosis is F14.24 severe cocaine
+use disorder with cocaine-induced depressive disorder, with onset during withdrawal. A separate
+diagnosis of the comorbid severe cocaine use disorder is not given. If the substance-induced
+depressive disorder occurs without a comorbid substance use disorder (e.g., after a one-time
+heavy use of the substance), no accompanying substance use disorder is noted (e.g., F16.94
+phencyclidine-induced depressive disorder, with onset during intoxication). When more than one
+substance is judged to play a significant role in the development of depressive
+203
+mood symptoms, each should be listed separately (e.g., F15.24 severe methylphenidate use
+disorder with methylphenidate-induced depressive disorder, with onset during withdrawal;
+F19.94 dexamethasone-induced depressive disorder, with onset during intoxication).
+Diagnostic Features
+The essential feature of substance/medication-induced depressive disorder is a prominent and
+persistent disturbance in mood that predominates in the clinical picture and is characterized by
+depressed mood or markedly diminished interest or pleasure in all, or almost all, activities
+(Criterion A) that is due to the direct physiological effects of a substance (e.g., a drug of abuse, a
+medication, or a toxin exposure) (Criterion B). In order to meet criteria for the diagnosis, the
+depressive symptoms must have developed during or soon after substance intoxication or
+withdrawal or after exposure to or withdrawal from a medication, as evidenced by clinical
+history, physical examination, or laboratory findings (Criterion B1), and the involved
+substance/medication must be capable of producing the depressive symptoms (Criterion B2). In
+addition, the depressed symptoms are not better explained by a non-substance/medication-
+induced depressive disorder.
+Evidence of an independent depressive disorder includes the observation that the depressive
+symptoms preceded the onset of substance/medication use, the depressive symptoms persist
+beyond a substantial period of time after the cessation of acute withdrawal or severe intoxication,

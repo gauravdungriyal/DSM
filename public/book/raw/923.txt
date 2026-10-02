@@ -1,0 +1,40 @@
+individual’s age, sex, educational attainment, and cultural background, is part of the standard
+evaluation of NCDs and is particularly critical in the evaluation of mild NCD. The use of
+culturally validated assessment instruments is preferred, which are available for many
+racial/ethnic and linguistic populations. For major NCD, performance is typically 2 or more
+standard deviations below appropriate norms (3rd percentile or below). For mild NCD,
+performance typically lies in the 1–2 standard deviation range (between the 3rd and 16th
+percentiles). However, neuropsychological testing is not available in all settings, and
+neuropsychological thresholds are sensitive to the specific test(s) and norms employed, as well as
+to test conditions, sensory limitations, and intercurrent illness. A variety of brief
+686
+office-based or “bedside” assessments, as described in Table 1, can also supply objective
+data in settings where such testing is unavailable or infeasible. In any case, as with cognitive
+concerns, objective performance must be interpreted in light of the individual’s prior
+performance. Optimally, this information would be available from a prior administration of the
+same test, but often it must be inferred based on appropriate norms, along with the individual’s
+educational history, occupation, and other factors. Norms are more challenging to interpret in
+individuals with very high or very low levels of education and in individuals being tested outside
+their own language or cultural background.
+Criterion B relates to the individual’s level of independence in everyday functioning.
+Individuals with major NCD will have impairment of sufficient severity so as to interfere with
+independence, such that others will have to take over tasks that the individuals were previously
+able to complete on their own. Individuals with mild NCD will have preserved independence,
+although there may be subtle interference with function or a report that tasks require more effort
+or take more time than previously.
+The distinction between major and mild NCD is inherently arbitrary, and the disorders exist
+along a continuum. Precise thresholds are therefore difficult to determine. Careful history taking,
+observation, and integration with other findings are required, and the implications of making a
+diagnosis should be considered when an individual’s clinical manifestations lie at a boundary.
+Associated Features
+Typically the associated features that support a diagnosis of major or mild NCD will be specific
+to the etiological subtype (e.g., neuroleptic sensitivity and visual hallucinations in NCD due to
+Lewy body disease). Diagnostic features specific to each of the subtypes are found in the
+relevant sections.
+Prevalence
+The prevalence of NCD varies widely by age and by etiological subtype. Overall prevalence
+estimates are generally only available for older populations. Among individuals older than 60
+years, prevalence increases steeply with age, so prevalence estimates are more accurate for
+narrow age bands than for broad categories such as “over 65” (where the mean age can vary
+greatly with the life expectancy of the given population). For those etiological subtypes
+occurring across the life span, prevalence estimates for NCD are likely to be available, if at all,

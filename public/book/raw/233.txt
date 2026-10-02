@@ -1,0 +1,39 @@
+B. Delusions or hallucinations for 2 or more weeks in the absence of a major mood
+episode (depressive or manic) during the lifetime duration of the illness.
+C. Symptoms that meet criteria for a major mood episode are present for the
+majority of the total duration of the active and residual portions of the illness.
+D. The disturbance is not attributable to the effects of a substance (e.g., a drug of
+abuse, a medication) or another medical condition.
+Specify whether:
+F25.0 Bipolar type: This subtype applies if a manic episode is part of the
+presentation. Major depressive episodes may also occur.
+F25.1 Depressive type: This subtype applies if only major depressive episodes
+are part of the presentation.
+Specify if:
+With catatonia (refer to the criteria for catatonia associated with another mental
+disorder, p. 135, for definition).
+Coding note: Use additional code F06.1 catatonia associated with
+schizoaffective disorder to indicate the presence of the comorbid catatonia.
+Specify if:
+The following course specifiers are only to be used after a 1-year duration of the
+disorder and if they are not in contradiction to the diagnostic course criteria.
+122
+First episode, currently in acute episode: First manifestation of the disorder
+meeting the defining diagnostic symptom and time criteria. An acute episode is a
+time period in which the symptom criteria are fulfilled.
+First episode, currently in partial remission: Partial remission is a time period
+during which an improvement after a previous episode is maintained and in
+which the defining criteria of the disorder are only partially fulfilled.
+First episode, currently in full remission: Full remission is a period of time
+after a previous episode during which no disorder-specific symptoms are
+present.
+Multiple episodes, currently in acute episode: Multiple episodes may be
+determined after a minimum of two episodes (i.e., after a first episode, a
+remission and a minimum of one relapse).
+Multiple episodes, currently in partial remission
+Multiple episodes, currently in full remission
+Continuous: Symptoms fulfilling the diagnostic symptom criteria of the disorder
+are remaining for the majority of the illness course, with subthreshold symptom
+periods being very brief relative to the overall course.
+Unspecified
+Specify current severity:

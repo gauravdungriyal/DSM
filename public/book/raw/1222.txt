@@ -1,0 +1,78 @@
+F13.20
+Moderate
+F13.21
+In early remission
+F13.21
+In sustained remission
+F13.20
+Severe
+F13.21
+In early remission
+F13.21
+In sustained remission
+Sedative, hypnotic, or anxiolytic withdrawal, With perceptual disturbances
+F13.132
+With mild use disorder
+F13.232
+With moderate or severe use disorder
+F13.932
+Without use disorder
+Sedative, hypnotic, or anxiolytic withdrawal, Without perceptual disturbances
+F13.130
+With mild use disorder
+F13.230
+With moderate or severe use disorder
+F13.930
+Without use disorder
+Sedative, hypnotic, or anxiolytic withdrawal delirium
+F13.131
+With mild use disorder
+F13.231
+With moderate or severe use disorder
+F13.931
+Without use disorder
+F94.0
+Selective mutism
+F93.0
+Separation anxiety disorder
+Z70.9
+Sex counseling
+Z56.81
+Sexual harassment on the job
+F65.51
+Sexual masochism disorder
+F65.52
+Sexual sadism disorder
+Z62.891
+Sibling relational problem
+Sleep-related hypoventilation
+G47.36
+Comorbid sleep-related hypoventilation
+G47.35
+Congenital central alveolar hypoventilation
+G47.34
+Idiopathic hypoventilation
+F40.10
+Social anxiety disorder
+Z60.4
+Social exclusion or rejection
+F80.82
+Social (pragmatic) communication disorder
+953
+F45.1
+Somatic symptom disorder
+Specific learning disorder
+F81.2
+With impairment in mathematics
+F81.0
+With impairment in reading
+F81.81
+With impairment in written expression
+Specific phobia
+F40.218
+Animal
+Blood-injection-injury
+F40.230
+Fear of blood
+F40.231
+Fear of injections and transfusions

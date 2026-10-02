@@ -1,0 +1,61 @@
+F14.920
+Without use disorder
+With perceptual disturbances
+___.__
+Amphetamine-type substance or other stimulant intoxication
+F15.122
+With mild use disorder
+F15.222
+With moderate or severe use disorder
+F15.922
+Without use disorder
+___.__
+Cocaine intoxication
+F14.122
+With mild use disorder
+F14.222
+With moderate or severe use disorder
+F14.922
+Without use disorder
+___.__
+Stimulant Withdrawal (643)
+Specify the particular substance that causes the withdrawal syndrome
+___.__
+Amphetamine-type substance or other stimulant withdrawal
+F15.13
+With mild use disorder
+F15.23
+With moderate or severe use disorder
+F15.93
+Without use disorder
+___.__
+Cocaine withdrawal
+F14.13
+With mild use disorder
+F14.23
+With moderate or severe use disorder
+F14.93
+Without use disorder
+___.__
+Stimulant-Induced Mental Disorders (644)
+Note: Disorders are listed in their order of appearance in the manual.
+aSpecify With onset during intoxication, With onset during withdrawal, With onset after medication
+use. Note: When prescribed as medication, amphetamine-type substances and other stimulants can
+also induce the relevant substance-induced mental disorder.
+bSpecify if: Acute, Persistent
+cSpecify if: Hyperactive, Hypoactive, Mixed level of activity
+___.__
+Amphetamine-Type Substance (or Other Stimulant)–Induced Psychotic
+Disordera (126)
+F15.159
+With mild use disorder
+F15.259
+With moderate or severe use disorder
+F15.959
+Without use disorder
+___.__
+Cocaine-Induced Psychotic Disordera (126)
+F14.159
+With mild use disorder
+F14.259
+With moderate or severe use disorder

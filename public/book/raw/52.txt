@@ -1,0 +1,55 @@
+condition
+G47.429
+Narcolepsy without cataplexy and without hypocretin deficiency due to a
+medical condition
+Breathing-Related Sleep Disorders (429)
+G47.33
+Obstructive Sleep Apnea Hypopneac (429)
+___.__
+Central Sleep Apnea (435)
+Specify current severity
+Specify whether:
+G47.31
+Idiopathic central sleep apnea
+R06.3
+Cheyne-Stokes breathing
+G47.37
+Central sleep apnea comorbid with opioid use
+Note: First code opioid use disorder, if present.
+___.__
+Sleep-Related Hypoventilation (439)
+Specify current severity
+Specify whether:
+G47.34
+Idiopathic hypoventilation
+G47.35
+Congenital central alveolar hypoventilation
+G47.36
+Comorbid sleep-related hypoventilation
+___.__
+Circadian Rhythm Sleep-Wake Disordersa (443)
+Specify whether:
+G47.21
+Delayed sleep phase type (444)
+Specify if: Familial, Overlapping with non-24-hour sleep-wake type
+G47.22
+Advanced sleep phase type (446)
+   Specify if: Familial
+G47.23
+Irregular sleep-wake type (447)
+G47.24
+Non-24-hour sleep-wake type (448)
+G47.26
+Shift work type (450)
+G47.20
+Unspecified type
+Parasomnias (451)
+__.__
+Non–Rapid Eye Movement Sleep Arousal Disorders (452)
+Specify whether:
+F51.3
+Sleepwalking type
+Specify if: With sleep-related eating, With sleep-related sexual
+behavior (sexsomnia)
+F51.4
+Sleep terror type

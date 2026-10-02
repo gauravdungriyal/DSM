@@ -1,0 +1,6 @@
+* text=auto
+
+# Preserve exact source-text bytes on every platform for checksum validation.
+public/book/raw/*.txt -text -whitespace
+*.pdf binary
+*.png binary

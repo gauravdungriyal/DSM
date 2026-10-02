@@ -1,0 +1,40 @@
+diagnosis of PTSD, there must be a period of time lasting more than 1 month during which
+Criteria B, C, D, and E have all been met for the same 1-month period of time.
+A significant subgroup of individuals with PTSD experience persistent dissociative
+symptoms of either depersonalization (detachment from their bodies) or derealization
+(detachment from the world around them). This can be indicated by using the “with dissociative
+symptoms” specifier.
+Associated Features
+Developmental regression, such as loss of language in young children, may occur. Auditory
+pseudo-hallucinations, such as having the sensory experience of hearing one’s thoughts spoken
+in one or more different voices, as well as paranoid ideation, can be present. Following
+prolonged, repeated, and severe traumatic events (e.g., childhood abuse, torture), the individual
+may additionally experience difficulties in regulating emotions or maintaining stable
+interpersonal relationships, or dissociative symptoms. When the traumatic event involves the
+violent death of someone with whom the individual had a close relationship, symptoms of both
+prolonged grief disorder and PTSD may be present.
+Prevalence
+The national lifetime prevalence estimate for PTSD using DSM-IV criteria is 6.8% for U.S.
+adults. Lifetime prevalence for U.S. adolescents using DSM-IV criteria has ranged from 5.0% to
+8.1% and a past 6-month prevalence of 4.9% for adolescents. While definitive, comprehensive
+population-based data using DSM-5 are not available, findings are beginning to emerge. In two
+U.S. national epidemiological studies, lifetime DSM-5 PTSD prevalence estimates ranged from
+6.1% to 8.3%, and the national 12-month DSM-5 prevalence estimate was 4.7% in both studies.
+National lifetime DSM-IV PTSD estimates from World Mental Health Surveys in 24 countries
+varied substantially among countries, income country groups, and WHO regions but was 3.9%
+overall. In conflict-affected populations worldwide, the point prevalence of PTSD with
+functional impairment is 11% after adjustment for age differences across studies.
+Rates of PTSD are higher among veterans and others whose vocation increases the risk of
+traumatic exposure (e.g., police, firefighters, emergency medical personnel). Highest rates
+(ranging from one-third to more than one-half of those exposed) are found among survivors of
+rape, military combat and captivity, and ethnically or politically motivated internment and
+genocide. The prevalence of PTSD may vary across development; children and adolescents,
+including preschool children, generally have displayed lower prevalence following exposure to
+serious traumatic events; however, this may be because previous criteria were insufficiently
+developmentally informed. Racial differences, based on DSM-IV data, show higher rates of
+PTSD among U.S. Latinx, African Americans, and American Indians compared with Whites.
+Potential reasons for these prevalence variations include differences in predisposing or enabling
+factors, such as exposure to past adversity and racism and discrimination, and in availability or
+quality of treatment, social support, socioeconomic status, and other social resources that
+facilitate recovery and are confounded with ethnic and racialized background.
+Development and Course

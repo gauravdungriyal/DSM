@@ -1,0 +1,37 @@
+Unspecified Catatonia
+This category applies to presentations in which symptoms characteristic of catatonia
+cause clinically significant distress or impairment in social, occupational, or other
+important areas of functioning but either the nature of the underlying mental disorder
+or other medical condition is unclear, full criteria for catatonia are not met, or there is
+insufficient information to make a more specific diagnosis (e.g., in emergency room
+settings).
+ 
+Coding note: Code first R29.818 other symptoms involving nervous and
+musculoskeletal systems, followed by F06.1 unspecified catatonia.
+138
+Other Specified Schizophrenia Spectrum and Other
+Psychotic Disorder
+F28
+This category applies to presentations in which symptoms characteristic of a
+schizophrenia spectrum and other psychotic disorder that cause clinically significant
+distress or impairment in social, occupational, or other important areas of functioning
+predominate but do not meet the full criteria for any of the disorders in the
+schizophrenia spectrum and other psychotic disorders diagnostic class. The other
+specified schizophrenia spectrum and other psychotic disorder category is used in
+situations in which the clinician chooses to communicate the specific reason that the
+presentation does not meet the criteria for any specific schizophrenia spectrum and
+other psychotic disorder. This is done by recording “other specified schizophrenia
+spectrum and other psychotic disorder” followed by the specific reason (e.g.,
+“persistent auditory hallucinations”).
+Examples of presentations that can be specified using the “other specified”
+designation include the following:
+1. Persistent auditory hallucinations occurring in the absence of any other
+features.
+2. Delusions with significant overlapping mood episodes: This includes
+persistent delusions with periods of overlapping mood episodes that are present
+for a substantial portion of the delusional disturbance (such that the criterion
+stipulating only brief mood disturbance in delusional disorder is not met).
+3. Attenuated psychosis syndrome: This syndrome is characterized by
+psychotic-like symptoms that are below a threshold for full psychosis (e.g., the
+symptoms are less severe and more transient, and insight is relatively
+maintained).

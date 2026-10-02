@@ -1,0 +1,38 @@
+the hypoventilation may be a consequence of increased work of breathing and/or impairment of
+respiratory muscle function (i.e., “can’t breathe”) or reduced respiratory drive.
+Neuromuscular disorders influence breathing through impairment of respiratory motor
+innervation or respiratory muscle function. They include conditions such as amyotrophic lateral
+sclerosis, spinal cord injury, diaphragmatic paralysis, myasthenia gravis, Lambert-Eaton
+syndrome, toxic or metabolic myopathies, postpolio syndrome, and Charcot-Marie-Tooth
+syndrome.
+Congenital central alveolar hypoventilation is a genetic disorder attributable to mutations of
+PHOX2B, a gene that is crucial for the development of the embryonic autonomic nervous system
+and neural crest derivatives. Children with congenital central alveolar hypoventilation show
+blunted ventilatory responses to hypercapnia, especially in non–rapid eye movement sleep.
+Sex- and Gender-Related Diagnostic Issues
+Gender distributions for sleep-related hypoventilation occurring in association with comorbid
+conditions reflect the gender distributions of the comorbid conditions. For example, COPD is
+more frequently present in men and with increasing age. Contrary to previous data, obesity
+hypoventilation is now thought to occur equally between genders, and in some studies there may
+be even a slightly greater prevalence in women.
+Diagnostic Markers
+Sleep-related hypoventilation is diagnosed using polysomnography, which demonstrates sleep-
+related hypoxemia and hypercapnia that is not better explained by another breathing-related sleep
+disorder. The documentation of 1) increased arterial pCO2 levels to > 55 mmHg during sleep or
+2) a ≥ 10-mmHg increase in pCO2 levels (to a level that also exceeds
+442
+50 mmHg) during sleep in comparison to awake supine values, in each case exceeding 10
+minutes’ duration, is the gold standard for diagnosis. However, obtaining arterial blood gas
+determinations during sleep is impractical, and non-invasive measures of pCO2 have not been
+adequately validated during sleep and are not widely used during polysomnography in adults.
+Prolonged and sustained decreases in oxygen saturation (oxygen saturation of < 90% for more
+than 5 minutes with a nadir of at least 85%, or oxygen saturation of < 90% for at least 30% of
+sleep time) in the absence of evidence of upper airway obstruction are often used as an indication
+of sleep-related hypoventilation; however, this finding is not specific, as there are other potential
+causes of hypoxemia, such as that due to lung disease.
+Children with congenital central alveolar hypoventilation are more likely to have disorders of
+the autonomic nervous system, Hirschsprung’s disease, neural crest tumors, and characteristic
+box-shaped face (i.e., the face is short relative to its width).
+Functional Consequences of Sleep-Related Hypoventilation
+The consequences of sleep-related hypoventilation are related to the effects of chronic exposure
+to hypercapnia and hypoxemia. These blood gas derangements cause vasoconstriction of the

@@ -1,0 +1,88 @@
+F16.24
+Other hallucinogen–induced bipolar and related disorder, With moderate or severe use disorder
+F16.24
+Other hallucinogen–induced depressive disorder, With moderate or severe use disorder
+F16.24
+Phencyclidine-induced bipolar and related disorder, With moderate or severe use disorder
+F16.24
+Phencyclidine-induced depressive disorder, With moderate or severe use disorder
+F16.259
+Other hallucinogen–induced psychotic disorder, With moderate or severe use disorder
+F16.259
+Phencyclidine-induced psychotic disorder, With moderate or severe use disorder
+F16.280
+Other hallucinogen–induced anxiety disorder, With moderate or severe use disorder
+F16.280
+Phencyclidine-induced anxiety disorder, With moderate or severe use disorder
+F16.920
+Other hallucinogen intoxication, Without use disorder
+F16.920
+Phencyclidine intoxication, Without use disorder
+F16.921
+Ketamine or other hallucinogen–induced delirium (ketamine or other hallucinogen medication taken as
+prescribed or for medical reasons)
+F16.921
+Other hallucinogen intoxication delirium, Without use disorder
+F16.921
+Phencyclidine intoxication delirium, Without use disorder
+F16.94
+Other hallucinogen–induced bipolar and related disorder, Without use disorder
+969
+F16.94
+Other hallucinogen–induced depressive disorder, Without use disorder
+F16.94
+Phencyclidine-induced bipolar and related disorder, Without use disorder
+F16.94
+Phencyclidine-induced depressive disorder, Without use disorder
+F16.959
+Other hallucinogen–induced psychotic disorder, Without use disorder
+F16.959
+Phencyclidine-induced psychotic disorder, Without use disorder
+F16.980
+Other hallucinogen–induced anxiety disorder, Without use disorder
+F16.980
+Phencyclidine-induced anxiety disorder, Without use disorder
+F16.983
+Hallucinogen persisting perception disorder
+F16.99
+Unspecified hallucinogen-related disorder
+F16.99
+Unspecified phencyclidine-related disorder
+F17.200
+Tobacco use disorder, Moderate
+F17.200
+Tobacco use disorder, Severe
+F17.201
+Tobacco use disorder, Moderate, In early remission
+F17.201
+Tobacco use disorder, Moderate, In sustained remission
+F17.201
+Tobacco use disorder, Severe, In early remission
+F17.201
+Tobacco use disorder, Severe, In sustained remission
+F17.203
+Tobacco withdrawal
+F17.208
+Tobacco-induced sleep disorder, With moderate or severe use disorder
+F17.209
+Unspecified tobacco-related disorder
+F18.10
+Inhalant use disorder, Mild
+F18.11
+Inhalant use disorder, Mild, In early remission
+F18.11
+Inhalant use disorder, Mild, In sustained remission
+F18.120
+Inhalant intoxication, With mild use disorder
+F18.121
+Inhalant intoxication delirium, With mild use disorder
+F18.14
+Inhalant-induced depressive disorder, With mild use disorder
+F18.159
+Inhalant-induced psychotic disorder, With mild use disorder
+F18.17
+Inhalant-induced major neurocognitive disorder, With mild use disorder
+F18.180
+Inhalant-induced anxiety disorder, With mild use disorder
+F18.188
+Inhalant-induced mild neurocognitive disorder, With mild use disorder

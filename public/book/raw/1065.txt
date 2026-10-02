@@ -1,0 +1,34 @@
+Other Mental Disorders and Additional Codes
+This chapter provides diagnostic codes for psychiatric presentations that are mental
+disorders (i.e., symptoms cause clinically significant distress or impairment in social,
+occupational, or other important areas of functioning) but that do not meet diagnostic
+requirements for any of the mental disorders in the prior Section II chapters. These codes allow
+for the documentation and coding of these otherwise unclassified mental disorders. This chapter
+also includes an additional code, “No diagnosis or condition,” for situations in which the
+individual has been evaluated and it is determined that no mental disorder or condition is present.
+The categories 1) other specified mental disorder due to another medical condition and 2)
+unspecified mental disorder due to another medical condition are for presentations for which it
+has been determined that the psychiatric symptoms (e.g., dissociative symptoms) are a direct
+physiological consequence of another medical condition but do not otherwise meet diagnostic
+criteria for any of the prior Section II mental disorders due to another medical condition. For the
+diagnosis of other specified or unspecified mental disorder due to another medical condition, it is
+necessary to code and list the medical condition first (e.g., B20 HIV disease), followed by the
+applicable code for either other specified or unspecified mental disorder due to another medical
+condition.
+The categories 1) other specified mental disorder and 2) unspecified mental disorder are
+residual categories used when all of the following considerations are met: the psychiatric
+presentation is a mental disorder (i.e., the symptoms cause clinically significant distress or
+impairment in social, occupational, or other important areas of functioning); the presentation
+does not meet diagnostic criteria for any of the specific mental disorders in Section II; neither
+does the presentation meet the definitional requirements of any of the other specified and
+unspecified mental disorder categories presented in Section II; and no other mental disorder
+diagnosis applies.
+As is the case with other specified and unspecified categories throughout DSM-5, the other
+specified category is used when the clinician chooses to specify the specific reason that the
+presentation does not meet the criteria for any of the existing categories (e.g., other specified
+mental disorder due to complex partial seizures, with dissociative symptoms), and the
+unspecified category is used when the clinician chooses not to specify the reason.
+Other Specified Mental Disorder Due to Another Medical
+Condition
+F06.8
+This category applies to presentations in which symptoms characteristic of a mental

@@ -1,0 +1,57 @@
+Z65.2
+Z65.3
+Problems Related to Other Legal Circumstances (833)
+Problems Related to Other Psychosocial, Personal, and Environmental
+Circumstances (833)
+Z72.9
+Problem Related to Lifestyle (833)
+Z64.0
+Problems Related to Unwanted Pregnancy (833)
+Z64.1
+Problems Related to Multiparity (833)
+Z64.4
+Discord With Social Service Provider, Including Probation Officer, Case Manager, or Social Services
+Worker (833)
+Z65.4
+Victim of Crime (833)
+Z65.4
+Victim of Terrorism or Torture (833)
+Z65.5
+Exposure to Disaster, War, or Other Hostilities (833)
+Problems Related to Access to Medical and Other Health Care (833)
+Z75.3
+Unavailability or Inaccessibility of Health Care Facilities (833)
+Z75.4
+Unavailability or Inaccessibility of Other Helping Agencies (833)
+Circumstances of Personal History (833)
+Z91.49
+Personal History of Psychological Trauma (833)
+Z91.82
+Personal History of Military Deployment (833)
+lxix
+Other Health Service Encounters for Counseling and Medical Advice (833)
+Z31.5
+Genetic Counseling (833)
+Z70.9
+Sex Counseling (834)
+Z71.3
+Dietary Counseling (834)
+Z71.9
+Other Counseling or Consultation (834)
+Additional Conditions or Problems That May Be a Focus of Clinical Attention
+(834)
+Z91.83
+Wandering Associated With a Mental Disorder (834)
+Z63.4
+Uncomplicated Bereavement (834)
+Z60.0
+Phase of Life Problem (834)
+Z65.8
+Religious of Spiritual Problem (834)
+Z72.811
+Adult Antisocial Behavior (835)
+Z72.810
+Child or Adolescent Antisocial Behavior (835)
+Z91.19
+Nonadherence to Medical Treatment (835)
+Overweight or Obesity (835)

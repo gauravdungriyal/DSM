@@ -1,0 +1,39 @@
+disease (e.g., F06.0 psychotic disorder due to Parkinson’s disease, with
+hallucinations; F06.31 depressive disorder due to Parkinson’s disease, with
+depressive features; F07.0 personality change due to traumatic brain injury,
+apathetic type).
+Diagnostic Features
+The essential feature of major or mild neurocognitive disorder (NCD) due to Parkinson’s disease
+is cognitive decline observed at the time of or following the onset of idiopathic Parkinson’s
+disease. The disturbance must occur in the setting of established Parkinson’s disease (Criterion
+B), and deficits must have developed gradually (Criterion C). The rate of progression of
+cognitive deficits may vary; for some individuals with mild deficits there may be very minimal
+change over time.
+The NCD is viewed as probably due to Parkinson’s disease when there is no evidence of
+another disorder that might be responsible for the cognitive decline and when the Parkinson’s
+disease precedes onset of the NCD. The NCD is considered possibly due to Parkinson’s disease
+when only one of these conditions is met but not both conditions. A diagnosis of Parkinson’s
+disease prior to the onset of the cognitive change increases the diagnostic confidence that the
+NCD is attributable to Parkinson’s disease, as denoted by the probable designation.
+Associated Features
+Frequently present features include apathy, depressed mood, anxious mood, hallucinations,
+delusions, personality changes, rapid eye movement (REM) sleep behavior disorder, excessive
+daytime sleepiness, freezing of gait, falls, bilateral involvement early in disease, postural
+instability and gait disturbance (PIGD) subtype, and hyposmia. The combination of postural and
+gait instability may occur early in the disease and may be described by the term PIGD subtype to
+distinguish from tremor-predominant Parkinson’s disease.
+Prevalence
+The prevalence of Parkinson’s disease in the United States steadily increases with age from
+approximately 0.4% between ages 60 and 69 years to 1.4% between ages 80 and 89 years.
+Parkinson’s disease is more common in men than in women. Similarly, the prevalence of NCD
+due to Parkinson’s disease is higher in men than in women. However, it is not clear if the
+incidence of NCD due to Parkinson’s disease is higher in men than in women. Among
+individuals with Parkinson’s disease, as many as 80% will eventually develop a major NCD.
+Among those without a major NCD, the prevalence of mild NCD in Parkinson’s disease has been
+estimated at 25%–27%. For individuals with incident-untreated Parkinson’s disease, a range of
+9%–19% have mild NCD, whereas other studies have reported major NCD occurring in 24% of
+newly diagnosed untreated Parkinson’s disease. Among African Americans, the risk of
+Parkinson’s disease tends to be lower than among non-Latinx Whites, but the risk of dementia
+among those with the disease tends to be higher.
+Development and Course
+Onset of Parkinson’s disease is typically between ages 50 and 89 years, with most expression in

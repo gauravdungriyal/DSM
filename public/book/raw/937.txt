@@ -1,0 +1,39 @@
+Genetic and physiological.
+Extrapyramidal features may be prominent in some cases, with an overlap with syndromes such
+as progressive supranuclear palsy and corticobasal degeneration. Features of motor neuron
+disease may be present in some cases (e.g., muscle atrophy, weakness). A subset of individuals
+develop visual hallucinations.
+Prevalence
+Major or mild frontotemporal NCD is a common cause of early-onset NCD in individuals
+younger than 65 years. In international studies, population prevalence estimates are in the range
+of 2–31 per 100,000, with overall rates generally noted to be equal in men and women, although
+variation exists among studies. Approximately 20%–25% of cases of frontotemporal NCD occur
+in individuals older than 65 years. Frontotemporal NCD accounts for about 5% of all cases of
+dementia in unselected autopsy series. The behavioral variant is the most common presentation
+of NCD due to frontotemporal degeneration, occurring in approximately 60% of cases.
+Development and Course
+Individuals with major or mild frontotemporal NCD commonly present in their 50s, although the
+age at onset varies from the 20s through the 80s. The disease is gradually progressive, with
+median survival being 6–11 years after symptom onset and 3–4 years after diagnosis. Survival is
+shorter and decline is faster in major or mild frontotemporal NCD than in typical Alzheimer’s
+disease.
+Risk and Prognostic Factors
+Approximately 40% of individuals with major or mild frontotemporal
+NCD have a family history of early-onset NCD, and approximately 10% show an autosomal
+dominant inheritance pattern. A number of genetic factors have been identified, such as
+mutations in the gene encoding the microtubule-associated protein tau (MAPT), the granulin
+gene (GRN), and the C9ORF72 gene (C9orf72). A number of families with causative mutations
+have been identified (see the section “Diagnostic Markers” for this disorder), but many
+individuals with known familial transmission do not have a known mutation. The presence of
+motor neuron disease is associated with a more rapid deterioration.
+698
+Diagnostic Markers
+Computed tomography (CT) or structural magnetic resonance imaging (MRI) may show distinct
+patterns of atrophy. In behavioral-variant major or mild frontotemporal NCD, both frontal lobes
+(especially the medial frontal lobes) and the anterior temporal lobes are atrophic. In semantic
+language–variant major or mild frontotemporal NCD, the middle, inferior, and anterior temporal
+lobes are atrophic bilaterally but asymmetrically, with the left side usually being more affected.
+Nonfluent language–variant major or mild frontotemporal NCD is associated with predominantly
+left posterior frontal-insular atrophy. Functional imaging demonstrates hypoperfusion and/or
+cortical hypometabolism in the corresponding brain regions, which may be present in the early
+stages in the absence of structural abnormality. Emerging biomarkers for Alzheimer’s disease

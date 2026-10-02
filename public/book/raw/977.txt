@@ -1,0 +1,44 @@
+deficits persist following successful treatment of an associated medical condition, then another
+etiology may be responsible for the cognitive decline.
+731
+Major or Mild Neurocognitive Disorder Due to Multiple
+Etiologies
+Diagnostic Criteria
+A. The criteria are met for major or mild neurocognitive disorder.
+B. There is evidence from the history, physical examination, or laboratory findings
+that the neurocognitive disorder is the pathophysiological consequence of more
+than one etiological process, excluding substances (e.g., neurocognitive disorder
+due to Alzheimer’s disease with subsequent development of vascular
+neurocognitive disorder).
+Note: Refer to the diagnostic criteria for the various neurocognitive disorders
+due to specific medical conditions for guidance on establishing the particular
+etiologies.
+C. The cognitive deficits are not better explained by another mental disorder and do
+not occur exclusively during the course of a delirium.
+Coding note (see coding table on pp. 682–683):
+For major neurocognitive disorder due to multiple etiologies, code first all of the
+etiological medical conditions (with the exception of vascular disease, which is not
+coded), followed by either F02.81 for major neurocognitive disorder due to multiple
+etiologies, with behavioral disturbance; or F02.80 for major neurocognitive disorder
+due to multiple etiologies, without behavioral disturbance.
+If vascular disease is among the multiple etiological medical conditions, code next
+either F01.51 for major vascular neurocognitive disorder, with behavioral
+disturbance; or F01.50 for major vascular neurocognitive disorder, without behavioral
+disturbance. Note: The severity specifiers “mild,” “moderate,” and “severe” cannot be
+coded for major neurocognitive disorder but should still be recorded.
+For example, for a presentation of major neurocognitive disorder, moderate, with a
+behavioral disturbance, that is judged to be due to Alzheimer’s disease, vascular
+disease, and HIV infection, and in which heavy chronic alcohol use is judged to be a
+contributing factor, code the following: G30.9 Alzheimer’s disease, B20 HIV
+infection; F02.81 major neurocognitive disorder due to Alzheimer’s disease and HIV
+infection, 
+moderate, 
+with 
+behavioral 
+disturbance; 
+F01.51 
+major 
+vascular
+neurocognitive disorder, moderate, with behavioral disturbance; and F10.27 severe
+alcohol use disorder with alcohol-induced major neurocognitive disorder, moderate,
+nonamnestic-confabulatory type.

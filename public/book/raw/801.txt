@@ -1,0 +1,39 @@
+With perceptual disturbances: Hallucinations with intact reality testing or
+auditory, visual, or tactile illusions occur in the absence of a delirium.
+Coding note: The ICD-10-CM code depends on whether or not there is a comorbid
+cannabis use disorder and whether or not there are perceptual disturbances.
+583
+For cannabis intoxication, without perceptual disturbances: If a mild
+cannabis use disorder is comorbid, the ICD-10-CM code is F12.120, and if a
+moderate or severe cannabis use disorder is comorbid, the ICD-10-CM code is
+F12.220. If there is no comorbid cannabis use disorder, then the ICD-10-CM
+code is F12.920.
+For cannabis intoxication, with perceptual disturbances: If a mild cannabis
+use disorder is comorbid, the ICD-10-CM code is F12.122, and if a moderate or
+severe cannabis use disorder is comorbid, the ICD-10-CM code is F12.222. If
+there is no comorbid cannabis use disorder, then the ICD-10-CM code is
+F12.922.
+Specifiers
+When hallucinations occur in the absence of intact reality testing, a diagnosis of
+substance/medication-induced psychotic disorder should be considered.
+Diagnostic Features
+The essential feature of cannabis intoxication is the presence of clinically significant problematic
+behavioral or psychological changes that develop during, or shortly after, cannabis use (Criterion
+B). Intoxication typically begins with a “high” feeling followed by symptoms that include
+euphoria with inappropriate laughter and grandiosity, sedation, lethargy, impairment in short-
+term memory, difficulty carrying out complex mental processes, impaired judgment, distorted
+sensory perceptions, impaired motor performance, and the sensation that time is passing slowly.
+Occasionally, anxiety (which can be severe), dysphoria, or social withdrawal occurs. These
+psychoactive effects are accompanied by two or more of the following signs, developing within
+2 hours of cannabis use: conjunctival injection, increased appetite, dry mouth, and tachycardia
+(Criterion C).
+Intoxication develops within minutes if plant cannabis is smoked, and may take a few hours
+to develop when the cannabis is ingested orally. The effects usually last 3–4 hours, with duration
+longer when the substance is ingested orally. The magnitude of the behavioral and physiological
+changes depends on the dose, the method of administration, and the characteristics of the
+individual using the substance, such as rate of absorption, tolerance, and sensitivity to the effects
+of the substance. Because most cannabinoids, including delta-9-tetrahydrocannabinol (delta-9-
+THC), are fat soluble, the effects of cannabis or hashish may occasionally persist or reoccur for
+12–24 hours because of the slow release of psychoactive substances from fatty tissue or to
+enterohepatic circulation.
+Synthetic cannabinoids (e.g., Spice), whose use has become more common in recent years,

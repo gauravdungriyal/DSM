@@ -1,0 +1,37 @@
+with some conditions than with others. Currently, there is support for a direct pathophysiological
+mechanism for depressive symptoms in focal lesions (CVA, TBI, neoplasm) affecting certain
+brain regions, Parkinson’s disease, Huntington’s disease, hypothyroidism, Cushing’s syndrome,
+and pancreatic cancer.
+Prevalence
+Sex differences in prevalence depend somewhat on the sex difference associated with the
+medical condition (e.g., systemic lupus erythematosus is more common in women; stroke is
+somewhat more common in middle-age men compared with women).
+Development and Course
+Following stroke, the onset of depression appears to be acute, occurring within a few days of the
+CVA in the largest case series. However, in some cases, onset of the depression is weeks to
+months following the CVA. In the largest series, the duration of the major depressive episode
+following stroke was 9–11 months on average. With Parkinson’s disease and Huntington’s
+disease, depression often precedes the major motor impairments and cognitive impairments
+associated with each condition. This is more prominently the case for Huntington’s disease, in
+which depression is considered to be the first neuropsychiatric symptom. There is some
+observational evidence that depression is less common as the neurocognitive disorder due to
+Huntington’s disease progresses. In some individuals with static brain injuries and other central
+nervous system diseases, mood symptoms may be episodic (i.e., recurring) over the course of the
+disorder. In Cushing’s syndrome and hypothyroidism, depression can be an early manifestation
+of the disease. In pancreatic cancer, depression often precedes other features.
+Risk and Prognostic Factors
+The risk of acute onset of a major depressive disorder following a CVA (within 1 day to a week
+of the event) appears to be strongly correlated with lesion location, with greatest risk associated
+with left frontal strokes and least risk apparently associated with right frontal lesions
+208
+in those individuals who present within days of the stroke. The association with frontal regions
+and laterality is not observed in depressive states that occur in the 2–6 months following stroke,
+perhaps indicative of later depressive symptoms representing major depressive disorder,
+adjustment disorder, or demoralization. In individuals with Parkinson’s disease, early age at
+onset, greater burden of motor symptoms, and longer duration of the disease have been
+associated with depression. Risk of depression after TBI has been associated with female gender,
+prior depressive disorder, early psychiatric symptoms following injury, lower brain volume, and
+unemployment.
+Sex- and Gender-Related Diagnostic Issues
+Women may be at differentially higher risk for developing depression in the setting of
+cardiovascular disease, particularly poststroke.

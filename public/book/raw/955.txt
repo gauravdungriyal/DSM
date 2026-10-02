@@ -1,0 +1,38 @@
+Substance/Medication-Induced Major or Mild
+Neurocognitive Disorder
+Diagnostic Criteria
+A. The criteria are met for major or mild neurocognitive disorder.
+B. The neurocognitive impairments do not occur exclusively during the course of a
+delirium and persist beyond the usual duration of intoxication and acute
+withdrawal.
+C. The involved substance or medication and duration and extent of use are
+capable of producing the neurocognitive impairment.
+D. The temporal course of the neurocognitive deficits is consistent with the timing of
+substance or medication use and abstinence (e.g., the deficits remain stable or
+improve after a period of abstinence).
+E. The neurocognitive disorder is not attributable to another medical condition or is
+not better explained by another mental disorder.
+Coding note (see also coding table on pp. 682–683): The ICD-10-CM codes for
+the [specific substance/medication]-induced neurocognitive disorders are indicated
+in the table below. Note that the ICD-10-CM code depends on whether or not there
+is a comorbid substance use disorder present for the same class of substance. In
+any case, an additional separate diagnosis of a substance use disorder is not given.
+Substance-induced major neurocognitive disorder: If a mild substance use
+disorder is comorbid with the substance-induced major neurocognitive disorder, the
+4th position character is “1,” and the clinician should record “mild [substance] use
+disorder” before the substance-induced major neurocognitive disorder (e.g., “mild
+inhalant use disorder with inhalant-induced major neurocognitive disorder”). For
+alcohol and sedative, hypnotic, or anxiolytic substances, a mild substance use
+disorder is insufficient to cause a substance-induced major neurocognitive disorder;
+thus, there are no available ICD-10-CM codes for this combination. If a moderate or
+severe substance use disorder is comorbid with the substance-induced major
+neurocognitive disorder, the 4th position character is “2,” and the clinician should
+record “moderate [substance] use disorder” or “severe [substance] use disorder,”
+depending on the severity of the comorbid substance use disorder. If there is no
+comorbid substance use disorder, then the 4th position character is “9,” and the
+clinician should record only the substance-induced major neurocognitive disorder.
+713
+Substance-induced mild neurocognitive disorder: If a mild substance use
+disorder is comorbid with the substance-induced mild neurocognitive disorder, the
+4th position character is “1,” and the clinician should record “mild [substance] use
+disorder” before the substance-induced mild neurocognitive disorder (e.g., “mild

@@ -1,0 +1,41 @@
+861
+Updated from DSM-5, DSM-5-TR includes an expanded version of the Outline and an approach
+to assessment using the Cultural Formulation Interview (CFI), which has been field-tested
+among clinicians, patients, and accompanying relatives and found to be a feasible, acceptable,
+and useful cultural assessment tool.
+The Outline for Cultural Formulation calls for systematic assessment of the following
+categories:
+Cultural identity of the individual: Describe the individual’s demographic (e.g., age, gender, ethnoracial background) or
+other socially and culturally defined characteristics that may influence interpersonal relationships, access to resources, and
+developmental and current challenges, conflicts, or predicaments. Other clinically relevant aspects of identity may include
+religious affiliation and spirituality, socioeconomic class, caste, personal and family places of birth and growing up, migrant
+status, occupation, and sexual orientation, among others. Note which aspects of identity are prioritized by the individual and
+how they interact (intersectionality), which may reflect the influence of clinical setting and health concerns. For migrants,
+the degree and kinds of involvement with both the cultural contexts of origin and the new cultural contexts should be noted.
+Similarly, for individuals who identify with racialized and ethnic groups, the degree of interaction and identification with
+their own group and other segments of society should be noted. Language abilities, preferences, and patterns of use are
+relevant for identifying difficulties with access to care, social integration, and clinical communication or the need for an
+interpreter.
+Cultural concepts of distress: Describe the cultural constructs that influence how the individual experiences, understands,
+and communicates his or her symptoms or problems to others. These constructs include cultural idioms of distress, cultural
+explanations or perceived causes, and cultural syndromes. The level of severity and meaning of the distressing experiences
+should be assessed in relation to the norms of the individual’s cultural background. Priority symptoms, perceived
+seriousness of the illness, the level of associated stigma, and anticipated outcomes are all relevant. Elicit the individual’s and
+family’s or friends’ help-seeking expectations and plans, as well as patterns of self-coping and their connection to the
+individual’s cultural concepts of distress, including past help-seeking experiences. Assessment of coping and help-seeking
+patterns should consider the use of professional as well as traditional, alternative, or complementary sources of care.
+Psychosocial stressors and cultural features of vulnerability and resilience: Identify key stressors, challenges, and
+supports in the individual’s social environment (which may include both local and distant events). These include social
+determinants of the individual’s mental health such as access to resources (e.g., housing, transportation) and opportunities
+(e.g., education, employment); exposure to racism, discrimination, and systemic institutional stigmatization; and social
+marginalization or exclusion (structural violence). Also assess the role of religion, family, and other interpersonal
+relationships and social networks (e.g., friends, neighbors, coworkers, online forums or groups) in causing stress or
+providing emotional, instrumental, and informational support. Social stressors and social supports vary with social context,
+family structure, developmental tasks, and the cultural meaning of events. Levels of functioning, disability, and resilience
+should be assessed in light of the individual’s cultural background.
+Cultural features of the relationship between the individual and the clinician, treatment team, and institution:
+Identify differences in cultural background, language, education, and social status among other aspects of identity between
+an individual and clinician (or the treatment team and institution) that may cause difficulties in communication and may
+influence diagnosis and treatment. Considering the ways that individuals
+862
+and clinicians are positioned socially and perceive each other in terms of social categories may influence the assessment

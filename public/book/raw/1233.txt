@@ -1,0 +1,86 @@
+F13.132
+Sedative, hypnotic, or anxiolytic withdrawal, With perceptual disturbances, With mild use disorder
+F13.14
+Sedative-, hypnotic-, or anxiolytic-induced bipolar and related disorder, With mild use disorder
+F13.14
+Sedative-, hypnotic-, or anxiolytic-induced depressive disorder, With mild use disorder
+F13.159
+Sedative-, hypnotic-, or anxiolytic-induced psychotic disorder, With mild use disorder
+F13.180
+Sedative-, hypnotic-, or anxiolytic-induced anxiety disorder, With mild use disorder
+F13.181
+Sedative-, hypnotic-, or anxiolytic-induced sexual dysfunction, With mild use disorder
+F13.182
+Sedative-, hypnotic-, or anxiolytic-induced sleep disorder, With mild use disorder
+F13.188
+Sedative-, hypnotic-, or anxiolytic-induced mild neurocognitive disorder, With mild use disorder
+F13.20
+Sedative, hypnotic, or anxiolytic use disorder, Moderate
+F13.20
+Sedative, hypnotic, or anxiolytic use disorder, Severe
+F13.21
+Sedative, hypnotic, or anxiolytic use disorder, Moderate, In early remission
+F13.21
+Sedative, hypnotic, or anxiolytic use disorder, Moderate, In sustained remission
+F13.21
+Sedative, hypnotic, or anxiolytic use disorder, Severe, In early remission
+F13.21
+Sedative, hypnotic, or anxiolytic use disorder, Severe, In sustained remission
+F13.220
+Sedative, hypnotic, or anxiolytic intoxication, With moderate or severe use disorder
+963
+F13.221
+Sedative, hypnotic, or anxiolytic intoxication delirium, With moderate or severe use disorder
+F13.230
+Sedative, hypnotic, or anxiolytic withdrawal, Without perceptual disturbances, With moderate or
+severe use disorder
+F13.231
+Sedative, hypnotic, or anxiolytic withdrawal delirium, With moderate or severe use disorder
+F13.232
+Sedative, hypnotic, or anxiolytic withdrawal, With perceptual disturbances, With moderate or severe
+use disorder
+F13.24
+Sedative-, hypnotic-, or anxiolytic-induced bipolar and related disorder, With moderate or severe use
+disorder
+F13.24
+Sedative-, hypnotic-, or anxiolytic-induced depressive disorder, With moderate or severe use disorder
+F13.259
+Sedative-, hypnotic-, or anxiolytic-induced psychotic disorder, With moderate or severe use disorder
+F13.27
+Sedative-, hypnotic-, or anxiolytic-induced major neurocognitive disorder, With moderate or severe
+use disorder
+F13.280
+Sedative-, hypnotic-, or anxiolytic-induced anxiety disorder, With moderate or severe use disorder
+F13.281
+Sedative-, hypnotic-, or anxiolytic-induced sexual dysfunction, With moderate or severe use disorder
+F13.282
+Sedative-, hypnotic-, or anxiolytic-induced sleep disorder, With moderate or severe use disorder
+F13.288
+Sedative-, hypnotic-, or anxiolytic-induced mild neurocognitive disorder, With moderate or severe use
+disorder
+F13.920
+Sedative, hypnotic, or anxiolytic intoxication, Without use disorder
+F13.921
+Sedative-, hypnotic-, or anxiolytic-induced delirium (sedative, hypnotic, or anxiolytic medication
+taken as prescribed)
+F13.921
+Sedative, hypnotic, or anxiolytic intoxication delirium, Without use disorder
+F13.930
+Sedative, hypnotic, or anxiolytic withdrawal, Without perceptual disturbances, Without use disorder
+F13.931
+Sedative, hypnotic, or anxiolytic–induced delirium (during withdrawal from sedative, hypnotic, or
+anxiolytic medication taken as prescribed)
+F13.931
+Sedative, hypnotic, or anxiolytic withdrawal delirium, Without use disorder
+F13.932
+Sedative, hypnotic, or anxiolytic withdrawal, With perceptual disturbances, Without use disorder
+F13.94
+Sedative-, hypnotic-, or anxiolytic-induced bipolar and related disorder, Without use disorder
+F13.94
+Sedative-, hypnotic-, or anxiolytic-induced depressive disorder, Without use disorder
+F13.959
+Sedative-, hypnotic-, or anxiolytic-induced psychotic disorder, Without use disorder
+F13.97
+Sedative-, hypnotic-, or anxiolytic-induced major neurocognitive disorder, Without use disorder
+F13.980
+Sedative-, hypnotic-, or anxiolytic-induced anxiety disorder, Without use disorder

@@ -1,0 +1,40 @@
+Major or mild neurocognitive disorder due to Parkinson’s disease.
+disease.
+Diagnostic Markers
+Biomarkers indicative of NCDLB may be considered to carry diagnostic weight equivalent to
+core clinical features; these include low striatal dopamine transporter uptake on single photon
+emission computed tomography (SPECT) or positron emission tomography (PET) scan,
+abnormal (low uptake) (MIBG) myocardial scintigraphy suggesting cardiac sympathetic
+denervation, and polysomnographic confirmation of REM sleep without atonia. The associated
+condition REM sleep behavior disorder may be diagnosed through a formal sleep study or
+identified by questioning the individual or informant about relevant symptoms. The underlying
+neurodegenerative disease is primarily associated with misfolding and aggregation of α-
+synuclein, which may be confirmed via postmortem histopathological examination.
+Neuropsychological testing beyond the use of a brief screening instrument may be necessary to
+define cognitive deficits clearly. Assessment scales developed to measure fluctuation can be
+useful.
+Biomarkers supportive of NCDLB but with more limited evidence of diagnostic value
+include the following: preservation of medial temporal volume relative to Alzheimer’s disease on
+magnetic resonance imaging (MRI), generalized low uptake on SPECT/PET perfusion scan with
+reduced occipital activity with or without the cingulate island sign (sparing of the posterior
+cingulate cortex relative to the precuneus plus cuneus on fluorodeoxyglucose-PET imaging), and
+prominent slow-wave activity on electroencephalogram with periodic fluctuations in the pre-
+alpha/theta range.
+Functional Consequences of Major or Mild Neurocognitive Disorder
+With Lewy Bodies
+Individuals with NCDLB are more functionally impaired than would be expected for their
+cognitive deficits when contrasted to individuals with other neurodegenerative diseases,
+702
+such as Alzheimer’s disease. This is largely a result of motor and autonomic impairments, which
+cause problems with toileting, transferring, and eating. Sleep disorders and prominent psychiatric
+symptoms may also add to functional difficulties. Consequently, the quality of life of individuals
+with NCDLB is often significantly worse than that of individuals with Alzheimer’s disease.
+Differential Diagnosis
+The distinction between NCDLB
+and NCD due to Parkinson’s disease is based on the timing and sequence of motor symptoms
+and cognitive symptoms. Consensus criteria for DLB separate NCDLB from NCD due to
+Parkinson’s disease by specifying that for dementia to be attributed to Parkinson’s disease, the
+Parkinson’s disease diagnosis is present for at least 1 year before cognitive decline has reached
+the level of major NCD, whereas for NCDLB, the cognitive symptoms may begin before, with,
+or in the absence of parkinsonism. By contrast, expert consensus criteria for Parkinson’s disease
+propose that if cognitive decline occurs prior to a motor diagnosis, the diagnosis of Parkinson’s

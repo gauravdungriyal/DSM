@@ -1,0 +1,83 @@
+F16.21
+In sustained remission
+F16.20
+Severe
+F16.21
+In early remission
+F16.21
+In sustained remission
+Pica
+F50.89
+In adults
+F98.3
+In children
+F43.10
+Posttraumatic stress disorder
+F52.4
+Premature (early) ejaculation
+F32.81
+Premenstrual dysphoric disorder
+Z56.82
+Problem related to current military deployment status
+Z72.9
+Problem related to lifestyle
+Z60.2
+Problem related to living alone
+Z59.3
+Problem related to living in a residential institution
+Z55.8
+Problems related to inadequate teaching
+Z64.1
+Problems related to multiparity
+Z65.3
+Problems related to other legal circumstances
+Z65.2
+Problems related to release from prison
+Z64.0
+Problems related to unwanted pregnancy
+F43.8
+Prolonged grief disorder
+F95.0
+Provisional tic disorder
+F54
+Psychological factors affecting other medical conditions
+Psychotic disorder due to another medical condition
+F06.2
+With delusions
+F06.0
+With hallucinations
+F63.1
+Pyromania
+G47.52
+Rapid eye movement sleep behavior disorder
+F94.1
+Reactive attachment disorder
+Z63.0
+Relationship distress with spouse or intimate partner
+Z65.8
+Religious or spiritual problem
+951
+G25.81
+Restless legs syndrome
+F98.21
+Rumination disorder
+Schizoaffective disorder
+F25.0
+Bipolar type
+F25.1
+Depressive type
+F60.1
+Schizoid personality disorder
+F20.9
+Schizophrenia
+F20.81
+Schizophreniform disorder
+F21
+Schizotypal personality disorder
+Z55.1
+Schooling unavailable and unattainable
+Sedative-, hypnotic-, or anxiolytic-induced anxiety disorder
+F13.180
+With mild use disorder
+F13.280
+With moderate or severe use disorder

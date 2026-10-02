@@ -1,0 +1,32 @@
+distinction between delirium and major NCD according to acuteness of onset and temporal
+course is particularly difficult in those elderly individuals who had a prior NCD that may not
+have been recognized, or who developed persistent cognitive impairment following an episode of
+delirium. When delirium and major NCD are comorbid, the management of the delirium should
+generally be given priority.
+Other Specified Delirium
+R41.0
+This category applies to presentations in which symptoms characteristic of delirium
+that cause clinically significant distress or impairment in social, occupational, or other
+important areas of functioning predominate but do not meet the full criteria for
+delirium or any of the disorders in the neurocognitive disorders diagnostic class. The
+other specified delirium category is used in situations in which the clinician chooses
+to communicate the specific reason that the presentation does not meet the criteria
+for delirium or any specific neurocognitive disorder. This is done by recording “other
+specified delirium” followed by the specific reason (e.g., “subsyndromal delirium”).
+An example of a presentation that can be specified using the “other specified”
+designation is the following:
+Subsyndromal delirium: A delirium-like presentation involving disturbances in
+attention, higher-level thought, and circadian rhythm, in which the severity of
+cognitive impairment falls short of that required for the diagnosis of delirium.
+Unspecified Delirium
+R41.0
+This category applies to presentations in which symptoms characteristic of delirium
+that cause clinically significant distress or impairment in social, occupational, or other
+important areas of functioning predominate but do not meet the full criteria for
+delirium or any of the disorders in the neurocognitive disorders diagnostic class. The
+unspecified delirium category is used in situations in which the clinician chooses not
+to specify the reason that the criteria are not met for delirium, and includes
+presentations for which there is insufficient information to make a more specific
+diagnosis (e.g., in emergency room settings).
+679
+Major and Mild Neurocognitive Disorders

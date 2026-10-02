@@ -1,0 +1,59 @@
+F10.921
+Without use disorder
+___.__
+Alcohol Withdrawal Deliriumb,c (673)
+F10.131
+With mild use disorder
+F10.231
+With moderate or severe use disorder
+F10.931
+Without use disorder
+___.__
+Alcohol-Induced Major Neurocognitive Disorder (712)
+Specify if: Persistent
+___.__
+Amnestic-confabulatory type
+F10.26
+With moderate or severe use disorder
+F10.96
+Without use disorder
+___.__
+Nonamnestic-confabulatory type
+F10.27
+With moderate or severe use disorder
+F10.97
+Without use disorder
+___.__
+Alcohol-Induced Mild Neurocognitive Disorder (712)
+Specify if: Persistent
+F10.188
+With mild use disorder
+F10.288
+With moderate or severe use disorder
+F10.988
+Without use disorder
+F10.99
+Unspecified Alcohol-Related Disorder (568)
+Caffeine-Related Disorders (569)
+F15.920
+Caffeine Intoxication (569)
+F15.93
+Caffeine Withdrawal (571)
+___.__
+Caffeine-Induced Mental Disorders (574)
+Note: Disorders are listed in their order of appearance in the manual.
+Specify With onset during intoxication, With onset during withdrawal, With onset after medication use.
+Note: When taken over the counter, substances in this class can also induce the relevant substance-
+induced mental disorder.
+F15.980
+Caffeine-Induced Anxiety Disorder (255)
+F15.982
+Caffeine-Induced Sleep Disorder (468)
+Specify whether Insomnia type, Daytime sleepiness type, Mixed type
+F15.99
+Unspecified Caffeine-Related Disorder (574)
+xlii
+Cannabis-Related Disorders (575)
+___.__
+Cannabis Use Disorder (575)
+Specify if: In a controlled environment

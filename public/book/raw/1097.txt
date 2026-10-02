@@ -1,0 +1,49 @@
+Z56.2
+Threat of Job Loss
+Z56.3
+Stressful Work Schedule
+Z56.4
+Discord With Boss and Workmates
+Z56.5
+Uncongenial Work Environment
+Z56.6
+Other Physical and Mental Strain Related to Work
+Z56.81
+Sexual Harassment on the Job
+Z56.9
+Other Problem Related to Employment
+Housing Problems
+Z59.01
+Sheltered Homelessness
+This category may be used when sheltered homelessness has an impact on an individual’s
+treatment or prognosis. An individual is considered to be experiencing sheltered homelessness if
+the primary nighttime residence is a homeless shelter, a warming shelter, a domestic violence
+shelter, a motel, or in a temporary or transitional living situation.
+Z59.02
+Unsheltered Homelessness
+This category may be used when unsheltered homelessness has an impact on an individual’s
+treatment or prognosis. An individual is considered to be experiencing unsheltered homelessness
+if residing in a place not meant for human habitation, such as a public space (e.g., tunnel,
+transportation station, mall), a building not intended for residential use (e.g., abandoned
+structure, unused factory), a car, a cave, a cardboard box, or some other ad hoc housing situation.
+Z59.1
+Inadequate Housing
+This category may be used when lack of adequate housing has an impact on an individual’s
+treatment or prognosis. Examples of inadequate housing conditions include lack of heat (in cold
+temperatures) or electricity, infestation by insects or rodents, inadequate plumbing and toilet
+facilities, overcrowding, lack of adequate sleeping space, and excessive noise. It is important to
+consider cultural norms before assigning this category.
+Z59.2
+Discord With Neighbor, Lodger, or Landlord
+This category may be used when discord with neighbors, lodgers, or a landlord is a focus of
+clinical attention or has an impact on the individual’s treatment or prognosis.
+Z59.3
+Problem Related to Living in a Residential Institution
+This category may be used when a problem (or problems) related to living in a residential
+institution is a focus of clinical attention or has an impact on the individual’s treatment or
+prognosis. Psychological reactions to a change in living situation are not included in this
+category; such reactions would be better captured as an adjustment disorder.
+Z59.9
+Other Housing Problem
+This category may be used when there is a problem related to housing circumstances other than
+as specified above.

@@ -1,0 +1,40 @@
+whom a diagnosis of “mental disorder” would be inappropriate. Therefore, a generic diagnostic
+criterion requiring distress or disability has been used to establish disorder thresholds, usually
+worded “the disturbance causes clinically significant distress or impairment in social,
+occupational, or other important areas of functioning.” Assessing whether this criterion is met,
+especially in terms of role function, is an inherently difficult clinical judgment. The text
+following the definition of a mental disorder acknowledges that this criterion may be especially
+helpful in determining an individual’s need for treatment. Use of information from the individual
+as well as from family members and other third parties via interview or self- or informant-
+reported assessments regarding the individual’s performance is often necessary.
+Coding and Recording Procedures
+The official coding system in use in the United States since October 1, 2015, is the International
+Classification of Diseases, Tenth Revision, Clinical Modification (ICD-10-CM), a version of the
+World Health Organization’s ICD-10 that has been modified for clinical use by the Centers for
+Disease Control and Prevention’s National Center for Health Statistics (NCHS) and provides the
+only permissible diagnostic codes for mental disorders for clinical use in the United States. Most
+DSM-5 disorders have an alphanumeric ICD-10-CM code that appears preceding the name of the
+disorder (or coded subtype or specifier) in the DSM-5-TR Classification and in the
+accompanying criteria set for each disorder. For some diagnoses (e.g., neurocognitive disorders,
+substance/medication-induced disorders), the appropriate code depends on further specification
+and is listed within the criteria set for the
+24
+disorder with a coding note, and in some cases is further clarified in the text section “Recording
+Procedures.” The names of some disorders are followed by alternative terms enclosed in
+parentheses.
+The use of diagnostic codes is fundamental to medical record keeping. Diagnostic coding
+facilitates data collection and retrieval and compilation of statistical information. Codes also are
+often required to report diagnostic data to interested third parties, including governmental
+agencies, private insurers, and the World Health Organization. For example, in the United States,
+the use of ICD-10-CM codes for disorders in DSM-5-TR has been mandated by the Health Care
+Financing Administration for purposes of reimbursement under the Medicare system.
+Principal Diagnosis/Reason for Visit
+The general convention in DSM-5 is to allow multiple diagnoses to be assigned for those
+presentations that meet criteria for more than one DSM-5 disorder. When more than one
+diagnosis is given in an inpatient setting, the principal diagnosis is the condition established after
+study to be chiefly responsible for occasioning the admission of the individual. When more than
+one diagnosis is given for an individual in an outpatient setting, the reason for visit is the
+condition that is chiefly responsible for the ambulatory medical services received during the
+visit. In most cases, the principal diagnosis or the reason for visit is also the main focus of
+attention or treatment. It is often difficult (and somewhat arbitrary) to determine which diagnosis
+is the principal diagnosis or the reason for visit. For example, it may be unclear which diagnosis

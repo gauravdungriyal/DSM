@@ -1,0 +1,39 @@
+body part is moved intentionally (kinetic or action tremor). When an individual describes a
+tremor that is consistent with postural tremor but the clinician does not directly observe the
+tremor, it may be helpful to try to re-create the situation in which the tremor occurred (e.g.,
+drinking from a cup and saucer).
+Most available information concerns lithium-induced tremor. Lithium tremor is a common,
+usually benign, and well-tolerated side effect of therapeutic doses. However, it may cause social
+embarrassment, occupational difficulties, and noncompliance in some individuals. As serum
+lithium levels approach toxic levels, the tremor may become coarser and be accompanied by
+muscle twitching, fasciculations, or ataxia. Nontoxic lithium tremor may improve spontaneously
+over time. A variety of factors may increase the risk of lithium tremor (e.g., increasing age, high
+serum lithium levels, concurrent antidepressant or antipsychotic medication or another dopamine
+receptor blocking agent, excessive caffeine intake, personal or family history of tremor, presence
+of alcohol use disorder, and associated anxiety). The frequency of complaints about tremor
+appears to decrease with duration of lithium treatment. Factors that may exacerbate the tremor
+include anxiety, stress, fatigue, hypoglycemia, thyrotoxicosis, pheochromocytoma, hypothermia,
+and alcohol withdrawal. Tremor can also be an early feature of serotonin syndrome.
+Differential Diagnosis
+Medication-induced postural tremor should be distinguished from a preexisting tremor that is not
+caused by the effects of a medication. Factors that help to establish that the tremor was
+preexisting include its temporal relationship to the initiation of medication, lack of correlation
+with serum levels of the medication, and persistence after the medication is discontinued. If a
+preexisting, nonpharmacologically induced tremor is present (e.g., essential tremor) that worsens
+with medication, such a tremor would not be considered to be medication-induced postural
+tremor. The factors described above that may contribute to the severity of a medication-induced
+postural tremor (e.g., anxiety, stress, fatigue, hypoglycemia, thyrotoxicosis, pheochromocytoma,
+hypothermia, alcohol withdrawal) may also be a cause of tremor independent of the medication.
+Medication-induced postural tremor is not diagnosed if the tremor is better accounted for by
+medication-induced parkinsonism. A medication-induced postural tremor is usually absent at rest
+and intensifies when the affected part is brought into action or held in a sustained position. In
+contrast, the tremor related to medication-induced parkinsonism is usually lower in frequency
+(3–6 Hz), worse at rest, and suppressed during intentional movement and usually occurs in
+association with other symptoms of medication-induced parkinsonism (e.g., akinesia, rigidity).
+818
+Other Medication-Induced Movement Disorder
+G25.79 Other Medication-Induced Movement Disorder
+This category is for medication-induced movement disorders not captured by any of the specific
+disorders listed earlier. Examples include 1) presentations resembling neuroleptic malignant
+syndrome that are associated with medications other than antipsychotic medications and other
+dopamine receptor blocking agents and 2) other medication-induced tardive conditions.

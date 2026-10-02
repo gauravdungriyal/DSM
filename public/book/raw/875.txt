@@ -1,0 +1,40 @@
+Stimulant-induced mental disorders.
+amphetamine-type substance, cocaine, or other stimulant and on whether or not
+there is a comorbid amphetamine-type substance, cocaine, or other stimulant use
+disorder. If mild amphetamine-type substance or other stimulant use disorder is
+comorbid, the ICD-10-CM code is F15.13. If moderate or severe amphetamine-type
+substance or other stimulant use disorder is comorbid, the ICD-10-CM code is
+F15.23. For amphetamine-type substance or other stimulant withdrawal occurring in
+the absence of amphetamine-type substance or other stimulant use disorder (e.g., in
+a patient taking amphetamine solely under appropriate medical supervision), the
+ICD-10-CM code is F15.93. If mild cocaine use disorder is comorbid, the ICD-10-CM
+code is F14.13. If moderate or severe cocaine use disorder is comorbid, the ICD-10-
+CM code is F14.23. For cocaine withdrawal occurring in the absence of a cocaine
+use disorder, the ICD-10-CM code is F14.93.
+Diagnostic Features
+The essential feature of stimulant withdrawal is the presence of a characteristic withdrawal
+syndrome that develops within a few hours to several days after the cessation of (or marked
+reduction in) stimulant use (generally high dose) that has been prolonged (Criterion A). The
+withdrawal syndrome is characterized by the development of dysphoric mood accompanied by
+two or more of the following physiological changes: fatigue, vivid and unpleasant dreams,
+insomnia or hypersomnia, increased appetite, and psychomotor retardation or agitation (Criterion
+B). Bradycardia is often present and is a reliable measure of stimulant withdrawal.
+Anhedonia and drug craving can often be present but are not part of the diagnostic criteria.
+These symptoms cause clinically significant distress or impairment in social, occupational, or
+other important areas of functioning (Criterion C). The symptoms must not be attributable to
+another medical condition and are not better explained by another mental disorder (Criterion D).
+644
+Associated Features
+Acute withdrawal symptoms (“a crash”) are often seen after periods of repetitive high-dose use
+(“runs” or “binges”). These symptoms are characterized by intense and unpleasant feelings of
+lassitude and depression and increased appetite, generally requiring several days of rest and
+recuperation. Depressive symptoms with suicidal thoughts or behavior can occur and are
+generally the most serious problems seen during “crashing” or other forms of stimulant
+withdrawal. Many individuals with stimulant use disorder may experience a withdrawal
+syndrome at some point.
+Differential Diagnosis
+Stimulant withdrawal is distinguished from stimulant-induced
+mental disorders (e.g., stimulant-induced depressive disorder, with onset during withdrawal)
+because the symptoms (e.g., depressed mood) in these latter disorders are in excess of those
+usually associated with stimulant withdrawal, predominate in the clinical presentation, and are
+severe enough to warrant clinical attention.

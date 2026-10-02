@@ -1,0 +1,58 @@
+F12.280
+With moderate or severe use disorder
+F12.980
+Without use disorder
+___.__
+Cannabis-Induced Sleep Disordera (468)
+Specify whether Insomnia type, Daytime sleepiness type, Mixed type
+F12.188
+With mild use disorder
+F12.288
+With moderate or severe use disorder
+xliii
+F12.988
+Without use disorder
+___.__
+Cannabis Intoxication Deliriumb,c (672)
+F12.121
+With mild use disorder
+F12.221
+With moderate or severe use disorder
+F12.921
+Without use disorder
+F12.921
+Pharmaceutical Cannabis Receptor Agonist–Induced Deliriumb,c (674)
+Note: When pharmaceutical cannabis receptor agonist medication taken
+as prescribed. The designation “taken as prescribed” is used to
+differentiate medication-induced delirium from substance intoxication
+delirium.
+F12.99
+Unspecified Cannabis-Related Disorder (586)
+Hallucinogen-Related Disorders (587)
+___.__
+Phencyclidine Use Disorder (587)
+Specify if: In a controlled environment
+Specify current severity/remission:
+F16.10
+Mild
+F16.11
+In early remission
+F16.11
+In sustained remission
+F16.20
+Moderate
+F16.21
+In early remission
+F16.21
+In sustained remission
+F16.20
+Severe
+F16.21
+In early remission
+F16.21
+In sustained remission
+___.__
+Other Hallucinogen Use Disorder (590)
+Specify the particular hallucinogen
+Specify if: In a controlled environment
+Specify current severity/remission:

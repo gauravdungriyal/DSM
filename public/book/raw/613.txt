@@ -1,0 +1,34 @@
+G47.33
+429
+Comorbidity
+Medical and psychiatric comorbidities are common among individuals with narcolepsy and
+include obesity, bruxism, enuresis, precocious puberty (among individuals with pediatric-onset
+narcolepsy), mood disorders, and ADHD. Rapid weight gain is common in young children with a
+sudden disease onset. Parasomnias (e.g., sleepwalking, REM sleep behavior disorder),
+obstructive sleep apnea, restless legs syndrome, and periodic limb movements are common in
+individuals who develop narcolepsy. Comorbid sleep apnea should be considered if there is a
+sudden aggravation of preexisting narcolepsy.
+Relationship to International Classification of Sleep Disorders
+The International Classification of Sleep Disorders, 3rd Edition (ICSD-3), differentiates two
+subtypes of narcolepsy: NT1 (narcolepsy with cataplexy or hypocretin deficiency) and NT2
+(narcolepsy without cataplexy or hypocretin deficiency). NT1 secondary to another medical
+condition (G47.421) and NT2 secondary to another medical condition (G47.429) are reported in
+ICSD-3 as secondary narcolepsy subtypes.
+Breathing-Related Sleep Disorders
+The breathing-related sleep disorders category encompasses three relatively distinct disorders:
+obstructive sleep apnea hypopnea, central sleep apnea, and sleep-related hypoventilation.
+Obstructive Sleep Apnea Hypopnea
+Diagnostic Criteria
+A. Either (1) or (2):
+1. Evidence by polysomnography of at least five obstructive apneas or
+hypopneas per hour of sleep and either of the following sleep symptoms:
+a. Nocturnal breathing disturbances: snoring, snorting/gasping, or breathing
+pauses during sleep.
+b. Daytime sleepiness, fatigue, or unrefreshing sleep despite sufficient
+opportunities to sleep that is not better explained by another mental
+disorder (including a sleep disorder) and is not attributable to another
+medical condition.
+2. Evidence by polysomnography of 15 or more obstructive apneas and/or
+hypopneas per hour of sleep regardless of accompanying symptoms.
+Specify current severity:
+Mild: Apnea hypopnea index is less than 15.

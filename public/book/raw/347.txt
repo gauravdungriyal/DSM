@@ -1,0 +1,42 @@
+demonstrate the temporal seasonal relationships defined above and no
+nonseasonal major depressive episodes have occurred during that same
+period.
+D. Seasonal major depressive episodes (as described above) substantially
+outnumber the nonseasonal major depressive episodes that may have
+occurred over the individual’s lifetime.
+Note: The specifier “with seasonal pattern” can apply to the pattern of major
+depressive episodes in major depressive disorder, recurrent. The essential
+feature is the onset and remission of major depressive episodes at characteristic
+times of the year. In most cases, the episodes begin in fall or winter and remit in
+spring. Less commonly, there may be recurrent summer depressive episodes.
+This pattern of onset and remission of episodes must have occurred during at
+least a 2-year period, without any nonseasonal episodes occurring during this
+period. In addition, the seasonal depressive episodes must substantially
+outnumber any nonseasonal depressive episodes over the individual’s lifetime.
+ This specifier does not apply to those situations in which the pattern is better
+explained by seasonally linked psychosocial stressors (e.g., seasonal
+unemployment or school schedule). Major depressive episodes that occur in a
+seasonal pattern are often characterized by loss of energy, hypersomnia,
+overeating, weight gain, and a craving for carbohydrates.
+ The prevalence of winter-type seasonal pattern appears to vary with latitude,
+age, and sex. Prevalence increases with higher latitudes. Age is also a strong
+predictor of seasonality, with younger persons at higher risk for winter depressive
+episodes.
+Specify if:
+In partial remission: Symptoms of the immediately previous major depressive
+episode are present but full criteria are not met, or there is a period lasting less
+than 2 months without any significant symptoms of a major depressive episode
+following the end of such an episode.
+In full remission: During the past 2 months, no significant signs or symptoms of
+the disturbance were present.
+Specify current severity:
+Severity is based on the number of criterion symptoms, the severity of those
+symptoms, and the degree of functional disability.
+Mild: Few, if any, symptoms in excess of those required to make the diagnosis
+are present, the intensity of the symptoms is distressing but manageable, and
+the symptoms result in minor impairment in social or occupational functioning.
+Moderate: The number of symptoms, intensity of symptoms, and/or functional
+impairment are between those specified for “mild” and “severe.”
+Severe: The number of symptoms is substantially in excess of that required to
+make the diagnosis, the intensity of the symptoms is seriously distressing and
+unmanageable, and the symptoms markedly interfere with social and

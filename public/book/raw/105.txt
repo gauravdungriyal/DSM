@@ -1,0 +1,42 @@
+Categorical and Dimensional Approaches to Diagnosis
+Structural problems rooted in the categorical design of DSM have emerged in both clinical
+practice and research. Relevant evidence of such problems includes high rates of comorbidity
+among disorders, symptom heterogeneity within disorders, and the substantial need for other
+specified and unspecified diagnoses to classify the substantial number of clinical presentations
+that do not meet criteria for any of the specific DSM disorders. Studies of both genetic and
+environmental risk factors, whether based on twin designs, familial transmission, or molecular
+analyses, have also raised questions about whether a categorical approach is the optimal way to
+structure of the DSM system.
+There is broad recognition that a too-rigid categorical system does not capture clinical
+experience or important scientific observations. The results of numerous studies of comorbidity
+and disease transmission in families, including twin studies and molecular genetic studies, make
+strong arguments for what many astute clinicians have long observed: the boundaries between
+many disorder “categories” are more fluid over the life course than has been recognized, and
+many symptoms that make up the essential features of a particular disorder may occur, at varying
+levels of severity, in many other disorders.
+A dimensional approach classifies clinical presentations on the basis of quantification of
+attributes rather than the assignment to categories and works best in describing phenomena that
+are distributed continuously and that do not have clear boundaries. Although dimensional
+systems increase reliability and communicate more clinical information
+15
+(because they report clinical attributes that might be subthreshold in a categorical system),
+they also have serious limitations, and thus far, they have been less useful than categorical
+systems in clinical practice. Numerical dimensional descriptions are much less familiar and vivid
+than are the category names of mental disorders. Moreover, as yet there is no agreement on the
+choice of the optimal dimensions to be used for classification purposes. Nonetheless, with the
+increasing research on, and familiarity with, dimensional systems and the establishment of
+clinically meaningful cut points to guide treatment decisions, greater acceptance of dimensional
+approaches both as a method of conveying clinical information and as a research tool is
+eventually likely.
+For reasons of both clinical utility and compatibility with the categorical ICD classification
+required for coding, DSM-5 continues to be a primarily categorical classification with
+dimensional elements that divides mental disorders into types based on criteria sets with defining
+features. Despite the categorical framework, it is important to recognize that in DSM-5 there is
+no assumption that each category of mental disorder is a completely discrete entity with absolute
+boundaries dividing it from other mental disorders or from no mental disorder. There is also no
+assumption that all individuals described as having the same mental disorder are alike in all
+important ways. The clinician using DSM-5 should therefore consider that individuals sharing a
+diagnosis are likely to be heterogeneous even in regard to the defining features of the diagnosis
+and that boundary cases will be difficult to diagnose in any but a probabilistic fashion. This
+outlook allows greater flexibility in the use of the system, encourages more specific attention to
+boundary cases, and emphasizes the need to capture additional clinical information that goes

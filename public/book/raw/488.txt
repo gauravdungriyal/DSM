@@ -1,0 +1,36 @@
+F43.8
+This category applies to presentations in which symptoms characteristic of a trauma-
+and stressor-related disorder that cause clinically significant distress or impairment
+in social, occupational, or other important areas of functioning predominate but do
+not meet the
+328
+full criteria for any of the disorders in the trauma- and stressor-related disorders
+diagnostic class. The other specified trauma- and stressor-related disorder category
+is used in situations in which the clinician chooses to communicate the specific
+reason that the presentation does not meet the criteria for any specific trauma- and
+stressor-related disorder. This is done by recording “other specified trauma- and
+stressor-related disorder” followed by the specific reason (e.g., “persistent response
+to trauma with PTSD-like symptoms”).
+Examples of presentations that can be specified using the “other specified”
+designation include the following:
+1. Adjustment-like disorders with delayed onset of symptoms that occur more
+than 3 months after the stressor.
+2. Adjustment-like disorders with prolonged duration of more than 6 months
+without prolonged duration of stressor.
+3. Persistent response to trauma with PTSD-like symptoms (i.e., symptoms
+occurring in response to a traumatic event that fall short of the diagnostic
+threshold for PTSD and that persist for longer than 6 months, sometimes referred
+to as “subthreshold/partial PTSD”).
+4. Ataque de nervios: See “Culture and Psychiatric Diagnosis” in Section III.
+5. Other cultural syndromes: See “Culture and Psychiatric Diagnosis” in Section
+III.
+Unspecified Trauma- and Stressor-Related Disorder
+F43.9
+This category applies to presentations in which symptoms characteristic of a trauma-
+and stressor-related disorder that cause clinically significant distress or impairment
+in social, occupational, or other important areas of functioning predominate but do
+not meet the full criteria for any of the disorders in the trauma- and stressor-related
+disorders diagnostic class. The unspecified trauma- and stressor-related disorder
+category is used in situations in which the clinician chooses not to specify the reason
+that the criteria are not met for a specific trauma- and stressor-related disorder and
+includes presentations in which there is insufficient information to make a more

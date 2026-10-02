@@ -1,0 +1,33 @@
+Social anxiety disorder.
+Intellectual developmental disorder (intellectual disability) and global developmental delay.
+F84.0
+The symptoms of social (pragmatic) communication disorder overlap with
+those of social anxiety disorder. The differentiating feature is the timing of the onset of
+symptoms. In social (pragmatic) communication disorder, the individual has never had effective
+social communication; in social anxiety disorder, the social communication skills developed
+appropriately but are not utilized because of anxiety, fear, or distress about social interactions.
+56
+Social
+communication skills may be deficient among individuals with global developmental delay or
+intellectual developmental disorder, but a separate diagnosis is not given unless the social
+communication deficits are clearly in excess of the intellectual limitations.
+Unspecified Communication Disorder
+F80.9
+This category applies to presentations in which symptoms characteristic of
+communication disorder that cause clinically significant distress or impairment in
+social, occupational, or other important areas of functioning predominate but do not
+meet the full criteria for communication disorder or for any of the disorders in the
+neurodevelopmental disorders diagnostic class. The unspecified communication
+disorder category is used in situations in which the clinician chooses not to specify
+the reason that the criteria are not met for communication disorder or for a specific
+neurodevelopmental disorder, and includes presentations in which there is
+insufficient information to make a more specific diagnosis.
+Autism Spectrum Disorder
+Autism Spectrum Disorder
+Diagnostic Criteria
+A. Persistent deficits in social communication and social interaction across multiple
+contexts, as manifested by all of the following, currently or by history (examples
+are illustrative, not exhaustive; see text):
+1. Deficits in social-emotional reciprocity, ranging, for example, from abnormal
+social approach and failure of normal back-and-forth conversation; to reduced
+sharing of interests, emotions, or affect; to failure to initiate or respond to

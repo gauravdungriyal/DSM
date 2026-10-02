@@ -1,0 +1,43 @@
+As with all substance-related disorders, conduct disorder in adolescence, antisocial personality
+disorder, and other substance use disorders tend to co-occur with other (or unknown) substance
+intoxication.
+Other (or Unknown) Substance Withdrawal
+Diagnostic Criteria
+A. Cessation of (or reduction in) use of a substance that has been heavy and
+prolonged.
+B. The development of a substance-specific syndrome shortly after the cessation of
+(or reduction in) substance use.
+C. The substance-specific syndrome causes clinically significant distress or
+impairment in social, occupational, or other important areas of functioning.
+D. The symptoms are not attributable to another medical condition and are not
+better explained by another mental disorder, including withdrawal from another
+substance.
+E. The substance involved cannot be classified under any of the other substance
+categories (alcohol; caffeine; cannabis; opioids; sedatives, hypnotics, or
+anxiolytics; stimulants; or tobacco) or is unknown.
+Specify if:
+With perceptual disturbances: This specifier may be noted when
+hallucinations with intact reality testing or auditory, visual, or tactile illusions
+occur in the absence of a delirium.
+Coding note: The ICD-10-CM code depends on whether or not there is a comorbid
+other (or unknown) substance use disorder and whether or not there are perceptual
+disturbances.
+For other (or unknown) substance withdrawal, without perceptual
+disturbances: If a mild other (or unknown) substance use disorder is comorbid,
+the ICD-10-CM code is F19.130, and if a moderate or severe other (or unknown)
+substance use disorder is comorbid, the ICD-10-CM code is F19.230. If there is
+no comorbid other (or unknown) substance use disorder (e.g., in a patient taking
+an other [or unknown] substance solely under appropriate medical supervision),
+then the ICD-10-CM code is F19.930.
+For 
+other 
+(or 
+unknown) 
+substance 
+withdrawal, 
+with 
+perceptual
+disturbances: If a mild other (or unknown) substance use disorder is comorbid,
+the ICD-10-CM code is
+659
+F19.132, and if a moderate or severe other (or unknown) substance use disorder

@@ -1,0 +1,43 @@
+18
+implicit and unintentional biases, habits, routines, and practices that result in misrecognition
+and inequity. As a result, individuals can participate in and inadvertently contribute to systemic
+racism without consciously endorsing racist ideas. The concept of social structural racism
+emphasizes the ways that racism and discrimination are manifested in the organization and
+norms of society and public policy with pervasive inequities in economic resources, power, and
+privilege that impact exposure to health risk and access to health care. The structural violence
+and oppression of racism have physical, psychological, and social consequences, including
+negative effects on mental health.
+Racism is an important social determinant of health that contributes to a wide variety of
+adverse health outcomes, including hypertension, suicidal behavior, and posttraumatic stress
+disorder and can predispose individuals to substance use, mood disorders, and psychosis.
+Negative racial stereotypes and attitudes affect the psychological development and well-being of
+racialized groups. Other adverse consequences of discrimination include unequal access to care
+and clinician bias in diagnosis and treatment; for example, misdiagnosis of schizophrenia among
+African Americans presenting with mood disorders and other conditions, more coercive
+pathways to care, less time in outpatient treatment, and more frequent use of physical restraints
+and suboptimal treatments. Clinicians should make active efforts to recognize and address all
+forms of racism, bias, and stereotyping in clinical assessment, diagnosis, and treatment.
+Attention to Culture, Racism, and Discrimination in DSM-5-TR
+During the DSM-5-TR review process, steps have been taken to address the impact of culture,
+racism, and discrimination on psychiatric diagnosis in the text of the disorder chapters. A Cross-
+Cutting Review Committee on Cultural Issues, composed of 19 U.S.-based and international
+experts in cultural psychiatry, psychology, and anthropology, reviewed the texts for cultural
+influences on disorder characteristics, incorporating relevant information in the sections on
+culture-related diagnostic issues. A separate Ethnoracial Equity and Inclusion Work Group,
+composed of 10 mental health practitioners from diverse ethnic and racialized backgrounds with
+expertise in disparity-reduction practices, reviewed references to race, ethnicity, and related
+concepts to avoid perpetuating stereotypes or including discriminatory clinical information.
+DSM-5-TR is committed to the use of language that challenges the view that races are
+discrete and natural entities. The text uses terminology such as racialized instead of racial to
+highlight the socially constructed nature of race. When the term ethnoracial is used in the text, it
+denotes the U.S. Census categories, such as Hispanic, White, or African American, that combine
+ethnic and racialized identifiers. The emerging term Latinx (singular and plural) is used in place
+of Latino/a to promote gender-inclusive terminology. The term Caucasian is not used because it
+is based on obsolete and erroneous views about the geographic origin of a prototypical pan-
+European ethnicity. The terms minority and non-White are avoided because they describe social
+groups in relation to a racialized “majority,” a practice that tends to perpetuate social hierarchies.
+When necessary for clarity in reporting epidemiological or other information based on specific
+studies, however, the text uses the group labels from the relevant studies. The term culture is
+used not to refer to a discrete social group (e.g., “prevalence differs across cultures”) but rather to
+indicate the heterogeneity of cultural views and practices within societies; the terms cultural
+contexts or cultural backgrounds are preferred instead.

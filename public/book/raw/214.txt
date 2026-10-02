@@ -1,0 +1,40 @@
+Specify current severity:
+Severity is rated by a quantitative assessment of the primary symptoms of
+psychosis, including delusions, hallucinations, disorganized speech, abnormal
+psychomotor
+106
+behavior, and negative symptoms. Each of these symptoms may be rated for its
+current severity (most severe in the last 7 days) on a 5-point scale ranging from
+0 (not present) to 4 (present and severe). (See Clinician-Rated Dimensions of
+Psychosis Symptom Severity in the chapter “Assessment Measures.”)
+Note: Diagnosis of delusional disorder can be made without using this severity
+specifier.
+Subtypes
+In erotomanic type, the central theme of the delusion is that another person is in love with the
+individual. The person about whom this conviction is held is usually of higher status (e.g., a
+famous individual or a superior at work) but can be a complete stranger. Efforts to contact the
+object of the delusion are common. In grandiose type, the central theme of the delusion is the
+conviction of having some great talent or insight or of having made some important discovery.
+Less commonly, the individual may have the delusion of having a special relationship with a
+prominent individual or of being a prominent person (in which case the actual individual may be
+regarded as an impostor). Grandiose delusions may have a religious content. In jealous type, the
+central theme of the delusion is that of an unfaithful partner. This belief is arrived at without due
+cause and is based on incorrect inferences supported by small bits of “evidence” (e.g., disarrayed
+clothing). The individual with the delusion usually confronts the spouse or lover and attempts to
+intervene in the imagined infidelity. In persecutory type, the central theme of the delusion
+involves the individual’s belief of being conspired against, cheated, spied on, followed,
+poisoned, maliciously maligned, harassed, or obstructed in the pursuit of long-term goals. Small
+slights may be exaggerated and become the focus of a delusional system. The affected individual
+may engage in repeated attempts to obtain satisfaction by legal or legislative action. Individuals
+with persecutory delusions are often resentful and angry and may resort to violence against those
+they believe are hurting them. In somatic type, the central theme of the delusion involves bodily
+functions or sensations. Somatic delusions can occur in several forms. Most common is the belief
+that the individual emits a foul odor; that there is an infestation of insects on or in the skin; that
+there is an internal parasite; or that parts of the body are not functioning.
+Diagnostic Features
+The essential feature of delusional disorder is the presence of one or more delusions that persist
+for at least 1 month (Criterion A). A diagnosis of delusional disorder is not given if the
+individual has ever had a symptom presentation that met Criterion A for schizophrenia (Criterion
+B). Apart from the direct impact of the delusions, impairments in psychosocial functioning may
+be more circumscribed than those seen in other psychotic disorders such as schizophrenia, and
+behavior is not obviously bizarre or odd (Criterion C). If mood episodes occur concurrently with

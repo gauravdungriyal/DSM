@@ -1,0 +1,40 @@
+Specify if:
+With catatonia (refer to the criteria for catatonia associated with another mental
+disorder, p. 135, for definition).
+Coding note: Use additional code F06.1 catatonia associated with
+schizophrenia to indicate the presence of the comorbid catatonia.
+115
+Specify current severity:
+Severity is rated by a quantitative assessment of the primary symptoms of
+psychosis, including delusions, hallucinations, disorganized speech, abnormal
+psychomotor behavior, and negative symptoms. Each of these symptoms may
+be rated for its current severity (most severe in the last 7 days) on a 5-point
+scale ranging from 0 (not present) to 4 (present and severe). (See Clinician-
+Rated Dimensions of Psychosis Symptom Severity in the chapter “Assessment
+Measures.”)
+Note: Diagnosis of schizophrenia can be made without using this severity
+specifier.
+Diagnostic Features
+The characteristic symptoms of schizophrenia involve a range of cognitive, behavioral, and
+emotional dysfunctions, but no single symptom is pathognomonic of the disorder. The diagnosis
+involves the recognition of a constellation of signs and symptoms associated with impaired
+occupational or social functioning. Individuals with the disorder will vary substantially on most
+features, as schizophrenia is a heterogeneous clinical syndrome.
+At least two Criterion A symptoms must be present for a significant portion of time during a
+1-month period or longer. At least one of these symptoms must be the clear presence of
+delusions (Criterion A1), hallucinations (Criterion A2), or disorganized speech (Criterion A3).
+Grossly disorganized or catatonic behavior (Criterion A4) and negative symptoms (Criterion A5)
+may also be present. In those situations in which the active-phase symptoms remit within a
+month in response to treatment, Criterion A is still met if the clinician estimates that they would
+have persisted in the absence of treatment.
+Schizophrenia involves impairment in one or more major areas of functioning (Criterion B).
+If the disturbance begins in childhood or adolescence, the expected level of function is not
+attained. Comparing the individual with unaffected siblings may be helpful. The dysfunction
+persists for a substantial period during the course of the disorder and does not appear to be a
+direct result of any single feature. Avolition (i.e., reduced drive to pursue goal-directed behavior;
+Criterion A5) is linked to the social dysfunction described under Criterion B. There is also strong
+evidence for a relationship between cognitive impairment (see the section “Associated Features”
+for this disorder) and functional impairment in individuals with schizophrenia.
+Some signs of the disturbance must persist for a continuous period of at least 6 months
+(Criterion C). Prodromal symptoms often precede the active phase, and residual symptoms may
+follow it, characterized by mild or subthreshold forms of hallucinations or delusions. Individuals

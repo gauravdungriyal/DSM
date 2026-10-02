@@ -1,0 +1,12 @@
+F43.9
+Unspecified trauma- and stressor-related disorder
+Z62.29
+Upbringing away from parents
+Z65.4
+Victim of crime
+Z65.4
+Victim of terrorism or torture
+F65.3
+Voyeuristic disorder
+Z91.83
+Wandering associated with a mental disorder

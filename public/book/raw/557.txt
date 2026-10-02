@@ -1,0 +1,39 @@
+Specify current severity:
+The minimum level of severity is based, for adults, on current body mass index (BMI)
+(see below) or, for children and adolescents, on BMI percentile. The ranges below
+are derived from World Health Organization categories for thinness in adults; for
+children and adolescents, corresponding BMI percentiles should be used. The level
+of severity may be increased to reflect clinical symptoms, the degree of functional
+disability, and the need for supervision.
+Mild: BMI ≥ 17 kg/m2.
+Moderate: BMI 16–16.99 kg/m2.
+Severe: BMI 15–15.99 kg/m2.
+Extreme: BMI < 15 kg/m2.
+382
+Subtypes
+Most individuals with the binge-eating/purging type of anorexia nervosa who binge eat also
+purge through self-induced vomiting or the misuse of laxatives, diuretics, or enemas. Some
+individuals with this subtype of anorexia nervosa do not binge eat but do regularly purge after
+the consumption of small amounts of food.
+Crossover between the subtypes over the course of the disorder is not uncommon; therefore,
+subtype description should be used to describe current symptoms rather than longitudinal course.
+Diagnostic Features
+There are three essential features of anorexia nervosa: persistent energy intake restriction; intense
+fear of gaining weight or of becoming fat, or persistent behavior that interferes with weight gain;
+and a disturbance in self-perceived weight or shape. The individual maintains a body weight that
+is below a minimally normal level for age, sex, developmental trajectory, and physical health
+(Criterion A). Individuals’ body weights frequently meet this criterion following a significant
+weight loss, but among children and adolescents, there may alternatively be failure to make
+expected weight gain or to maintain a normal developmental trajectory (i.e., while growing in
+height) instead of weight loss.
+Criterion A requires that the individual’s weight be significantly low (i.e., less than
+minimally normal or, for children and adolescents, less than that minimally expected). Weight
+assessment can be challenging because normal weight range differs among individuals, and
+different thresholds have been published defining thinness or underweight status. Body mass
+index (BMI; calculated as weight in kilograms/height in meters2) is a useful measure to assess
+body weight for height. For adults, a BMI of 18.5 kg/m2 has been employed by the Centers for
+Disease Control and Prevention (CDC) and the World Health Organization (WHO) as the lower
+limit of normal body weight. Therefore, most adults with a BMI greater than or equal to 18.5
+kg/m2 would not be considered to have a significantly low body weight. On the other hand, a
+BMI of lower than 17.0 kg/m2 has been considered by the WHO to indicate moderate or severe
+thinness; therefore, an individual with a BMI less than 17.0 kg/m2 would likely be considered to

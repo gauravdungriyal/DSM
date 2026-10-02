@@ -1,0 +1,42 @@
+Substance withdrawal delirium.
+Medication-induced delirium.
+F16.921 phencyclidine intoxication delirium, acute, hypoactive).
+675
+The name of the substance withdrawal delirium begins with the
+specific substance (e.g., alcohol) that is presumed to be causing the withdrawal delirium. The
+diagnostic code is selected from substance-specific codes in the coding note included in the
+criteria set. When recording the name of the disorder, the comorbid substance use disorder (if
+any) is listed first, followed by the word “with,” followed by the substance withdrawal delirium,
+followed by the course (i.e., acute, persistent), followed by the specifier indicating level of
+psychomotor activity (i.e., hyperactive, hypoactive, mixed level of activity). For example, in the
+case of acute hyperactive withdrawal delirium occurring in a man with a severe alcohol use
+disorder, the diagnosis is F10.231 severe alcohol use disorder with alcohol withdrawal delirium,
+acute, hyperactive. A separate diagnosis of the comorbid severe alcohol use disorder is not given.
+The name of the medication-induced delirium begins with the
+specific substance (e.g., dexamethasone) that is presumed to be causing the delirium. The name
+of the disorder is followed by the course (i.e., acute, persistent), followed by the specifier
+indicating level of psychomotor activity (i.e., hyperactive, hypoactive, mixed level of activity).
+For example, in the case of acute hyperactive medication-induced delirium occurring in a man
+using dexamethasone as prescribed, the diagnosis is F19.921 dexamethasone-induced delirium,
+acute, hyperactive.
+Specifiers
+Regarding course, in hospital settings, delirium usually lasts about 1 week, but some symptoms
+often persist even after individuals are discharged from the hospital.
+Individuals with delirium may rapidly switch between hyperactive and hypoactive states. The
+hyperactive state may be more common or more frequently recognized and often is associated
+with medication side effects and drug withdrawal. The hypoactive state may be more frequent in
+older adults and is often unrecognized among older individuals in emergency departments and
+hospitals.
+Diagnostic Features
+The essential feature of delirium is an acute impairment of consciousness characterized by a
+disturbance in attention accompanied by reduced awareness of the environment, both core
+features of normal consciousness. Because these deficits reflect an altered state of consciousness
+affecting many higher cerebral cortical functions of the cerebral cortex, they are accompanied by
+a change from baseline in other cognitive functions that cannot be better explained by a
+preexisting or evolving neurocognitive disorder (NCD). The disturbance in attention (Criterion
+A) is manifested by reduced ability to direct, focus, sustain, and shift attention. Questions must
+be repeated because the individual’s attention wanders, or the individual may perseverate with an
+answer to a previous question rather than appropriately shift attention. The individual is easily
+distracted by irrelevant stimuli. The disturbance in awareness affects both internal thinking and
+insight as well as difficulty making sense of what is happening in the external environment.
+The disturbance develops over a short period of time, usually hours to a few days, and tends

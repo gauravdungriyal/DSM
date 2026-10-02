@@ -1,0 +1,39 @@
+to their body of a sort likely to induce bleeding, bruising, or pain (e.g., cutting, burning, stabbing,
+hitting, excessive rubbing) in the absence of suicidal intent.
+R45.88
+Current Nonsuicidal Self-Injury
+If nonsuicidal self-injurious behavior is part of the clinical presentation
+Z91.52
+History of Nonsuicidal Self-Injury
+If nonsuicidal self-injurious behavior has occurred during the individual’s lifetime
+Abuse and Neglect
+Maltreatment by a family member (e.g., caregiver, intimate adult partner) or by a nonrelative can
+be the area of current clinical focus, or such maltreatment can be an important factor in the
+assessment and treatment of individuals with mental disorders or other medical conditions.
+Because of the legal implications of abuse and neglect, care should be used in assessing these
+conditions and assigning these codes. Having a past history of abuse or
+823
+neglect can influence diagnosis and treatment response in a number of mental disorders, and may
+also be noted along with the diagnosis.
+For the following categories, in addition to listings of the confirmed or suspected event of
+abuse or neglect, other codes are provided for use if the current clinical encounter is to provide
+mental health services to either the victim or the perpetrator of the abuse or neglect. A separate
+code is also provided for designating a past history of abuse or neglect.
+Coding Note for ICD-10-CM Abuse and Neglect Conditions
+For T codes only, the 7th character should be coded as follows:
+A (initial encounter)—Use while the individual is receiving active treatment for the
+condition (e.g., surgical treatment, emergency department encounter, evaluation and
+treatment by a new clinician); or
+D (subsequent encounter)—Use for encounters after the individual has received active
+treatment for the condition and when he or she is receiving routine care for the condition
+during the healing or recovery phase (e.g., cast change or removal, removal of external or
+internal fixation device, medication adjustment, other aftercare and follow-up visits).
+Child Maltreatment and Neglect Problems
+Child Physical Abuse
+This category may be used when physical abuse of a child is a focus of clinical attention. Child
+physical abuse is nonaccidental physical injury to a child—ranging from minor bruises to severe
+fractures or death—occurring as a result of punching, beating, kicking, biting, shaking, throwing,
+stabbing, choking, hitting (with a hand, stick, strap, or other object), burning, or any other
+method that is inflicted by a parent, caregiver, or other individual who has responsibility for the
+child. Such injury is considered abuse regardless of whether the caregiver intended to hurt the
+child. Physical discipline, such as spanking or paddling, is not considered abuse as long as it is

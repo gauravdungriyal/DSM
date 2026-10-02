@@ -1,0 +1,69 @@
+F40.233
+Fear of injury
+F40.232
+Fear of other medical care
+F40.228
+Natural environment
+F40.298
+Other
+F40.248
+Situational
+F80.0
+Speech sound disorder
+Spouse or partner abuse, Psychological, Confirmed
+T74.31XA
+Initial encounter
+T74.31XD
+Subsequent encounter
+Spouse or partner abuse, Psychological, Suspected
+T76.31XA
+Initial encounter
+T76.31XD
+Subsequent encounter
+Spouse or partner neglect, Confirmed
+T74.01XA
+Initial encounter
+T74.01XD
+Subsequent encounter
+Spouse or partner neglect, Suspected
+T76.01XA
+Initial encounter
+T76.01XD
+Subsequent encounter
+Spouse or partner violence, Physical, Confirmed
+T74.11XA
+Initial encounter
+T74.11XD
+Subsequent encounter
+Spouse or partner violence, Physical, Suspected
+T76.11XA
+Initial encounter
+T76.11XD
+Subsequent encounter
+Spouse or partner violence, Sexual, Confirmed
+T74.21XA
+Initial encounter
+T74.21XD
+Subsequent encounter
+Spouse or partner violence, Sexual, Suspected
+T76.21XA
+Initial encounter
+T76.21XD
+Subsequent encounter
+F98.4
+Stereotypic movement disorder
+Stimulant intoxication (see amphetamine-type substance, cocaine, or other or unspecified stimulant
+intoxication for specific codes)
+Stimulant use disorder (see amphetamine-type substance, cocaine, or other or unspecified stimulant
+use disorder for specific codes)
+954
+Stimulant withdrawal (see amphetamine-type substance, cocaine, or other or unspecified stimulant
+withdrawal for specific codes)
+Z56.3
+Stressful work schedule
+F80.81
+Stuttering (childhood-onset fluency disorder)
+Substance intoxication delirium (see specific substances for codes)
+Substance withdrawal delirium (see specific substances for codes)
+Substance/medication-induced anxiety disorder (see specific substances for codes)
+Substance/medication-induced bipolar and related disorder (see specific substances for codes)

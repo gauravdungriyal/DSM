@@ -1,0 +1,77 @@
+F19.921
+Other (or unknown) medication–induced delirium (other [or unknown] medication taken as prescribed)
+F19.931
+Other (or unknown) medication–induced delirium (during withdrawal from other [or unknown]
+medication taken as prescribed)
+Other (or unknown) substance–induced anxiety disorder
+F19.180
+With mild use disorder
+F19.280
+With moderate or severe use disorder
+F19.980
+Without use disorder
+Other (or unknown) substance–induced bipolar and related disorder
+F19.14
+With mild use disorder
+F19.24
+With moderate or severe use disorder
+F19.94
+Without use disorder
+Other (or unknown) substance–induced depressive disorder
+F19.14
+With mild use disorder
+F19.24
+With moderate or severe use disorder
+F19.94
+Without use disorder
+Other (or unknown) substance–induced major neurocognitive disorder
+F19.17
+With mild use disorder
+F19.27
+With moderate or severe use disorder
+F19.97
+Without use disorder
+Other (or unknown) substance–induced mild neurocognitive disorder
+F19.188
+With mild use disorder
+F19.288
+With moderate or severe use disorder
+F19.988
+Without use disorder
+Other (or unknown) substance–induced obsessive-compulsive and related disorder
+F19.188
+With mild use disorder
+F19.288
+With moderate or severe use disorder
+F19.988
+Without use disorder
+Other (or unknown) substance–induced psychotic disorder
+F19.159
+With mild use disorder
+F19.259
+With moderate or severe use disorder
+F19.959
+Without use disorder
+948
+Other (or unknown) substance–induced sexual dysfunction
+F19.181
+With mild use disorder
+F19.281
+With moderate or severe use disorder
+F19.981
+Without use disorder
+Other (or unknown) substance–induced sleep disorder
+F19.182
+With mild use disorder
+F19.282
+With moderate or severe use disorder
+F19.982
+Without use disorder
+Other (or unknown) substance intoxication, With perceptual disturbances
+F19.122
+With mild use disorder
+F19.222
+With moderate or severe use disorder
+F19.922
+Without use disorder
+Other (or unknown) substance intoxication, Without perceptual disturbances

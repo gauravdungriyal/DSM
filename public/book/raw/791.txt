@@ -1,0 +1,29 @@
+The following caffeine-induced mental disorders are described in other chapters of the manual
+with disorders with which they share phenomenology (see the substance/medication-induced
+mental disorders in these chapters): caffeine-induced anxiety disorder (“Anxiety Disorders”) and
+caffeine-induced sleep disorder (“Sleep-Wake Disorders”). These caffeine-induced mental
+disorders are diagnosed instead of caffeine intoxication or caffeine withdrawal only when the
+symptoms are sufficiently severe to warrant independent clinical attention.
+Unspecified Caffeine-Related Disorder
+F15.99
+This category applies to presentations in which symptoms characteristic of a
+caffeine-related disorder that cause clinically significant distress or impairment in
+social, occupational, or other important areas of functioning predominate but do not
+meet the full criteria for any specific caffeine-related disorder or any of the disorders
+in the substance-related and addictive disorders diagnostic class.
+575
+Cannabis-Related Disorders
+Cannabis Use Disorder
+Cannabis Intoxication
+Cannabis Withdrawal
+Cannabis-Induced Mental Disorders
+Unspecified Cannabis-Related Disorder
+Cannabis Use Disorder
+Diagnostic Criteria
+A. A problematic pattern of cannabis use leading to clinically significant impairment
+or distress, as manifested by at least two of the following, occurring within a 12-
+month period:
+1. Cannabis is often taken in larger amounts or over a longer period than was
+intended.
+2. There is a persistent desire or unsuccessful efforts to cut down or control
+cannabis use.

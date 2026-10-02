@@ -1,0 +1,80 @@
+F18.21
+In early remission
+F18.21
+In sustained remission
+F18.20
+Severe
+F18.21
+In early remission
+F18.21
+In sustained remission
+940
+F51.01
+Insomnia disorder
+Z59.7
+Insufficient social or health insurance or welfare support
+Intellectual developmental disorder (intellectual disability)
+F70
+Mild
+F71
+Moderate
+F72
+Severe
+F73
+Profound
+F63.81
+Intermittent explosive disorder
+F16.921
+Ketamine or other hallucinogen–induced delirium (ketamine or other hallucinogen medication taken as
+prescribed or for medical reasons)
+F63.2
+Kleptomania
+Z58.6
+Lack of safe drinking water
+F80.2
+Language disorder
+Z59.6
+Low income
+Major depressive disorder, Recurrent episode
+F33.42
+In full remission
+F33.41
+In partial remission
+F33.0
+Mild
+F33.1
+Moderate
+F33.2
+Severe
+F33.3
+With psychotic features
+F33.9
+Unspecified
+Major depressive disorder, Single episode
+F32.5
+In full remission
+F32.4
+In partial remission
+F32.0
+Mild
+F32.1
+Moderate
+F32.2
+Severe
+F32.3
+With psychotic features
+F32.9
+Unspecified
+Major neurocognitive disorder due to another medical condition
+F02.81
+With behavioral disturbance
+F02.80
+Without behavioral disturbance
+Major neurocognitive disorder due to HIV infection (code first B20 HIV infection)
+F02.81
+With behavioral disturbance
+F02.80
+Without behavioral disturbance
+Major neurocognitive disorder due to Huntington’s disease (code first G10 Huntington’s disease)
+F02.81
+With behavioral disturbance

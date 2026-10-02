@@ -1,0 +1,42 @@
+685
+Apathy is common in mild and major NCD. It is observed particularly in NCD due to
+Alzheimer’s disease and may be a prominent feature of NCD due to frontotemporal
+degeneration. Apathy is typically characterized by diminished motivation and reduced goal-
+directed behavior accompanied by decreased emotional responsiveness. Symptoms of apathy
+may manifest early in the course of NCDs when a loss of motivation to pursue daily activities or
+hobbies may be observed.
+Other important behavioral symptoms include wandering, disinhibition, hyperphagia, and
+hoarding. Some of these symptoms are characteristic of specific disorders, as discussed in the
+relevant sections. When more than one behavioral disturbance is observed, each type should be
+noted in writing with the specifier “with behavioral disturbance.”
+Diagnostic Features
+Major and mild NCDs exist on a spectrum of cognitive and functional impairment. Major NCD
+roughly corresponds to the condition labeled in ICD-10 and ICD-11 (as well as in DSM-IV) as
+dementia. The core feature of NCDs is acquired cognitive decline in one or more cognitive
+domains (Criterion A) based on both 1) a concern about cognition on the part of the individual, a
+knowledgeable informant, or the clinician, and 2) performance on an objective assessment that
+falls below the expected level or that has been observed to decline over time. Both a concern and
+objective evidence are required because they are complementary. When there is an exclusive
+focus on objective testing, a disorder may go undiagnosed in high-functioning individuals whose
+currently “normal” performance actually represents a substantial decline in abilities, or an illness
+may be incorrectly diagnosed in individuals whose currently “low” performance does not
+represent a change from their own baseline or is a result of extraneous factors like test conditions
+or a passing illness. Alternatively, excessive focus on subjective symptoms may fail to diagnose
+illness in individuals with poor insight, or whose informants deny or fail to notice their
+symptoms, or it may be overly sensitive in the so-called worried well.
+A cognitive concern differs from a complaint in that it may or may not be voiced
+spontaneously. Rather, it may need to be elicited by careful questioning about specific symptoms
+that commonly occur in individuals with cognitive deficits (see Table 1 in the introduction to this
+chapter). For example, memory concerns include difficulty remembering a short grocery list or
+keeping track of the plot of a television program; executive concerns include difficulty resuming
+a task when interrupted, organizing tax records, or planning a holiday meal. At the mild NCD
+level, the individual is likely to describe these tasks as being more difficult or as requiring extra
+time or effort or compensatory strategies. At the major NCD level, such tasks may only be
+completed with assistance or may be abandoned altogether. At the mild NCD level, individuals
+and their families may not notice such symptoms or may view them as normal, particularly in the
+elderly; thus, careful history taking is of paramount importance. The difficulties must represent
+changes rather than lifelong patterns: the individual or informant may clarify this issue, or the
+clinician can infer change from prior experience with the individual or from occupational or
+other clues. It is also critical to determine that the difficulties are related to cognitive loss rather
+than to motor or sensory limitations.
+Neuropsychological testing, with performance compared with norms appropriate to the

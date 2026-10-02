@@ -1,0 +1,40 @@
+Other parasomnias.
+REM sleep behavior disorder is more common in men older than 50 years, but increasingly this
+disorder is being identified in women and in younger individuals. Women are younger than men
+in age at onset and age at diagnosis.
+463
+Diagnostic Markers
+Associated laboratory findings from polysomnography indicate increased tonic and/or phasic
+electromyographic activity during REM sleep, which is normally associated with muscle atonia.
+The increased muscle activity variably affects different muscle groups; more extensive
+electromyographic monitoring with arm electromyography (e.g., biceps brachii) should be
+considered because this measure is more specific for a REM sleep behavior disorder diagnosis. It
+is suggested that electromyographic monitoring also include the submentalis, bilateral flexor
+digitorum superficialis, and bilateral anterior tibialis muscle groups. Continuous video
+monitoring should accompany the polysomnography. Other polysomnographic findings may
+include very frequent periodic and aperiodic extremity electromyography activity during non-
+REM (NREM) sleep. REM sleep without atonia is present in virtually all cases of REM sleep
+behavior disorder but may also be an asymptomatic polysomnographic finding. It is not known
+whether isolated REM sleep without atonia is a precursor to REM sleep behavior disorder,
+although a pilot study suggested that isolated REM sleep without atonia may also be associated
+with neurodegenerative markers (i.e., hyposmia, orthostatic hypotension, color vision loss) and
+that 7%–14% of individuals with isolated REM sleep without atonia later develop clinical REM
+sleep behavior disorder. Thresholds for normative REM sleep without atonia levels have also
+been published that may serve to distinguish borderline cases and those whose neurological
+status should be further monitored.
+Functional Consequences of Rapid Eye Movement Sleep Behavior
+Disorder
+The most serious consequences of REM sleep behavior disorder are the short-term risks for
+injury to the individual or bed partner related to attacks of dream enactment, and the long-term
+risk of developing a defined neurodegenerative disease. According to surveys of individuals and
+their bed partners, approximately 55% of individuals with REM sleep behavior disorder may
+experience injury as a consequence of their attacks, with 12% of injuries being serious (including
+long bone or rib fractures or subdural hematomas) and requiring medical attention.
+Differential Diagnosis
+Confusional arousals, sleepwalking, and sleep terrors can easily be confused
+with REM sleep behavior disorder. In general, these disorders occur in individuals younger than
+50 years. Unlike REM sleep behavior disorder, they arise from NREM sleep and therefore tend
+to occur in the early portion of the sleep period. Awakening from a confusional arousal is
+associated with confusion, disorientation, and incomplete recall of dream mentation
+accompanying the behavior. Polysomnographic monitoring in the disorders of arousal generally
+reveals normal REM sleep atonia unless there is a comorbid parasomnia.

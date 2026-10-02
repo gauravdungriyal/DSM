@@ -1,0 +1,39 @@
+xxi
+Preface to DSM-5-TR
+The American Psychiatric Association’s Diagnostic and Statistical Manual of
+Mental Disorders, Fifth Edition, Text Revision (DSM-5-TR), is the first published revision to
+DSM-5. This revised manual integrates the original published DSM-5 diagnostic criteria with
+modifications (mostly for clarity) for over 70 disorders, comprehensively updated descriptive
+text accompanying each of the DSM disorders based on reviews of the literature since the
+publication of DSM-5, and the addition of a new diagnosis, prolonged grief disorder, and
+symptom codes for reporting suicidal and nonsuicidal self-injurious behavior. These changes
+differ from the scope of the prior text revision, DSM-IV-TR, in which the updates were confined
+almost exclusively to the text, leaving the diagnostic criteria virtually unchanged. This edition
+also integrates all prior online updates made to DSM-5 after its publication in 2013, in response
+to usage, specific scientific advances, and ICD-10-CM coding adjustments through an iterative
+revision process. Consequently, DSM-5-TR is the product of three separate revision processes,
+each one overseen by separate (but overlapping) groups of experts: the development of the
+original DSM-5 diagnostic criteria and text by the DSM-5 Task Force, published in 2013;
+updates to the DSM-5 diagnostic criteria and text by the DSM Steering Committee, which has
+overseen the iterative revision process; and fully updated text overseen by the Revision
+Subcommittee.
+The clinical and research understanding of mental disorders continues to advance. As a
+result, most of the DSM-5-TR disorder texts have had at least some revision since the 9 years
+from original publication in DSM-5, with the overwhelming majority having had significant
+revisions. Sections of the text that were most extensively updated were Prevalence, Risk and
+Prognostic Factors, Culture-Related Diagnostic Issues, Sex- and Gender-Related Diagnostic
+Issues, Association With Suicidal Thoughts or Behavior, and Comorbidity. Also, for the first
+time ever, the entire DSM text has been reviewed and revised by a Work Group on Ethnoracial
+Equity and Inclusion to ensure appropriate attention to risk factors such as the experience of
+racism and discrimination, as well as to the use of non-stigmatizing language. For future periodic
+DSM-5-TR coding and other updates, see www.dsm5.org.
+For benefit of reference in this manual, “DSM” refers generally to DSM as an entity, not
+specifying a particular edition (e.g., “Clinical training and experience are needed to use DSM for
+determining a clinical diagnosis.”). “DSM-5” refers to the entire set of currently approved
+criteria sets, disorders, other conditions, and content officially published in May 2013. “DSM-5-
+TR” refers to approved text in this current volume. Although the scope of the text revision did
+not include conceptual changes to the criteria sets or to other DSM-5 constructs, the need to
+make changes in certain diagnostic criteria sets for the purpose of clarification became apparent
+in conjunction with the text updates made across the book. Because the conceptual construct of
+criteria is unchanged, the criteria sets in DSM-5-TR that had their origins in DSM-5 are still
+referred to as “DSM-5-criteria.” The new diagnostic entity prolonged grief disorder is referred to

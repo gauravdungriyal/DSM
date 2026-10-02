@@ -1,0 +1,39 @@
+F52.32
+dysfunction diagnosis requires ruling out problems that are better explained by a nonsexual
+mental disorder, by the effects of a substance (e.g., drug or
+478
+medication), by a medical condition (e.g., due to pelvic nerve damage), or by severe
+relationship distress, partner violence, or other stressors.
+The population of gender-diverse persons, including transgender, nonbinary, and agender,
+may not identify with or appear to fit into the existing sex- and gender-based diagnostic
+categories described in this chapter. Despite the names given to male hypoactive sexual desire
+disorder and female sexual interest arousal disorder, the diagnostic criteria describe symptoms
+and experiences that are not dependent on the individual’s specific sex or gender. As such, either
+diagnosis can be applied to gender-diverse individuals based on clinical judgment. For diagnoses
+linked to reproductive anatomy (e.g., erectile dysfunction, premature [early] ejaculation, delayed
+ejaculation, and genito-pelvic pain/penetration disorder), diagnoses should be based on the
+individual’s current anatomy and not on the individual’s sex assigned at birth. Much more
+research is needed to understand experiences of sexual dysfunction among gender-diverse
+persons. In the meantime, as with all categories in DSM, clinicians should use their best
+judgment.
+If the sexual dysfunction is mostly explainable by another nonsexual mental disorder (e.g.,
+depressive or bipolar disorder, anxiety disorder, posttraumatic stress disorder, psychotic
+disorder), then only the other mental disorder diagnosis should be made. If the problem is
+thought to be better explained by the use/misuse or discontinuation of a drug or substance, it
+should be diagnosed accordingly as a substance/medication-induced sexual dysfunction. If the
+sexual dysfunction is attributable to another medical condition (e.g., peripheral neuropathy), the
+person would not receive a psychiatric diagnosis. If severe relationship distress, partner violence,
+or significant stressors better explain the sexual difficulties, then a sexual dysfunction diagnosis
+is not made, but an appropriate Z code for the relationship problem or stressor may be listed
+(e.g., Z63.0 Relationship distress with spouse or intimate partner); see the chapter “Other
+Conditions That May Be a Focus of Clinical Attention.” In many cases, a precise etiological
+relationship between another condition (e.g., a medical condition) and a sexual dysfunction
+cannot be established. It is possible to have a diagnosis of a sexual dysfunction and a coexisting
+medical condition, nonsexual mental disorder, or use/misuse or discontinuation of a drug or
+substance; and it is possible to have one or more diagnoses of sexual dysfunction.
+Delayed Ejaculation
+Diagnostic Criteria
+A. Either of the following symptoms must be experienced on almost all or all
+occasions (approximately 75%–100%) of partnered sexual activity (in identified
+situational contexts or, if generalized, in all contexts), and without the individual
+desiring delay:

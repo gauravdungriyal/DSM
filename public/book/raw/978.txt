@@ -1,0 +1,29 @@
+For mild neurocognitive disorder due to multiple etiologies, code G31.84. (Note: Do
+not use the additional codes for the etiologies. “With behavioral disturbance” and
+“without behavioral disturbance” cannot be coded but should still be recorded.)
+For major or mild neurocognitive disorder due to multiple etiologies: Use additional
+code(s) to indicate clinically significant psychiatric symptoms due to the various
+etiologies (e.g., F06.2 psychotic disorder due to Alzheimer’s disease, with delusions;
+F06.31 depressive disorder due to cerebrovascular disease, with depressive
+features).
+This category is included to cover the clinical presentation of a neurocognitive disorder (NCD)
+for which there is evidence that multiple medical conditions have played a probable role in the
+development of the NCD. In addition to evidence indicative of the presence of multiple medical
+conditions that are known to cause NCD (i.e., findings from the history and physical
+examination, and laboratory findings), it may be helpful to refer to the diagnostic criteria and text
+for the various medical etiologies (e.g., NCD due to Parkinson’s disease) for more information
+on establishing the etiological connection for that particular medical condition.
+732
+Unspecified Neurocognitive Disorder
+R41.9
+This category applies to presentations in which symptoms characteristic of a
+neurocognitive disorder that cause clinically significant distress or impairment in
+social, occupational, or other important areas of functioning predominate but do not
+meet the full criteria for any of the disorders in the neurocognitive disorders
+diagnostic class. The unspecified neurocognitive disorder category is used in
+situations in which the precise etiology cannot be determined with sufficient certainty
+to make an etiological attribution.
+Coding note: For unspecified major or mild neurocognitive disorder, code R41.9.
+(Note: Do not use additional codes for any presumed etiological medical conditions.
+“With behavioral disturbance” and “without behavioral disturbance” cannot be coded
+but should still be recorded.)

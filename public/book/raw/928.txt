@@ -1,0 +1,36 @@
+690
+individuals, as many etiological entities increase in prevalence with age. In younger individuals,
+NCD often co-occurs with neurodevelopmental disorders; for example, a head injury in a
+preschool child may also lead to significant developmental and learning issues. Additional
+comorbidity of NCD is often related to the etiological subtype, as discussed in the relevant
+sections.
+Major or Mild Neurocognitive Disorder Due to Alzheimer’s
+Disease
+Diagnostic Criteria
+A. The criteria are met for major or mild neurocognitive disorder.
+B. There is insidious onset and gradual progression of impairment in one or more
+cognitive domains (for major neurocognitive disorder, at least two domains must
+be impaired).
+C. Criteria are met for either probable or possible Alzheimer’s disease as follows:
+For major neurocognitive disorder:
+Probable Alzheimer’s disease is diagnosed if either of the following is present;
+otherwise, possible Alzheimer’s disease should be diagnosed.
+1. Evidence of a causative Alzheimer’s disease genetic mutation from family
+history or genetic testing.
+2. All three of the following are present:
+a. Clear evidence of decline in memory and learning and at least one other
+cognitive domain (based on detailed history or serial neuropsychological
+testing).
+b. Steadily progressive, gradual decline in cognition, without extended
+plateaus.
+c. No evidence of mixed etiology (i.e., absence of other neurodegenerative
+or cerebrovascular disease, or another neurological, mental, or systemic
+disease or condition likely contributing to cognitive decline).
+For mild neurocognitive disorder:
+Probable Alzheimer’s disease is diagnosed if there is evidence of a causative
+Alzheimer’s disease genetic mutation from either genetic testing or family history.
+Possible Alzheimer’s disease is diagnosed if there is no evidence of a
+causative Alzheimer’s disease genetic mutation from either genetic testing or
+family history, and all three of the following are present:
+1. Clear evidence of decline in memory and learning.
+2. Steadily progressive, gradual decline in cognition, without extended plateaus.

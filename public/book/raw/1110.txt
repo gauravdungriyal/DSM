@@ -1,0 +1,58 @@
+rated and parent/guardian versions); the Clinician-Rated Dimensions of Psychosis Symptom
+Severity; and the WHODAS 2.0. Clinician instructions, scoring information, and interpretation
+guidelines are included for each. Description of the child-rated version is not included in print
+given the overall similarity in items, scoring, and clinician instructions and guidelines with the
+parent/guardian-rated version. These measures, including the child-rated version, and additional
+dimensional assessments, such as those for diagnostic severity, can be found online at
+www.psychiatry.org/dsm5.
+843
+Cross-Cutting Symptom Measures
+Level 1 Cross-Cutting Symptom Measure
+The DSM-5 Level 1 Cross-Cutting Symptom Measure is a self- or informant-rated measure that
+assesses domains that are important across psychiatric diagnoses. It is intended to help clinicians
+identify additional areas of inquiry that may have significant impact on the individual’s treatment
+and prognosis. In addition, the measure may be used to track changes in the individual’s
+symptom presentation over time.
+The adult version of the measure consists of 23 questions that assess 13 psychiatric domains,
+including depression, anger, mania, anxiety, somatic symptoms, suicidal ideation, psychosis,
+sleep problems, memory, repetitive thoughts and behaviors, dissociation, personality functioning,
+and substance use (Table 1). Each domain consists of one to three questions. Each item inquires
+about how much (or how often) the individual has been bothered by the specific symptom during
+the past 2 weeks. If the individual is of impaired capacity and unable to complete the form (e.g.,
+an individual with major neurocognitive disorder), a knowledgeable adult informant may
+complete this measure.
+844
+TABLE 1 Adult DSM-5 Self-Rated Level 1 Cross-Cutting Symptom Measure: 13
+domains, thresholds for further inquiry, and associated DSM-5 Level 2
+measures
+Domain Domain name
+Threshold to guide
+further inquiry
+DSM-5 Level 2 Cross-Cutting Symptom
+Measurea
+I.
+Depression
+Mild or greater
+Level 2—Depression—Adult (PROMIS
+Emotional Distress—Short Form)
+II.
+Anger
+Mild or greater
+Level 2—Anger—Adult (PROMIS Emotional
+Distress—Anger—Short Form)
+III.
+Mania
+Mild or greater
+Level 2—Mania—Adult (Altman Self-Rating
+Mania Scale [ASRM])
+IV.
+Anxiety
+Mild or greater
+Level 2—Anxiety—Adult (PROMIS Emotional
+Distress—Anxiety—Short Form)
+V.
+Somatic symptoms
+Mild or greater
+Level 2—Somatic Symptom—Adult (Patient
+Health Questionnaire–15 [PHQ-15] Somatic
+Symptom Severity Scale)

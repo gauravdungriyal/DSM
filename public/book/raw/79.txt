@@ -1,0 +1,57 @@
+F02.81
+With behavioral disturbance
+F02.80
+Without behavioral disturbance
+G31.84
+Mild Neurocognitive Disorder With Lewy Bodiesb
+Major or Mild Vascular Neurocognitive Disorder (702)
+___.__
+Major Neurocognitive Disorder Probably Due to Vascular Diseasea
+Note: No additional medical code for vascular disease.
+F01.51
+With behavioral disturbance
+F01.50
+Without behavioral disturbance
+___.__
+Major Neurocognitive Disorder Possibly Due to Vascular Diseasea
+Note: No additional medical code for vascular disease.
+F01.51
+With behavioral disturbance
+F01.50
+Without behavioral disturbance
+G31.84
+Mild Neurocognitive Disorder Due to Vascular Diseaseb
+Major or Mild Neurocognitive Disorder Due to Traumatic Brain Injury (706)
+___.__
+Major Neurocognitive Disorder Due to Traumatic Brain Injurya
+Note: For ICD-10-CM, code first S06.2X9S diffuse traumatic brain injury with loss of consciousness
+of unspecified duration, sequela.
+F02.81
+With behavioral disturbance
+F02.80
+Without behavioral disturbance
+G31.84
+Mild Neurocognitive Disorder Due to Traumatic Brain Injuryb
+Substance/Medication-Induced Major or Mild Neurocognitive Disorder (712)
+Note: No additional medical code. For applicable ICD-10-CM codes, refer to the substance classes under Substance-Related and
+Addictive Disorders for the specific substance/medication-induced major or mild neurocognitive disorder. See also the criteria
+set and corresponding recording procedures in the manual for more information.
+Coding note: The ICD-10-CM code depends on whether or not there is a comorbid substance use disorder present for the same
+class of substance. In any case, an additional separate diagnosis of a substance use disorder is not given.
+lix
+Specify if: Persistent
+___.__
+Substance/Medication-Induced Major Neurocognitive Disordera,b
+Note: If a substance use disorder is present, record mild substance use disorder (ICD-10-CM code not
+available if mild substance use disorder does not cause a major neurocognitive disorder) or moderate
+or severe substance use disorder; if no substance use disorder is present, record only [specific
+substance]-induced major neurocognitive disorder.
+___.___
+Substance/Medication-Induced Mild Neurocognitive Disorderb
+Note: If a substance use disorder is present, record mild substance use disorder or moderate or severe
+substance use disorder; if no substance use disorder is present, record only [specific substance]-
+induced mild neurocognitive disorder.
+Major or Mild Neurocognitive Disorder Due to HIV Infection (717)
+___.__
+Major Neurocognitive Disorder Due to HIV Infectiona
+Note: Code first B20 HIV infection.

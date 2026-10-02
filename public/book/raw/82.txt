@@ -1,0 +1,51 @@
+aSpecify if: In a controlled environment, In full remission
+F65.3
+Voyeuristic Disordera (780)
+F65.2
+Exhibitionistic Disordera (783)
+Specify whether: Sexually aroused by exposing genitals to prepubertal children, Sexually aroused by
+exposing genitals to physically mature individuals, Sexually aroused by exposing genitals to
+prepubertal children and to physically mature individuals
+F65.81
+Frotteuristic Disordera (785)
+F65.51
+Sexual Masochism Disordera (788)
+Specify if: With asphyxiophilia
+F65.52
+Sexual Sadism Disordera (790)
+F65.4
+Pedophilic Disorder (792)
+Specify whether: Exclusive type, Nonexclusive type
+Specify if: Sexually attracted to males, Sexually attracted to females, Sexually attracted to both
+Specify if: Limited to incest
+F65.0
+Fetishistic Disordera (796)
+Specify: Body part(s), Nonliving object(s), Other
+F65.1
+Transvestic Disordera (798)
+Specify if: With fetishism, With autogynephilia
+F65.89
+Other Specified Paraphilic Disorder (801)
+F65.9
+Unspecified Paraphilic Disorder (801)
+Other Mental Disorders and Additional Codes (803)
+F06.8
+Other Specified Mental Disorder Due to Another Medical Condition (803)
+F09
+Unspecified Mental Disorder Due to Another Medical Condition (804)
+F99
+Other Specified Mental Disorder (804)
+F99
+Unspecified Mental Disorder (805)
+Z03.89
+No Diagnosis or Condition (805)
+lxii
+Medication-Induced Movement Disorders and Other Adverse Effects of
+Medication (807)
+___.__
+Medication-Induced Parkinsonism (807)
+G21.11
+Antipsychotic Medication– and Other Dopamine Receptor Blocking
+Agent–Induced Parkinsonism (807)
+G21.19
+Other Medication-Induced Parkinsonism (807)

@@ -1,0 +1,37 @@
+social, occupational, or other important areas of functioning or warrants medical
+evaluation.
+Coding note: The ICD-10-CM code depends on the symptom type (see below).
+Specify symptom type:
+F44.4 With weakness or paralysis
+F44.4 With abnormal movement (e.g., tremor, dystonia, myoclonus, gait
+disorder)
+F44.4 With swallowing symptoms
+F44.4 With speech symptom (e.g., dysphonia, slurred speech)
+F44.5 With attacks or seizures
+F44.6 With anesthesia or sensory loss
+F44.6 With special sensory symptom (e.g., visual, olfactory, or hearing
+disturbance)
+F44.7 With mixed symptoms
+Specify if:
+Acute episode: Symptoms present for less than 6 months.
+Persistent: Symptoms occurring for 6 months or more.
+361
+Specify if:
+With psychological stressor (specify stressor)
+Without psychological stressor
+Diagnostic Features
+In functional neurological symptom disorder (conversion disorder), there may be one or more
+neurological symptoms of various types. Motor symptoms include weakness or paralysis;
+abnormal movements, such as tremor, jerks, or dystonic movements; and gait abnormalities.
+Sensory symptoms include altered, reduced, or absent skin sensation, vision, or hearing.
+Episodes of apparent unresponsiveness with or without limb movements may resemble epileptic
+seizures, syncope, or coma (also called dissociative, psychogenic, or nonepileptic seizures or
+attacks). Other symptoms include reduced or absent speech volume (dysphonia/aphonia); altered
+speech articulation, prosody, or fluency; a sensation of a lump in the throat (globus); and
+diplopia. This disorder has been called “conversion disorder” in prior editions of DSM as well as
+in much of the psychiatric research literature. The term “conversion” originated in
+psychoanalytic theory, which proposes that unconscious psychic conflict is “converted” into
+physical symptoms.
+The diagnosis rests on clinical findings that show clear evidence of incompatibility with
+recognized neurological disease. These should usually be elicited and interpreted in the context
+of the whole clinical picture by a health care professional with expertise in the diagnosis of

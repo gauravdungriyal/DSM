@@ -1,0 +1,36 @@
+impairment attributable to use of the substance, risky use of the substance (e.g., continued use
+despite medical complications), and pharmacological symptoms (the development of
+656
+tolerance or withdrawal), whereas other (or unknown) substance intoxication, other (or
+unknown) substance withdrawal, and other (or unknown) substance-induced mental disorders
+describe psychiatric syndromes that occur in the context of heavy use. Other (or unknown)
+substance intoxication, other (or unknown) substance withdrawal, and other (or unknown)
+substance–induced mental disorders may occur in individuals with other (or unknown) substance
+use disorder. In such cases, a diagnosis of other (or unknown) substance intoxication, other (or
+unknown) substance withdrawal, or other (or unknown) substance–induced mental disorder
+should be given in addition to a diagnosis of other (or unknown) substance use disorder, the
+presence of which is indicated in the diagnostic code.
+Comorbidity
+Substance use disorders, including other (or unknown) substance use disorder, are commonly
+comorbid with one another, with conduct disorder in adolescence, and with antisocial personality
+disorder.
+Other (or Unknown) Substance Intoxication
+Diagnostic Criteria
+A. The development of a reversible substance-specific syndrome attributable to
+recent ingestion of (or exposure to) a substance that is not listed elsewhere or is
+unknown.
+B. Clinically significant problematic behavioral or psychological changes that are
+attributable to the effect of the substance on the central nervous system (e.g.,
+impaired motor coordination, psychomotor agitation or retardation, euphoria,
+anxiety, belligerence, mood lability, cognitive impairment, impaired judgment,
+social withdrawal) and develop during, or shortly after, use of the substance.
+C. The signs or symptoms are not attributable to another medical condition and are
+not better explained by another mental disorder, including intoxication with
+another substance.
+Specify if:
+With perceptual disturbances: This specifier may be noted when
+hallucinations with intact reality testing or auditory, visual, or tactile illusions
+occur in the absence of a delirium.
+Coding note: The ICD-10-CM code depends on whether there is a comorbid other
+(or unknown) substance use disorder involving the same substance and whether or
+not there are perceptual disturbances.

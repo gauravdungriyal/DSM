@@ -1,0 +1,40 @@
+tremor, rigidity, bradykinesia, postural instability), hyposmia, sleep disturbances such as rapid
+eye movement (REM) sleep behavior disorder, and urinary and other autonomic symptoms
+common to Parkinson’s disease. These features are less likely to be present in MIP. Individuals
+with primary neurological causes of parkinsonism are also susceptible to worsening symptoms if
+treated with medications causing MIP.
+Nonparkinsonian tremors tend to be finer (e.g., smaller amplitude) and faster (10 cycles per
+second) and worsen on intention (e.g., when reaching out to grab an object). With substance
+withdrawal, there is usually associated hyperreflexia and increased autonomic signs. In cerebellar
+disease, tremor worsens on intention and may be associated with nystagmus, ataxia, or scanning
+speech. Choreiform movements associated with tardive dyskinesia lack the steady rhythmicity of
+a parkinsonian tremor. Strokes and other central nervous system lesions can cause focal
+neurological signs or immobility from flaccid or spastic paralysis, which is characterized by
+decreased muscle strength and increased tone on passive movement that gives way with further
+pressure (i.e., clasp-knife rigidity). This contrasts with the lead-pipe rigidity and normal muscle
+strength in MIP.
+Diagnostic alternatives to MIP are also suggested by a family history of an inherited
+neurological condition, rapidly progressive parkinsonism not accounted for by recent
+psychopharmacological changes, or presence of focal neurological signs (e.g., frontal release
+signs, cranial nerve abnormalities, a positive Babinski sign). Neuroleptic malignant syndrome
+involves severe akinesia and rigidity, but also characteristic physical and laboratory findings
+(e.g., fever, increased creatine phosphokinase).
+810
+Psychomotor slowing, inactivity, and apathy seen in major depressive disorder can be
+indistinguishable from the motor slowness or akinesia of MIP, but major depressive disorder is
+more likely to include vegetative signs (e.g., early-morning awakening), hopelessness, and
+despair. Negative symptoms of schizophrenia, catatonia associated with schizophrenia, or mood
+disorders with catatonic features may also be difficult to distinguish from medication-induced
+akinesia. Rigidity may also manifest in psychotic disorders, delirium, major neurocognitive
+disorder, anxiety disorders, and functional neurological symptom disorder (conversion disorder).
+In parkinsonian rigidity, resistance to passive motion is constant through the full range of
+motion, whereas it is inconsistent in psychiatric disorders or other neurological conditions
+presenting with rigidity. In general, the constellation of associated physical signs on examination
+and symptoms associated with the tremor, rigidity, and bradykinesia of parkinsonism helps
+distinguish MIP-related rigidity and bradykinesia from other primary psychiatric causes of
+rigidity and decreased movement.
+Neuroleptic Malignant Syndrome
+G21.0 Neuroleptic Malignant Syndrome
+Individuals with neuroleptic malignant syndrome have generally been exposed to a dopamine
+antagonist within 72 hours prior to symptom development. Hyperthermia (>100.4°F or >38.0°C
+on at least two occasions, measured orally), associated with profuse diaphoresis, is a

@@ -1,0 +1,59 @@
+bSpecify: Without behavioral disturbance, With behavioral disturbance. For all mild neurocognitive disorders,
+substance/medication-induced major neurocognitive disorder, and unspecified neurocognitive disorder, behavioral
+disturbance cannot be coded but should still be recorded.
+Note: As indicated for each subtype, an additional medical code is needed for most major neurocognitive disorders, including
+those due to probable and possible medical etiologies. The medical etiology should be coded first, before the code for the
+major neurocognitive disorder. An additional medical code should not be used for any mild neurocognitive disorder and is not
+used for major or mild vascular neurocognitive disorder, substance/medication-induced major or mild neurocognitive disorder,
+and unspecified neurocognitive disorder.
+Coding note: For major and mild neurocognitive disorders: Use additional code(s) to indicate clinically significant psychiatric
+symptoms due to the same medical condition causing the major NCD (e.g., F06.2 psychotic disorder due to Alzheimer’s
+disease with delusions; F06.32 depressive disorder due to Parkinson’s disease, with major depressive-like episode.) Note: The
+additional codes for mental disorders due to another medical condition are included with disorders with which they share
+phenomenology (e.g., for depressive disorders due to another medical condition, see “Depressive Disorders”).
+Major or Mild Neurocognitive Disorder Due to Alzheimer’s Disease (690)
+___.__
+Major Neurocognitive Disorder Due to Probable Alzheimer’s Diseasea
+Note: Code first G30.9 Alzheimer’s disease.
+F02.81
+With behavioral disturbance
+F02.80
+Without behavioral disturbance
+___.__
+Major Neurocognitive Disorder Due to Possible Alzheimer’s Diseasea
+Note: Code first G30.9 Alzheimer’s disease.
+F02.81
+With behavioral disturbance
+F02.80
+Without behavioral disturbance
+G31.84
+Mild Neurocognitive Disorder Due to Alzheimer’s Diseaseb
+Major or Mild Frontotemporal Neurocognitive Disorder (695)
+___.__
+Major Neurocognitive Disorder Due to Probable Frontotemporal Degenerationa
+Note: Code first G31.09 frontotemporal degeneration.
+F02.81
+With behavioral disturbance
+F02.80
+Without behavioral disturbance
+lviii
+___.__
+Major Neurocognitive Disorder Due to Possible Frontotemporal Degenerationa
+Note: Code first G31.09 frontotemporal degeneration.
+F02.81
+With behavioral disturbance
+F02.80
+Without behavioral disturbance
+G31.84
+Mild Neurocognitive Disorder Due to Frontotemporal Degenerationb
+Major or Mild Neurocognitive Disorder With Lewy Bodies (699)
+___.__
+Major Neurocognitive Disorder With Probable Lewy Bodiesa
+Note: Code first G31.83 Lewy body disease.
+F02.81
+With behavioral disturbance
+F02.80
+Without behavioral disturbance
+___.__
+Major Neurocognitive Disorder With Possible Lewy Bodiesa
+Note: Code first G31.83 Lewy body disease.

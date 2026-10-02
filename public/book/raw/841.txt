@@ -1,0 +1,36 @@
+and schizotypal personality disorders. A history of conduct disorder in childhood or adolescence
+has also been identified as a significant risk factor for substance-related disorders, especially
+opioid use disorder. Further, prescription opioid use disorder and heroin use disorder are
+generally associated with serious mental illness, defined as a mental disorder other than a
+substance use disorder that results in serious functional impairment substantially limiting or
+interfering with major life activities.
+Opioid Intoxication
+Diagnostic Criteria
+A. Recent use of an opioid.
+B. Clinically significant problematic behavioral or psychological changes (e.g., initial
+euphoria followed by apathy, dysphoria, psychomotor agitation or retardation,
+impaired judgment) that developed during, or shortly after, opioid use.
+C. Pupillary constriction (or pupillary dilation due to anoxia from severe overdose)
+and one (or more) of the following signs or symptoms developing during, or
+shortly after, opioid use:
+1. Drowsiness or coma.
+2. Slurred speech.
+3. Impairment in attention or memory.
+D. The signs or symptoms are not attributable to another medical condition and are
+not better explained by another mental disorder, including intoxication with
+another substance.
+Specify if:
+With perceptual disturbances: This specifier may be noted in the rare instance
+in which hallucinations with intact reality testing or auditory, visual, or tactile
+illusions occur in the absence of a delirium.
+616
+Coding note: The ICD-10-CM code depends on whether or not there is a comorbid
+opioid use disorder and whether or not there are perceptual disturbances.
+For opioid intoxication, without perceptual disturbances: If a mild opioid use
+disorder is comorbid, the ICD-10-CM code is F11.120, and if a moderate or
+severe opioid use disorder is comorbid, the ICD-10-CM code is F11.220. If there
+is no comorbid opioid use disorder, then the ICD-10-CM code is F11.920.
+For opioid intoxication, with perceptual disturbances: If a mild opioid use
+disorder is comorbid, the ICD-10-CM code is F11.122, and if a moderate or
+severe opioid use disorder is comorbid, the ICD-10-CM code is F11.222. If there
+is no comorbid opioid use disorder, then the ICD-10-CM code is F11.922.

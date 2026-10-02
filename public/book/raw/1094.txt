@@ -1,0 +1,39 @@
+T76.31XA Initial encounter
+T76.31XD Subsequent encounter
+Other Circumstances Related to Adult Abuse by Nonspouse or Nonpartner
+Z69.81
+Encounter for mental health services for victim of nonspousal or nonpartner adult
+abuse
+Z69.82
+Encounter for mental health services for perpetrator of nonspousal or nonpartner adult
+abuse
+Relational Problems
+Key relationships, especially intimate adult partner relationships and parent/caregiver-child
+relationships, have a significant impact on the health of the individuals in these relationships.
+These relationships can be health promoting and protective, neutral, or detrimental to health
+outcomes. In the extreme, these close relationships can be associated with maltreatment or
+neglect, which has significant medical and psychological consequences for the affected
+individual. A relational problem may come to clinical attention either as the reason that the
+individual seeks health care or as a problem that affects the course, prognosis, or treatment of the
+individual’s mental disorder or other medical condition.
+829
+Parent-Child Relational Problem
+Z62.820 Parent–Biological Child
+Z62.821 Parent–Adopted Child
+Z62.822 Parent–Foster Child
+Z62.898 Other Caregiver–Child
+For this category, the term parent is used to refer to one of the child’s primary caregivers, who
+may be a biological, adoptive, or foster parent or may be another relative (such as a grandparent)
+who fulfills a parental role for the child. This category may be used when the main focus of
+clinical attention is to address the quality of the parent-child relationship or when the quality of
+the parent-child relationship is affecting the course, prognosis, or treatment of a mental disorder
+or other medical condition. Typically, the parent-child relational problem is associated with
+impaired functioning in behavioral, cognitive, or affective domains. Examples of behavioral
+problems include inadequate parental control, supervision, and involvement with the child;
+parental overprotection; excessive parental pressure; arguments that escalate to threats of
+physical violence; and avoidance without resolution of problems. Cognitive problems may
+include negative attributions of the other’s intentions, hostility toward or scapegoating of the
+other, and unwarranted feelings of estrangement. Affective problems may include feelings of
+sadness, apathy, or anger about the other individual in the relationship. Clinicians should take
+into account the developmental needs of the child and the cultural context.
+Z62.891 Sibling Relational Problem

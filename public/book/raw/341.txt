@@ -1,0 +1,34 @@
+residual criteria for any psychotic disorder, and does not meet criteria for
+recurrent brief depression.
+3. Depressive episode with insufficient symptoms: Depressed affect and at
+least one of the other eight symptoms of a major depressive episode associated
+with clinically significant distress or impairment that persist for at least 2 weeks in
+an individual whose presentation has never met criteria for any other depressive
+or bipolar disorder, does not currently meet active or residual criteria for any
+psychotic disorder, and does not meet criteria for mixed anxiety and depressive
+disorder symptoms.
+210
+4. Major depressive episode superimposed on schizophrenia, schizophreniform
+disorder, delusional disorder, or other specified and unspecified schizophrenia
+spectrum and other psychotic disorder. Note: Major depressive episodes that are
+part of schizoaffective disorder do not merit an additional diagnosis of other
+specified depressive disorder.
+Unspecified Depressive Disorder
+F32.A
+This category applies to presentations in which symptoms characteristic of a
+depressive disorder that cause clinically significant distress or impairment in social,
+occupational, or other important areas of functioning predominate but do not meet
+the full criteria for any of the disorders in the depressive disorders diagnostic class
+and do not meet criteria for adjustment disorder with depressed mood or adjustment
+disorder with mixed anxiety and depressed mood. The unspecified depressive
+disorder category is used in situations in which the clinician chooses not to specify
+the reason that the criteria are not met for a specific depressive disorder, and
+includes presentations for which there is insufficient information to make a more
+specific diagnosis (e.g., in emergency room settings).
+Unspecified Mood Disorder
+F39
+This category applies to presentations in which symptoms characteristic of a mood
+disorder that cause clinically significant distress or impairment in social,
+occupational, or other important areas of functioning predominate but do not at the
+time of the evaluation meet the full criteria for any of the disorders in either the
+bipolar or the depressive disorders diagnostic classes and in which it is difficult to

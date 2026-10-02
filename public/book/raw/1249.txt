@@ -1,0 +1,88 @@
+Z59.9
+Other economic problem
+Z59.9
+Other housing problem
+Z60.0
+Phase of life problem
+Z60.2
+Problem related to living alone
+Z60.3
+Acculturation difficulty
+Z60.4
+Social exclusion or rejection
+Z60.5
+Target of (perceived) adverse discrimination or persecution
+Z60.9
+Other problem related to social environment
+Z62.29
+Upbringing away from parents
+Z62.810
+Personal history (past history) of physical abuse in childhood
+Z62.810
+Personal history (past history) of sexual abuse in childhood
+Z62.811
+Personal history (past history) of psychological abuse in childhood
+Z62.812
+Personal history (past history) of neglect in childhood
+Z62.820
+Parent-child relational problem, Parent–biological child
+Z62.821
+Parent-child relational problem, Parent–adopted child
+Z62.822
+Parent-child relational problem, Parent–foster child
+Z62.891
+Sibling relational problem
+Z62.898
+Child affected by parental relationship distress
+Z62.898
+Parent-child relational problem, Other caregiver–child
+Z63.0
+Relationship distress with spouse or intimate partner
+Z63.4
+Uncomplicated bereavement
+Z63.5
+Disruption of family by separation or divorce
+Z63.8
+High expressed emotion level within family
+981
+Z64.0
+Problems related to unwanted pregnancy
+Z64.1
+Problems related to multiparity
+Z64.4
+Discord with social service provider, including probation officer, case manager, or social services
+worker
+Z65.0
+Conviction in civil or criminal proceedings without imprisonment
+Z65.1
+Imprisonment or other incarceration
+Z65.2
+Problems related to release from prison
+Z65.3
+Problems related to other legal circumstances
+Z65.4
+Victim of crime
+Z65.4
+Victim of terrorism or torture
+Z65.5
+Exposure to disaster, war, or other hostilities
+Z65.8
+Religious or spiritual problem
+Z69.010
+Encounter for mental health services for victim of child neglect by parent
+Z69.010
+Encounter for mental health services for victim of child physical abuse by parent
+Z69.010
+Encounter for mental health services for victim of child psychological abuse by parent
+Z69.010
+Encounter for mental health services for victim of child sexual abuse by parent
+Z69.011
+Encounter for mental health services for perpetrator of parental child neglect
+Z69.011
+Encounter for mental health services for perpetrator of parental child physical abuse
+Z69.011
+Encounter for mental health services for perpetrator of parental child psychological abuse
+Z69.011
+Encounter for mental health services for perpetrator of parental child sexual abuse
+Z69.020
+Encounter for mental health services for victim of nonparental child neglect

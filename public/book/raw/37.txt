@@ -1,0 +1,39 @@
+xxiii
+Preface to DSM-5
+The American Psychiatric Association’s Diagnostic and Statistical Manual of
+Mental Disorders (DSM) is a classification of mental disorders with associated criteria designed
+to facilitate more reliable diagnoses of these disorders. With successive editions over the past 60
+years, it has become a standard reference for clinical practice in the mental health field. Since a
+complete description of the underlying pathological processes is not possible for most mental
+disorders, it is important to emphasize that the current diagnostic criteria are the best available
+description of how mental disorders are expressed and can be recognized by trained clinicians.
+DSM is intended to serve as a practical, functional, and flexible guide for organizing information
+that can aid in the accurate diagnosis and treatment of mental disorders. It is a tool for clinicians,
+an essential educational resource for students and practitioners, and a reference for researchers in
+the field.
+Although this edition of DSM was designed first and foremost to be a useful guide to clinical
+practice, as an official nomenclature it must be applicable in a wide diversity of contexts. DSM
+has been used by clinicians and researchers from different orientations (biological,
+psychodynamic, cognitive, behavioral, interpersonal, family/systems), all of whom strive for a
+common language to communicate the essential characteristics of mental disorders presented by
+their patients. The information is of value to all professionals associated with various aspects of
+mental health care, including psychiatrists, other physicians, psychologists, social workers,
+nurses, counselors, forensic and legal specialists, occupational and rehabilitation therapists, and
+other health professionals. The criteria are concise and explicit and intended to facilitate an
+objective assessment of symptom presentations in a variety of clinical settings—inpatient,
+outpatient, partial hospital, consultation-liaison, clinical, private practice, and primary care—as
+well in general community epidemiological studies of mental disorders. DSM-5 is also a tool for
+collecting and communicating accurate public health statistics on mental disorder morbidity and
+mortality rates. Finally, the criteria and corresponding text serve as a textbook for students early
+in their profession who need a structured way to understand and diagnose mental disorders as
+well as for seasoned professionals encountering rare disorders for the first time. Fortunately, all
+of these uses are mutually compatible.
+These diverse needs and interests were taken into consideration in planning DSM-5. The
+classification of disorders is harmonized with the World Health Organization’s International
+Classification of Diseases (ICD), the official coding system used in the United States, so that the
+DSM criteria define disorders identified by ICD diagnostic names and code numbers. In DSM-5,
+both ICD-9-CM and ICD-10-CM codes (the latter scheduled for adoption in October 2015) are
+attached to the relevant disorders in the classification.
+Although DSM-5 remains a categorical classification of separate disorders, we recognize that
+mental disorders do not always fit completely within the boundaries of a single disorder. Some
+symptom domains, such as depression and anxiety, involve multiple diagnostic categories and

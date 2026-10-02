@@ -1,0 +1,43 @@
+sudden, bilateral loss of muscle tone precipitated by emotions. A range of positive emotions can
+trigger cataplexy, including those associated with laughter, anticipation, or surprise. Less
+commonly, cataplexy can be triggered by negative emotions such as anger and embarrassment.
+Muscles affected include those of the neck, jaw, arms, legs, or whole body, resulting in head
+bobbing, jaw dropping, or complete falls. Individuals are awake and aware during cataplexy.
+Cataplexy should not be confused with “weakness” occurring in
+424
+the context of athletic activities (physiological) or exclusively after unusual emotional
+triggers such as stress or anxiety (suggesting possible psychopathology).
+In children and rarely in adults with acute NT1 symptom onset, cataplexy may manifest as
+continuous hypotonia rather than episodic bouts of weakness triggered by strong emotions. This
+continuous hypotonia may result in gait instability, ptosis, and slack jaw. Superimposed on this
+muscle weakness, some individuals may demonstrate phenomena such as tongue protrusion and
+grimacing. This static cataplexy is most common within 6 months of a rapid onset.
+NT1 is caused by loss of hypothalamic neurons that produce the hypocretin (orexin)
+neuropeptides, and CSF hypocretin levels are typically less than one-third of control values (< 
+110 pg/mL in most laboratories). Individuals with cataplexy have been shown to have low CSF
+hypocretin levels in 85%–90% of cases. In contrast, most individuals with NT2 have normal or
+intermediate levels of CSF hypocretin. Thus, hypocretin deficiency is a sufficient diagnostic test
+for NT1 (Criterion B2). If CSF hypocretin is measured and not low, an NT2 diagnosis is based
+on clinical symptoms (Criterion A) and sleep study data outlined in Criterion B3.
+A nocturnal polysomnogram followed by an MSLT is the conventional method for
+confirming the diagnosis of both NT1 (if hypocretin testing is unavailable or not feasible) and
+NT2 (Criterion B3). These tests must be performed after the individual has stopped all
+psychotropic medications (for a duration based on elimination half-life) and obtained adequate
+sleep time on a normal sleep-wake schedule (as documented with sleep diaries or, preferably,
+actigraphy), ideally for 2 weeks. Notably, the abrupt discontinuation of antidepressants, α-
+adrenergic agonist medications, or stimulants or use of these medications during testing can alter
+REM sleep physiology.
+The MSLT result must be positive for a diagnosis of NT2, showing a mean sleep latency of
+≤ 8 minutes plus at least two SOREMPs; specifically, REM sleep must occur in at least two of
+the five nap opportunities. Alternatively, a nocturnal sleep-onset REM period (nSOREMP; REM
+sleep-onset latency ≤ 15 minutes) during polysomnography is sufficient to confirm the diagnosis
+and meets Criterion B3. An nSOREMP is highly specific to NT1 (95%–97%) but only
+moderately sensitive (54%–57%). False positive findings of SOREMPs can occur with shift
+work, circadian rhythm sleep-wake disorders, severe obstructive sleep apnea, medication effects,
+and insufficient sleep disorder.
+The nocturnal polysomnogram and MSLT are diagnostically limited, especially in NT2.
+While reliability of diagnostic MSLT testing is relatively high at 85%–95% for NT1, reliability
+for the NT2 diagnosis is poorer. Test-retest reliability may be < 50%. This poor reliability may
+be due to day-to-day variability in NT2 physiology and technical aspects of the polysomnogram
+and MSLT testing, especially inadequate attention to prior sleep time/schedule and
+medication/drug use.

@@ -1,0 +1,37 @@
+Depressive and bipolar disorders and schizoaffective disorder.
+F23
+which the individual is preoccupied and concerned with the expressed delusion).
+These disorders may be distinguished
+from delusional disorder by the temporal relationship between the mood disturbance and the
+delusions and by the severity of the mood symptoms. If delusions occur exclusively during mood
+episodes, the diagnosis is major depressive or bipolar disorder, with psychotic features. Mood
+symptoms that meet full criteria for a mood episode can be superimposed on delusional disorder.
+Delusional disorder can be diagnosed only if the total duration of all mood episodes remains
+brief relative to the total duration of the delusional disturbance. If not, then a diagnosis of other
+specified or unspecified schizophrenia spectrum and other psychotic disorder accompanied by
+other specified depressive disorder, unspecified depressive disorder, other specified bipolar and
+related disorder, or unspecified bipolar and related disorder is appropriate.
+Brief Psychotic Disorder
+Diagnostic Criteria
+A. Presence of one (or more) of the following symptoms. At least one of these must
+be (1), (2), or (3):
+1. Delusions.
+2. Hallucinations.
+3. Disorganized speech (e.g., frequent derailment or incoherence).
+4. Grossly disorganized or catatonic behavior.
+Note: Do not include a symptom if it is a culturally sanctioned response.
+B. Duration of an episode of the disturbance is at least 1 day but less than 1 month,
+with eventual full return to premorbid level of functioning.
+109
+C. The disturbance is not better explained by major depressive or bipolar disorder
+with psychotic features or another psychotic disorder such as schizophrenia or
+catatonia, and is not attributable to the physiological effects of a substance (e.g.,
+a drug of abuse, a medication) or another medical condition.
+Specify if:
+With marked stressor(s) (brief reactive psychosis): If symptoms occur in
+response to events that, singly or together, would be markedly stressful to
+almost anyone in similar circumstances in the individual’s culture.
+Without marked stressor(s): If symptoms do not occur in response to events
+that, singly or together, would be markedly stressful to almost anyone in similar
+circumstances in the individual’s culture.
+With peripartum onset: If onset is during pregnancy or within 4 weeks

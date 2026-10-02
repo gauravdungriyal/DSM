@@ -1,0 +1,34 @@
+Z69.12
+Encounter for mental health services for perpetrator of spouse or partner
+psychological abuse
+Adult Abuse by Nonspouse or Nonpartner
+This category may be used when the abuse of an adult by another adult who is not an intimate
+partner is a focus of clinical attention. Such maltreatment may involve acts of physical, sexual, or
+emotional abuse. Examples of adult abuse include nonaccidental acts of physical force (e.g.,
+pushing/shoving, scratching, slapping, throwing something that could hurt, punching, biting) that
+have resulted—or have reasonable potential to result—in physical harm or have caused
+significant fear; forced or coerced sexual acts; and verbal or symbolic acts with the potential to
+cause psychological harm (e.g., berating or humiliating the person; interrogating the person;
+restricting the person’s ability to come and go freely; obstructing the person’s access to
+assistance; threatening the person; harming or threatening to harm people or things that the
+person cares about; restricting the person’s
+828
+access to or use of economic resources; isolating the person from family, friends, or social
+support resources; stalking the person; trying to make the person think that he or she is crazy).
+Acts for the purpose of physically protecting oneself or the other person are excluded.
+Adult Physical Abuse by Nonspouse or Nonpartner, Confirmed
+T74.11XA Initial encounter
+T74.11XD Subsequent encounter
+Adult Physical Abuse by Nonspouse or Nonpartner, Suspected
+T76.11XA Initial encounter
+T76.11XD Subsequent encounter
+Adult Sexual Abuse by Nonspouse or Nonpartner, Confirmed
+T74.21XA Initial encounter
+T74.21XD Subsequent encounter
+Adult Sexual Abuse by Nonspouse or Nonpartner, Suspected
+T76.21XA Initial encounter
+T76.21XD Subsequent encounter
+Adult Psychological Abuse by Nonspouse or Nonpartner, Confirmed
+T74.31XA Initial encounter
+T74.31XD Subsequent encounter
+Adult Psychological Abuse by Nonspouse or Nonpartner, Suspected

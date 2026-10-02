@@ -1,0 +1,36 @@
+F51.01
+associated with increased risk of self-harm, suicidal thoughts, and suicidal behavior.
+Insomnia Disorder
+Diagnostic Criteria
+A. A predominant complaint of dissatisfaction with sleep quantity or quality,
+associated with one (or more) of the following symptoms:
+1. Difficulty initiating sleep. (In children, this may manifest as difficulty initiating
+sleep without caregiver intervention.)
+2. Difficulty maintaining sleep, characterized by frequent awakenings or
+problems returning to sleep after awakenings. (In children, this may manifest
+as difficulty returning to sleep without caregiver intervention.)
+3. Early-morning awakening with inability to return to sleep.
+B. The sleep disturbance causes clinically significant distress or impairment in
+social, occupational, educational, academic, behavioral, or other important areas
+of functioning.
+C. The sleep difficulty occurs at least 3 nights per week.
+410
+D. The sleep difficulty is present for at least 3 months.
+E. The sleep difficulty occurs despite adequate opportunity for sleep.
+F. The insomnia is not better explained by and does not occur exclusively during
+the course of another sleep-wake disorder (e.g., narcolepsy, a breathing-related
+sleep disorder, a circadian rhythm sleep-wake disorder, a parasomnia).
+G. The insomnia is not attributable to the physiological effects of a substance (e.g.,
+a drug of abuse, a medication).
+H. Coexisting mental disorders and medical conditions do not adequately explain
+the predominant complaint of insomnia.
+Specify if:
+With mental disorder, including substance use disorders
+With medical condition
+With another sleep disorder
+Coding note: The code F51.01 applies to all three specifiers. Code also the
+relevant associated mental disorder, medical condition, or other sleep disorder
+immediately after the code for insomnia disorder in order to indicate the
+association.
+Specify if:
+Episodic: Symptoms last at least 1 month but less than 3 months.

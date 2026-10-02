@@ -1,0 +1,42 @@
+mild neurocognitive disorder). In cases in which a substance is judged to be an etiological factor
+but the specific substance is unknown, the ICD-10-CM code for the other (or unknown)
+substance class is used, and the fact that the substance is unknown is recorded (e.g., F19.97
+unknown substance-induced major neurocognitive disorder).
+When recording the name of the disorder, the comorbid substance use disorder (if any) is
+listed first, followed by the word “with,” followed by the name of the disorder (i.e., [specific
+substance]–induced major neurocognitive disorder or [specific substance]–induced mild
+neurocognitive disorder), followed by the type in the case of alcohol (i.e., nonamnestic-
+confabulatory type, amnestic-confabulatory type), followed by specification of duration (i.e.,
+persistent). For example, in the case of persistent amnestic-confabulatory symptoms in a man
+with a severe alcohol use disorder, the diagnosis is F10.26 severe alcohol use disorder with
+alcohol-induced major neurocognitive disorder, amnestic-confabulatory type, persistent. A
+separate diagnosis of the comorbid severe alcohol use disorder is not given. If the substance-
+induced neurocognitive disorder occurs without a comorbid substance use disorder (e.g., after a
+sporadic heavy use of inhalants), no accompanying substance use disorder is noted (e.g., F18.988
+[specific inhalant]–induced mild neurocognitive disorder).
+Diagnostic Features
+Substance/medication-induced major or mild NCD is characterized by neurocognitive
+impairments that persist beyond the usual duration of intoxication and acute withdrawal
+(Criterion B). Initially, these manifestations can reflect slow recovery of brain functions from a
+period of prolonged substance use, and improvements in neurocognitive as well as brain imaging
+indicators may be seen over many months. If the disorder continues for an extended period,
+persistent should be specified. The given substance and its use must be known to be capable of
+causing the observed impairments (Criterion C). While nonspecific decrements in a range of
+cognitive abilities can occur with nearly any substance of abuse and a variety of medications,
+some patterns occur more frequently with selected drug classes. For example, NCD due to
+sedative, hypnotic, or anxiolytic drugs (e.g., benzodiazepines, barbiturates) may show greater
+disturbances in memory than in other cognitive functions. NCD induced by alcohol frequently
+manifests with a combination of impairments in executive-function and memory and learning
+domains. The temporal course of the substance-induced NCD must be consistent with that of use
+of the given substance (Criterion D). Alcohol-induced, amnestic-confabulatory type
+(Korsakoff’s) NCD is characterized by an impairment in recent memory that is out of proportion
+to additional NCD symptoms. Features include prominent amnesia (severe difficulty learning
+new information with rapid forgetting) and a tendency to confabulate, although confabulation
+can be seen with any severe diminution of recent memory. These manifestations may co-occur
+with signs of thiamine encephalopathy (Wernicke’s encephalopathy) with associated features
+such as nystagmus and ataxia. Ophthalmoplegia of Wernicke’s encephalopathy is typically
+characterized by a lateral gaze paralysis. The neurocognitive deficits associated with inhalant
+misuse include diminished executive functioning, slower cognitive speed, and additional
+impaired performance on aspects of the Wisconsin Card Sorting and the Stroop tests.
+Neurocognitive symptoms associated with stimulant use include difficulties with learning and
+memory and executive function. Methamphetamine use can also be associated with

@@ -1,0 +1,34 @@
+Alcohol Withdrawal
+Diagnostic Criteria
+A. Cessation of (or reduction in) alcohol use that has been heavy and prolonged.
+B. Two (or more) of the following, developing within several hours to a few days
+after the cessation of (or reduction in) alcohol use described in Criterion A:
+1. Autonomic hyperactivity (e.g., sweating or pulse rate greater than 100 bpm).
+2. Increased hand tremor.
+3. Insomnia.
+4. Nausea or vomiting.
+5. Transient visual, tactile, or auditory hallucinations or illusions.
+6. Psychomotor agitation.
+7. Anxiety.
+8. Generalized tonic-clonic seizures.
+C. The signs or symptoms in Criterion B cause clinically significant distress or
+impairment in social, occupational, or other important areas of functioning.
+565
+D. The signs or symptoms are not attributable to another medical condition and are
+not better explained by another mental disorder, including intoxication or
+withdrawal from another substance.
+Specify if:
+With perceptual disturbances: This specifier applies in the rare instance when
+hallucinations (usually visual or tactile) occur with intact reality testing, or
+auditory, visual, or tactile illusions occur in the absence of a delirium.
+Coding note: The ICD-10-CM code depends on whether or not there is a comorbid
+alcohol use disorder and whether or not there are perceptual disturbances.
+For alcohol withdrawal, without perceptual disturbances: If a mild alcohol
+use disorder is comorbid, the ICD-10-CM code is F10.130, and if a moderate or
+severe alcohol use disorder is comorbid, the ICD-10-CM code is F10.230. If
+there is no comorbid alcohol use disorder, then the ICD-10-CM code is F10.930.
+For alcohol withdrawal, with perceptual disturbances: If a mild alcohol use
+disorder is comorbid, the ICD-10-CM code is F10.132, and if a moderate or
+severe alcohol use disorder is comorbid, the ICD-10-CM code is F10.232. If
+there is no comorbid alcohol use disorder, then the ICD-10-CM code is F10.932.
+Specifiers

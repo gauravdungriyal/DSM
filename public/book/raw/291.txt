@@ -1,0 +1,32 @@
+and other psychotic disorder. Note: Manic episodes that are part of
+schizoaffective disorder do not merit an additional diagnosis of other specified
+bipolar and related disorder.
+Unspecified Bipolar and Related Disorder
+F31.9
+This category applies to presentations in which symptoms characteristic of a bipolar
+and related disorder that cause clinically significant distress or impairment in social,
+occupational, or other important areas of functioning predominate but do not meet
+the full criteria for any of the disorders in the bipolar and related disorders diagnostic
+class. The unspecified bipolar and related disorder category is used in situations in
+which the clinician chooses not to specify the reason that the criteria are not met for
+a specific bipolar and related disorder, and includes presentations in which there is
+insufficient information to make a more specific diagnosis (e.g., in emergency room
+settings).
+Unspecified Mood Disorder
+F39
+This category applies to presentations in which symptoms characteristic of a mood
+dis-order that cause clinically significant distress or impairment in social,
+occupational, or other important areas of functioning predominate but do not at the
+time of the evaluation meet the full criteria for any of the disorders in either the
+bipolar or the depressive disorders diagnostic classes and in which it is difficult to
+choose between unspecified bipolar and related disorder and unspecified depressive
+disorder (e.g., acute agitation).
+Specifiers for Bipolar and Related Disorders
+Specify if:
+With anxious distress: The presence of at least two of the following symptoms
+during the majority of days of the current manic, hypomanic, or major depressive
+episode in bipolar I disorder (or the most recent episode if bipolar I disorder is in
+partial or full remission); or of the current hypomanic or major depressive
+episode in bipolar II disorder (or the most recent episode if bipolar II disorder is
+in partial or full remission); or during the majority of symptomatic days in
+cyclothymic disorder:

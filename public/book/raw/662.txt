@@ -1,0 +1,39 @@
+excessive sleepiness/fatigue during waking hours or, less commonly, a long
+sleep period.
+Parasomnia type: Characterized by abnormal behavioral events during sleep.
+Mixed type: Characterized by a substance/medication-induced sleep problem
+characterized by multiple types of sleep symptoms, but no symptom clearly
+predominates.
+Specify (see Table 1 in the chapter “Substance-Related and Addictive Disorders,”
+which indicates whether “with onset during intoxication” and/or “with onset during
+withdrawal” applies to a given substance class; or specify “with onset after
+medication use”):
+With onset during intoxication: If criteria are met for intoxication with the
+substance and the symptoms develop during the intoxication.
+With onset during withdrawal: If criteria are met for withdrawal from the
+substance and the symptoms develop during, or shortly after, withdrawal.
+With onset after medication use: If symptoms developed at initiation of
+medication, with a change in use of medication, or during withdrawal of
+medication.
+Recording Procedures
+The name of the substance/medication-induced sleep disorder begins with the specific substance
+(e.g., alcohol) that is presumed to be causing the sleep disturbance. The ICD-10-CM code that
+corresponds to the applicable drug class is selected from the table included in the criteria set. For
+substances that do not fit into any of the classes (e.g., fluoxetine), the ICD-10-CM code for the
+other (or unknown) substance class should be used and the name
+470
+of the specific substance recorded (e.g., F19.982 fluoxetine-induced sleep disorder, insomnia
+type). In cases in which a substance is judged to be an etiological factor but the specific
+substance is unknown, the ICD-10-CM code for the other (or unknown) substance class is used
+and the fact that the substance is unknown is recorded (e.g., F19.982 unknown substance-
+induced sleep disorder, hypersomnia type).
+To record the name of the disorder, the comorbid substance use disorder (if any) is listed
+first, followed by “with substance/medication-induced sleep disorder” (incorporating the name of
+the specific etiological substance/medication), followed by the specification of onset (i.e., with
+onset during intoxication, with onset during withdrawal, with onset after medication use),
+followed by the subtype designation (i.e., insomnia type, daytime sleepiness type, parasomnia
+type, mixed type). For example, in the case of insomnia occurring during withdrawal in a man
+with a severe lorazepam use disorder, the diagnosis is F13.282 severe lorazepam use disorder
+with lorazepam-induced sleep disorder, with onset during withdrawal, insomnia type. A separate
+diagnosis of the comorbid severe lorazepam use disorder is not given. If the substance-induced
+sleep disorder occurs without a comorbid substance use disorder (e.g., with medication use as

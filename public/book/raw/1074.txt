@@ -1,0 +1,40 @@
+experience a recurrence of neuroleptic malignant syndrome when rechallenged with
+antipsychotic medication, some do, especially when antipsychotic medications are reinstituted
+soon after an episode.
+Neuroleptic malignant syndrome is a potential risk in any individual after administration of
+an antipsychotic medication or other dopamine receptor blocking agent. It is not specific to any
+neuropsychiatric diagnosis and may occur in persons without a diagnosable mental disorder who
+receive dopamine antagonists. Clinical, systemic, and metabolic factors associated with a
+heightened risk of neuroleptic malignant syndrome include agitation, exhaustion, dehydration,
+and iron deficiency. A prior episode associated with antipsychotic medication and other
+dopamine receptor blocking agents has been described in 15%–20% of index cases, suggesting
+underlying vulnerability in some individuals; however, genetic findings based on
+neurotransmitter receptor polymorphisms have not been replicated consistently.
+Nearly all antipsychotic medication and other dopamine receptor blocking agents have been
+associated with neuroleptic malignant syndrome, although high-potency antipsychotics pose a
+greater risk compared with low-potency agents and atypical antipsychotics. Partial or milder
+forms may be associated with newer antipsychotics, but neuroleptic malignant syndrome varies
+in severity even with older drugs. Dopamine receptor blocking agents used in medical settings
+(e.g., metoclopramide, prochlorperazine) have also been implicated. Parenteral administration
+routes, rapid titration rates, and higher total drug dosages have been associated with increased
+risk; however, neuroleptic malignant syndrome usually occurs within the therapeutic dosage
+range of antipsychotic medications and other dopamine receptor blocking agents.
+Differential Diagnosis
+Neuroleptic malignant syndrome should be distinguished from other serious neurological or
+medical conditions, including central nervous system infections, inflammatory or autoimmune
+conditions, status epilepticus, subcortical structural lesions, and systemic conditions (e.g.,
+pheochromocytoma, thyrotoxicosis, tetanus, heat stroke).
+Neuroleptic malignant syndrome also should be distinguished from similar syndromes
+resulting from the use of other substances or medications, such as serotonin syndrome;
+parkinsonian hyperthermia syndrome following abrupt discontinuation of dopamine agonists;
+alcohol or sedative withdrawal; malignant hyperthermia occurring during anesthesia;
+hyperthermia associated with misuse of stimulants and hallucinogens; and atropine poisoning
+from anticholinergics.
+In rare instances, individuals with schizophrenia or a mood disorder may present with
+malignant catatonia, which may be indistinguishable from neuroleptic malignant syndrome.
+Some investigators consider neuroleptic malignant syndrome to be a drug-induced form of
+malignant catatonia.
+812
+Medication-Induced Acute Dystonia
+G24.02 Medication-Induced Acute Dystonia
+The essential feature of medication-induced acute dystonia is sustained abnormal muscle

@@ -1,0 +1,38 @@
+Sleep-Wake Disorders
+The DSM-5 classification of sleep-wake disorders is intended for use by mental
+health and general medical clinicians (those caring for adult, geriatric, and pediatric individuals).
+Sleep-wake disorders encompass 10 disorders or disorder groups: insomnia disorder,
+hypersomnolence disorder, narcolepsy, breathing-related sleep disorders, circadian rhythm sleep-
+wake disorders, non–rapid eye movement (NREM) sleep arousal disorders, nightmare disorder,
+rapid eye movement (REM) sleep behavior disorder, restless legs syndrome, and
+substance/medication-induced sleep disorder. Individuals with these disorders typically present
+with sleep-wake complaints of dissatisfaction regarding the quality, timing, and amount of sleep.
+Resulting daytime distress and impairment are core features shared by all of these sleep-wake
+disorders.
+The organization of this chapter is designed to facilitate differential diagnosis of sleep-wake
+complaints and to clarify when referral to a sleep specialist is appropriate for further assessment
+and treatment planning. The DSM-5 sleep disorders nosology uses a simple, clinically useful
+approach, while also reflecting scientific advances in epidemiology, genetics, pathophysiology,
+assessment, and interventions research since DSM-IV. The approach taken to the classification
+of sleep-wake disorders in DSM-5 can be understood within the context of “lumping versus
+splitting.” For example, in some categories (e.g., insomnia disorder), a “lumping” approach has
+been adopted (i.e., three categories that were separate in DSM-IV—insomnia with other mental
+disorders, insomnia with other medical conditions, and insomnia with other sleep disorders—are
+all included in the single insomnia category as specifiers), whereas in other categories (e.g.,
+narcolepsy), a “splitting” approach has been taken (i.e., there are four separately coded subtypes
+of narcolepsy, such as type 1 with cataplexy or hypocretin deficiency, and type 2 without
+cataplexy and either without hypocretin deficiency or hypocretin unmeasured), reflecting the
+availability of validators derived from epidemiological, neurobiological, and interventions
+research.
+Because DSM-5 is intended for use by mental health and general medical clinicians who are
+not experts in sleep medicine, DSM-5 presents an effort to simplify sleep-wake disorders
+classification and thus aggregates diagnoses under broader, less differentiated labels. In contrast,
+the International Classification of Sleep Disorders, 3rd Edition (ICSD-3), elaborates numerous
+diagnostic subtypes, reflects the science and opinions of the sleep specialist community, and has
+been prepared by and for sleep specialists.
+The simpler, less-differentiated approach to the diagnosis of sleep-wake disorders in DSM-5
+shows superior interrater reliability, as well as convergent, discriminant, and face validity. The
+text accompanying each set of diagnostic criteria provides linkages to the corresponding
+disorders included in ICSD-3.
+The field of sleep disorders medicine has progressed in this direction since the publication of
+DSM-IV. The use of biological validators is now embodied in the DSM-5 classification of sleep-

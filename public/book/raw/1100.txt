@@ -1,0 +1,42 @@
+Z65.4
+Victim of Crime
+Z65.4
+Victim of Terrorism or Torture
+Z65.5
+Exposure to Disaster, War, or Other Hostilities
+Problems Related to Access to Medical and Other Health Care
+These categories may be used when a problem related to access to medical or other health care is
+the focus of clinical attention or has an impact on the individual’s treatment or prognosis.
+Z75.3
+Unavailability or Inaccessibility of Health Care Facilities
+Z75.4
+Unavailability or Inaccessibility of Other Helping Agencies
+Circumstances of Personal History
+Z91.49
+Personal History of Psychological Trauma
+Z91.82
+Personal History of Military Deployment
+Other Health Service Encounters for Counseling and Medical
+Advice
+Z31.5
+Genetic Counseling
+This category may be used for individuals seeking genetic counseling to understand the risks of
+developing a mental disorder with a significant genetic component (e.g., bipolar disorder) for
+themselves and other family members, including their existing children, as well as the risks for
+their future children.
+834
+Z70.9
+Sex Counseling
+This category may be used when the individual seeks counseling related to sex education, sexual
+behavior, sexual orientation, sexual attitudes (embarrassment, timidity), others’ sexual behavior
+or orientation (e.g., spouse, partner, child), sexual enjoyment, or any other sex-related issue.
+Z71.3
+Dietary Counseling
+This category may be used when the individual seeks counseling related to dietary issues like
+weight management.
+Z71.9
+Other Counseling or Consultation
+This category may be used when counseling is provided or advice/consultation is sought for a
+problem that is not specified above or elsewhere in this chapter (e.g., counseling regarding drug
+abuse prevention in an adolescent).
+Additional Conditions or Problems That May Be a Focus of

@@ -1,0 +1,40 @@
+mental disorder (e.g., F06.4 anxiety disorder due to pheochromocytoma). The other
+259
+medical condition should be coded and listed separately immediately before the
+anxiety disorder due to the medical condition (e.g., D35.00 pheochromocytoma;
+F06.4 anxiety disorder due to pheochromocytoma).
+Diagnostic Features
+The essential feature of anxiety disorder due to another medical condition is clinically significant
+anxiety that is judged to be best explained as a physiological effect of another medical condition.
+Symptoms can include prominent anxiety symptoms or panic attacks (Criterion A). The
+judgment that the symptoms are best explained by the associated physical condition must be
+based on evidence from the history, physical examination, or laboratory findings (Criterion B).
+Additionally, it must be judged that the symptoms are not better accounted for by another mental
+disorder (Criterion C)—in particular, adjustment disorder with anxiety, in which the stressor is
+the medical condition. In this case, an individual with adjustment disorder is especially distressed
+about the meaning or the consequences of the associated medical condition. By contrast, there is
+often a prominent physical component to the anxiety (e.g., shortness of breath) when the anxiety
+is due to another medical condition. The diagnosis is not made if the anxiety symptoms occur
+only during the course of a delirium (Criterion D). The anxiety symptoms must cause clinically
+significant distress or impairment in social, occupational, or other important areas of functioning
+(Criterion E).
+In determining whether the anxiety symptoms are attributable to another medical condition,
+the clinician must first establish the presence of the medical condition. Furthermore, it must be
+established that anxiety symptoms can be etiologically related to the medical condition through a
+physiological mechanism before making a judgment that this is the best explanation for the
+symptoms in a specific individual. A careful and comprehensive assessment of multiple factors is
+necessary to make this judgment. Several aspects of the clinical presentation should be
+considered: 1) the presence of a clear temporal association between the onset, exacerbation, or
+remission of the medical condition and the anxiety symptoms; 2) the presence of features that are
+atypical of an independent anxiety disorder (e.g., atypical age at onset or course); and 3)
+evidence in the literature that a known physiological mechanism (e.g., hyperthyroidism) causes
+anxiety. In addition, the disturbance must not be better explained by an independent anxiety
+disorder, a substance/medication-induced anxiety disorder, or another mental disorder (e.g.,
+adjustment disorder).
+A number of medical conditions are known to include anxiety as a symptomatic
+manifestation. Examples include endocrine disease (e.g., hyperthyroidism, pheochromocytoma,
+hypoglycemia, hyperadrenocortisolism), cardiovascular disorders (e.g., congestive heart failure,
+pulmonary embolism, arrhythmia such as atrial fibrillation), respiratory illness (e.g., chronic
+obstructive pulmonary disease, asthma, pneumonia), metabolic disturbances (e.g., vitamin B12
+deficiency, porphyria), and neurological illness (e.g., neoplasms, vestibular dysfunction,
+encephalitis, seizure disorders).

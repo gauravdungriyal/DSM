@@ -1,0 +1,60 @@
+T74.11XD
+Subsequent encounter
+lxv
+___.__
+Spouse or Partner Violence, Physical, Suspected (826)
+T76.11XA
+Initial encounter
+T76.11XD
+Subsequent encounter
+___.__
+Other Circumstances Related to Spouse or Partner Violence, Physical (826)
+Z69.11
+Encounter for mental health services for victim of spouse or partner
+violence, physical
+Z91.410
+Personal history (past history) of spouse or partner violence, physical
+Z69.12
+Encounter for mental health services for perpetrator of spouse or partner
+violence, physical
+Spouse or Partner Violence, Sexual (826)
+___.__
+Spouse or Partner Violence, Sexual, Confirmed (826)
+T74.21XA
+Initial encounter
+T74.21XD
+Subsequent encounter
+___.__
+Spouse or Partner Violence, Sexual, Suspected (826)
+T76.21XA
+Initial encounter
+T76.21XD
+Subsequent encounter
+___.__
+Other Circumstances Related to Spouse or Partner Violence, Sexual (826)
+Z69.81
+Encounter for mental health services for victim of spouse or partner
+violence, sexual
+Z91.410
+Personal history (past history) of spouse or partner violence, sexual
+Z69.12
+Encounter for mental health services for perpetrator of spouse or partner
+violence, sexual
+Spouse or Partner Neglect (826)
+___.__
+Spouse or Partner Neglect, Confirmed (826)
+T74.01XA
+Initial encounter
+T74.01XD
+Subsequent encounter
+___.__
+Spouse or Partner Neglect, Suspected (827)
+T76.01XA
+Initial encounter
+T76.01XD
+Subsequent encounter
+___.__
+Other Circumstances Related to Spouse or Partner Neglect (827)
+Z69.11
+Encounter for mental health services for victim of spouse or partner
+neglect

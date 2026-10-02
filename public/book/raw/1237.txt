@@ -1,0 +1,83 @@
+F15.982
+Caffeine-induced sleep disorder, Without use disorder
+F15.988
+Amphetamine-type substance (or other stimulant)–induced mild neurocognitive disorder, Without use
+disorder
+F15.988
+Amphetamine-type substance (or other stimulant)–induced obsessive-compulsive and related disorder,
+Without use disorder
+F15.99
+Unspecified amphetamine-type substance-related disorder
+F15.99
+Unspecified caffeine-related disorder
+F15.99
+Unspecified other stimulant–related disorder
+F16.10
+Other hallucinogen use disorder, Mild
+F16.10
+Phencyclidine use disorder, Mild
+F16.11
+Other hallucinogen use disorder, Mild, In early remission
+F16.11
+Other hallucinogen use disorder, Mild, In sustained remission
+F16.11
+Phencyclidine use disorder, Mild, In early remission
+F16.11
+Phencyclidine use disorder, Mild, In sustained remission
+F16.120
+Other hallucinogen intoxication, With mild use disorder
+F16.120
+Phencyclidine intoxication, With mild use disorder
+F16.121
+Other hallucinogen intoxication delirium, With mild use disorder
+F16.121
+Phencyclidine intoxication delirium, With mild use disorder
+F16.14
+Other hallucinogen–induced bipolar and related disorder, With mild use disorder
+F16.14
+Other hallucinogen–induced depressive disorder, With mild use disorder
+F16.14
+Phencyclidine-induced bipolar and related disorder, With mild use disorder
+968
+F16.14
+Phencyclidine-induced depressive disorder, With mild use disorder
+F16.159
+Other hallucinogen–induced psychotic disorder, With mild use disorder
+F16.159
+Phencyclidine-induced psychotic disorder, With mild use disorder
+F16.180
+Other hallucinogen–induced anxiety disorder, With mild use disorder
+F16.180
+Phencyclidine-induced anxiety disorder, With mild use disorder
+F16.20
+Other hallucinogen use disorder, Moderate
+F16.20
+Other hallucinogen use disorder, Severe
+F16.20
+Phencyclidine use disorder, Moderate
+F16.20
+Phencyclidine use disorder, Severe
+F16.21
+Other hallucinogen use disorder, Moderate, In early remission
+F16.21
+Other hallucinogen use disorder, Moderate, In sustained remission
+F16.21
+Other hallucinogen use disorder, Severe, In early remission
+F16.21
+Other hallucinogen use disorder, Severe, In sustained remission
+F16.21
+Phencyclidine use disorder, Moderate, In early remission
+F16.21
+Phencyclidine use disorder, Moderate, In sustained remission
+F16.21
+Phencyclidine use disorder, Severe, In early remission
+F16.21
+Phencyclidine use disorder, Severe, In sustained remission
+F16.220
+Other hallucinogen intoxication, With moderate or severe use disorder
+F16.220
+Phencyclidine intoxication, With moderate or severe use disorder
+F16.221
+Other hallucinogen intoxication delirium, With moderate or severe use disorder
+F16.221
+Phencyclidine intoxication delirium, With moderate or severe use disorder

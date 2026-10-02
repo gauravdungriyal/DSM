@@ -1,0 +1,43 @@
+Major or Mild Neurocognitive Disorder Due to HIV
+Infection
+Diagnostic Criteria
+A. The criteria are met for major or mild neurocognitive disorder.
+B. There is documented infection with human immunodeficiency virus (HIV).
+C. The neurocognitive disorder is not better explained by non-HIV conditions,
+including 
+secondary 
+brain 
+diseases 
+such 
+as 
+progressive 
+multifocal
+leukoencephalopathy or cryptococcal meningitis.
+D. The neurocognitive disorder is not attributable to another medical condition and
+is not better explained by a mental disorder.
+Coding note (see coding table on pp. 682–683):
+For major neurocognitive disorder due to HIV infection, with behavioral disturbance,
+code first B20 HIV infection, followed by F02.81 major neurocognitive disorder due
+to HIV infection, with behavioral disturbance.
+For major neurocognitive disorder due to HIV infection, without behavioral
+disturbance, code first B20 HIV infection, followed by F02.80 major neurocognitive
+disorder due to HIV infection, without behavioral disturbance.
+Note: The severity specifiers “mild,” “moderate,” and “severe” cannot be coded for
+major neurocognitive disorder but should still be recorded.
+For mild neurocognitive disorder due to HIV infection, code G31.84. (Note: Do not
+use the additional code for HIV infection. “With behavioral disturbance” and “without
+behavioral disturbance” cannot be coded but should still be recorded.)
+718
+For major or mild neurocognitive disorder due to HIV infection: Use additional
+code(s) to indicate clinically significant psychiatric symptoms due to HIV infection
+(e.g., F06.34 bipolar and related disorder due to HIV infection, with mixed features;
+F07.0 personality change due to traumatic brain injury, apathetic type).
+Diagnostic Features
+HIV disease is caused by infection with human immunodeficiency virus type-1 (HIV-1), which
+is acquired through exposure to bodily fluids of an infected individual through injection
+substance use, unprotected sexual contact, or accidental or iatrogenic exposure (e.g., needle
+puncture injury to medical personnel). HIV infects several types of cells, most particularly “T-
+helper” (CD4) lymphocytes and monocytes. Over time, the infection can cause severe decreases
+in the CD4 count, resulting in severe immunocompromise, often leading to opportunistic
+infections and neoplasms. Infected monocytes can enter the central nervous system, leading to
+infection of macrophages and microglia. A small percentage of astrocytes may harbor productive

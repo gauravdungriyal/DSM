@@ -1,0 +1,38 @@
+D. The signs or symptoms are not attributed to another medical condition and are
+not better explained by another mental disorder, including intoxication or
+withdrawal from another substance.
+Coding note: The ICD-10-CM code for tobacco withdrawal is F17.203. Note that the
+ICD-10-CM code indicates the comorbid presence of a moderate or severe tobacco
+use disorder, reflecting the fact that tobacco withdrawal can only occur in the
+presence of a moderate or severe tobacco use disorder.
+Diagnostic Features
+Withdrawal symptoms impair the ability to stop tobacco use. The symptoms after abstinence
+from tobacco are in large part due to nicotine deprivation. Tobacco withdrawal is common
+among daily tobacco users who stop or reduce their use of tobacco. Symptoms are more intense
+among individuals who smoke cigarettes and also use smokeless tobacco or electronic cigarettes
+daily. This symptom intensity is likely attributable to the more rapid onset and higher levels of
+nicotine with cigarette smoking. Significant withdrawal among those who are nondaily cigarette
+users or use only nicotine medications is uncommon.
+Typically, heart rate decreases by 5–12 bpm in the first few days after stopping smoking, and
+weight increases an average of 4–7 lb (2–3 kg) over the first year after stopping smoking.
+Tobacco withdrawal can produce clinically significant mood changes and functional impairment.
+Because of conditioning effects, withdrawal can be prompted by environmental cues such as
+seeing others smoking. Gradual reduction of tobacco decreases the severity of withdrawal.
+Associated Features
+Craving for tobacco or nicotine is very common during abstinence and has a large effect on the
+ability to remain abstinent. Abstinence can increase impulsivity and anhedonia and can decrease
+positive affect. Abstinence from tobacco or nicotine also appears to increase craving for sweet or
+sugary foods and impairs performance on tasks requiring vigilance. Smoking increases the
+metabolism of many medications used to treat mental disorders; thus, cessation of smoking can
+increase the blood levels of these medications, and this can produce clinically significant
+outcomes. This effect appears to be due not to nicotine but rather to other compounds in tobacco.
+Prevalence
+Approximately 50% of daily smokers who quit for 2 or more days will have four or more
+symptoms of tobacco withdrawal. The most commonly endorsed signs and symptoms are
+anxiety, irritability, and difficulty concentrating. The least commonly endorsed symptoms are
+depression and insomnia.
+Development and Course
+Tobacco withdrawal usually begins within 24 hours of stopping or cutting down tobacco use,
+peaks at 2–3 days after abstinence, and usually lasts 2–3 weeks. Tobacco withdrawal symptoms
+can occur among adolescent tobacco users, even prior to daily tobacco use. Prolonged symptoms
+beyond 1 month can occur but are uncommon.

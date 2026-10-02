@@ -1,0 +1,40 @@
+decreased recognition of catatonia. During severe stages of catatonia, the individual may need
+careful supervision to avoid self-harm or harming others. There are potential risks from
+malnutrition, exhaustion, thromboembolism, pressure ulcers, muscle contractions, hyperpyrexia
+and self-inflicted injury.
+Catatonia Associated With Another Mental Disorder
+(Catatonia Specifier)
+F06.1
+A. The clinical picture is dominated by three (or more) of the following symptoms:
+1. Stupor (i.e., no psychomotor activity; not actively relating to environment).
+2. Catalepsy (i.e., passive induction of a posture held against gravity).
+3. Waxy flexibility (i.e., slight, even resistance to positioning by examiner).
+4. Mutism (i.e., no, or very little, verbal response [exclude if known aphasia]).
+5. Negativism (i.e., opposition or no response to instructions or external stimuli).
+6. Posturing (i.e., spontaneous and active maintenance of a posture against
+gravity).
+7. Mannerism (i.e., odd, circumstantial caricature of normal actions).
+8. Stereotypy 
+(i.e., 
+repetitive, 
+abnormally 
+frequent, 
+non-goal-directed
+movements).
+9. Agitation, not influenced by external stimuli.
+10. Grimacing.
+11. Echolalia (i.e., mimicking another’s speech).
+12. Echopraxia (i.e., mimicking another’s movements).
+Coding note: Indicate the name of the associated mental disorder when recording
+the name of the condition (i.e., F06.1 catatonia associated with major depressive
+disorder). Code first the associated mental disorder (e.g., neurodevelopmental
+disorder, brief psychotic disorder, schizophreniform disorder, schizophrenia,
+schizoaffective disorder, bipolar disorder, major depressive disorder, or other mental
+disorder) (e.g., F25.1 schizoaffective disorder, depressive type; F06.1 catatonia
+associated with schizoaffective disorder).
+136
+Diagnostic Features
+Catatonia associated with another mental disorder (catatonia specifier) may be used when criteria
+are met for catatonia during the course of a neurodevelopmental, psychotic, bipolar, depressive,
+or other mental disorder. The catatonia specifier is appropriate when the clinical picture is
+characterized by marked psychomotor disturbance and involves at least three of the 12 diagnostic

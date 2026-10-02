@@ -1,0 +1,40 @@
+“Craving, or a strong desire or urge to use the stimulant,” may be met).
+In sustained remission: After full criteria for stimulant use disorder were
+previously met, none of the criteria for stimulant use disorder have been met at
+any time during a period of 12 months or longer (with the exception that Criterion
+A4, “Craving, or a strong desire or urge to use the stimulant,” may be met).
+Specify if:
+In a controlled environment: This additional specifier is used if the individual is
+in an environment where access to stimulants is restricted.
+Code based on current severity/remission: If an amphetamine-type substance
+intoxication, amphetamine-type substance withdrawal, or amphetamine-type
+substance-induced mental disorder is also present, do not use the codes below for
+amphetamine-type substance use disorder. Instead, the comorbid amphetamine-
+type substance use disorder is indicated in the 4th character of the amphetamine-
+type substance-induced disorder code (see the coding note for amphetamine-type
+substance intoxication, amphetamine-type substance withdrawal, or a specific
+amphetamine-type substance-induced mental disorder). For example, if there is
+comorbid amphetamine-induced depressive disorder and amphetamine use
+disorder, only the amphetamine-induced depressive disorder code is given, with the
+4th character indicating whether the comorbid amphetamine use disorder is mild,
+moderate, or severe: F15.14 for mild amphetamine use disorder with amphetamine-
+induced depressive disorder or F15.24 for a moderate or severe amphetamine use
+disorder with amphetamine-induced depressive disorder. (The instructions for
+amphetamine-type substance also apply to other or unspecified stimulant
+intoxication, other or unspecified stimulant withdrawal, and other or unspecified
+stimulant-induced mental disorder.) Similarly, if there is comorbid cocaine-induced
+depressive disorder and cocaine use disorder, only the cocaine-induced depressive
+disorder code is given, with the 4th character indicating whether the comorbid
+cocaine use disorder is mild, moderate,
+634
+or severe: F14.14 for a mild cocaine use disorder with cocaine-induced depressive
+disorder or F14.24 for a moderate or severe cocaine use disorder with cocaine-
+induced depressive disorder.
+Specify current severity/remission:
+Mild: Presence of 2–3 symptoms.
+F15.10 Amphetamine-type substance
+F14.10 Cocaine
+F15.10 Other or unspecified stimulant
+Mild, In early remission
+F15.11 Amphetamine-type substance
+F14.11 Cocaine

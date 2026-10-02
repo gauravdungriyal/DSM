@@ -1,0 +1,30 @@
+Unspecified Insomnia Disorder
+G47.00
+This category applies to presentations in which symptoms characteristic of insomnia
+disorder that cause clinically significant distress or impairment in social,
+occupational, or other important areas of functioning predominate but do not meet
+the full criteria for insomnia disorder or any of the disorders in the sleep-wake
+disorders diagnostic class. The unspecified insomnia disorder category is used in
+situations in which the clinician chooses not to specify the reason that the criteria are
+not met for insomnia disorder or a specific sleep-wake disorder, and includes
+presentations in which there is insufficient information to make a more specific
+diagnosis.
+Other Specified Hypersomnolence Disorder
+G47.19
+This category applies to presentations in which symptoms characteristic of
+hypersomnolence disorder that cause clinically significant distress or impairment in
+social, occupational, or other important areas of functioning predominate but do not
+meet the full criteria for hypersomnolence disorder or any of the disorders in the
+sleep-wake disorders diagnostic class. The other specified hypersomnolence
+disorder category is used in situations in which the clinician chooses to communicate
+the specific reason that the presentation does not meet the criteria for
+hypersomnolence disorder or any specific sleep-wake disorder. This is done by
+recording “other specified hypersomnolence disorder” followed by the specific
+reason (e.g., “brief-duration hypersomnolence,” as in Kleine-Levin syndrome).
+476
+Unspecified Hypersomnolence Disorder
+G47.10
+This category applies to presentations in which symptoms characteristic of
+hypersomnolence disorder that cause clinically significant distress or impairment in
+social, occupational, or other important areas of functioning predominate but do not
+meet the full criteria for hypersomnolence disorder or any of the disorders in the

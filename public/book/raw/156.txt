@@ -1,0 +1,65 @@
+should be given the diagnosis of autism spectrum disorder. Individuals who have
+marked deficits in social communication, but whose symptoms do not otherwise
+meet criteria for autism spectrum disorder, should be evaluated for social
+(pragmatic) communication disorder.
+Specify current severity based on social communication impairments and restricted,
+repetitive patterns of behavior (see Table 2):
+Requiring very substantial support
+Requiring substantial support
+Requiring support
+Specify if:
+With or without accompanying intellectual impairment
+With or without accompanying language impairment
+Specify if:
+Associated with a known genetic or other medical condition or
+environmental factor (Coding note: Use additional code to identify the
+associated genetic or other medical condition.)
+Associated with a neurodevelopmental, mental, or behavioral problem
+Specify if:
+With catatonia (refer to the criteria for catatonia associated with another mental
+disorder, p. 135, for definition) (Coding note: Use additional code F06.1
+catatonia associated with autism spectrum disorder to indicate the presence of
+the comorbid catatonia.)
+58
+TABLE 2 Severity levels for autism spectrum disorder (examples of level of
+support needs)
+Severity level
+Social communication
+Restricted, repetitive behaviors
+Level 3
+“Requiring very substantial
+support”
+Severe deficits in verbal and nonverbal social
+communication skills cause severe impairments
+in functioning, very limited initiation of social
+interactions, and minimal response to social
+overtures from others. For example, a person
+with few words of intelligible speech who rarely
+initiates interaction and, when he or she does,
+makes unusual approaches to meet needs only
+and responds to only very direct social
+approaches.
+Inflexibility of behavior, extreme difficulty
+coping with change, or other
+restricted/repetitive behaviors markedly
+interfere with functioning in all spheres.
+Great distress/difficulty changing focus or
+action.
+Level 2
+“Requiring substantial
+support”
+Marked deficits in verbal and nonverbal social
+communication skills; social impairments
+apparent even with supports in place; limited
+initiation of social interactions; and reduced or
+abnormal responses to social overtures from
+others. For example, a person who speaks
+simple sentences, whose interaction is limited to
+narrow special interests, and who has markedly
+Inflexibility of behavior, difficulty coping
+with change, or other restricted/repetitive
+behaviors appear frequently enough to be
+obvious to the casual observer and
+interfere with functioning in a variety of
+contexts. Distress and/or difficulty
+changing focus or action.

@@ -1,0 +1,63 @@
+Note: This diagnosis should be made instead of a diagnosis of substance
+intoxication or substance withdrawal only when the symptoms in Criterion A
+predominate in the clinical picture and are sufficiently severe to warrant clinical
+attention.
+Coding note: The ICD-10-CM codes for the [specific substance/medication]-induced
+sexual dysfunctions are indicated in the table below. Note that the ICD-10-CM code
+depends on whether or not there is a comorbid substance use disorder present for
+the same class of substance. In any case, an additional separate diagnosis of a
+substance use disorder is not given. If a mild substance use disorder is comorbid
+with the substance-induced sexual dysfunction, the 4th position character is “1,” and
+the clinician should record “mild [substance] use disorder” before the substance-
+induced sexual dysfunction (e.g., “mild cocaine use disorder with cocaine-induced
+sexual dysfunction”). If a moderate or severe substance use disorder is comorbid
+with the substance-induced sexual dysfunction, the 4th position character is “2,” and
+the clinician should record “moderate [substance] use disorder” or “severe
+[substance] use disorder,” depending on the severity of the comorbid substance use
+disorder. If there is no comorbid substance use disorder (e.g., after a one-time heavy
+use of the substance), then the 4th position character is “9,” and the clinician should
+record only the substance-induced sexual dysfunction.
+ICD-10-CM
+With mild use
+disorder
+With moderate or
+severe use disorder
+Without use
+disorder
+Alcohol
+F10.181
+F10.281
+F10.981
+Opioid
+F11.181
+F11.281
+F11.981
+Sedative, hypnotic, or anxiolytic
+F13.181
+F13.281
+F13.981
+Amphetamine-type substance (or other
+stimulant)
+F15.181
+F15.281
+F15.981
+Cocaine
+F14.181
+F14.281
+F14.981
+Other (or unknown) substance
+F19.181
+F19.281
+F19.981
+506
+Specify (see Table 1 in the chapter “Substance-Related and Addictive Disorders,”
+which indicates whether “with onset during intoxication” and/or “with onset during
+withdrawal” applies to a given substance class; or specify “with onset after
+medication use”):
+With onset during intoxication: If criteria are met for intoxication with the
+substance and the symptoms develop during intoxication.
+With onset during withdrawal: If criteria are met for withdrawal from the
+substance and the symptoms develop during, or shortly after, withdrawal.
+With onset after medication use: If symptoms developed at initiation of
+medication, with a change in use of medication, or during withdrawal of
+medication.

@@ -1,0 +1,37 @@
+substance-specific sections for additional coding information.
+Substance/Medication-Induced Mental Disorders
+The substance/medication-induced mental disorders are potentially severe, usually temporary,
+but sometimes persisting CNS syndromes that develop in the context of the effects of substances
+of abuse, medications, and some toxins. They are distinguished from the substance use disorders,
+in which a cluster of cognitive, behavioral, and physiological symptoms contribute to the
+continued use of a substance despite significant substance-related problems. The
+substance/medication-induced mental disorders may be induced by any of the 10 classes of
+substances that produce substance use disorders, or by a great variety of other medications used
+in medical treatment. Each substance/medication-induced mental disorder is described in the
+relevant chapter (e.g., substance/medication-induced depressive disorder is located in
+“Depressive Disorders”), and therefore, only a brief description is offered here. All
+substance/medication-induced disorders share common characteristics. It is important to
+recognize these common features to aid in the detection of these disorders. These features are
+described as follows:
+A. A clinically significant presentation of symptoms characteristic of disorders in the relevant
+diagnostic class predominates in the clinical picture.
+B. There is evidence from the history, physical examination, or laboratory findings of both of
+the following:
+1. The symptoms in Criterion A developed during or soon after substance intoxication,
+substance withdrawal, or exposure to or withdrawal from a medication; and
+2. The involved substance/medication is capable of producing the symptoms in Criterion A.
+C. The disturbance is not better explained by an independent mental disorder (i.e., one that is
+not substance- or medication-induced). Such evidence of an independent mental disorder
+could include the following:
+1. The disturbance preceded the onset of severe intoxication or withdrawal or exposure to the
+medication; or
+2. The disturbance persisted for a substantial period of time (e.g., at least 1 month) after the
+cessation of acute withdrawal or severe intoxication or taking the
+551
+medication. This criterion does not apply to substance-induced neurocognitive disorders
+or hallucinogen persisting perception disorder, which persist beyond the cessation of acute
+intoxication or withdrawal.
+D. The disturbance does not occur exclusively during the course of a delirium.
+E. The disturbance causes clinically significant distress or impairment in social, occupational,
+or other important areas of functioning.
+Diagnostic and Associated Features

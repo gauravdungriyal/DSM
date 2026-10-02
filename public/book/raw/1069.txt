@@ -1,0 +1,34 @@
+Medication-Induced Movement Disorders and
+Other Adverse Effects of Medication
+Medication-induced movement disorders are included in Section II because
+of their frequent importance in 1) the management by medication of mental disorders or other
+medical conditions and 2) the differential diagnosis of mental disorders (e.g., anxiety disorder vs.
+medication-induced akathisia; malignant catatonia [a particularly severe and potentially life-
+threatening form of catatonia] vs. neuroleptic malignant syndrome; tardive dyskinesia vs.
+chorea). Although these movement disorders are labeled “medication induced,” it is often
+difficult to establish the causal relationship between medication exposure and the development of
+the movement disorder, especially because some of these movement disorders also occur in the
+absence of medication exposure. The conditions and problems listed in this chapter are not
+mental disorders.
+The term neuroleptic is becoming outdated because it highlights the propensity of
+antipsychotic medications to cause abnormal movements, and it is being replaced with the term
+antipsychotic medications and other dopamine receptor blocking agents in many contexts.
+Although newer antipsychotic medications may be less likely to cause some medication-induced
+movement disorders, those disorders still occur. Antipsychotic medications and other dopamine
+receptor blocking agents include so-called conventional, “typical,” or first-generation
+antipsychotic agents (e.g., chlorpromazine, haloperidol, fluphenazine); “atypical” or second-
+generation antipsychotic agents (e.g., clozapine, risperidone, olanzapine, quetiapine); certain
+dopamine receptor blocking drugs used in the treatment of symptoms such as nausea and
+gastroparesis (e.g., prochlorperazine, promethazine, trimethobenzamide, thiethylperazine,
+metoclopramide); and amoxapine, which is indicated for the treatment of depression.
+Medication-Induced Parkinsonism
+G21.11 Antipsychotic Medication– and Other Dopamine Receptor
+Blocking Agent–Induced Parkinsonism
+G21.19 Other Medication-Induced Parkinsonism
+Medication-induced parkinsonism (MIP), the second most common cause of parkinsonism after
+Parkinson’s disease, is associated with significant morbidity, disability, and treatment
+nonadherence, particularly in individuals with psychiatric disorders. Because early recognition is
+important, any new case of parkinsonism should prompt a thorough medication history, which is
+essential for diagnosis of MIP. A temporal relationship between medication initiation and onset
+of parkinsonism should be evident. A host of agents that may be prescribed in individuals with
+psychiatric disorders may also induce parkinsonism, but MIP is most often seen upon exposure

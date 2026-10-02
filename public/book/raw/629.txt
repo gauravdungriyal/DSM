@@ -1,0 +1,41 @@
+Other medical conditions affecting ventilation.
+Other breathing-related sleep disorders.
+pulmonary vasculature leading to pulmonary hypertension, which, if severe, can result in right-
+sided heart failure (cor pulmonale). Hypoxemia can lead to dysfunction of organs such as the
+brain, blood, and heart, leading to outcomes such as cognitive dysfunction, polycythemia, and
+cardiac arrhythmias. Hypercapnia can depress ventilatory drive, leading to progressive
+respiratory failure.
+Differential Diagnosis
+In adults, the idiopathic variety of sleep-related
+hypoventilation is very uncommon and is determined by excluding the presence of lung diseases,
+skeletal malformations, neuromuscular disorders, and other medical and neurological disorders
+or medications that affect ventilation. Sleep-related hypoventilation must be distinguished from
+other causes of sleep-related hypoxemia, such as that due to lung disease.
+Sleep-related hypoventilation can be distinguished from
+obstructive sleep apnea hypopnea and central sleep apnea based on clinical features and findings
+on polysomnography. Sleep-related hypoventilation typically shows more sustained periods of
+oxygen desaturation rather than the periodic episodes seen in obstructive sleep apnea hypopnea
+and central sleep apnea. Obstructive sleep apnea hypopnea and central sleep apnea also show a
+pattern of discrete episodes of repeated airflow reductions that can be absent in sleep-related
+hypoventilation. However, both obstructive and central apneas and hypopneas can occur in
+association with sleep-related hypoventilation. In obesity hypoventilation, most individuals will
+have comorbid obstructive sleep apnea.
+Comorbidity
+Sleep-related hypoventilation often occurs in association with a pulmonary disorder (e.g.,
+interstitial lung disease, COPD), with a neuromuscular or chest wall disorder (e.g., muscular
+dystrophies, post-polio syndrome, cervical spinal cord injury, kyphoscoliosis), with obesity, or,
+most relevant to the clinician, with medication use (e.g., benzodiazepines, opiates). Congenital
+central alveolar hypoventilation often occurs in association with autonomic dysfunction and may
+occur in association with Hirschsprung’s disease. COPD, a disorder of lower airway obstruction
+usually associated with cigarette smoking, can result in sleep-related hypoventilation and
+hypoxemia. The presence of coexisting obstructive sleep apnea
+443
+hypopnea is thought to exacerbate hypoxemia and hypercapnia during sleep and wakefulness.
+The relationship between congenital central alveolar hypoventilation and idiopathic sleep-related
+hypoventilation is unclear; in some individuals, idiopathic sleep-related hypoventilation may
+represent cases of late-onset congenital central alveolar hypoventilation.
+Relationship to International Classification of Sleep Disorders
+The International Classification of Sleep Disorders, 3rd Edition (ICSD-3), recognizes six
+subtypes of sleep hypoventilation disorders. Congenital central alveolar hypoventilation
+syndrome and idiopathic hypoventilation (idiopathic central alveolar hypoventilation in the
+ICSD-3) are identically classified in DSM-5 and ICSD-3. However, the ICSD-3 subtypes obesity

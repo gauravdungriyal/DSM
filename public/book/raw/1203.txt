@@ -1,0 +1,82 @@
+Antidepressant discontinuation syndrome
+T43.205A
+Initial encounter
+T43.205S
+Sequelae
+T43.205D
+Subsequent encounter
+G21.11
+Antipsychotic medication– and other dopamine receptor blocking agent–induced parkinsonism
+F60.2
+Antisocial personality disorder
+F06.4
+Anxiety disorder due to another medical condition
+Attention-deficit/hyperactivity disorder
+F90.2
+Combined presentation
+F90.1
+Predominantly hyperactive/impulsive presentation
+F90.0
+Predominantly inattentive presentation
+F84.0
+Autism spectrum disorder
+F60.6
+Avoidant personality disorder
+F50.82
+Avoidant/restrictive food intake disorder
+F50.81
+Binge-eating disorder
+Bipolar I disorder, Current or most recent episode depressed
+F31.76
+In full remission
+F31.75
+In partial remission
+F31.31
+Mild
+F31.32
+Moderate
+F31.4
+Severe
+F31.5
+With psychotic features
+F31.9
+Unspecified
+F31.0
+Bipolar I disorder, Current or most recent episode hypomanic
+F31.72
+In full remission
+F31.71
+In partial remission
+F31.9
+Unspecified
+Bipolar I disorder, Current or most recent episode manic
+F31.74
+In full remission
+F31.73
+In partial remission
+F31.11
+Mild
+F31.12
+Moderate
+F31.13
+Severe
+F31.2
+With psychotic features
+F31.9
+Unspecified
+F31.9
+Bipolar I disorder, Current or most recent episode unspecified
+F31.81
+Bipolar II disorder
+Bipolar and related disorder due to another medical condition
+F06.33
+With manic features
+F06.33
+With manic- or hypomanic-like episode
+F06.34
+With mixed features
+934
+F45.22
+Body dysmorphic disorder
+R41.83
+Borderline intellectual functioning

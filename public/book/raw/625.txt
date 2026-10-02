@@ -1,0 +1,37 @@
+apneas, periodic apneas, and ataxic breathing may be observed. Obstructive sleep apnea
+hypopnea may coexist with central sleep apnea, and features consistent with this condition can
+also be present (see “Obstructive Sleep Apnea Hypopnea” earlier in this chapter). Cheyne-Stokes
+breathing is more commonly observed in association with conditions that include heart failure,
+stroke, and renal failure and is seen more frequently in individuals with atrial fibrillation.
+Individuals with Cheyne-Stokes breathing are more likely to be older, to be male, and to have
+lower weight than individuals with obstructive sleep apnea hypopnea.
+Relationship to International Classification of Sleep Disorders
+The International Classification of Sleep Disorders, 3rd Edition (ICSD-3), includes eight
+subtypes of central sleep apnea (central sleep apnea with Cheyne-Stokes breathing, central apnea
+due to a medical disorder without Cheyne-Stokes breathing, central sleep apnea due to high-
+altitude periodic breathing, central sleep apnea due to a medication or substance, primary central
+sleep apnea, primary central sleep apnea of infancy, primary central sleep apnea of prematurity,
+and treatment-emergent central sleep apnea). As in DSM-5, most of these diagnoses require a
+frequency of 5 or more central events per hour of sleep. In addition, ICSD-3 criteria also require
+the presence of signs or symptoms (e.g., complaints of insomnia or daytime sleepiness). Central
+events must constitute at least 50% of the total number of apneas and hypopneas. Primary central
+sleep apnea of infancy and primary central sleep apnea of prematurity have their own distinct
+criteria sets that differ from adult forms of central sleep apnea.
+Sleep-Related Hypoventilation
+Diagnostic Criteria
+A. Polysomnograpy demonstrates episodes of decreased respiration associated
+with elevated CO2 levels. (Note: In the absence of objective measurement of
+CO2, persistent low levels of hemoglobin oxygen saturation unassociated with
+apneic/hypopneic events may indicate hypoventilation.)
+B. The disturbance is not better explained by another current sleep disorder.
+Specify whether:
+G47.34 Idiopathic hypoventilation: This subtype is not attributable to any
+readily identified condition.
+G47.35 Congenital central alveolar hypoventilation: This subtype is a rare
+congenital disorder in which the individual typically presents in the perinatal
+period with shallow breathing, or cyanosis and apnea during sleep.
+G47.36 Comorbid sleep-related hypoventilation: This subtype occurs as a
+consequence of a medical condition, such as a pulmonary disorder (e.g.,
+interstitial lung disease, chronic obstructive pulmonary disease) or a
+neuromuscular or chest wall disorder (e.g., muscular dystrophies, postpolio
+syndrome, cervical spinal cord injury, kyphoscoliosis), or medications (e.g.,

@@ -1,0 +1,39 @@
+1. Feeling keyed up or tense.
+2. Feeling unusually restless.
+170
+3. Difficulty concentrating because of worry.
+4. Fear that something awful may happen.
+5. Feeling that the individual might lose control of himself or herself.
+Specify current severity:
+Mild: Two symptoms.
+Moderate: Three symptoms.
+Moderate-severe: Four or five symptoms.
+Severe: Four or five symptoms with motor agitation.
+Note: Anxious distress has been noted as a prominent feature of both bipolar
+and major depressive disorders in both primary care and specialty mental
+health settings. High levels of anxiety have been associated with higher
+suicide risk, longer duration of illness, and greater likelihood of treatment
+nonresponse. As a result, it is clinically useful to specify accurately the
+presence and severity levels of anxious distress for treatment planning and
+monitoring of response to treatment.
+With mixed features: The mixed features specifier can apply to the current
+manic, hypomanic, or major depressive episode in bipolar I disorder (or the most
+recent episode if bipolar I disorder is in partial or full remission) or to the current
+hypomanic or major depressive episode in bipolar II disorder (or the most recent
+episode if bipolar II disorder is in partial or full remission):
+Manic or hypomanic episode, with mixed features:
+A. Full criteria are met for a manic episode or hypomanic episode, and at least
+three of the following symptoms are present during the majority of days of
+the current or most recent episode of mania or hypomania:
+1. Prominent dysphoria or depressed mood as indicated by either
+subjective report (e.g., feels sad or empty) or observation made by
+others (e.g., appears tearful).
+2. Diminished interest or pleasure in all, or almost all, activities (as
+indicated by either subjective account or observation made by others).
+3. Psychomotor retardation nearly every day (observable by others; not
+merely subjective feelings of being slowed down).
+4. Fatigue or loss of energy.
+5. Feelings of worthlessness or excessive or inappropriate guilt (not merely
+self-reproach or guilt about being sick).
+6. Recurrent thoughts of death (not just fear of dying), recurrent suicidal
+ideation without a specific plan, or a suicide attempt or a specific plan for

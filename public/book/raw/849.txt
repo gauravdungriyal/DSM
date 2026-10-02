@@ -1,0 +1,50 @@
+F13.21 Moderate, In sustained remission
+F13.20 Severe: Presence of 6 or more symptoms.
+F13.21 Severe, In early remission
+F13.21 Severe, In sustained remission
+622
+Specifiers
+“In a controlled environment” applies as a further specifier of remission if the individual is both
+in remission and in a controlled environment (i.e., in early remission in a controlled environment
+or in sustained remission in a controlled environment). Examples of these environments are
+closely supervised and substance-free jails, therapeutic communities, and locked hospital units.
+Diagnostic Features
+Sedative, hypnotic, or anxiolytic substances include benzodiazepines, benzodiazepine-like drugs
+(e.g., zolpidem, zaleplon), carbamates (e.g., glutethimide, meprobamate), barbiturates (e.g.,
+secobarbital), and barbiturate-like hypnotics (e.g., glutethimide, methaqualone, propofol). This
+class of substances includes most prescription sleeping medications and most prescription
+antianxiety medications. Nonbenzodiazepine antianxiety agents (e.g., buspirone, gepirone) are
+not included in this class because they do not appear to be associated with significant misuse.
+Like 
+alcohol, 
+these 
+agents 
+are 
+brain 
+depressants 
+and 
+can 
+produce 
+similar
+substance/medication-induced and substance use disorders. Sedative, hypnotic, or anxiolytic
+substances are available both by prescription and illegally. Some individuals who obtain these
+substances by prescription will develop a sedative, hypnotic, or anxiolytic use disorder, while
+others who misuse these substances or use them for intoxication will not develop a use disorder.
+In particular, sedatives, hypnotics, or anxiolytics with rapid onset or short to intermediate lengths
+of action may be taken for intoxication purposes, although longer-acting substances in this class
+may be taken for intoxication as well.
+Craving (Criterion A4), either during periods of active use or during periods of abstinence, is
+a typical feature of sedative, hypnotic, or anxiolytic use disorder. Misuse of substances from this
+class may occur in conjunction with use of other substances. For example, individuals may use
+intoxicating doses of sedatives or benzodiazepines to “come down” from cocaine or
+amphetamines or use high doses of benzodiazepines in combination with methadone to “boost”
+its effects.
+Repeated absences or poor work performance, school absences, suspensions or expulsions,
+and neglect of children or household (Criterion A5) may be related to sedative, hypnotic, or
+anxiolytic use disorder; the continued use of the substances despite arguments with a spouse
+about consequences of intoxication or despite physical fights (Criterion A6) may also occur.
+Limiting contact with family or friends, avoiding work or school, or stopping participation in
+hobbies, sports, or games (Criterion A7) and recurrent sedative, hypnotic, or anxiolytic use when
+driving an automobile or operating machinery when impaired by such use (Criterion A8) are also
+seen in sedative, hypnotic, or anxiolytic use disorder.
+Very significant levels of tolerance and withdrawal can develop to sedative, hypnotic, or

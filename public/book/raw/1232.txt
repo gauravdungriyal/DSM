@@ -1,0 +1,84 @@
+F11.988
+Opioid withdrawal delirium, Without use disorder
+F11.99
+Unspecified opioid-related disorder
+F12.10
+Cannabis use disorder, Mild
+F12.11
+Cannabis use disorder, Mild, In early remission
+F12.11
+Cannabis use disorder, Mild, In sustained remission
+F12.120
+Cannabis intoxication, Without perceptual disturbances, With mild use disorder
+F12.121
+Cannabis intoxication delirium, With mild use disorder
+F12.122
+Cannabis intoxication, With perceptual disturbances, With mild use disorder
+F12.13
+Cannabis withdrawal, With mild use disorder
+F12.159
+Cannabis-induced psychotic disorder, With mild use disorder
+F12.180
+Cannabis-induced anxiety disorder, With mild use disorder
+F12.188
+Cannabis-induced sleep disorder, With mild use disorder
+F12.20
+Cannabis use disorder, Moderate
+F12.20
+Cannabis use disorder, Severe
+F12.21
+Cannabis use disorder, Moderate, In early remission
+F12.21
+Cannabis use disorder, Moderate, In sustained remission
+F12.21
+Cannabis use disorder, Severe, In early remission
+F12.21
+Cannabis use disorder, Severe, In sustained remission
+F12.220
+Cannabis intoxication, Without perceptual disturbances, With moderate or severe use disorder
+F12.221
+Cannabis intoxication delirium, With moderate or severe use disorder
+F12.222
+Cannabis intoxication, With perceptual disturbances, With moderate or severe use disorder
+F12.23
+Cannabis withdrawal, With moderate or severe use disorder
+F12.259
+Cannabis-induced psychotic disorder, With moderate or severe use disorder
+962
+F12.280
+Cannabis-induced anxiety disorder, With moderate or severe use disorder
+F12.288
+Cannabis-induced sleep disorder, With moderate or severe use disorder
+F12.920
+Cannabis intoxication, Without perceptual disturbances, Without use disorder
+F12.921
+Cannabis intoxication delirium, Without use disorder
+F12.921
+Pharmaceutical cannabis receptor agonist–induced delirium (pharmaceutical cannabis receptor agonist
+medication taken as prescribed)
+F12.922
+Cannabis intoxication, With perceptual disturbances, Without use disorder
+F12.93
+Cannabis withdrawal, Without use disorder
+F12.959
+Cannabis-induced psychotic disorder, Without use disorder
+F12.980
+Cannabis-induced anxiety disorder, Without use disorder
+F12.988
+Cannabis-induced sleep disorder, Without use disorder
+F12.99
+Unspecified cannabis-related disorder
+F13.10
+Sedative, hypnotic, or anxiolytic use disorder, Mild
+F13.11
+Sedative, hypnotic, or anxiolytic use disorder, Mild, In early remission
+F13.11
+Sedative, hypnotic, or anxiolytic use disorder, Mild, In sustained remission
+F13.120
+Sedative, hypnotic, or anxiolytic intoxication, With mild use disorder
+F13.121
+Sedative, hypnotic, or anxiolytic intoxication delirium, With mild use disorder
+F13.130
+Sedative, hypnotic, or anxiolytic withdrawal, Without perceptual disturbances, With mild use disorder
+F13.131
+Sedative, hypnotic, or anxiolytic withdrawal delirium, With mild use disorder

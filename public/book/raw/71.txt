@@ -1,0 +1,61 @@
+F14.959
+Without use disorder
+lii
+___.__
+Amphetamine-Type Substance (or Other Stimulant)–Induced Bipolar and
+Related Disordera (162)
+F15.14
+With mild use disorder
+F15.24
+With moderate or severe use disorder
+F15.94
+Without use disorder
+___.__
+Cocaine-Induced Bipolar and Related Disordera (162)
+F14.14
+With mild use disorder
+F14.24
+With moderate or severe use disorder
+F14.94
+Without use disorder
+___.__
+Amphetamine-Type Substance (or Other Stimulant)–Induced Depressive
+Disordera (201)
+F15.14
+With mild use disorder
+F15.24
+With moderate or severe use disorder
+F15.94
+Without use disorder
+___.__
+Cocaine-Induced Depressive Disordera (201)
+F14.14
+With mild use disorder
+F14.24
+With moderate or severe use disorder
+F14.94
+Without use disorder
+___.__
+Amphetamine-Type Substance (or Other Stimulant)–Induced Anxiety
+Disordera (255)
+F15.180
+With mild use disorder
+F15.280
+With moderate or severe use disorder
+F15.980
+Without use disorder
+___.__
+Cocaine-Induced Anxiety Disordera (255)
+F14.180
+With mild use disorder
+F14.280
+With moderate or severe use disorder
+F14.980
+Without use disorder
+___.__
+Amphetamine-Type Substance (or Other Stimulant)–Induced Obsessive-
+Compulsive and Related Disordera (287)
+F15.188
+With mild use disorder
+F15.288
+With moderate or severe use disorder

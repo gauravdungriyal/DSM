@@ -1,0 +1,41 @@
+Other neurocognitive disorders.
+causative Alzheimer’s disease genes—amyloid precursor protein (APP), presenilin 1 (PSEN1),
+or presenilin 2 (PSEN2)—may be involved, and genetic testing for such mutations is
+commercially available, although usually without clinical utility. While APOE E*4 cannot serve
+as a diagnostic marker because it is a risk factor (i.e., neither necessary nor sufficient for disease
+occurrence), in rare instances genetic testing at this locus may have utility in clinical settings.
+Since amyloid beta-42 deposition in the brain occurs early in the pathophysiological cascade,
+amyloid-based diagnostic tests such as amyloid imaging on brain PET scans and reduced levels
+of amyloid beta-42 in the CSF may have diagnostic value. Similarly, tau PET imaging or CSF
+analyses for elevated total tau or phospho-tau levels are available for clinical use. Signs of
+neuronal injury, such as hippocampal and temporoparietal cortical atrophy on a magnetic
+resonance image scan and temporoparietal hypometabolism on a fluorodeoxyglucose PET scan,
+provide evidence of neuronal damage but are less specific for Alzheimer’s disease. Most of these
+biomarkers have been validated and are widely available in tertiary care settings. Blood-derived
+biomarkers for Alzheimer’s disease are being developed and are likely to become clinically
+available as diagnostic, prognostic, and theranostic indicators.
+Association With Suicidal Thoughts or Behavior
+Alzheimer’s disease is associated with a moderate risk of suicide even many years after the
+diagnosis; thus, ongoing assessment of mood and suicidality is appropriate. A large population
+study in Denmark found that the risk of suicide in individuals with a hospital-determined
+diagnosis of dementia was three- to eightfold greater compared with persons without dementia.
+In contrast, several other studies found mixed results regarding suicide risk in individuals with
+Alzheimer’s disease. A review of the neurobiology of suicide in the elderly found preliminary
+evidence of an association with cognitive deficits and elderly suicidal behavior, especially
+regarding impaired decision-making and reduced cognitive inhibition.
+Functional Consequences of Major or Mild Neurocognitive Disorder
+Due to Alzheimer’s Disease
+Because of the effect on cognition, behavior, and functioning, NCD due to Alzheimer’s disease
+has a serious and substantial impact on individuals, their caregivers, and families. Early in the
+disease course, memory loss, disorientation, and mood symptoms adversely impact
+independence, and create safety concerns (e.g., around driving). For individuals with onset at
+younger ages, NCD due to Alzheimer’s disease can lead to early retirement. As the disease
+advances, individuals become increasingly disabled in instrumental and basic daily living
+activities, slowly becoming fully dependent on others. Caregivers for individuals with NCD due
+to Alzheimer’s disease often see their social network deteriorate and develop a series of health
+and mental health problems that can adversely affect outcomes for both the caregiver and the
+individual with the NCD.
+Differential Diagnosis
+Major and mild NCDs due to other neurodegenerative processes
+(e.g., Lewy body disease, frontotemporal degeneration) share the insidious onset and gradual
+decline caused by Alzheimer’s disease but have distinctive core features of their own (which are

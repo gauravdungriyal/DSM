@@ -1,0 +1,39 @@
+Spouse or Partner Violence, Physical, Suspected
+T76.11XA Initial encounter
+T76.11XD Subsequent encounter
+Other Circumstances Related to Spouse or Partner Violence, Physical
+Z69.11
+Encounter for mental health services for victim of spouse or partner violence, physical
+Z91.410 Personal history (past history) of spouse or partner violence, physical
+Z69.12
+Encounter for mental health services for perpetrator of spouse or partner violence,
+physical
+Spouse or Partner Violence, Sexual
+This category may be used when spouse or partner sexual violence is a focus of clinical
+attention. Spouse or partner sexual violence involves the use of physical force or psychological
+coercion to compel the partner to engage in a sexual act against his or her will, whether or not the
+act is completed. Also included in this category are sexual acts with an intimate partner who is
+unable to consent.
+Spouse or Partner Violence, Sexual, Confirmed
+T74.21XA Initial encounter
+T74.21XD Subsequent encounter
+Spouse or Partner Violence, Sexual, Suspected
+T76.21XA Initial encounter
+T76.21XD Subsequent encounter
+Other Circumstances Related to Spouse or Partner Violence, Sexual
+Z69.81
+Encounter for mental health services for victim of spouse or partner violence, sexual
+Z91.410 Personal history (past history) of spouse or partner violence, sexual
+Z69.12
+Encounter for mental health services for perpetrator of spouse or partner violence,
+sexual
+Spouse or Partner Neglect
+This category may be used when spouse or partner neglect is a focus of clinical attention. Spouse
+or partner neglect is any egregious act or omission by one partner that deprives a dependent
+partner of basic needs and thereby results, or has reasonable potential to result, in physical or
+psychological harm to the dependent partner. This category may be used in the context of
+relationships in which one partner is extremely dependent on the other partner for care or for
+assistance in navigating ordinary daily activities—for example, a partner who is incapable of
+self-care because of substantial physical, psychological/intellectual, or cultural limitations (e.g.,
+inability to communicate with others and manage everyday activities as a result of living in a
+foreign culture).

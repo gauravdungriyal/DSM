@@ -1,0 +1,39 @@
+necessary for a diagnosis of a substance use disorder. However, for most classes of substances, a
+past history of withdrawal is associated with a
+547
+more severe clinical course (i.e., an earlier onset of a substance use disorder, higher levels of
+substance intake, and a greater number of substance-related problems).
+Symptoms of tolerance and withdrawal occurring during appropriate use of prescribed
+medications given as part of medical treatment (e.g., opioid analgesics, sedatives, stimulants) are
+specifically not counted when diagnosing a substance use disorder. The appearance of normal,
+expected pharmacological tolerance and withdrawal during the course of medical treatment has
+been known to lead to an erroneous diagnosis of “addiction” even when these were the only
+symptoms present. Individuals whose only symptoms are those that occur as a result of medical
+treatment (i.e., tolerance and withdrawal as part of medical care when the medications are taken
+as prescribed) should not receive a diagnosis solely on the basis of these symptoms. However,
+prescription medications can be used inappropriately, and a substance use disorder can be
+correctly diagnosed when there are other symptoms of compulsive, drug-seeking behavior.
+Severity and Specifiers
+Substance use disorders occur in a broad range of severity, from mild to severe, with severity
+based on the number of symptom criteria endorsed. As a general estimate of severity, a mild
+substance use disorder is suggested by the presence of two to three symptoms, moderate by four
+to five symptoms, and severe by six or more symptoms. Changing severity across time is also
+reflected by reductions or increases in the frequency and/or dose of substance use, as assessed by
+the individual’s own report, report of knowledgeable others, clinician’s observations, and
+biological testing. The following course specifiers and descriptive features specifiers are also
+available for substance use disorders: “in early remission,” “in sustained remission,” “on
+maintenance therapy,” and “in a controlled environment.” Definitions of each are provided
+within respective criteria sets.
+Recording Procedures
+The clinician should use the code that applies to the substance class but record the name of the
+specific substance. For example, the clinician should record F13.20 moderate alprazolam use
+disorder (rather than moderate sedative, hypnotic, or anxiolytic use disorder) or F15.10 mild
+methamphetamine use disorder (rather than mild amphetamine-type substance use disorder). For
+substances that do not fit into any of the classes (e.g., anabolic steroids), the ICD-10-CM code
+for other (or unknown) substance use disorder should be used and the specific substance
+indicated (e.g., F19.10 mild anabolic steroid use disorder). If the substance taken by the
+individual is unknown, the same ICD-10-CM code (i.e., for “other [or unknown] substance use
+disorder”) should be used (e.g., F19.20 severe unknown substance use disorder). If criteria are
+met for more than one substance use disorder, each should be diagnosed (e.g., F11.20 severe
+heroin use disorder; F14.20 moderate cocaine use disorder).
+The appropriate ICD-10-CM code for a substance use disorder depends on whether there is a

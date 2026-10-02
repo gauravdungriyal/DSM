@@ -1,0 +1,44 @@
+Clinical Attention
+Z91.83
+Wandering Associated With a Mental Disorder
+This category may be used for individuals with a mental disorder whose desire to walk about
+leads to significant clinical management or safety concerns. For example, individuals with major
+neurocognitive or neurodevelopmental disorders may experience a restless urge to wander that
+places them at risk for falls and causes them to leave supervised settings without needed
+accompaniment. This category excludes individuals whose intent is to escape an unwanted
+housing situation (e.g., children who are running away from home, individuals who no longer
+wish to remain in the hospital) or those who walk or pace as a result of medication-induced
+akathisia.
+Coding note: First code associated mental disorder (e.g., major neurocognitive disorder,
+autism spectrum disorder), then code Z91.83 wandering associated with [specific mental
+disorder].
+Z63.4
+Uncomplicated Bereavement
+This category may be used when the focus of clinical attention is a normal reaction to the death
+of a loved one. As part of their reaction to such a loss, some grieving individuals present with
+symptoms characteristic of a major depressive episode—for example, feelings of sadness and
+associated symptoms such as insomnia, poor appetite, and weight loss. The bereaved individual
+typically regards the depressed mood as “normal,” although the individual may seek professional
+help for relief of associated symptoms such as insomnia or anorexia. The duration and
+expression of “normal” bereavement vary considerably among different cultural groups. Further
+guidance in distinguishing grief from a major depressive episode and from prolonged grief
+disorder is provided in their respective texts.
+Z60.0
+Phase of Life Problem
+This category may be used when a problem adjusting to a life-cycle transition (a particular
+developmental phase) is the focus of clinical attention or has an impact on the individual’s
+treatment or prognosis. Examples of such transitions include entering or completing school,
+leaving parental control, getting married, starting a new career, becoming a parent, adjusting to
+an “empty nest” after children leave home, and retiring.
+Z65.8
+Religious or Spiritual Problem
+This category may be used when the focus of clinical attention is a religious or spiritual problem.
+Examples include distressing experiences that involve loss or questioning of faith, problems
+associated with conversion to a new faith, or questioning of spiritual values that may not
+necessarily be related to an organized church or religious institution.
+835
+Z72.811 Adult Antisocial Behavior
+This category may be used when the focus of clinical attention is adult antisocial behavior that is
+not attributable to a mental disorder (e.g., conduct disorder, antisocial personality disorder).
+Examples include the behavior of some professional thieves, racketeers, or dealers in illegal
+substances.

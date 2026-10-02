@@ -1,0 +1,43 @@
+groupings of disorders, as well as for “validating” proposed changes to diagnostic criteria.
+As the APA and WHO began to plan their respective revisions of DSM and the International
+Classification of Diseases (ICD), both considered the possibility of improving clinical utility
+(e.g., by helping to explain apparent comorbidity) and facilitating scientific investigation by
+rethinking the organizational structures of both publications. It was critical to both the DSM-5
+Task Force and the WHO International Advisory Group on the revision of the ICD-10 Section on
+Mental and Behavioral Disorders that the revisions to organization enhance clinical utility and
+remain within the bounds of well-replicated
+12
+scientific information. In that spirit, revision of the organizational structure was approached
+as a conservative, evolutionary diagnostic reform that would be guided by emerging scientific
+evidence on the relationships between disorder groups. By reordering and regrouping the
+existing disorders, the revised structure is meant to stimulate new clinical perspectives and to
+encourage researchers to identify the psychological and physiological cross-cutting factors that
+are not bound by strict categorical designations.
+Early in the course of the revisions, it became apparent that a shared organizational structure
+would help harmonize the classifications. To the surprise of participants in both revision
+processes, large sections of the content fell relatively easily into place, reflecting real strengths in
+some areas of the scientific literature, such as epidemiology, analyses of comorbidity, twin
+studies, and certain other genetically informed designs. When disparities emerged, they almost
+always reflected the need to make a judgment about where to place a disorder in the face of
+incomplete—or, more often, conflicting—data. Thus, for example, on the basis of patterns of
+symptoms, comorbidity, and shared risk factors, attention-deficit/hyperactivity disorder (ADHD)
+was placed within the DSM-5 chapter “Neurodevelopmental Disorders,” although the same data
+also supported strong arguments to place ADHD within the chapter “Disruptive, Impulse-
+Control, and Conduct Disorders.” These issues were settled with the preponderance of evidence
+supporting placement in the “Neurodevelopmental Disorders” chapter in DSM-5.
+The organization of chapters of DSM-5 after the neurodevelopmental disorders is based on
+groups of internalizing disorders (i.e., disorders with prominent anxiety, depressive, and somatic
+symptoms), externalizing disorders (i.e., disorders with prominent impulsive, disruptive conduct,
+and substance use symptoms), neurocognitive disorders, and other disorders. It is hoped that this
+organization will encourage further study of underlying pathophysiological processes that give
+rise to diagnostic comorbidity and symptom heterogeneity. Furthermore, by arranging disorder
+clusters to mirror clinical reality, DSM-5 should facilitate identification of potential diagnoses by
+non–mental health specialists, such as primary care physicians.
+Despite the problem posed by categorical diagnoses, the DSM-5 Task Force recognized that
+it would have been premature scientifically to propose alternative dimensional definitions for
+most disorders. The organizational structure is meant to serve as a bridge to new diagnostic
+approaches without disrupting current clinical practice or research. It is anticipated that the more
+dimensional DSM-5 approach and organizational structure will facilitate research across current
+diagnostic categories by encouraging broad investigations within the proposed chapters and
+across adjacent chapters. Such research should also keep DSM-5 central to the development of
+dimensional approaches to diagnosis that will likely supplement or supersede current categorical

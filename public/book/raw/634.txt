@@ -1,0 +1,40 @@
+Environmental.
+Genetic and physiological.
+Associated Features
+Individuals with advanced sleep phase type are “morning types,” having earlier sleep-wake
+times, with the timing of circadian biomarkers such as melatonin and core body temperature
+rhythms occurring 2–4 hours earlier than normal. When required to keep a conventional schedule
+requiring a delay of bedtime, these individuals will continue to have an early rise time, leading to
+persistent sleep deprivation and daytime sleepiness. Use of hypnotics or alcohol to combat sleep-
+maintenance insomnia and stimulants to reduce daytime sleepiness may lead to substance abuse
+in these individuals.
+Prevalence
+The estimated prevalence of advanced sleep phase type is approximately 1% in middle-age
+adults in the United States. Sleep-wake times and circadian phase advance in older individuals
+probably account for the higher prevalence in this population.
+Development and Course
+Onset is usually in late adulthood, although in the familial form, onset can be earlier (during
+childhood or early adulthood). The course is typically persistent, lasting more than 3 months, but
+the severity may increase depending on work and social schedules. The advanced sleep phase
+type is more common in older adults.
+Clinical expression may vary across the life span depending on social, school, and work
+obligations. Individuals who can alter their work schedules to accommodate the advanced
+circadian sleep and wake timing can experience remission of symptoms. Increasing age tends to
+advance the sleep phase. However, it is unclear whether the common age-associated advanced
+sleep phase type is attributable solely to a change in circadian timing (as seen in the familial
+form) or also to age-related changes in the homeostatic regulation of sleep, resulting in earlier
+awakening. Severity, remission, and relapse of symptoms are dependent on adherence to
+behavioral and environmental treatments designed to control sleep and wake structure and light
+exposure.
+447
+Risk and Prognostic Factors
+Decreased late afternoon/early evening exposure to light and/or increased
+exposure to early-morning light because of early-morning awakening can increase the risk of
+advanced sleep phase type by advancing circadian rhythms. By going to bed early, these
+individuals are not exposed to light in the phase delay region of the curve, resulting in
+perpetuation of advanced phase. In familial advanced sleep phase type, a shortening of the
+endogenous circadian period can result in an advanced sleep phase, although circadian period
+does not appear to systematically decrease with age.
+Advanced sleep phase type has demonstrated an autosomal dominant
+mode of inheritance, including a PER2 gene mutation causing hypophosphorylation of the PER2
+protein and a missense mutation in CKI.

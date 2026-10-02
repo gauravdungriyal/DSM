@@ -1,0 +1,78 @@
+Opioid-induced sexual dysfunction
+F11.181
+With mild use disorder
+F11.281
+With moderate or severe use disorder
+F11.981
+Without use disorder
+Opioid-induced sleep disorder
+F11.182
+With mild use disorder
+F11.282
+With moderate or severe use disorder
+F11.982
+Without use disorder
+Opioid intoxication, With perceptual disturbances
+F11.122
+With mild use disorder
+F11.222
+With moderate or severe use disorder
+F11.922
+Without use disorder
+Opioid intoxication, Without perceptual disturbances
+F11.120
+With mild use disorder
+F11.220
+With moderate or severe use disorder
+F11.920
+Without use disorder
+Opioid intoxication delirium
+F11.121
+With mild use disorder
+F11.221
+With moderate or severe use disorder
+F11.921
+Without use disorder
+Opioid use disorder
+F11.10
+Mild
+F11.11
+In early remission
+F11.11
+In sustained remission
+F11.20
+Moderate
+F11.21
+In early remission
+F11.21
+In sustained remission
+F11.20
+Severe
+F11.21
+In early remission
+F11.21
+In sustained remission
+Opioid withdrawal
+F11.13
+With mild use disorder
+F11.23
+With moderate or severe use disorder
+F11.93
+Without use disorder
+Opioid withdrawal delirium
+F11.188
+With mild use disorder
+F11.288
+With moderate or severe use disorder
+F11.988
+Without use disorder
+F91.3
+Oppositional defiant disorder
+Other adverse effect of medication
+T50.905A
+Initial encounter
+T50.905S
+Sequelae
+T50.905D
+Subsequent encounter
+944

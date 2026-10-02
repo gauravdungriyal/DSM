@@ -1,0 +1,31 @@
+F63.0
+substance/medication–induced major or mild neurocognitive disorder (“Neurocognitive
+Disorders”). For other (or unknown) substance–induced intoxication delirium, other (or
+unknown) substance–induced withdrawal delirium, and delirium induced by other (or unknown)
+substance taken as prescribed, see the criteria and discussion of delirium in the chapter
+“Neurocognitive Disorders.” These other (or unknown) substance–induced mental disorders are
+diagnosed instead of other (or unknown) substance intoxication or other (or unknown) substance
+withdrawal only when the symptoms are sufficiently severe to warrant independent clinical
+attention.
+Unspecified Other (or Unknown) Substance–Related
+Disorder
+F19.99
+This category applies to presentations in which symptoms characteristic of an other
+(or unknown) substance–related disorder that cause clinically significant distress or
+661
+impairment in social, occupational, or other important areas of functioning
+predominate but do not meet the full criteria for any specific other (or unknown)
+substance–related disorder or any of the disorders in the substance-related
+disorders diagnostic class.
+Non-Substance-Related Disorders
+Gambling Disorder
+Diagnostic Criteria
+A. Persistent and recurrent problematic gambling behavior leading to clinically
+significant impairment or distress, as indicated by the individual exhibiting four
+(or more) of the following in a 12-month period:
+1. Needs to gamble with increasing amounts of money in order to achieve the
+desired excitement.
+2. Is restless or irritable when attempting to cut down or stop gambling.
+3. Has made repeated unsuccessful efforts to control, cut back, or stop
+gambling.
+4. Is often preoccupied with gambling (e.g., having persistent thoughts of

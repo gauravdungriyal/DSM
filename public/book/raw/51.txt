@@ -1,0 +1,52 @@
+F50.02
+Binge-eating/purging type
+F50.2
+Bulimia Nervosab,c (387)
+F50.81
+Binge-Eating Disorderb,c (392)
+F50.89
+Other Specified Feeding or Eating Disorder (396)
+F50.9
+Unspecified Feeding or Eating Disorder (397)
+Elimination Disorders (399)
+F98.0
+Enuresis (399)
+Specify whether: Nocturnal only, Diurnal only, Nocturnal and diurnal
+F98.1
+Encopresis (402)
+Specify whether: With constipation and overflow incontinence, Without constipation and overflow
+incontinence
+___.__
+Other Specified Elimination Disorder (405)
+N39.498
+With urinary symptoms
+R15.9
+With fecal symptoms
+___.__
+Unspecified Elimination Disorder (405)
+R32
+With urinary symptoms
+R15.9
+With fecal symptoms
+Sleep-Wake Disorders (407)
+The following specifiers apply to Sleep-Wake Disorders where indicated:
+aSpecify if: Episodic, Persistent, Recurrent
+bSpecify if: Acute, Subacute, Persistent
+cSpecify current severity: Mild, Moderate, Severe
+F51.01
+Insomnia Disordera (409)
+Specify if: With mental disorder, With medical condition, With another sleep disorder
+F51.11
+Hypersomnolence Disorderb,c (417)
+Specify if: With mental disorder, With medical condition, With another sleep disorder
+___.__
+Narcolepsyc (422)
+Specify whether:
+G47.411
+Narcolepsy with cataplexy or hypocretin deficiency (type 1)
+G47.419
+Narcolepsy without cataplexy and either without hypocretin deficiency or
+hypocretin unmeasured (type 2)
+xxxvii
+G47.421
+Narcolepsy with cataplexy or hypocretin deficiency due to a medical

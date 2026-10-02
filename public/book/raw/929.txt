@@ -1,0 +1,40 @@
+3. No evidence of mixed etiology (i.e., absence of other neurodegenerative or
+cerebrovascular disease, or another neurological or systemic disease or
+condition likely contributing to cognitive decline).
+D. The disturbance is not better explained by cerebrovascular disease, another
+neurodegenerative disease, the effects of a substance, or another mental,
+neurological, or systemic disorder.
+Coding note (see coding table on pp. 682–683):
+For major neurocognitive disorder due to probable or possible Alzheimer’s disease,
+with behavioral disturbance, code first G30.9 Alzheimer’s disease, followed by
+F02.81. For major neurocognitive disorder due to probable or possible Alzheimer’s
+disease, without behavioral disturbance, code first G30.9 Alzheimer’s disease,
+followed by F02.80.
+691
+Note: The severity specifiers “mild,” “moderate,” and “severe” cannot be coded for
+major neurocognitive disorder but should still be recorded.
+For mild neurocognitive disorder due to Alzheimer’s disease, code G31.84. (Note:
+Do not use the additional code for Alzheimer’s disease. “With behavioral
+disturbance” and “without behavioral disturbance” cannot be coded but should still
+be recorded.)
+For major or mild neurocognitive disorder due to Alzheimer’s disease: Use additional
+code(s) to indicate clinically significant psychiatric symptoms due to Alzheimer’s
+disease (e.g., F06.2 psychotic disorder due to Alzheimer’s disease, with delusions;
+F06.32 depressive disorder due to Alzheimer’s disease, with major depressive–like
+episode).
+Diagnostic Features
+Beyond the neurocognitive disorder (NCD) syndrome (Criterion A), the core features of major or
+mild NCD due to Alzheimer’s disease include an insidious onset and gradual progression of
+cognitive and behavioral symptoms (Criterion B). The typical presentation is amnestic (i.e., with
+impairment in memory and learning). Unusual nonamnestic presentations, particularly
+visuospatial and logopenic aphasic variants, also exist. A significant proportion of individuals,
+likely more than half, first present with behavioral symptoms before the onset of cognitive
+symptoms; the presence of behavioral disturbance should be noted using the appropriate specifier
+codes. At the mild NCD phase, Alzheimer’s disease manifests typically with impairment in
+memory and learning, sometimes accompanied by deficits in executive function. At the major
+NCD phase, visuoconstructional/perceptual-motor ability and language (e.g., word retrieval) will
+also be impaired, particularly when the NCD is moderate to severe. Social cognition tends to be
+preserved until late in the course of the disease with the exception of individuals who have the
+less common variants with significant dysexecutive and behavioral disturbance.
+A level of diagnostic certainty must be specified denoting Alzheimer’s disease as the
+“probable” or “possible” etiology (Criterion C). Probable Alzheimer’s disease is diagnosed in

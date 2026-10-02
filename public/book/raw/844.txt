@@ -1,0 +1,39 @@
+opioid use disorder. If a mild opioid use disorder is comorbid, the ICD-10-CM code is
+F11.13, and if a moderate or severe opioid use disorder is comorbid, the ICD-10-CM
+code is F11.23. For opioid withdrawal occurring in the absence of an opioid use
+disorder (e.g., in a patient taking opioids solely under appropriate medical
+supervision), the ICD-10-CM code is F11.93.
+Diagnostic Features
+The essential feature of opioid withdrawal is the presence of a characteristic withdrawal
+syndrome that develops after the cessation of (or reduction in) prolonged opioid use
+618
+(Criterion A1). The opioids used may be illicit or licitly obtained drugs prescribed to treat pain.
+A withdrawal syndrome can also be precipitated by administration of an opioid antagonist (e.g.,
+naloxone, naltrexone, nalmefene) after a period of opioid use (Criterion A2); it can also occur
+after administration of an opioid partial agonist (e.g., buprenorphine) to an individual currently
+using a full opioid agonist.
+Opioid withdrawal has a characteristic pattern of signs and symptoms. The first of these are
+subjective and consist of complaints of anxiety, restlessness, and an “achy feeling” that is often
+located in the back and legs, along with irritability and increased sensitivity to pain. Three or
+more of the following must be present to make a diagnosis of opioid withdrawal: dysphoric
+mood; nausea or vomiting; muscle aches; lacrimation or rhinorrhea; pupillary dilation,
+piloerection, or increased sweating; diarrhea; yawning; fever; and insomnia (Criterion B).
+Piloerection and fever are associated with more severe withdrawal and are not often seen in
+routine clinical practice because individuals with opioid use disorder usually obtain substances
+before withdrawal becomes that far advanced. These symptoms of opioid withdrawal must cause
+clinically significant distress or impairment in social, occupational, or other important areas of
+functioning (Criterion C). The symptoms must not be attributable to another medical condition
+and are not better explained by another mental disorder (Criterion D). Having symptoms that
+meet diagnostic criteria for opioid withdrawal alone is not sufficient for a diagnosis of opioid use
+disorder, but concurrent symptoms of craving and drug-seeking behavior are suggestive of
+comorbid opioid use disorder.
+Associated Features
+Opioid withdrawal may occur in any individual after cessation of repeated use of an opioid,
+whether in the setting of medical management of pain, during opioid agonist therapy for opioid
+use disorder, in the context of illicit use, or following attempts to self-treat symptoms of mental
+disorders with opioids. Opioid withdrawal is a distinct condition from opioid addiction or opioid
+use disorder and does not necessarily require the drug-seeking behaviors associated with opioid
+use disorder to be diagnosed. Thus, opioid withdrawal may occur in individuals without opioid
+use disorder and should not be confused with it. Males with opioid withdrawal may experience
+piloerection, sweating, and spontaneous ejaculations while awake.
+Prevalence

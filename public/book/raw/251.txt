@@ -1,0 +1,47 @@
+C. The disturbance is not better explained by another mental disorder (e.g., a manic
+episode).
+D. The disturbance does not occur exclusively during the course of a delirium.
+137
+E. The disturbance causes clinically significant distress or impairment in social,
+occupational, or other important areas of functioning.
+Coding note: Include the name of the medical condition in the name of the mental
+disorder (e.g., F06.1 catatonic disorder due to hepatic encephalopathy). The other
+medical condition should be coded and listed separately immediately before the
+catatonic 
+disorder 
+due 
+to 
+the 
+medical 
+condition 
+(e.g., 
+K72.90 
+hepatic
+encephalopathy; F06.1 catatonic disorder due to hepatic encephalopathy).
+Diagnostic Features
+The essential feature of catatonic disorder due to another medical condition is the presence of
+catatonia that is judged to be attributed to the physiological effects of another medical condition.
+Catatonia can be diagnosed by the presence of at least 3 of the 12 clinical features in Criterion A.
+There must be evidence from the history, physical examination, or laboratory findings that the
+catatonia is attributable to another medical condition (Criterion B). The diagnosis is not given if
+the catatonia is better explained by another mental disorder (e.g., manic episode) (Criterion C) or
+if it occurs exclusively during the course of a delirium (Criterion D).
+Associated Features
+A variety of medical conditions may cause catatonia, especially neurological conditions (e.g.,
+neoplasms, head trauma, cerebrovascular disease, encephalitis) and metabolic conditions (e.g.,
+hypercalcemia, hepatic encephalopathy, homocystinuria, diabetic ketoacidosis). The associated
+physical examination findings, laboratory findings, and patterns of prevalence and onset reflect
+those of the etiological medical condition.
+Differential Diagnosis
+A separate diagnosis of catatonic disorder due to another medical condition is not given if the
+catatonia occurs exclusively during the course of a delirium or neuroleptic malignant syndrome.
+However, even though a separate diagnosis of catatonia cannot be made, research suggests that
+catatonia symptoms occur in a significant proportion of delirium cases. If the individual is
+currently taking neuroleptic medication, consideration should be given to medication-induced
+movement disorders (e.g., abnormal positioning may be due to neuroleptic-induced acute
+dystonia) or neuroleptic malignant syndrome (e.g., catatonic-like features may be present, along
+with associated vital sign and/or laboratory abnormalities). Catatonic symptoms may be present
+in any of the following five psychotic disorders: brief psychotic disorder, schizophreniform
+disorder, schizophrenia, schizoaffective disorder, and substance/medication-induced psychotic
+disorder. It may also be present in some of the neurodevelopmental disorders, in all of the bipolar
+and depressive disorders, and in other mental disorders.

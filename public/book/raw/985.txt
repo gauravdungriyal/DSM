@@ -1,0 +1,40 @@
+Psychotic disorders.
+Anxiety and depressive disorders.
+Posttraumatic stress disorder.
+Substance use disorders.
+Personality change due to another medical condition.
+F60.0
+threshold for a personality disorder. Personality traits are diagnosed as a personality disorder
+only when they are inflexible, maladaptive, and persisting and cause significant functional
+impairment or subjective distress.
+For the three personality disorders that may be related to the psychotic
+disorders (i.e., paranoid, schizoid, and schizotypal), there is an exclusion criterion stating that the
+pattern of behavior must not have occurred exclusively during the course of schizophrenia, a
+bipolar or depressive disorder with psychotic features, or another psychotic disorder. When an
+individual has a persistent mental disorder (e.g., schizophrenia) that was preceded by a
+preexisting personality disorder, the personality disorder should also be recorded, followed by
+“premorbid” in parentheses.
+The clinician must be cautious in diagnosing personality
+disorders during an episode of a depressive disorder or an anxiety disorder, because these
+conditions may have cross-sectional symptom features that mimic personality traits and may
+make it more difficult to evaluate retrospectively the individual’s long-term patterns of
+functioning.
+When personality changes emerge and persist after an individual
+has been exposed to extreme stress, a diagnosis of posttraumatic stress disorder should be
+considered.
+When an individual has a substance use disorder, it is important not to
+make a personality disorder diagnosis based solely on behaviors that are consequences of
+substance intoxication or withdrawal or that are associated with activities in the service of
+sustaining substance use (e.g., antisocial behavior).
+When enduring changes in personality arise as
+a result of the physiological effects of another medical condition (e.g., brain tumor), a diagnosis
+of personality change due to another medical condition should be considered.
+Cluster A Personality Disorders
+Paranoid Personality Disorder
+Diagnostic Criteria
+A. A pervasive distrust and suspiciousness of others such that their motives are
+interpreted as malevolent, beginning by early adulthood and present in a variety
+of contexts, as indicated by four (or more) of the following:
+738
+1. Suspects, without sufficient basis, that others are exploiting, harming, or
+deceiving him or her.

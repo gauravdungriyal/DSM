@@ -1,0 +1,58 @@
+F32.89
+Other Specified Depressive Disorder (209)
+F32.A
+Unspecified Depressive Disorder (210)
+F39
+Unspecified Mood Disorder (210)
+Anxiety Disorders (215)
+F93.0
+Separation Anxiety Disorder (217)
+F94.0
+Selective Mutism (222)
+___.__
+Specific Phobia (224)
+Specify if:
+F40.218
+Animal
+F40.228
+Natural environment
+___.__
+Blood-injection-injury
+xxxiii
+F40.230
+Fear of blood
+F40.231
+Fear of injections and transfusions
+F40.232
+Fear of other medical care
+F40.233
+Fear of injury
+F40.248
+Situational
+F40.298
+Other
+F40.10
+Social Anxiety Disorder (229)
+Specify if: Performance only
+F41.0
+Panic Disorder (235)
+___.__
+Panic Attack Specifier (242)
+F40.00
+Agoraphobia (246)
+F41.1
+Generalized Anxiety Disorder (250)
+___.__
+Substance/Medication-Induced Anxiety Disorder (255)
+Note: For applicable ICD-10-CM codes, refer to the substance classes under Substance-Related and
+Addictive Disorders for the specific substance/medication-induced anxiety disorder. See also the
+criteria set and corresponding recording procedures in the manual for more information.
+Coding note: The ICD-10-CM code depends on whether or not there is a comorbid substance use
+disorder present for the same class of substance. In any case, an additional separate diagnosis of a
+substance use disorder is not given.
+Specify if: With onset during intoxication, With onset during withdrawal, With onset after medication
+use
+F06.4
+Anxiety Disorder Due to Another Medical Condition (258)
+F41.8
+Other Specified Anxiety Disorder (261)

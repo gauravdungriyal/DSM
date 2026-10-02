@@ -1,0 +1,38 @@
+substance–induced disorder code (see the coding note for other [or unknown]
+substance intoxication, other [or unknown] substance withdrawal, or specific other
+[or unknown] substance–induced mental disorder). For example, if there is comorbid
+other (or unknown) substance–induced depressive disorder and other (or unknown)
+substance use disorder, only the other (or unknown) substance–induced depressive
+disorder code is given, with the 4th character indicating whether the comorbid other
+(or unknown) substance use disorder is mild, moderate, or severe: F19.14 for other
+(or unknown) substance use disorder with other (or unknown) substance–induced
+depressive disorder or F19.24 for a moderate or severe other (or unknown)
+substance use disorder with other (or unknown) substance–induced depressive
+disorder.
+Specify current severity/remission:
+F19.10 Mild: Presence of 2–3 symptoms.
+F19.11 Mild, In early remission
+F19.11 Mild, In sustained remission
+F19.20 Moderate: Presence of 4–5 symptoms.
+F19.21 Moderate, In early remission
+F19.21 Moderate, In sustained remission
+F19.20 Severe: Presence of 6 or more symptoms.
+F19.21 Severe, In early remission
+F19.21 Severe, In sustained remission
+Specifiers
+“In a controlled environment” applies as a further specifier of remission if the individual is both
+in remission and in a controlled environment (i.e., in early remission in a controlled environment
+or in sustained remission in a controlled environment). Examples of these environments are
+closely supervised and substance-free jails, therapeutic communities, and locked hospital units.
+654
+Diagnostic Features
+The diagnostic class other (or unknown) substance–related disorders applies to substances that
+are not included within any of the nine substance classes presented earlier in this chapter (i.e., to
+alcohol; caffeine; cannabis; hallucinogens [phencyclidine and others]; inhalants; opioids;
+sedatives, hypnotics, or anxiolytics; stimulants; or tobacco). Such substances include anabolic
+steroids; nonsteroidal anti-inflammatory drugs; corticosteroids; antiparkinsonian medications;
+antihistamines; nitrous oxide; amyl-, butyl-, or isobutyl-nitrites; betel nut, which is chewed in
+many geographic regions to produce mild euphoria and a floating sensation; and kava (from a
+South Pacific pepper plant), which produces mild euphoria, sedation, incoordination, and weight
+loss, as well as health effects (e.g., mild hepatitis, lung abnormalities). Note that gaseous
+substances are included with the inhalant category only if they are hydrocarbon agents; other

@@ -1,0 +1,39 @@
+development of a disorder. It is divided into subsections addressing temperamental factors
+(e.g., personality features); environmental factors (e.g., head trauma, emotional trauma,
+exposure to toxic substances, substance use); and genetic and physiological factors
+27
+(e.g., APOE4 for dementia, other known familial genetic risks); this subsection may address
+familial patterns (traditional) as well as genetic and epigenetic factors. An additional
+subsection for course modifiers includes factors that may incur a deleterious course, and
+conversely factors that may have ameliorative or protective effects.
+Culture-Related Diagnostic Issues includes information on variations in symptom
+expression, attributions for disorder causes or precipitants, factors associated with
+differential prevalence across demographic groups, cultural norms that may affect level of
+perceived pathology, risk of misdiagnosis when evaluating individuals from socially
+oppressed ethnoracial groups, and other material relevant to culturally informed diagnosis.
+Prevalence rates in specific cultural/ethnic groups are located in the Prevalence section.
+Sex- and Gender-Related Diagnostic Issues includes correlates of the diagnosis that are
+related to sex or gender, predominance of symptoms or the diagnosis by sex or gender, and
+any other sex- and gender-related diagnostic implications of the diagnosis, such as
+differences in the clinical course by sex or gender. Prevalence rates by gender are located in
+the Prevalence section.
+Diagnostic Markers addresses objective measures that have established diagnostic value.
+These may include physical examination findings (e.g., signs of malnutrition in
+avoidant/restrictive food intake disorder), laboratory findings (e.g., low CSF hypocretin-1
+levels in narcolepsy), or imaging findings (e.g., regionally hypometabolic FDG PET imaging
+for neurocognitive disorder due to Alzheimer’s disease).
+Association With Suicidal Thoughts or Behavior provides information about disorder-
+specific prevalence of suicidal thoughts or behavior, as well as risk factors for suicide that
+may be associated with the disorder.
+Functional Consequences discusses notable functional consequences associated with a
+disorder that are likely to have an impact on the daily lives of affected individuals; these
+consequences may affect the ability to engage in tasks related to education, work, and
+maintaining independent living. These may vary according to age and across the life span.
+Differential Diagnosis discusses how to differentiate the disorder from other disorders that
+have some similar presenting characteristics.
+Comorbidity includes descriptions of mental disorders and other medical conditions (i.e.,
+conditions classified outside of the Mental and Behavioral disorders chapter in ICD-10-CM),
+likely to co-occur with the diagnosis.
+Other Conditions and Disorders in Section II
+In addition to providing diagnostic criteria and text for DSM-5 mental disorders, Section II also
+includes two chapters for other conditions that are not mental disorders but may be encountered

@@ -1,0 +1,41 @@
+to fluctuate during the course of the day, often with worsening in the evening and night when
+external orienting stimuli decrease (Criterion B). There is evidence from the history, physical
+examination, or laboratory findings that the disturbance is a physiological consequence of an
+underlying medical condition, substance intoxication or withdrawal, use of a medication, or a
+toxin exposure, or a combination of these factors (Criterion E). The etiology should be coded
+according to the etiologically appropriate subtype (i.e., substance or medication intoxication,
+substance withdrawal, another medical condition, or multiple etiologies). Delirium often occurs
+in the context of an underlying NCD. The impaired brain function of individuals with mild and
+major NCD renders them more vulnerable to developing a delirium.
+676
+There is an accompanying change in at least one other area that may include memory and
+learning (particularly recent memory), disorientation (particularly to time and place), alteration in
+language (particularly semantic comprehension), or perceptual distortion or a perceptual-motor
+disturbance (Criterion C). The perceptual disturbances accompanying delirium include
+misinterpretations, illusions, or hallucinations; these disturbances are typically visual, but may
+occur in other modalities as well, and range from simple and uniform to highly complex.
+Normal attention/arousal, delirium, and coma lie on a continuum. Coma is defined as a state
+of unconsciousness with an absence of cognition or sleep-wake cycle, along with the lack of any
+meaningful response to verbal or physical stimuli. Delirium is an impaired state of consciousness
+in the setting of an aroused cortex. The ability to evaluate cognition to diagnose delirium
+depends on there being a level of cortical arousal and wakefulness sufficient for response to
+verbal stimulation; hence, delirium should not be diagnosed in the context of coma (Criterion D).
+Stuporous individuals also have a reduced level of brain arousal, but not to the extent of the
+complete unconsciousness of coma. Coma and stupor can be due to neurological conditions or
+drug-induced as with iatrogenic deep sedation in intensive care unit (ICU) settings or general
+anesthesia. Those individuals who show only minimal responses to verbal or physical
+stimulation are incapable of engaging with attempts at standardized testing or even interview.
+This inability to engage should be classified as a disorder of arousal such as coma or stupor, and
+not as delirium. However, delirium can be a stage that follows emergence from coma or stupor,
+especially when coma is the result of a neurological condition. Further, the sleep-wake cycle
+disturbance characteristic of the circadian rhythm disturbance in delirium can interfere with full
+assessment of the individual if in a sleep phase, which should be distinguished from a disorder of
+brain arousal.
+Associated Features
+Delirium is often associated with a disturbance in the sleep-wake cycle. This disturbance can
+include daytime sleepiness, nighttime agitation, difficulty falling asleep, excessive sleepiness
+throughout the day, or wakefulness throughout the night. In some cases, complete reversal of the
+night-day sleep-wake cycle can occur. Sleep-wake cycle disturbances are very common in
+delirium and have been proposed as a core criterion for the diagnosis.
+The individual with delirium may exhibit emotional disturbances, such as anxiety, fear,
+depression, irritability, anger, euphoria, and apathy. There may be rapid and unpredictable shifts

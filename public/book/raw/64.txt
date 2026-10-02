@@ -1,0 +1,61 @@
+F11.11
+In sustained remission
+F11.20
+Moderate
+F11.21
+In early remission
+F11.21
+In sustained remission
+F11.20
+Severe
+F11.21
+In early remission
+F11.21
+In sustained remission
+___.__
+Opioid Intoxication (615)
+Without perceptual disturbances
+F11.120
+With mild use disorder
+F11.220
+With moderate or severe use disorder
+F11.920
+Without use disorder
+With perceptual disturbances
+F11.122
+With mild use disorder
+F11.222
+With moderate or severe use disorder
+F11.922
+Without use disorder
+xlvii
+___.__
+Opioid Withdrawal (617)
+F11.13
+With mild use disorder
+F11.23
+With moderate or severe use disorder
+F11.93
+Without use disorder
+___.__
+Opioid-Induced Mental Disorders (619)
+Note: Disorders are listed in their order of appearance in the manual.
+aSpecify With onset during intoxication, With onset during withdrawal, With onset after medication
+use. Note: When prescribed as medication, substances in this class can also induce the relevant
+substance-induced mental disorder.
+bSpecify if: Acute, Persistent
+cSpecify if: Hyperactive, Hypoactive, Mixed level of activity
+___.__
+Opioid-Induced Depressive Disordera (201)
+F11.14
+With mild use disorder
+F11.24
+With moderate or severe use disorder
+F11.94
+Without use disorder
+___.__
+Opioid-Induced Anxiety Disordera (255)
+F11.180
+With mild use disorder
+F11.280
+With moderate or severe use disorder

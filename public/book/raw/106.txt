@@ -1,0 +1,37 @@
+beyond diagnosis.
+Cross-Cutting Symptom Measures
+Given that psychiatric pathologies are not reliably discrete with sharp boundaries from one
+another, clinicians need to shift their approach to assessment and look beyond the prototypical
+presentations that neatly coincide with DSM categories. To assist with that transition, Section III,
+“Emerging Measures and Models,” provides the DSM-5 Level 1 Cross-Cutting Symptom
+Measure, developed to help clinicians assess all major areas of psychiatric functioning (e.g.,
+mood, psychosis, cognition, personality, sleep) and more thoroughly uncover possible disorders,
+atypical presentations, subsyndromal conditions, and coexistent pathologies. Just as the review of
+systems performed in general medicine acts as an inventory designed to call attention to
+symptoms or signs that otherwise could have been overlooked, the DSM-5 Level 1 Cross-Cutting
+Symptom Measure acts as a review of mental systems, intended to aid clinicians in better
+identifying latent disorders and symptoms in need of more detailed assessment (and potentially
+in need of treatment). The DSM-5 Level 1 Cross-Cutting Symptom Measure is recommended as
+an important component of the psychiatric evaluation of individuals presenting for psychiatric
+care, with The American Psychiatric Association Practice Guidelines for the Psychiatric
+Evaluation of Adults endorsing its use as a first step in identifying and addressing the
+heterogeneity of symptoms across diagnostic categories. Self-, parent/guardian-, and child (age
+11–17)–rated versions of the DSM-5 Level 1 Cross-Cutting Symptom Measure are available
+online without charge for clinical use at www.psychiatry.org/dsm5.
+Removal of the DSM-IV Multiaxial System
+DSM-IV offered a multiaxial system of recording diagnoses that involved an assessment on
+several axes, each of which referred to a different domain of information. DSM-5 has moved to a
+nonaxial documentation of diagnosis. Disorders and conditions formerly listed on Axis I (clinical
+disorders), Axis II (personality disorders and intellectual developmental disorders), and Axis III
+(other medical conditions) are listed together without formal differentiation, typically in order of
+clinical importance. Psychosocial and
+16
+contextual factors (formerly listed on Axis IV) are listed along with the diagnoses and conditions
+using Z codes in the chapter “Other Conditions That May Be a Focus of Clinical Attention.”
+DSM-IV Axis V consisted of the Global Assessment of Functioning (GAF) scale, representing
+the clinician's judgment of the individual’s overall level of “functioning on a hypothetical
+continuum of mental health–illness.” This scale has been replaced by the WHO Disability
+Assessment Schedule (WHODAS), which is included in Section III of DSM-5 (see the chapter
+“Assessment Measures”). The WHODAS is based on the International Classification of
+Functioning, Disability and Health (ICF) for use across all of medicine and health care.
+Cultural and Social Structural Issues

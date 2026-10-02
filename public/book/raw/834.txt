@@ -1,0 +1,38 @@
+medication (except tolerance to, or withdrawal from, the agonist). This category
+also applies to those individuals being maintained on a partial agonist, an
+agonist/antagonist, or a full antagonist such as oral naltrexone or depot
+naltrexone.
+In a controlled environment: This additional specifier is used if the individual is
+in an environment where access to opioids is restricted.
+Code based on current severity/remission: If an opioid intoxication, opioid
+withdrawal, or another opioid-induced mental disorder is also present, do not use the
+codes below for opioid use disorder. Instead, the comorbid opioid use disorder is
+indicated in the 4th character of the opioid-induced disorder code (see the coding
+note for opioid intoxication, opioid withdrawal, or a specific opioid-induced mental
+disorder). For example, if there is comorbid opioid-induced depressive disorder and
+opioid use disorder, only the opioid-induced depressive disorder code is given, with
+the 4th character indicating whether the comorbid opioid use disorder is mild,
+moderate, or severe: F11.14 for mild opioid use disorder with opioid-induced
+depressive disorder or F11.24 for a moderate or severe opioid use disorder with
+opioid-induced depressive disorder.
+Specify current severity/remission:
+F11.10 Mild: Presence of 2–3 symptoms.
+F11.11 Mild, In early remission
+F11.11 Mild, In sustained remission
+610
+F11.20 Moderate: Presence of 4–5 symptoms.
+F11.21 Moderate, In early remission
+F11.21 Moderate, In sustained remission
+F11.20 Severe: Presence of 6 or more symptoms.
+F11.21 Severe, In early remission
+F11.21 Severe, In sustained remission
+Specifiers
+The “on maintenance therapy” specifier applies as a further specifier of remission if the
+individual is both in remission and receiving maintenance therapy. “In a controlled environment”
+applies as a further specifier of remission if the individual is both in remission and in a controlled
+environment (i.e., in early remission in a controlled environment or in sustained remission in a
+controlled environment). Examples of these environments are closely supervised and substance-
+free jails, therapeutic communities, and locked hospital units.
+Changing severity across time in an individual is also reflected by reductions in the
+frequency (e.g., days of use per month) and/or dose (e.g., injections or number of pills) of an
+opioid, as assessed by the individual’s self-report, report of knowledgeable others, clinician’s

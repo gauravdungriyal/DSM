@@ -1,0 +1,32 @@
+disorders diagnostic class. The other specified tic disorder category is used in
+situations in which the clinician chooses to communicate the specific reason that the
+presentation does not meet the criteria for a tic disorder or any specific
+neurodevelopmental disorder. This is done by recording “other specified tic disorder”
+followed by the specific reason (e.g., “with onset after age 18 years”).
+Unspecified Tic Disorder
+F95.9
+This category applies to presentations in which symptoms characteristic of a tic
+disorder that cause clinically significant distress or impairment in social,
+occupational, or other important areas of functioning predominate but do not meet
+the full criteria for a tic disorder or for any of the disorders in the neurodevelopmental
+disorders diagnostic class. The unspecified tic disorder category is used in situations
+in which the clinician chooses not to specify the reason that the criteria are not met
+for a tic disorder or for a specific neurodevelopmental disorder and includes
+presentations in which there is insufficient information to make a more specific
+diagnosis.
+99
+Other Neurodevelopmental Disorders
+Other Specified Neurodevelopmental Disorder
+F88
+This category applies to presentations in which symptoms characteristic of a
+neurodevelopmental disorder that cause impairment in social, occupational, or other
+important areas of functioning predominate but do not meet the full criteria for any of
+the disorders in the neurodevelopmental disorders diagnostic class. The other
+specified neurodevelopmental disorder category is used in situations in which the
+clinician chooses to communicate the specific reason that the presentation does not
+meet the criteria for any specific neurodevelopmental disorder. This is done by
+recording “other specified neurodevelopmental disorder” followed by the specific
+reason (e.g., “neurodevelopmental disorder associated with prenatal alcohol
+exposure”).
+An example of a presentation that can be specified using the “other specified”
+designation is the following:

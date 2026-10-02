@@ -1,0 +1,37 @@
+F42.2
+direct pathophysiological consequence of another medical condition.
+Other specified obsessive-compulsive and related disorder (e.g., nail biting, lip biting, cheek
+chewing, obsessional jealousy, olfactory reference disorder [olfactory reference syndrome]) and
+unspecified obsessive-compulsive and related disorder consist of symptoms that cause clinically
+significant distress or impairment that do not meet criteria for a specific obsessive-compulsive
+and related disorder in DSM-5 because of atypical presentation or uncertain etiology. These
+categories are also used for other specific syndromes that are not listed in Section II and when
+insufficient information is available to diagnose the presentation as another obsessive-
+compulsive and related disorder.
+Those obsessive-compulsive and related disorders that have a cognitive component (i.e.,
+OCD, body dysmorphic disorder, and hoarding disorder) include a specifier for
+265
+indicating the individual’s degree of insight with respect to disorder-related beliefs, which
+ranges from “good or fair insight” to “poor insight” to “absent insight/delusional beliefs.” Those
+individuals whose degree of insight is in the “absent insight/delusional beliefs” range should not
+be given an additional diagnosis of a psychotic disorder unless their delusional beliefs involve
+content that extends beyond what is characteristic of their obsessive-compulsive and related
+disorder (e.g., an individual with body dysmorphic disorder who is convinced that his or her food
+has been poisoned).
+Obsessive-Compulsive Disorder
+Diagnostic Criteria
+A. Presence of obsessions, compulsions, or both:
+Obsessions are defined by (1) and (2):
+1. Recurrent and persistent thoughts, urges, or images that are experienced, at
+some time during the disturbance, as intrusive and unwanted, and that in
+most individuals cause marked anxiety or distress.
+2. The individual attempts to ignore or suppress such thoughts, urges, or
+images, or to neutralize them with some other thought or action (i.e., by
+performing a compulsion).
+Compulsions are defined by (1) and (2):
+1. Repetitive behaviors (e.g., hand washing, ordering, checking) or mental acts
+(e.g., praying, counting, repeating words silently) that the individual feels
+driven to perform in response to an obsession or according to rules that must
+be applied rigidly.
+2. The behaviors or mental acts are aimed at preventing or reducing anxiety or
+distress, or preventing some dreaded event or situation; however, these

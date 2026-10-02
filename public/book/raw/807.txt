@@ -1,0 +1,40 @@
+8. Recurrent phencyclidine use in situations in which it is physically hazardous
+(e.g., driving an automobile or operating a machine when impaired by a
+phencyclidine).
+9. Phencyclidine use is continued despite knowledge of having a persistent or
+recurrent physical or psychological problem that is likely to have been caused
+or exacerbated by the phencyclidine.
+10. Tolerance, as defined by either of the following:
+a. A need for markedly increased amounts of the phencyclidine to achieve
+intoxication or desired effect.
+588
+b. A markedly diminished effect with continued use of the same amount of
+the phencyclidine.
+Note: Withdrawal symptoms and signs are not established for phencyclidines, and
+so this criterion does not apply. (Withdrawal from phencyclidines has been reported
+in animals but not documented in human users.)
+Specify if:
+In early remission: After full criteria for phencyclidine use disorder were
+previously met, none of the criteria for phencyclidine use disorder have been met
+for at least 3 months but for less than 12 months (with the exception that
+Criterion A4, “Craving, or a strong desire or urge to use the phencyclidine,” may
+be met).
+In sustained remission: After full criteria for phencyclidine use disorder were
+previously met, none of the criteria for phencyclidine use disorder have been met
+at any time during a period of 12 months or longer (with the exception that
+Criterion A4, “Craving, or a strong desire or urge to use the phencyclidine,” may
+be met).
+Specify if:
+In a controlled environment: This additional specifier is used if the individual is
+in an environment where access to phencyclidines is restricted.
+Code based on current severity/remission: If a phencyclidine intoxication or
+another phencyclidine-induced mental disorder is also present, do not use the codes
+below for phencyclidine use disorder. Instead, the comorbid phencyclidine use
+disorder is indicated in the 4th character of the phencyclidine-induced disorder code
+(see the coding note for phencyclidine intoxication or a specific phencyclidine-
+induced mental disorder). For example, if there is comorbid phencyclidine-induced
+psychotic disorder, only the phencyclidine-induced psychotic disorder code is given,
+with the 4th character indicating whether the comorbid phencyclidine use disorder is
+mild, moderate, or severe: F16.159 for mild phencyclidine use disorder with
+phencyclidine-induced psychotic disorder or F16.259 for a moderate or severe
+phencyclidine use disorder with phencyclidine-induced psychotic disorder.

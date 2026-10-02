@@ -1,0 +1,87 @@
+F82
+Developmental coordination disorder
+F84.0
+Autism spectrum disorder
+F88
+Global developmental delay
+F88
+Other specified neurodevelopmental disorder
+F89
+Unspecified neurodevelopmental disorder
+F90.0
+Attention-deficit/hyperactivity disorder, Predominantly inattentive presentation
+F90.1
+Attention-deficit/hyperactivity disorder, Predominantly hyperactive/impulsive presentation
+F90.2
+Attention-deficit/hyperactivity disorder, Combined presentation
+F90.8
+Other specified attention-deficit/hyperactivity disorder
+F90.9
+Unspecified attention-deficit/hyperactivity disorder
+F91.1
+Conduct disorder, Childhood-onset type
+F91.2
+Conduct disorder, Adolescent-onset type
+F91.3
+Oppositional defiant disorder
+F91.8
+Other specified disruptive, impulse-control, and conduct disorder
+F91.9
+Conduct disorder, Unspecified onset
+F91.9
+Unspecified disruptive, impulse-control, and conduct disorder
+F93.0
+Separation anxiety disorder
+F94.0
+Selective mutism
+F94.1
+Reactive attachment disorder
+F94.2
+Disinhibited social engagement disorder
+F95.0
+Provisional tic disorder
+F95.1
+Persistent (chronic) motor or vocal tic disorder
+F95.2
+Tourette’s disorder
+F95.8
+Other specified tic disorder
+F95.9
+Unspecified tic disorder
+F98.0
+Enuresis
+F98.1
+Encopresis
+F98.21
+Rumination disorder
+F98.3
+Pica, in children
+977
+F98.4
+Stereotypic movement disorder
+F98.5
+Adult-onset fluency disorder
+F99
+Other specified mental disorder
+F99
+Unspecified mental disorder
+G21.0
+Neuroleptic malignant syndrome
+G21.11
+Antipsychotic medication– and other dopamine receptor blocking agent–induced parkinsonism
+G21.19
+Other medication-induced parkinsonism
+G24.01
+Tardive dyskinesia
+G24.02
+Medication-induced acute dystonia
+G24.09
+Tardive dystonia
+G25.1
+Medication-induced postural tremor
+G25.71
+Medication-induced acute akathisia
+G25.71
+Tardive akathisia
+G25.79
+Other medication-induced movement disorder

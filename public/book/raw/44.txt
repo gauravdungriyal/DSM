@@ -1,0 +1,59 @@
+___.__
+Psychotic Disorder Due to Another Medical Conditionc (131)
+Specify whether:
+F06.2
+With delusions
+F06.0
+With hallucinations
+F06.1
+Catatonia Associated With Another Mental Disorder (Catatonia Specifier) (135)
+F06.1
+Catatonic Disorder Due to Another Medical Condition (136)
+F06.1
+Unspecified Catatonia (137)
+Note: Code first R29.818 other symptoms involving nervous and musculoskeletal systems.
+F28
+Other Specified Schizophrenia Spectrum and Other Psychotic Disorder (138)
+F29
+Unspecified Schizophrenia Spectrum and Other Psychotic Disorder (138)
+Bipolar and Related Disorders (139)
+The following specifiers apply to Bipolar and Related Disorders where indicated:
+aSpecify: With anxious distress (specify current severity: mild, moderate, moderate-severe, severe); With mixed features; With
+rapid cycling; With melancholic features; With atypical features; With mood-congruent psychotic features; With mood-
+incongruent psychotic features; With catatonia (use additional code F06.1); With peripartum onset; With seasonal pattern
+bSpecify: With anxious distress (specify current severity: mild, moderate, moderate-severe, severe); With mixed features; With
+rapid cycling; With peripartum onset; With seasonal pattern
+___.__
+Bipolar I Disordera (139)
+___.__
+Current or most recent episode manic
+F31.11
+Mild
+F31.12
+Moderate
+F31.13
+Severe
+F31.2
+With psychotic features
+F31.73
+In partial remission
+F31.74
+In full remission
+F31.9
+Unspecified
+F31.0
+Current or most recent episode hypomanic
+F31.71
+In partial remission
+F31.72
+In full remission
+F31.9
+Unspecified
+___.__
+Current or most recent episode depressed
+F31.31
+Mild
+F31.32
+Moderate
+F31.4
+Severe

@@ -1,0 +1,79 @@
+F12.13
+With mild use disorder
+F12.23
+With moderate or severe use disorder
+F12.93
+Without use disorder
+F06.1
+Catatonia associated with another mental disorder (catatonia specifier)
+F06.1
+Catatonic disorder due to another medical condition
+Central sleep apnea
+G47.37
+Central sleep apnea comorbid with opioid use
+R06.3
+Cheyne-Stokes breathing
+G47.31
+Idiopathic central sleep apnea
+Z56.1
+Change of job
+Z72.810
+Child or adolescent antisocial behavior
+Z62.898
+Child affected by parental relationship distress
+F80.81
+Childhood-onset fluency disorder (stuttering)
+Child neglect, Confirmed
+T74.02XA
+Initial encounter
+T74.02XD
+Subsequent encounter
+Child neglect, Suspected
+T76.02XA
+Initial encounter
+T76.02XD
+Subsequent encounter
+Child physical abuse, Confirmed
+T74.12XA
+Initial encounter
+T74.12XD
+Subsequent encounter
+Child physical abuse, Suspected
+T76.12XA
+Initial encounter
+T76.12XD
+Subsequent encounter
+Child psychological abuse, Confirmed
+T74.32XA
+Initial encounter
+T74.32XD
+Subsequent encounter
+Child psychological abuse, Suspected
+T76.32XA
+Initial encounter
+T76.32XD
+Subsequent encounter
+Child sexual abuse, Confirmed
+T74.22XA
+Initial encounter
+T74.22XD
+Subsequent encounter
+Child sexual abuse, Suspected
+T76.22XA
+Initial encounter
+T76.22XD
+Subsequent encounter
+Circadian rhythm sleep-wake disorders
+G47.22
+Advanced sleep phase type
+G47.21
+Delayed sleep phase type
+G47.23
+Irregular sleep-wake type
+G47.24
+Non-24-hour sleep-wake type
+G47.26
+Shift work type
+G47.20
+Unspecified type
+936

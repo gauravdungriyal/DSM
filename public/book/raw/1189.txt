@@ -1,0 +1,35 @@
+Suicidal Behavior Disorder
+Proposed Criteria
+A. Within the last 24 months, the individual has made a suicide attempt.
+Note: A suicide attempt is a self-initiated sequence of behaviors by an individual
+who, at the time of initiation, expected that the set of actions would lead to his or
+her own death. (The “time of initiation” is the time when a behavior took place
+that involved applying the method.)
+B. The act does not meet criteria for nonsuicidal self-injury—that is, it does not
+involve self-injury directed to the surface of the body undertaken to induce relief
+from a negative feeling/cognitive state or to achieve a positive mood state.
+C. The diagnosis is not applied to suicidal ideation or to preparatory acts.
+D. The act was not initiated during a state of delirium or confusion.
+E. The act was not undertaken solely for a political or religious objective.
+Specify if:
+Current: Not more than 12 months since the last attempt.
+In early remission: 12–24 months since the last attempt.
+Note: ICD-10-CM codes to indicate whether suicidal behavior is part of the current
+clinical presentation (T14.91A for initial encounter and T14.91D for subsequent
+encounters) and/or whether there has been a prior history of suicidal behavior (Z91.51)
+are available for clinical use to accompany any DSM-5 diagnosis; in addition, the codes
+can be recorded in the absence of a DSM-5 diagnosis. The definition of these codes is
+included in Section II, “Other Conditions That May Be a Focus of Clinical Attention” (see
+“Suicidal Behavior”).
+Specifiers
+Suicidal behavior is often categorized in terms of violence of the method. Generally, overdoses
+with legal or illegal substances are considered nonviolent in method, whereas jumping, gunshot
+wounds, and other methods are considered violent. Another dimension for classification is
+medical consequences of the behavior, with high-lethality attempts being defined as those
+requiring medical hospitalization beyond a visit to an emergency
+921
+department. An additional dimension considered includes the degree of planning versus
+impulsiveness of the attempt, a characteristic that might have consequences for the medical
+outcome of a suicide attempt.
+If the suicidal behavior occurred 12–24 months prior to evaluation, the condition is
+considered to be in early remission.

@@ -1,0 +1,38 @@
+Coding note: The code F51.11 applies to all three specifiers. Code also the
+relevant associated mental disorder, medical condition, or other sleep disorder
+immediately after the code for hypersomnolence disorder in order to indicate the
+association.
+Specify if:
+Acute: Duration of less than 1 month.
+Subacute: Duration of 1–3 months.
+Persistent: Duration of more than 3 months.
+418
+Specify current severity:
+Specify severity based on degree of difficulty maintaining daytime alertness as
+manifested by the occurrence of multiple attacks of irresistible sleepiness within any
+given day occurring, for example, while sedentary, driving, visiting with friends, or
+working.
+Mild: Difficulty maintaining daytime alertness 1–2 days/week.
+Moderate: Difficulty maintaining daytime alertness 3–4 days/week.
+Severe: Difficulty maintaining daytime alertness 5–7 days/week.
+Recording Procedures
+The specifiers “with mental disorder, including substance use disorders”; “with medical
+condition”; and “with another sleep disorder” are available to allow the clinician to note
+clinically relevant comorbidities. In such cases, record F51.11 hypersomnolence disorder, with
+[name of comorbid condition(s) or disorder(s)] followed by the diagnostic code(s) for the
+comorbid conditions or disorders (e.g., F51.11 hypersomnolence disorder, with major depressive
+disorder; F33.1 major depressive disorder, recurrent, moderate).
+Diagnostic Features
+Hypersomnolence disorder includes symptoms of excessive quantity of sleep (e.g., extended
+nocturnal sleep or long naps), sleepiness, and sleep inertia (i.e., a period of impaired
+performance and reduced vigilance following awakening from the regular sleep episode or from
+a nap) (Criterion A). Individuals with this disorder generally fall asleep quickly and have a good
+sleep efficiency (> 90%). Individuals typically feel sleepiness developing over a period of time,
+rather than experiencing a sudden sleep “attack.” Unintentional sleep episodes typically occur in
+sedentary situations (e.g., while attending lectures, reading, watching television, or driving long
+distances), but in more severe cases they can manifest in high-attention situations such as at
+work, in meetings, or at social gatherings. The persistent need for sleep can lead to automatic
+behavior (usually of a very routine, low-complexity type) that the individual carries out with
+little or no subsequent recall. For example, individuals may find themselves having driven
+several miles from where they thought they were, unaware of the “automatic” driving they did in
+the preceding minutes.

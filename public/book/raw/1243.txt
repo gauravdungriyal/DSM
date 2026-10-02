@@ -1,0 +1,85 @@
+F44.4
+Functional neurological symptom disorder (conversion disorder), With abnormal movement
+F44.4
+Functional neurological symptom disorder (conversion disorder), With speech symptom
+F44.4
+Functional neurological symptom disorder (conversion disorder), With swallowing symptoms
+F44.4
+Functional neurological symptom disorder (conversion disorder), With weakness/paralysis
+F44.5
+Functional neurological symptom disorder (conversion disorder), With attacks or seizures
+F44.6
+Functional neurological symptom disorder (conversion disorder), With anesthesia or sensory loss
+F44.6
+Functional neurological symptom disorder (conversion disorder), With special sensory symptom
+F44.7
+Functional neurological symptom disorder (conversion disorder), With mixed symptoms
+F44.81
+Dissociative identity disorder
+F44.89
+Other specified dissociative disorder
+F44.9
+Unspecified dissociative disorder
+F45.1
+Somatic symptom disorder
+F45.21
+Illness anxiety disorder
+F45.22
+Body dysmorphic disorder
+F45.8
+Other specified somatic symptom and related disorder
+F45.9
+Unspecified somatic symptom and related disorder
+F48.1
+Depersonalization/derealization disorder
+F50.01
+Anorexia nervosa, Restricting type
+F50.02
+Anorexia nervosa, Binge-eating/purging type
+F50.2
+Bulimia nervosa
+F50.81
+Binge-eating disorder
+F50.82
+Avoidant/restrictive food intake disorder
+F50.89
+Other specified feeding or eating disorder
+F50.89
+Pica, in adults
+F50.9
+Unspecified feeding or eating disorder
+F51.01
+Insomnia disorder
+F51.11
+Hypersomnolence disorder
+975
+F51.3
+Non–rapid eye movement sleep arousal disorders, Sleepwalking type
+F51.4
+Non–rapid eye movement sleep arousal disorders, Sleep terror type
+F51.5
+Nightmare disorder
+F52.0
+Male hypoactive sexual desire disorder
+F52.21
+Erectile disorder
+F52.22
+Female sexual interest/arousal disorder
+F52.31
+Female orgasmic disorder
+F52.32
+Delayed ejaculation
+F52.4
+Premature (early) ejaculation
+F52.6
+Genito-pelvic pain/penetration disorder
+F52.8
+Other specified sexual dysfunction
+F52.9
+Unspecified sexual dysfunction
+F54
+Psychological factors affecting other medical conditions
+F60.0
+Paranoid personality disorder
+F60.1
+Schizoid personality disorder

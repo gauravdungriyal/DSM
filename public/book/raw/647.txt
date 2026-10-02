@@ -1,0 +1,37 @@
+A. Repeated occurrences of extended, extremely dysphoric, and well-remembered
+dreams that usually involve efforts to avoid threats to survival, security, or
+physical integrity and that generally occur during the second half of the major
+sleep episode.
+B. On awakening from the dysphoric dreams, the individual rapidly becomes
+oriented and alert.
+C. The sleep disturbance causes clinically significant distress or impairment in
+social, occupational, or other important areas of functioning.
+D. The nightmare symptoms are not attributable to the physiological effects of a
+substance (e.g., a drug of abuse, a medication).
+E. Coexisting mental disorders and medical conditions do not adequately explain
+the predominant complaint of dysphoric dreams.
+Specify if:
+During sleep onset
+Specify if:
+With mental disorder, including substance use disorders
+With medical condition
+With another sleep disorder
+Coding note: The code F51.5 applies to all three specifiers. Code also the
+relevant associated mental disorder, medical condition, or other sleep disorder
+immediately after the code for nightmare disorder in order to indicate the
+association.
+Specify if:
+Acute: Duration of period of nightmares is 1 month or less.
+Subacute: Duration of period of nightmares is greater than 1 month but less
+than 6 months.
+Persistent: Duration of period of nightmares is 6 months or greater.
+Specify current severity:
+Severity can be rated by the frequency with which the nightmares occur:
+Mild: Less than one episode per week on average.
+Moderate: One or more episodes per week but less than nightly.
+Severe: Episodes nightly.
+458
+Recording Procedures
+The specifiers “with mental disorder, including substance use disorders”; “with medical
+condition”; and “with another sleep disorder” are available to allow the clinician to note
+clinically relevant comorbidities. In such cases, record F51.5 nightmare disorder with [name of

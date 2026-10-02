@@ -1,0 +1,38 @@
+D. If the eating behavior occurs in the context of another mental disorder (e.g.,
+intellectual developmental disorder [intellectual disability], autism spectrum
+disorder, schizophrenia) or medical condition (including pregnancy), it is
+sufficiently severe to warrant additional clinical attention.
+372
+Coding note: The ICD-10-CM codes for pica are F98.3 in children and F50.89 in
+adults.
+Specify if:
+In remission: After full criteria for pica were previously met, the criteria have not
+been met for a sustained period of time.
+Diagnostic Features
+The essential feature of pica is the eating of one or more nonnutritive, nonfood substances on a
+persistent basis over a period of at least 1 month (Criterion A) that is severe enough to warrant
+clinical attention. Typical substances ingested tend to vary with age and availability and might
+include paper, soap, cloth, hair, string, wool, soil, chalk, talcum powder, paint, gum, metal,
+pebbles, charcoal or coal, ash, clay, starch, or ice. The term nonfood is included because the
+diagnosis of pica does not apply to ingestion of diet products that have minimal nutritional
+content. There is typically no aversion to food in general. The eating of nonnutritive, nonfood
+substances must be developmentally inappropriate (Criterion B) and not part of a culturally
+supported or socially normative practice (Criterion C). A minimum age of 2 years is suggested
+for a pica diagnosis to exclude developmentally normal mouthing of objects by infants that
+results in ingestion. The eating of nonnutritive, nonfood substances can be an associated feature
+of other mental disorders (e.g., intellectual developmental disorder [intellectual disability],
+autism spectrum disorder, schizophrenia). If the eating behavior occurs exclusively in the context
+of another mental disorder, a separate diagnosis of pica should be made only if the eating
+behavior is sufficiently severe to warrant additional clinical attention (Criterion D).
+Associated Features
+Although deficiencies in vitamins or minerals (e.g., zinc, iron) have been reported, often no
+specific biological abnormalities are found. In some cases, pica comes to clinical attention only
+following general medical complications (e.g., mechanical bowel problems; intestinal
+obstruction, such as that resulting from a bezoar; intestinal perforation; infections such as
+toxoplasmosis and toxocariasis as a result of ingesting feces or dirt; poisoning, such as by
+ingestion of lead-based paint).
+Prevalence
+Limited data suggest that the prevalence of pica is approximately 5% among school-age children.
+Roughly one-third of pregnant women, especially those with food insecurity (i.e., without
+reliable access to affordable and nutritious food), engage in pica. Conditions associated with pica
+include lack of available food and vitamin deficiency.
